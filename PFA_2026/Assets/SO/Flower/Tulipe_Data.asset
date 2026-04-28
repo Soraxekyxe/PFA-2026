@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b1c01f42d9ab8243b076192eacb0aeb, type: 3}
+  m_Name: Tulipe_Data
+  m_EditorClassIdentifier: Assembly-CSharp::FlowerDataSO
+  flowerId: Tulipe
+  flowerName: Tulipe
+  stateVisuals:
+  - state: 0
+    sprite: {fileID: 6041323109971217681, guid: 98116f3e93432a04ca1bcd10a4fb67ad, type: 3}
+  - state: 1
+    sprite: {fileID: -592084771932588111, guid: 2b672ec1cad64b64c9c274fa0d198108, type: 3}
+  - state: 2
+    sprite: {fileID: 4744384826891572306, guid: afa6e82be47f8c9478f5d4f158514ea5, type: 3}
+  - state: 3
+    sprite: {fileID: -2802858419996237882, guid: 08778a888d8db4e42b5112073e74d7e9, type: 3}
+  - state: 4
+    sprite: {fileID: -9129888637710165294, guid: 0924f0b477eb39144847a416afec4d66, type: 3}
+  - state: 5
+    sprite: {fileID: 1298265983320342435, guid: 0afd67f160c2eb9409205bc392af1cd5, type: 3}
+  - state: 6
+    sprite: {fileID: 5019970745670215707, guid: a449b8c36d170a44ca196500b974014c, type: 3}
+  - state: 7
+    sprite: {fileID: -7869003543780421158, guid: 447d2de8d98490f40b5e33af5772af13, type: 3}
+  - state: 8
+    sprite: {fileID: -975352104485045991, guid: 6bdf09da4b3aab3459dddd135b66182b, type: 3}
+  - state: 9
+    sprite: {fileID: -8606715413541744997, guid: a219948d1909753408f3931ee300feba, type: 3}
+  - state: 10
+    sprite: {fileID: -975352104485045991, guid: 6bdf09da4b3aab3459dddd135b66182b, type: 3}
+  - state: 11
+    sprite: {fileID: 7653013314114205579, guid: eb08be19f29316444ae4508f6e82b759, type: 3}
+  - state: 12
+    sprite: {fileID: 8380858389932175383, guid: aa9aa53ebfac9984583b019840423ffd, type: 3}
+  - state: 13
+    sprite: {fileID: -6325030397911662614, guid: 964211905ce34b24eab44fea8fb87b21, type: 3}
+  - state: 14
+    sprite: {fileID: -8929817100853470447, guid: 4ac4d549c4b9275478d6375265c5e18b, type: 3}

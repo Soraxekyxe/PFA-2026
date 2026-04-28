@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35c3889f7e34e924d933a66e703faacd, type: 3}
+  m_Name: HarrasmentState
+  m_EditorClassIdentifier: Assembly-CSharp::HarrasmentState
+  trampledSoil: {fileID: 4489310299143460503, guid: 564b654f16d42974d97276dc1dd84f55, type: 3}
+  missingFertilizer: {fileID: 6055794371952361480, guid: 31bbb479e6960b74e964e562e5b6dea3, type: 3}
+  seedEat: {fileID: -8359199721502090569, guid: cce187c7e55563b49bec84a82fae1e9d, type: 3}
+  drinkWater: {fileID: -4696404083913088296, guid: 32579b528bf832e498e5aad9995cae1e, type: 3}
+  feather: {fileID: -1167010695726895525, guid: 335059e418d0e7e4ba90de8c3e3a314f, type: 3}
+  shadow: {fileID: 7248959020619134873, guid: 5575164384b2afe4cbffdbed4d62d47c, type: 3}
+  flowerEat: {fileID: 1236949091615895462, guid: 7ba9cd6d49315904682d852215d3b531, type: 3}
+  flattenedSoil: {fileID: 6041323109971217681, guid: 98116f3e93432a04ca1bcd10a4fb67ad, type: 3}
+  fertilizer: {fileID: -2802858419996237882, guid: 08778a888d8db4e42b5112073e74d7e9, type: 3}
+  wellPreparedSoil: {fileID: 1298265983320342435, guid: 0afd67f160c2eb9409205bc392af1cd5, type: 3}
+  flowerShoot: {fileID: -7869003543780421158, guid: 447d2de8d98490f40b5e33af5772af13, type: 3}
+  deadLeaf: {fileID: -8606715413541744997, guid: a219948d1909753408f3931ee300feba, type: 3}
+  bud: {fileID: 7653013314114205579, guid: eb08be19f29316444ae4508f6e82b759, type: 3}
+  flower: {fileID: 8380858389932175383, guid: aa9aa53ebfac9984583b019840423ffd, type: 3}
+  FlowerGrow: 1
+  currentState: 1
+  currentFlowerHeatlyState: 0

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 120d518922f46f84686e4110b1fa73e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5052375189964695665
+    second: PFA26_barriere_bamboo_v2_test_0
+  - first:
+      213: 710378336001219780
+    second: PFA26_barriere_bamboo_v2_test_1
+  - first:
+      213: 1104485150321025506
+    second: PFA26_barriere_bamboo_v2_test_2
+  - first:
+      213: 1882294360557800788
+    second: PFA26_barriere_bamboo_v2_test_3
+  - first:
+      213: -2456851442870400258
+    second: PFA26_barriere_bamboo_v2_test_4
+  - first:
+      213: 3069697671330077386
+    second: PFA26_barriere_bamboo_v2_test_5
+  - first:
+      213: -7062131120304965960
+    second: PFA26_barriere_bamboo_v2_test_6
+  - first:
+      213: -1659577513579045165
+    second: PFA26_barriere_bamboo_v2_test_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 444
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a7d57774ad1640800000000000000
+      internalID: 5052375189964695665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 443
+        width: 81
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc5c753555cbd900800000000000000
+      internalID: 710378336001219780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 443
+        width: 78
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e12494746be35f00800000000000000
+      internalID: 1104485150321025506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc4c38fb04f1a10800000000000000
+      internalID: 1882294360557800788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 443
+        width: 48
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efacdc131a287edd0800000000000000
+      internalID: -2456851442870400258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 443
+        width: 58
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca1973a4c1c99a20800000000000000
+      internalID: 3069697671330077386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 443
+        width: 82
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6bdf0b9254efd90800000000000000
+      internalID: -7062131120304965960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_barriere_bamboo_v2_test_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 441
+        width: 139
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de15e15b0ff7f8e0800000000000000
+      internalID: -1659577513579045165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PFA26_barriere_bamboo_v2_test_0: 5052375189964695665
+      PFA26_barriere_bamboo_v2_test_1: 710378336001219780
+      PFA26_barriere_bamboo_v2_test_2: 1104485150321025506
+      PFA26_barriere_bamboo_v2_test_3: 1882294360557800788
+      PFA26_barriere_bamboo_v2_test_4: -2456851442870400258
+      PFA26_barriere_bamboo_v2_test_5: 3069697671330077386
+      PFA26_barriere_bamboo_v2_test_6: -7062131120304965960
+      PFA26_barriere_bamboo_v2_test_7: -1659577513579045165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
