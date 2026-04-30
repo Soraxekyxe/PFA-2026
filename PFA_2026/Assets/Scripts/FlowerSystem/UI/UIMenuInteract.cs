@@ -33,18 +33,16 @@ public class UIMenuInteract : MonoBehaviour
     public GameObject buttonRemoveDeadLeaves;
     public GameObject buttonReflectivePanel;
     public GameObject buttonLadybug;
-    
+
     [Header("Prochaine action")]
     public GameObject panelNextAction;
     public TextMeshProUGUI textNextAction;
-    
+
     [Header("Tableau actions")]
     public RectTransform tableauActions;
     public Vector2 positionTableauVisible;
     public Vector2 positionTableauCachee;
     public float dureeAnimationTableau = 0.5f;
-
-    private bool animationTableauEnCours = false;
 
     void Start()
     {
@@ -54,20 +52,9 @@ public class UIMenuInteract : MonoBehaviour
 
         if (panelNextAction != null)
             panelNextAction.SetActive(false);
+
         if (tableauActions != null)
             positionTableauVisible = tableauActions.anchoredPosition;
-    }
-    
-    public void ShowBoardAtStartOfDay()
-    {
-        if (tableauActions == null)
-            return;
-
-        StopAllCoroutines();
-
-        StartCoroutine(MoveTableau(positionTableauVisible));
-
-        ShowActionsForCurrentFlower();
     }
 
     public void ActionPointPerPlayer()
@@ -82,65 +69,37 @@ public class UIMenuInteract : MonoBehaviour
 
         UpdateActionPoint();
     }
-    
-    void AfficherProchaineAction(FlowerActionType actionType)
+
+    public void UpdateActionPoint()
     {
-        if (panelNextAction == null || textNextAction == null)
+        actionPoint = maxActionPoint;
+        action.text = actionPoint.ToString();
+    }
+
+    public void UiUpdate()
+    {
+        action.text = actionPoint.ToString();
+    }
+
+    public void ShowBoardAtStartOfDay()
+    {
+        if (tableauActions == null)
             return;
 
-        panelNextAction.SetActive(true);
-        textNextAction.text = "Prochaine action : " + GetActionName(actionType);
+        StopAllCoroutines();
+        tableauActions.anchoredPosition = positionTableauVisible;
+
+        ShowActionsForCurrentFlower();
     }
 
-    string GetActionName(FlowerActionType actionType)
-    {
-        switch (actionType)
-        {
-            case FlowerActionType.TillSoil:
-                return "Retourner la terre";
-
-            case FlowerActionType.Rake:
-                return "Ratisser";
-
-            case FlowerActionType.Dig:
-                return "Creuser";
-
-            case FlowerActionType.AddFertilizer:
-                return "Ajouter de l'engrais";
-
-            case FlowerActionType.PlantSeed:
-                return "Planter la graine";
-
-            case FlowerActionType.CoverSoil:
-                return "Recouvrir la terre";
-
-            case FlowerActionType.Water:
-                return "Arroser";
-
-            case FlowerActionType.RemoveDeadLeaves:
-                return "Enlever les feuilles mortes";
-
-            case FlowerActionType.AddReflectivePanel:
-                return "Ajouter un panneau réfléchissant";
-
-            case FlowerActionType.AddLadybug:
-                return "Ajouter une coccinelle";
-
-            default:
-                return "Aucune";
-        }
-    }
-    
     public void RefreshActionBoardAfterAction()
     {
-        if (!animationTableauEnCours)
-            StartCoroutine(AnimationTableauApresAction());
+        StopAllCoroutines();
+        StartCoroutine(AnimationTableauApresAction());
     }
 
     IEnumerator AnimationTableauApresAction()
     {
-        animationTableauEnCours = true;
-
         yield return MoveTableau(positionTableauCachee);
 
         ShowActionsForCurrentFlower();
@@ -151,11 +110,21 @@ public class UIMenuInteract : MonoBehaviour
         {
             yield return MoveTableau(positionTableauVisible);
         }
-
-        animationTableauEnCours = false;
     }
 
-    IEnumerator MoveTableau(Vector2 targetPosition)
+    public IEnumerator AnimateBoardForNewPlayer()
+    {
+        ShowActionsForCurrentFlower();
+
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower != null && currentFlower.HasActionAvailable(turnManager.jourActuel))
+        {
+            yield return MoveTableau(positionTableauVisible);
+        }
+    }
+
+    public IEnumerator MoveTableau(Vector2 targetPosition)
     {
         if (tableauActions == null)
             yield break;
@@ -176,17 +145,6 @@ public class UIMenuInteract : MonoBehaviour
         }
 
         tableauActions.anchoredPosition = targetPosition;
-    }
-
-    public void UpdateActionPoint()
-    {
-        actionPoint = maxActionPoint;
-        action.text = actionPoint.ToString();
-    }
-
-    public void UiUpdate()
-    {
-        action.text = actionPoint.ToString();
     }
 
     void HideAllActionPanels()
@@ -213,93 +171,131 @@ public class UIMenuInteract : MonoBehaviour
         buttonReflectivePanel.SetActive(false);
         buttonLadybug.SetActive(false);
     }
-    
+
     public void ShowActionsForCurrentFlower()
-{
-    HideAllActionPanels();
-    HideAllButtons();
-
-    if (panelNextAction != null)
-        panelNextAction.SetActive(false);
-
-    if (turnManager == null)
-        return;
-
-    Flower currentFlower = turnManager.GetCurrentFlower();
-
-    if (currentFlower == null)
-        return;
-
-    if (currentFlower.IsFinished())
-        return;
-
-    if (!currentFlower.HasActionAvailable(turnManager.jourActuel))
-        return;
-
-    FlowerActionType currentAction = currentFlower.GetNextRequiredAction();
-    int requiredDay = currentFlower.GetNextRequiredDay();
-
-    FlowerActionType nextAction;
-    if (currentFlower.TryGetNextActionAfterCurrent(out nextAction))
     {
-        AfficherProchaineAction(nextAction);
-    }
+        HideAllActionPanels();
+        HideAllButtons();
 
-    switch (currentAction)
-    {
-        case FlowerActionType.TillSoil:
-            ActionDays1.SetActive(true);
-            buttonTillSoil.SetActive(true);
-            break;
+        if (panelNextAction != null)
+            panelNextAction.SetActive(false);
 
-        case FlowerActionType.Rake:
-            ActionDays1.SetActive(true);
-            buttonRake.SetActive(true);
-            break;
+        if (turnManager == null)
+            return;
 
-        case FlowerActionType.Dig:
-            ActionDays1.SetActive(true);
-            buttonDig.SetActive(true);
-            break;
+        Flower currentFlower = turnManager.GetCurrentFlower();
 
-        case FlowerActionType.AddFertilizer:
-            ActionDays2.SetActive(true);
-            buttonFertilizer.SetActive(true);
-            break;
+        if (currentFlower == null)
+            return;
 
-        case FlowerActionType.PlantSeed:
-            ActionDays3.SetActive(true);
-            buttonPlantSeed.SetActive(true);
-            break;
+        if (currentFlower.IsFinished())
+            return;
 
-        case FlowerActionType.CoverSoil:
-            ActionDays3.SetActive(true);
-            buttonCoverSoil.SetActive(true);
-            break;
+        if (!currentFlower.HasActionAvailable(turnManager.jourActuel))
+            return;
 
-        case FlowerActionType.Water:
-            if (requiredDay == 4)
-                ActionDays4.SetActive(true);
-            else
+        FlowerActionType currentAction = currentFlower.GetNextRequiredAction();
+        int requiredDay = currentFlower.GetNextRequiredDay();
+
+        FlowerActionType nextAction;
+        if (currentFlower.TryGetNextActionAfterCurrent(out nextAction))
+        {
+            AfficherProchaineAction(nextAction);
+        }
+
+        switch (currentAction)
+        {
+            case FlowerActionType.TillSoil:
+                ActionDays1.SetActive(true);
+                buttonTillSoil.SetActive(true);
+                break;
+
+            case FlowerActionType.Rake:
+                ActionDays1.SetActive(true);
+                buttonRake.SetActive(true);
+                break;
+
+            case FlowerActionType.Dig:
+                ActionDays1.SetActive(true);
+                buttonDig.SetActive(true);
+                break;
+
+            case FlowerActionType.AddFertilizer:
+                ActionDays2.SetActive(true);
+                buttonFertilizer.SetActive(true);
+                break;
+
+            case FlowerActionType.PlantSeed:
+                ActionDays3.SetActive(true);
+                buttonPlantSeed.SetActive(true);
+                break;
+
+            case FlowerActionType.CoverSoil:
+                ActionDays3.SetActive(true);
+                buttonCoverSoil.SetActive(true);
+                break;
+
+            case FlowerActionType.Water:
+                if (requiredDay == 4)
+                    ActionDays4.SetActive(true);
+                else
+                    ActionDays5.SetActive(true);
+
+                buttonWater.SetActive(true);
+                break;
+
+            case FlowerActionType.RemoveDeadLeaves:
                 ActionDays5.SetActive(true);
+                buttonRemoveDeadLeaves.SetActive(true);
+                break;
 
-            buttonWater.SetActive(true);
-            break;
+            case FlowerActionType.AddReflectivePanel:
+                ActionDays6.SetActive(true);
+                buttonReflectivePanel.SetActive(true);
+                break;
 
-        case FlowerActionType.RemoveDeadLeaves:
-            ActionDays5.SetActive(true);
-            buttonRemoveDeadLeaves.SetActive(true);
-            break;
-
-        case FlowerActionType.AddReflectivePanel:
-            ActionDays6.SetActive(true);
-            buttonReflectivePanel.SetActive(true);
-            break;
-
-        case FlowerActionType.AddLadybug:
-            ActionDays7.SetActive(true);
-            buttonLadybug.SetActive(true);
-            break;
+            case FlowerActionType.AddLadybug:
+                ActionDays7.SetActive(true);
+                buttonLadybug.SetActive(true);
+                break;
+        }
     }
-}
+
+    void AfficherProchaineAction(FlowerActionType actionType)
+    {
+        if (panelNextAction == null || textNextAction == null)
+            return;
+
+        panelNextAction.SetActive(true);
+        textNextAction.text = "Prochaine action : " + GetActionName(actionType);
+    }
+
+    string GetActionName(FlowerActionType actionType)
+    {
+        switch (actionType)
+        {
+            case FlowerActionType.TillSoil:
+                return "Retourner la terre";
+            case FlowerActionType.Rake:
+                return "Ratisser";
+            case FlowerActionType.Dig:
+                return "Creuser";
+            case FlowerActionType.AddFertilizer:
+                return "Ajouter de l'engrais";
+            case FlowerActionType.PlantSeed:
+                return "Planter la graine";
+            case FlowerActionType.CoverSoil:
+                return "Recouvrir la terre";
+            case FlowerActionType.Water:
+                return "Arroser";
+            case FlowerActionType.RemoveDeadLeaves:
+                return "Enlever les feuilles mortes";
+            case FlowerActionType.AddReflectivePanel:
+                return "Ajouter un panneau réfléchissant";
+            case FlowerActionType.AddLadybug:
+                return "Ajouter une coccinelle";
+            default:
+                return "Aucune";
+        }
+    }
 }

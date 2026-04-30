@@ -11,9 +11,12 @@ public class TurnManager : MonoBehaviour
     public TextMeshProUGUI textTour;
     public GameObject popupJourSuivant;
     public TextMeshProUGUI textPopup;
-    
+
     [Header("Nom de la scène du jeu")]
     public string nomSceneFin = "Fin";
+
+    [Header("Transition")]
+    public SimpleScreenFade screenFade;
 
     [Header("Slots")]
     public FlowerSlotUI[] flowerSlots;
@@ -28,7 +31,7 @@ public class TurnManager : MonoBehaviour
     public float rotationDuration = 2f;
 
     [Header("Capture fin de jeu")]
-    public Camera captureCamera; // facultatif, sinon Camera.main
+    public Camera captureCamera;
     public Vector2Int captureSize = new Vector2Int(1920, 1080);
     public List<GameObject> objetsAMasquerPourCapture = new List<GameObject>();
 
@@ -75,11 +78,8 @@ public class TurnManager : MonoBehaviour
         AdvanceFlowersForNewDay();
 
         if (uiMenuInteract != null)
-        {
             uiMenuInteract.UpdateActionPoint();
-        }
 
-        // C'est mon script harrasment manager
         if (harrasementManager != null)
         {
             harrasementManager.GrowingFlower();
@@ -91,13 +91,11 @@ public class TurnManager : MonoBehaviour
             StartCoroutine(CaptureEtChargerSceneFin());
             return;
         }
-        
-        if (uiMenuInteract != null)
-        {
-            uiMenuInteract.ShowBoardAtStartOfDay();
-        }
 
         UpdateCurrentTour();
+
+        if (uiMenuInteract != null)
+            uiMenuInteract.ShowBoardAtStartOfDay();
     }
 
     void AdvanceFlowersForNewDay()
@@ -116,9 +114,7 @@ public class TurnManager : MonoBehaviour
         List<int> ordre = new List<int>();
 
         for (int i = 0; i < count; i++)
-        {
             ordre.Add(i);
-        }
 
         for (int i = 0; i < ordre.Count; i++)
         {
@@ -137,9 +133,7 @@ public class TurnManager : MonoBehaviour
         for (int i = 0; i < flowerSlots.Length; i++)
         {
             if (i < nombreJoueurs)
-            {
                 flowerSlots[i].SetHighlight(false);
-            }
         }
 
         int joueurIndex = ordreDuJour[indexTourDansLeJour];
@@ -147,27 +141,31 @@ public class TurnManager : MonoBehaviour
 
         textTour.text = "Tour du joueur " + (joueurIndex + 1) + " : " + nomFleur;
         flowerSlots[joueurIndex].SetHighlight(true);
-
-        if (uiMenuInteract != null)
-        {
-            uiMenuInteract.ShowActionsForCurrentFlower();
-        }
     }
 
     public void NextTurn()
     {
+        StartCoroutine(NextTurnRoutine());
+    }
+
+    IEnumerator NextTurnRoutine()
+    {
+        if (uiMenuInteract != null)
+            yield return StartCoroutine(uiMenuInteract.MoveTableau(uiMenuInteract.positionTableauCachee));
+
         indexTourDansLeJour++;
 
         if (indexTourDansLeJour >= ordreDuJour.Count)
         {
             EndDay();
+            yield break;
         }
-        else
-        {
-            UpdateCurrentTour();
-        }
+
+        UpdateCurrentTour();
+
+        if (uiMenuInteract != null)
+            yield return StartCoroutine(uiMenuInteract.AnimateBoardForNewPlayer());
     }
-    
 
     public Flower GetCurrentFlower()
     {
@@ -181,15 +179,13 @@ public class TurnManager : MonoBehaviour
 
         return flowerSlots[joueurIndex].flower;
     }
-    
+
     void EndDay()
     {
         for (int i = 0; i < flowerSlots.Length; i++)
         {
             if (i < nombreJoueurs)
-            {
                 flowerSlots[i].SetHighlight(false);
-            }
         }
 
         popupJourSuivant.SetActive(true);
@@ -202,6 +198,12 @@ public class TurnManager : MonoBehaviour
     IEnumerator PasserAuJourSuivantApresDelai()
     {
         yield return new WaitForSeconds(1f);
+
+        if (screenFade != null)
+        {
+            screenFade.TriggerFade();
+            yield return new WaitForSeconds(1f);
+        }
 
         StartNextDay();
     }
@@ -237,6 +239,7 @@ public class TurnManager : MonoBehaviour
 
         skyCanvas.eulerAngles = new Vector3(0f, 0f, endZ);
     }
+
     IEnumerator CaptureEtChargerSceneFin()
     {
         finEnCours = true;
@@ -263,21 +266,16 @@ public class TurnManager : MonoBehaviour
         }
         else
         {
-            // On recrée une texture opaque pour éviter tout problème d'alpha
             Texture2D opaqueTexture = new Texture2D(captured.width, captured.height, TextureFormat.RGB24, false);
 
             Color[] pixels = captured.GetPixels();
             for (int i = 0; i < pixels.Length; i++)
-            {
                 pixels[i].a = 1f;
-            }
 
             opaqueTexture.SetPixels(pixels);
             opaqueTexture.Apply();
 
             EndGameScreenshotStore.screenshot = opaqueTexture;
-
-            Debug.Log("Capture opaque stockée : " + opaqueTexture.width + "x" + opaqueTexture.height);
 
             Destroy(captured);
         }
