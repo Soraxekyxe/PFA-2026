@@ -1,3 +1,4 @@
+using Ami.BroAudio;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -15,10 +16,14 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     [SerializeField] HarassementState harrassmentState;
     bool IsHealth = false;
     
-    // Audio pour les effet
+    // Animation des effets
+    [Header("Animation")]
+    [SerializeField] Animator healthAnimator;
+    
+    // Audio pour les effets
     [Header("Audio")]
     [SerializeField] AudioSource audioSource;
-    [SerializeField] AudioClip clip;
+    [SerializeField] SoundID health;
     
     // Couleur de la surbrillance
     [Header("Surbrillance")]
@@ -86,8 +91,7 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         // Désactive l'UI du soin 
         UIHealth.SetActive(false);
         // Joue l'audio
-        audioSource.clip = clip;
-        audioSource.Play();
+        BroAudio.Play(health);
     }
 
     // Montre les ui pour soigner la fleur
