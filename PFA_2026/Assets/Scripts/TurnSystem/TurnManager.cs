@@ -70,7 +70,7 @@ public class TurnManager : MonoBehaviour
 
     void StartDay()
     {
-        textJour.text = " " + jourActuel;
+        textJour.text = "Jour " + jourActuel + "/7";
 
         ordreDuJour = CreerOrdreAleatoire(nombreJoueurs);
         indexTourDansLeJour = 0;
