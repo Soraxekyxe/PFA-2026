@@ -2,6 +2,8 @@ using System.Collections;
 using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
+using Ami.BroAudio;
+using Ami.BroAudio.Runtime;
 using UnityEngine.SceneManagement;
 
 public class TurnManager : MonoBehaviour
@@ -11,7 +13,7 @@ public class TurnManager : MonoBehaviour
     public TextMeshProUGUI textTour;
     public GameObject popupJourSuivant;
     public TextMeshProUGUI textPopup;
-
+    
     [Header("Nom de la scène du jeu")]
     public string nomSceneFin = "Fin";
 
@@ -24,6 +26,7 @@ public class TurnManager : MonoBehaviour
     [Header("System")]
     public HarassmentManager harrasementManager;
     public UIMenuInteract uiMenuInteract;
+    [SerializeField] SoundManager soundManager;
 
     [Header("Sky")]
     public Transform skyCanvas;
@@ -145,6 +148,8 @@ public class TurnManager : MonoBehaviour
 
     public void NextTurn()
     {
+        soundManager.UISoundPlay();
+        
         StartCoroutine(NextTurnRoutine());
     }
 

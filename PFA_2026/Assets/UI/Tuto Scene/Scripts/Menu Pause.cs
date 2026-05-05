@@ -5,6 +5,9 @@ public class PauseMenu : MonoBehaviour
 {
     public GameObject pauseMenuUI;
     public GameObject confirmMenuUI;
+    
+    [Header("System")]
+    [SerializeField] SoundManager soundManager;
 
     private bool isPaused = false;
 
@@ -32,6 +35,9 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
+        //Joue le son
+        soundManager.UISoundPlay();
+        
         pauseMenuUI.SetActive(false);
         confirmMenuUI.SetActive(false);
         Time.timeScale = 1f;
@@ -54,6 +60,9 @@ public class PauseMenu : MonoBehaviour
 
     public void AskMainMenu()
     {
+        // Joue le son
+        soundManager.UISoundPlay();
+        
         actionToConfirm = ActionType.MainMenu;
         confirmMenuUI.SetActive(true);
     }
@@ -62,6 +71,9 @@ public class PauseMenu : MonoBehaviour
     {
         Time.timeScale = 1f;
 
+        // Joue le son
+        soundManager.UISoundPlay();
+        
         if (actionToConfirm == ActionType.Quit)
         {
             Application.Quit();
@@ -75,6 +87,9 @@ public class PauseMenu : MonoBehaviour
 
     public void ConfirmNo()
     {
+        // Joue le son
+        soundManager.UISoundPlay();
+        
         CloseConfirmMenu();
     }
 

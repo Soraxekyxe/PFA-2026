@@ -6,9 +6,7 @@ public class MenuInteract : MonoBehaviour
     [Header ("System")]
     public UIMenuInteract menuInteract;
     public TurnManager turnManager;
-
-    [Header("Audio")] 
-    [SerializeField] SoundID UIsound;
+    [SerializeField] SoundManager soundManager;
 
     void TryDoAction(FlowerActionType actionType)
     {
@@ -48,7 +46,7 @@ public class MenuInteract : MonoBehaviour
 
     public void PlaySound()
     {
-        BroAudio.Play(UIsound);
+        soundManager.UISoundPlay();
     }
 
     // ----------- Jour 1 -----------
