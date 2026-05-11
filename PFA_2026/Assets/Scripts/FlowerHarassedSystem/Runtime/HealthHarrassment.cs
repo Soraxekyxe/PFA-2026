@@ -8,7 +8,7 @@ public class HealthHarrassment : MonoBehaviour
     [SerializeField]CosmeticPointsManager cosmeticPointsManager;
     [SerializeField]UIMenuInteract menuInteract;
     
-    
+    // ----------- Ancien system ----------- //
     public void Health()
     {
         Debug.Log("✅ Bouton cliqué : Health() appelée");
@@ -28,4 +28,29 @@ public class HealthHarrassment : MonoBehaviour
             harrassmentManager.HeatlHarrasemen();
         }
     }
+    // ----------- Nouveau System ----------- //
+
+    // ----------- Jour 1 ----------- //
+    public void RakeTheSoil()
+    {
+        
+    }
+
+    public void DigTheSoil()
+    {
+        
+    }
+    
+    // ----------- Jour 2 ----------- //
+    public void AddFertilizer()
+    {
+        
+    }
+    
+    // ----------- Jour 3 ----------- //
+    public void AddingSeeds()
+    {
+        
+    }
+    
 }

@@ -4,15 +4,32 @@ using UnityEngine.UI;
 [CreateAssetMenu(fileName = "HarassementState", menuName = "Scriptable Objects/HarassementState")]
 public class HarassementState : ScriptableObject
 {
-    [Header("Sprite Harassment")] public Sprite trampledSoil;
+    [Header("Sprite Harassment")] 
+    public Sprite trampledSoil;
     public Sprite missingFertilizer;
     public Sprite seedEat;
     public Sprite drinkWater;
     public Sprite feather;
     public Sprite shadow;
     public Sprite flowerEat;
+
+    [Header("Sprite Healthy")] 
+    public Sprite rakeSoil;
+    public Sprite digSoil;
+    public Sprite addFertilizer;
+    public Sprite addSeed;
+    public Sprite coverSoil;
+    public Sprite water;
+    public Sprite removeFeather;
+    public Sprite removeDeadLeaf;
+    public Sprite sweeping;
+    public Sprite reflectivePanel;
+    public Sprite removeEatLeaf;
+    public Sprite magicPowder;
+    public Sprite ladyBug;
     
-    [Header("Sprite Healthy")] public Sprite flattenedSoil;
+    
+    public Sprite flattenedSoil;
     public Sprite fertilizer;
     public Sprite wellPreparedSoil;
     public Sprite flowerShoot;
@@ -78,6 +95,20 @@ public class HarassementState : ScriptableObject
     // Liste des Etats
     public enum FlowerHeatlyState
     {
+        RakeSoil,
+        DigSoil,
+        AddFertilizer,
+        AddSeed,
+        CoverSoil,
+        Water,
+        RemoveFeather,
+        RemoveDeadLeaf,
+        Sweeping,
+        ReflectivePanel,
+        RemoveEatLeaf,
+        MagicPowder,
+        LadyBug,
+        
         FlattenedSoil,
         Fertilizer,
         WellPreparedSoil,
@@ -92,6 +123,20 @@ public class HarassementState : ScriptableObject
     {
         return new[]
         {
+            rakeSoil,
+            digSoil,
+            addFertilizer,
+            addSeed,
+            coverSoil,
+            water,
+            removeFeather,
+            removeDeadLeaf,
+            sweeping,
+            reflectivePanel,
+            removeEatLeaf,
+            magicPowder,
+            ladyBug,
+    
             flattenedSoil,
             fertilizer,
             wellPreparedSoil,
@@ -107,6 +152,20 @@ public class HarassementState : ScriptableObject
     {
         switch (state)
         {
+            case FlowerHeatlyState.RakeSoil: return rakeSoil;
+            case FlowerHeatlyState.DigSoil: return digSoil;
+            case FlowerHeatlyState.AddFertilizer: return addFertilizer;
+            case FlowerHeatlyState.AddSeed: return addSeed;
+            case FlowerHeatlyState.CoverSoil: return coverSoil;
+            case FlowerHeatlyState.Water: return water;
+            case FlowerHeatlyState.RemoveFeather: return removeFeather;
+            case FlowerHeatlyState.RemoveDeadLeaf: return removeDeadLeaf;
+            case FlowerHeatlyState.Sweeping: return sweeping;
+            case FlowerHeatlyState.ReflectivePanel: return reflectivePanel;
+            case FlowerHeatlyState.RemoveEatLeaf: return removeEatLeaf;
+            case FlowerHeatlyState.MagicPowder: return magicPowder;
+            case FlowerHeatlyState.LadyBug: return ladyBug;
+            
             case FlowerHeatlyState.FlattenedSoil: return flattenedSoil;
             case FlowerHeatlyState.Fertilizer: return fertilizer;
             case FlowerHeatlyState.WellPreparedSoil: return wellPreparedSoil;

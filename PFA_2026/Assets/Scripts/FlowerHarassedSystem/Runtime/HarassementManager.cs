@@ -29,37 +29,37 @@ public class HarassmentManager : MonoBehaviour
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
         }
 
-        else if (harrasmentState.FlowerGrow == 2 && harrasmentState.currentState == HarassementState.State.Healthy)
+        else if (harrasmentState.FlowerGrow == 3 && harrasmentState.currentState == HarassementState.State.Healthy)
         {
             harrasmentState.currentState = HarassementState.State.MissingFertilizer;
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
         }
 
-        else if (harrasmentState.FlowerGrow == 3 && harrasmentState.currentState == HarassementState.State.Healthy)
+        else if (harrasmentState.FlowerGrow == 4 && harrasmentState.currentState == HarassementState.State.Healthy)
         {
             harrasmentState.currentState = HarassementState.State.SeedEat;
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
         }
 
-        else if (harrasmentState.FlowerGrow == 4 && harrasmentState.currentState == HarassementState.State.Healthy)
+        else if (harrasmentState.FlowerGrow == 6 && harrasmentState.currentState == HarassementState.State.Healthy)
         {
             harrasmentState.currentState = HarassementState.State.DrinkWater;
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
         }
 
-        else if (harrasmentState.FlowerGrow == 5 && harrasmentState.currentState == HarassementState.State.Healthy )
+        else if (harrasmentState.FlowerGrow == 7 && harrasmentState.currentState == HarassementState.State.Healthy )
         {
             harrasmentState.currentState = HarassementState.State.Feather;
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
         }
 
-        else if (harrasmentState.FlowerGrow == 6 && harrasmentState.currentState == HarassementState.State.Healthy)
+        else if (harrasmentState.FlowerGrow == 9 && harrasmentState.currentState == HarassementState.State.Healthy)
         {
             harrasmentState.currentState = HarassementState.State.Shadow;
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
         }
         
-        else if (harrasmentState.FlowerGrow == 7 && harrasmentState.currentState == HarassementState.State.Healthy)
+        else if (harrasmentState.FlowerGrow == 11 && harrasmentState.currentState == HarassementState.State.Healthy)
         {
             harrasmentState.currentState = HarassementState.State.FlowerEat;
             Debug.Log("nouvelle état :" + harrasmentState.currentState);
