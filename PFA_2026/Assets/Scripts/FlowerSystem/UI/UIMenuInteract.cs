@@ -2,16 +2,27 @@ using TMPro;
 using UnityEngine;
 using System.Collections;
 
+/// Gère toute l'interface des actions du joueur :
+/// - points d'action
+/// - affichage des boutons d'action
+/// - animation du tableau des actions
+/// - affichage de la prochaine action
 public class UIMenuInteract : MonoBehaviour
 {
+    // REFERENCES SYSTEME
+
     [Header("System")]
     public TurnManager turnManager;
     public GameDataManager gameDataManager;
+    
+    // POINTS D'ACTION
 
     [Header("Point d'action")]
-    public TextMeshProUGUI action;
-    public int actionPoint;
-    private int maxActionPoint;
+    public TextMeshProUGUI action; // Texte affichant les points d'action
+    public int actionPoint; // Points d'action actuels
+    private int maxActionPoint; // Maximum de points d'action selon le nombre de joueurs
+    
+    // PANELS DES JOURS
 
     [Header("Action du jour")]
     public GameObject ActionDays1;
@@ -21,6 +32,8 @@ public class UIMenuInteract : MonoBehaviour
     public GameObject ActionDays5;
     public GameObject ActionDays6;
     public GameObject ActionDays7;
+    
+    // BOUTONS D'ACTIONS
 
     [Header("Buttons")]
     public GameObject buttonTillSoil;
@@ -33,30 +46,47 @@ public class UIMenuInteract : MonoBehaviour
     public GameObject buttonRemoveDeadLeaves;
     public GameObject buttonReflectivePanel;
     public GameObject buttonLadybug;
+    
+    // UI PROCHAINE ACTION
 
     [Header("Prochaine action")]
     public GameObject panelNextAction;
     public TextMeshProUGUI textNextAction;
-
+    
+    // TABLEAU DES ACTIONS
     [Header("Tableau actions")]
     public RectTransform tableauActions;
-    public Vector2 positionTableauVisible;
-    public Vector2 positionTableauCachee;
-    public float dureeAnimationTableau = 0.5f;
 
+    // Position visible du tableau
+    public Vector2 positionTableauVisible;
+
+    // Position cachée du tableau
+    public Vector2 positionTableauCachee;
+
+    // Durée de l'animation du tableau
+    public float dureeAnimationTableau = 0.5f;
+    
+    /// Initialisation de l'UI
     void Start()
     {
+        // Initialise les points d'action
         ActionPointPerPlayer();
+
+        // Cache tous les panneaux et boutons au démarrage
         HideAllActionPanels();
         HideAllButtons();
 
+        // Cache le panneau de prochaine action
         if (panelNextAction != null)
             panelNextAction.SetActive(false);
 
+        // Sauvegarde la position visible du tableau
         if (tableauActions != null)
             positionTableauVisible = tableauActions.anchoredPosition;
     }
-
+    
+    /// Définit les points d'action maximum
+    /// selon le nombre de joueurs
     public void ActionPointPerPlayer()
     {
         if (gameDataManager.numberOfPlayers == 1) maxActionPoint = 5;
@@ -69,35 +99,46 @@ public class UIMenuInteract : MonoBehaviour
 
         UpdateActionPoint();
     }
-
+    
+    /// Remet les points d'action au maximum
     public void UpdateActionPoint()
     {
         actionPoint = maxActionPoint;
         action.text = actionPoint.ToString();
     }
-
+    
+    /// Met à jour l'affichage des points d'action
     public void UiUpdate()
     {
         action.text = actionPoint.ToString();
     }
-
+    
+    /// Affiche immédiatement le tableau au début de la journée
     public void ShowBoardAtStartOfDay()
     {
         if (tableauActions == null)
             return;
 
         StopAllCoroutines();
+
+        // Replace directement le tableau à sa position visible
         tableauActions.anchoredPosition = positionTableauVisible;
 
+        // Affiche les actions disponibles
         ShowActionsForCurrentFlower();
     }
-
+    
+    /// Rafraîchit le tableau après une action
     public void RefreshActionBoardAfterAction()
     {
         StopAllCoroutines();
         StartCoroutine(AnimationTableauApresAction());
     }
-
+    
+    /// Animation du tableau après une action :
+    /// - cache le tableau
+    /// - met à jour les actions
+    /// - réaffiche le tableau si nécessaire
     IEnumerator AnimationTableauApresAction()
     {
         yield return MoveTableau(positionTableauCachee);
@@ -111,7 +152,8 @@ public class UIMenuInteract : MonoBehaviour
             yield return MoveTableau(positionTableauVisible);
         }
     }
-
+    
+    /// Animation du tableau lorsqu'on change de joueur
     public IEnumerator AnimateBoardForNewPlayer()
     {
         ShowActionsForCurrentFlower();
@@ -123,13 +165,15 @@ public class UIMenuInteract : MonoBehaviour
             yield return MoveTableau(positionTableauVisible);
         }
     }
-
+    
+    /// Déplace le tableau avec une interpolation fluide
     public IEnumerator MoveTableau(Vector2 targetPosition)
     {
         if (tableauActions == null)
             yield break;
 
         Vector2 startPosition = tableauActions.anchoredPosition;
+
         float elapsed = 0f;
 
         while (elapsed < dureeAnimationTableau)
@@ -146,7 +190,8 @@ public class UIMenuInteract : MonoBehaviour
 
         tableauActions.anchoredPosition = targetPosition;
     }
-
+    
+    /// Cache tous les panneaux de jours
     void HideAllActionPanels()
     {
         ActionDays1.SetActive(false);
@@ -157,7 +202,8 @@ public class UIMenuInteract : MonoBehaviour
         ActionDays6.SetActive(false);
         ActionDays7.SetActive(false);
     }
-
+    
+    /// Cache tous les boutons d'action
     void HideAllButtons()
     {
         buttonTillSoil.SetActive(false);
@@ -171,7 +217,9 @@ public class UIMenuInteract : MonoBehaviour
         buttonReflectivePanel.SetActive(false);
         buttonLadybug.SetActive(false);
     }
-
+    
+    /// Affiche les actions disponibles
+    /// pour la fleur du joueur actuel
     public void ShowActionsForCurrentFlower()
     {
         HideAllActionPanels();
@@ -188,21 +236,26 @@ public class UIMenuInteract : MonoBehaviour
         if (currentFlower == null)
             return;
 
+        // Ne rien afficher si la fleur est terminée
         if (currentFlower.IsFinished())
             return;
 
+        // Ne rien afficher si aucune action disponible aujourd'hui
         if (!currentFlower.HasActionAvailable(turnManager.jourActuel))
             return;
 
         FlowerActionType currentAction = currentFlower.GetNextRequiredAction();
         int requiredDay = currentFlower.GetNextRequiredDay();
 
+        // Affiche la prochaine action après celle actuelle
         FlowerActionType nextAction;
+
         if (currentFlower.TryGetNextActionAfterCurrent(out nextAction))
         {
             AfficherProchaineAction(nextAction);
         }
 
+        // Active le bon panneau + le bon bouton
         switch (currentAction)
         {
             case FlowerActionType.TillSoil:
@@ -236,6 +289,8 @@ public class UIMenuInteract : MonoBehaviour
                 break;
 
             case FlowerActionType.Water:
+
+                // Selon le jour demandé
                 if (requiredDay == 4)
                     ActionDays4.SetActive(true);
                 else
@@ -260,40 +315,54 @@ public class UIMenuInteract : MonoBehaviour
                 break;
         }
     }
-
+    
+    /// Affiche l'UI de la prochaine action
     void AfficherProchaineAction(FlowerActionType actionType)
     {
         if (panelNextAction == null || textNextAction == null)
             return;
 
         panelNextAction.SetActive(true);
-        textNextAction.text = "Prochaine action : " + GetActionName(actionType);
-    }
 
+        textNextAction.text =
+            "Prochaine action : " + GetActionName(actionType);
+    }
+    
+    /// Retourne le nom français d'une action
     string GetActionName(FlowerActionType actionType)
     {
         switch (actionType)
         {
             case FlowerActionType.TillSoil:
                 return "Retourner la terre";
+
             case FlowerActionType.Rake:
                 return "Ratisser";
+
             case FlowerActionType.Dig:
                 return "Creuser";
+
             case FlowerActionType.AddFertilizer:
                 return "Ajouter de l'engrais";
+
             case FlowerActionType.PlantSeed:
                 return "Planter la graine";
+
             case FlowerActionType.CoverSoil:
                 return "Recouvrir la terre";
+
             case FlowerActionType.Water:
                 return "Arroser";
+
             case FlowerActionType.RemoveDeadLeaves:
                 return "Enlever les feuilles mortes";
+
             case FlowerActionType.AddReflectivePanel:
                 return "Ajouter un panneau réfléchissant";
+
             case FlowerActionType.AddLadybug:
                 return "Ajouter une coccinelle";
+
             default:
                 return "Aucune";
         }

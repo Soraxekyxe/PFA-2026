@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 47581e7f7da677b429420624658c3d86
+guid: dcddec39df28f6d4f8fa9a9cf96bf43d
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - KTF-Roadbrush
+  - Baloo
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
