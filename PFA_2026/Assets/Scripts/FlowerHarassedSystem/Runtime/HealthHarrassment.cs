@@ -9,7 +9,7 @@ public class HealthHarrassment : MonoBehaviour
     [SerializeField]UIMenuInteract menuInteract;
     
     // ----------- Ancien system ----------- //
-    public void Health()
+    public void OldHealth()
     {
         Debug.Log("✅ Bouton cliqué : Health() appelée");
         Debug.Log("Cosmetic manager = " + cosmeticPointsManager);
@@ -28,28 +28,29 @@ public class HealthHarrassment : MonoBehaviour
             harrassmentManager.HeatlHarrasemen();
         }
     }
-    // ----------- Nouveau System ----------- //
-
-    // ----------- Jour 1 ----------- //
-    public void RakeTheSoil()
+    
+    public void HealthLifePercent(float percent)
     {
+        harrassementState.CurrentHealth += Mathf.RoundToInt(harrassementState.MaxHealth * percent);
+        harrassementState.CurrentHealth = Mathf.Min(harrassementState.CurrentHealth, harrassementState.MaxHealth);
         
-    }
-
-    public void DigTheSoil()
-    {
-        
+        Debug.Log("vie :" + harrassementState.CurrentHealth);
     }
     
-    // ----------- Jour 2 ----------- //
-    public void AddFertilizer()
+    // ----------- Soin jour 1 ----------- //
+
+    public void Health()
     {
-        
-    }
-    
-    // ----------- Jour 3 ----------- //
-    public void AddingSeeds()
-    {
+        switch (harrassementState.currentFlowerHeatlyState)
+        {
+            case HarassementState.FlowerHeatlyState.RakeSoil:
+                HealthLifePercent(0.5f);
+                break;
+            
+            case HarassementState.FlowerHeatlyState.DigSoil:
+                HealthLifePercent(0.5f);
+                break;
+        }
         
     }
     

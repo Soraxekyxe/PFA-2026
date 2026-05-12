@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class HarassmentManager : MonoBehaviour
 {
@@ -13,6 +14,7 @@ public class HarassmentManager : MonoBehaviour
     {
         // Met la croissance de la fleur à 1
         harrasmentState.FlowerGrow = 1;
+        harrasmentState.CurrentHealth = harrasmentState.MaxHealth;
     }
     
     // ----------- Modifie les etats ----------- //
@@ -22,48 +24,38 @@ public class HarassmentManager : MonoBehaviour
     {
         // L'etat change en fonction de la croissance de la fleur et seulement si elle est déja dans son etat Heathly
         // (en gros la fleur redevient harceler seulement quand elle est soigner)
+
+        harrasmentState.CurrentHealth = 0;
+        Debug.Log("vie :"  + harrasmentState.CurrentHealth);
         
-        if (harrasmentState.FlowerGrow == 1)
-        {
-            harrasmentState.currentState = HarassementState.State.TrampledSoil;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        }
+        if (harrasmentState.currentState != HarassementState.State.Healthy)
 
-        else if (harrasmentState.FlowerGrow == 3 && harrasmentState.currentState == HarassementState.State.Healthy)
+        switch (harrasmentState.FlowerGrow)
         {
-            harrasmentState.currentState = HarassementState.State.MissingFertilizer;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        }
-
-        else if (harrasmentState.FlowerGrow == 4 && harrasmentState.currentState == HarassementState.State.Healthy)
-        {
-            harrasmentState.currentState = HarassementState.State.SeedEat;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        }
-
-        else if (harrasmentState.FlowerGrow == 6 && harrasmentState.currentState == HarassementState.State.Healthy)
-        {
-            harrasmentState.currentState = HarassementState.State.DrinkWater;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        }
-
-        else if (harrasmentState.FlowerGrow == 7 && harrasmentState.currentState == HarassementState.State.Healthy )
-        {
-            harrasmentState.currentState = HarassementState.State.Feather;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        }
-
-        else if (harrasmentState.FlowerGrow == 9 && harrasmentState.currentState == HarassementState.State.Healthy)
-        {
-            harrasmentState.currentState = HarassementState.State.Shadow;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
+            case 1:
+                harrasmentState.currentState = HarassementState.State.TrampledSoil;
+                break;
+            case 2:
+                harrasmentState.currentState = HarassementState.State.MissingFertilizer;
+                break;
+            case 3:
+                harrasmentState.currentState = HarassementState.State.SeedEat;
+                break;
+            case 4:
+                harrasmentState.currentState = HarassementState.State.DrinkWater;
+                break;
+            case 5:
+                harrasmentState.currentState = HarassementState.State.Feather;
+                break;
+            case 6:
+                harrasmentState.currentState = HarassementState.State.Shadow;
+                break;
+            case 7:
+                harrasmentState.currentState = HarassementState.State.FlowerEat;
+                break;
         }
         
-        else if (harrasmentState.FlowerGrow == 11 && harrasmentState.currentState == HarassementState.State.Healthy)
-        {
-            harrasmentState.currentState = HarassementState.State.FlowerEat;
-            Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        }
+        Debug.Log("nouvelle état :" + harrasmentState.currentState);
         
         // Lance la fonction qui change le sprite de la fleur
         flowerHarras.UpdateSprite();
