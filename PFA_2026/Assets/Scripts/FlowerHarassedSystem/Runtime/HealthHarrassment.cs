@@ -39,19 +39,16 @@ public class HealthHarrassment : MonoBehaviour
     
     // ----------- Soin jour 1 ----------- //
 
-    public void Health()
-    {
-        switch (harrassementState.currentFlowerHeatlyState)
-        {
-            case HarassementState.FlowerHeatlyState.RakeSoil:
-                HealthLifePercent(0.5f);
-                break;
-            
-            case HarassementState.FlowerHeatlyState.DigSoil:
-                HealthLifePercent(0.5f);
-                break;
-        }
+    //public void Health()
+    //{
+        //switch (harrassementState.currentState)
+        //{
+            //case HarassementState.:
+                //HealthLifePercent(0.5f);
+                
+                //break;
+        //}
         
-    }
+    //}
     
 }

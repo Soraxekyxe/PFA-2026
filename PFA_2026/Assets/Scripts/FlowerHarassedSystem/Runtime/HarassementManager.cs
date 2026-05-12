@@ -56,9 +56,6 @@ public class HarassmentManager : MonoBehaviour
         }
         
         Debug.Log("nouvelle état :" + harrasmentState.currentState);
-        
-        // Lance la fonction qui change le sprite de la fleur
-        flowerHarras.UpdateSprite();
     }
 
     // Change l'etat de la fleur en fonction de sa croissance (FlowerGrow)

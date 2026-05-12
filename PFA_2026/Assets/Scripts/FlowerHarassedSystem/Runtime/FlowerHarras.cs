@@ -71,9 +71,9 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     }
     
     // Change de sprite du harcelement
-    public void UpdateSprite()
+    public void UpdateSprite(HarassementState.State state, int spriteIndex)
     {
-        flowerSprite.sprite = harrassmentState.StateSprite(harrassmentState.currentState);
+        flowerSprite.sprite = harrassmentState.StateSprite(state, spriteIndex);
         IsHealth = false;
     }
 

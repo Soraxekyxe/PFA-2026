@@ -5,13 +5,13 @@ using UnityEngine.UI;
 public class HarassementState : ScriptableObject
 {
     [Header("Sprite Harassment")] 
-    public Sprite trampledSoil;
-    public Sprite missingFertilizer;
-    public Sprite seedEat;
-    public Sprite drinkWater;
-    public Sprite feather;
-    public Sprite shadow;
-    public Sprite flowerEat;
+    public Sprite[] trampledSoil;
+    public Sprite[] missingFertilizer;
+    public Sprite[] seedEat;
+    public Sprite[] drinkWater;
+    public Sprite[] feather;
+    public Sprite[] shadow;
+    public Sprite[] flowerEat;
 
     [Header("Sprite Healthy")] 
     public Sprite flattenedSoil;
@@ -48,35 +48,43 @@ public class HarassementState : ScriptableObject
     }
 
     // Ici on relie les sprite à la liste des etats
-    public Sprite StateSprite(State allState)
+    public Sprite StateSprite(State allState, int spriteIndex)
     {
         switch (allState)
         {
-            case State.TrampledSoil: return trampledSoil;
-            case State.MissingFertilizer: return missingFertilizer;
-            case State.SeedEat: return seedEat;
-            case State.DrinkWater: return drinkWater;
-            case State.Feather: return feather;
-            case State.Shadow: return shadow;
-            case State.FlowerEat: return flowerEat;
-            default: return null;
-
+            case State.TrampledSoil: 
+                return GetSpriteFromArray(trampledSoil, spriteIndex);
+            case State.MissingFertilizer: 
+                return GetSpriteFromArray (missingFertilizer, spriteIndex);
+            case State.SeedEat: 
+                return GetSpriteFromArray (seedEat, spriteIndex);
+            case State.DrinkWater: 
+                return GetSpriteFromArray (drinkWater,  spriteIndex);
+            case State.Feather: 
+                return GetSpriteFromArray (feather, spriteIndex);
+            case State.Shadow: 
+                return GetSpriteFromArray (shadow,  spriteIndex);
+            case State.FlowerEat: 
+                return GetSpriteFromArray (flowerEat, spriteIndex);
         }
+        return null;
     }
-
-    // Liste de sprite
-    public Sprite[] AllStateSprite()
+    
+    Sprite GetSpriteFromArray(Sprite[] sprites, int index)
     {
-        return new[]
+        if (sprites == null || sprites.Length == 0)
         {
-            trampledSoil,
-            missingFertilizer,
-            seedEat,
-            drinkWater,
-            feather,
-            shadow,
-            flowerEat
-        };
+            Debug.LogWarning("Aucun sprite assigné pour cet état !");
+            return null;
+        }
+
+        if (index < 0 || index >= sprites.Length)
+        {
+            Debug.LogWarning("Index invalide : " + index);
+            return sprites[0]; // sprite par défaut
+        }
+
+        return sprites[index];
     }
 
     // ----------- Stade de croissance de la fleur ----------- //
