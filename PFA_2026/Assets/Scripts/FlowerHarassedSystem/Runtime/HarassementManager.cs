@@ -28,7 +28,7 @@ public class HarassmentManager : MonoBehaviour
         harrasmentState.CurrentHealth = 0;
         Debug.Log("vie :"  + harrasmentState.CurrentHealth);
         
-        if (harrasmentState.currentState != HarassementState.State.Healthy)
+        bool isHealthy = harrasmentState.currentState == HarassementState.State.Healthy;
 
         switch (harrasmentState.FlowerGrow)
         {
@@ -36,26 +36,38 @@ public class HarassmentManager : MonoBehaviour
                 harrasmentState.currentState = HarassementState.State.TrampledSoil;
                 break;
             case 2:
-                harrasmentState.currentState = HarassementState.State.MissingFertilizer;
+                if (isHealthy) harrasmentState.currentState = HarassementState.State.MissingFertilizer;
                 break;
             case 3:
-                harrasmentState.currentState = HarassementState.State.SeedEat;
+                if (isHealthy) harrasmentState.currentState = HarassementState.State.SeedEat;
                 break;
             case 4:
-                harrasmentState.currentState = HarassementState.State.DrinkWater;
+                if (isHealthy) harrasmentState.currentState = HarassementState.State.DrinkWater;
                 break;
             case 5:
-                harrasmentState.currentState = HarassementState.State.Feather;
+                if (isHealthy) harrasmentState.currentState = HarassementState.State.Feather;
                 break;
             case 6:
-                harrasmentState.currentState = HarassementState.State.Shadow;
+                if (isHealthy) harrasmentState.currentState = HarassementState.State.Shadow;
                 break;
             case 7:
-                harrasmentState.currentState = HarassementState.State.FlowerEat;
+                if (isHealthy) harrasmentState.currentState = HarassementState.State.FlowerEat;
                 break;
         }
-        
         Debug.Log("nouvelle état :" + harrasmentState.currentState);
+    }
+
+    
+    void SetStateAndSprite(HarassementState.State state, int spriteIndex)
+    {
+        // on change l'état
+        harrasmentState.currentState = state;
+
+        Debug.Log("Nouvel état : " + state);
+        Debug.Log("Sprite index : " + spriteIndex);
+
+        // on envoie au script visuel
+        flowerHarras.UpdateSprite(state, spriteIndex);
     }
 
     // Change l'etat de la fleur en fonction de sa croissance (FlowerGrow)
@@ -64,48 +76,34 @@ public class HarassmentManager : MonoBehaviour
         // Change l'etat de la fleur en fonction de son etat de harcelement
         harrasmentState.currentState = HarassementState.State.Healthy;
         Debug.Log("nouvelle état :" + harrasmentState.currentState);
+        
+        if (harrasmentState.currentState == HarassementState.State.Healthy)
 
-        if (harrasmentState.FlowerGrow == 1)
+        switch (harrasmentState.FlowerGrow)
         {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.FlattenedSoil;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
+            case 1:
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.FlattenedSoil;
+                break;
+            case 2:
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.Fertilizer;
+                break;
+            case 3:
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.WellPreparedSoil;
+                break;
+            case 4 :
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.FlowerShoot;
+                break;
+            case 5 :
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.DeadLeaf;
+                break;
+            case 6 :
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.Bud;
+                break;
+            case 7 :
+                harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.Flower;
+                break;
         }
-        
-        else if (harrasmentState.FlowerGrow == 2)
-        {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.Fertilizer;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
-        }
-        
-        else if (harrasmentState.FlowerGrow == 3)
-        {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.WellPreparedSoil;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
-        }
-        
-        else if (harrasmentState.FlowerGrow == 4)
-        {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.FlowerShoot;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
-        }
-        
-        else if (harrasmentState.FlowerGrow == 5)
-        {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.DeadLeaf;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
-        }
-        
-        else if (harrasmentState.FlowerGrow == 6)
-        {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.Bud;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
-        }
-        
-        else if (harrasmentState.FlowerGrow == 7)
-        {
-            harrasmentState.currentFlowerHeatlyState = HarassementState.FlowerHeatlyState.Flower;
-            Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
-        }
+        Debug.Log("nouvelle état :" + harrasmentState.currentFlowerHeatlyState);
         
         // Lance la fonction qui change le sprite de la fleur
         flowerHarras.UpdateHealthySprite();

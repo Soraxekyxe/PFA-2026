@@ -36,19 +36,51 @@ public class HealthHarrassment : MonoBehaviour
         
         Debug.Log("vie :" + harrassementState.CurrentHealth);
     }
-    
-    // ----------- Soin jour 1 ----------- //
 
-    //public void Health()
-    //{
-        //switch (harrassementState.currentState)
-        //{
-            //case HarassementState.:
-                //HealthLifePercent(0.5f);
-                
-                //break;
-        //}
-        
-    //}
-    
+    public void Health()
+    {
+        switch (harrassementState.currentState)
+        {
+            case HarassementState.State.TrampledSoil:
+                HealthLifePercent(0.5f);
+                break;
+            
+            case HarassementState.State.MissingFertilizer:
+                HealthLifePercent(1f);
+                break;
+            
+            case HarassementState.State.SeedEat:
+                HealthLifePercent(0.5f);
+                break;
+            
+            case HarassementState.State.DrinkWater:
+                HealthLifePercent(1f);
+                break;
+            
+            case HarassementState.State.Feather:
+                HealthLifePercent(0.5f);
+                break;
+            
+            case HarassementState.State.Shadow:
+                HealthLifePercent(0.5f);
+                break;
+            
+            case HarassementState.State.FlowerEat:
+                HealthLifePercent(0.3f);
+                break;
+        }
+        Debug.Log("Vie" + harrassementState.CurrentHealth);
+
+        if (harrassementState.CurrentHealth == harrassementState.MaxHealth)
+        {
+            cosmeticPointsManager.AddPoints(10);
+            menuInteract.UiUpdate();
+            harrassmentManager.HeatlHarrasemen();
+        }
+
+        else
+        {
+            harrassmentManager.HarrasementInDays();
+        }
+    }
 }

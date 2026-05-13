@@ -28,7 +28,7 @@ public class HarassementState : ScriptableObject
     public int FlowerGrow;
 
     [Header("Vie")] 
-    public int MaxHealth = 100;
+    public int MaxHealth = 100 ;
     public int  CurrentHealth;
 
 
@@ -72,19 +72,18 @@ public class HarassementState : ScriptableObject
     
     Sprite GetSpriteFromArray(Sprite[] sprites, int index)
     {
-        if (sprites == null || sprites.Length == 0)
         {
-            Debug.LogWarning("Aucun sprite assigné pour cet état !");
-            return null;
-        }
+            if (sprites == null || sprites.Length == 0)
+            {
+                Debug.LogWarning("Aucun sprite assigné pour cet état !");
+                return null;
+            }
 
-        if (index < 0 || index >= sprites.Length)
-        {
-            Debug.LogWarning("Index invalide : " + index);
-            return sprites[0]; // sprite par défaut
-        }
+            // ✅ adapte automatiquement l’index
+            index = Mathf.Clamp(index, 0, sprites.Length - 1);
 
-        return sprites[index];
+            return sprites[index];
+        }
     }
 
     // ----------- Stade de croissance de la fleur ----------- //
