@@ -28,6 +28,7 @@ public class HealthHarrassment : MonoBehaviour
             harrassmentManager.HeatlHarrasemen();
         }
     }
+    // ----------- Ancien system ----------- //
     
     public void HealthLifePercent(float percent)
     {
@@ -71,13 +72,12 @@ public class HealthHarrassment : MonoBehaviour
         }
         Debug.Log("Vie" + harrassementState.CurrentHealth);
 
-        if (harrassementState.CurrentHealth == harrassementState.MaxHealth)
+        if (harrassementState.CurrentHealth >= harrassementState.MaxHealth)
         {
             cosmeticPointsManager.AddPoints(10);
             menuInteract.UiUpdate();
             harrassmentManager.HeatlHarrasemen();
         }
-
         else
         {
             harrassmentManager.HarrasementInDays();

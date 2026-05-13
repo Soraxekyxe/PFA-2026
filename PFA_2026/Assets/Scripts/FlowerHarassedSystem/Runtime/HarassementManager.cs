@@ -14,7 +14,7 @@ public class HarassmentManager : MonoBehaviour
     {
         // Met la croissance de la fleur à 1
         harrasmentState.FlowerGrow = 1;
-        harrasmentState.CurrentHealth = harrasmentState.MaxHealth;
+        harrasmentState.CurrentHealth = 0;
     }
     
     // ----------- Modifie les etats ----------- //
@@ -25,7 +25,11 @@ public class HarassmentManager : MonoBehaviour
         // L'etat change en fonction de la croissance de la fleur et seulement si elle est déja dans son etat Heathly
         // (en gros la fleur redevient harceler seulement quand elle est soigner)
 
-        harrasmentState.CurrentHealth = 0;
+        if (harrasmentState.currentState == HarassementState.State.Healthy)
+        {
+            harrasmentState.CurrentHealth = 0;
+        }
+        
         Debug.Log("vie :"  + harrasmentState.CurrentHealth);
         
         bool isHealthy = harrasmentState.currentState == HarassementState.State.Healthy;
@@ -33,25 +37,25 @@ public class HarassmentManager : MonoBehaviour
         switch (harrasmentState.FlowerGrow)
         {
             case 1:
-                harrasmentState.currentState = HarassementState.State.TrampledSoil;
+                SetStateAndSprite(HarassementState.State.TrampledSoil,0);
                 break;
             case 2:
-                if (isHealthy) harrasmentState.currentState = HarassementState.State.MissingFertilizer;
+                if (isHealthy) SetStateAndSprite(HarassementState.State.MissingFertilizer,0);
                 break;
             case 3:
-                if (isHealthy) harrasmentState.currentState = HarassementState.State.SeedEat;
+                if (isHealthy) SetStateAndSprite(HarassementState.State.SeedEat,0);
                 break;
             case 4:
-                if (isHealthy) harrasmentState.currentState = HarassementState.State.DrinkWater;
+                if (isHealthy) SetStateAndSprite(HarassementState.State.DrinkWater,0);
                 break;
             case 5:
-                if (isHealthy) harrasmentState.currentState = HarassementState.State.Feather;
+                if (isHealthy) SetStateAndSprite(HarassementState.State.Feather,0);
                 break;
             case 6:
-                if (isHealthy) harrasmentState.currentState = HarassementState.State.Shadow;
+                if (isHealthy) SetStateAndSprite(HarassementState.State.Shadow,0);
                 break;
             case 7:
-                if (isHealthy) harrasmentState.currentState = HarassementState.State.FlowerEat;
+                if (isHealthy) SetStateAndSprite(HarassementState.State.FlowerEat,0);
                 break;
         }
         Debug.Log("nouvelle état :" + harrasmentState.currentState);
@@ -113,7 +117,7 @@ public class HarassmentManager : MonoBehaviour
     public void GrowingFlower()
     {
         // Si la fleur est soigner alors elle augment son FlowerGrow (indique le stade de croissance de la fleur, ce qui influe sur son sprite actuel)
-        if (harrasmentState.currentState == HarassementState.State.Healthy)
+        if (harrasmentState.currentState == HarassementState.State.Healthy && harrasmentState.CurrentHealth >= harrasmentState.MaxHealth)
         {
             harrasmentState.FlowerGrow++;
             Debug.Log("Grow="  + harrasmentState.FlowerGrow);
