@@ -2,8 +2,9 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.EventSystems;
 
-public class FlowerSlotUI : MonoBehaviour
+public class FlowerSlotUI : MonoBehaviour, IPointerClickHandler
 {
     public TextMeshProUGUI flowerNameText;
     public Image slotImage;
@@ -63,5 +64,15 @@ public class FlowerSlotUI : MonoBehaviour
         Color c = slotImage.color;
         c.a = alpha;
         slotImage.color = c;
+    }
+    
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        MenuInteract menu = FindObjectOfType<MenuInteract>();
+
+        if (menu != null && flower != null)
+        {
+            menu.ValidateFlowerTap(flower);
+        }
     }
 }

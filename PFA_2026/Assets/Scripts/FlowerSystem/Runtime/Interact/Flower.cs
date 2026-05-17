@@ -1,7 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class Flower : MonoBehaviour
+public class Flower : MonoBehaviour, IPointerClickHandler
 {
     [Header("Data")]
     public FlowerDataSO flowerData;
@@ -226,5 +227,15 @@ public class Flower : MonoBehaviour
 
         flowerImage.sprite = sprite;
         Debug.Log("Sprite mis à jour : " + currentState + " pour " + flowerData.flowerName);
+    }
+    
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        MenuInteract menu = FindObjectOfType<MenuInteract>();
+
+        if (menu != null)
+        {
+            menu.ValidateFlowerTap(this);
+        }
     }
 }

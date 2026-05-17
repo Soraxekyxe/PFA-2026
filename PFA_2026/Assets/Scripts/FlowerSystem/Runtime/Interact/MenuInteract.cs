@@ -3,10 +3,22 @@ using UnityEngine;
 
 public class MenuInteract : MonoBehaviour
 {
-    [Header ("System")]
+    [Header("System")]
     public UIMenuInteract menuInteract;
     public TurnManager turnManager;
     [SerializeField] SoundManager soundManager;
+    
+    [SerializeField] 
+    private TapFeedbackUI tapFeedbackUI;
+
+    private bool actionEnAttente = false;
+    private FlowerActionType actionPreparee;
+    
+    private int tapCount = 0;
+    [SerializeField] private int tapsRequired = 3;
+    
+    [SerializeField] private RakeDragFeedback rakeDragFeedback;
+    
 
     void TryDoAction(FlowerActionType actionType)
     {
@@ -38,27 +50,99 @@ public class MenuInteract : MonoBehaviour
         menuInteract.actionPoint--;
         menuInteract.UiUpdate();
 
-        // on lance l'animation du tableau
         menuInteract.RefreshActionBoardAfterAction();
+
+        actionEnAttente = false;
 
         Debug.Log("Action effectuée : " + actionType);
     }
 
+    void PrepareAction(FlowerActionType actionType)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(actionType, turnManager.jourActuel))
+            return;
+
+        actionPreparee = actionType;
+        actionEnAttente = true;
+        tapCount = 0;
+        
+        tapFeedbackUI.ShowAt(currentFlower.GetComponentInParent<RectTransform>());
+
+        Debug.Log("Tapote la fleur pour valider : " + actionType);
+        
+    }
+
+    public void ValidateFlowerTap(Flower tappedFlower)
+    {
+        if (!actionEnAttente)
+            return;
+
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (tappedFlower != currentFlower)
+        {
+            Debug.Log("Ce n'est pas la fleur du joueur actuel");
+            return;
+        }
+
+        tapCount++;
+
+        Debug.Log("Tap " + tapCount + " / " + tapsRequired);
+
+        // petit effet sonore optionnel
+        PlaySound();
+
+        if (tapCount >= tapsRequired)
+        {
+            TryDoAction(actionPreparee);
+
+            actionEnAttente = false;
+            tapCount = 0;
+
+            if (tapFeedbackUI != null)
+                tapFeedbackUI.Hide();
+
+            Debug.Log("Action validée !");
+        }
+    }
+
     public void PlaySound()
     {
-        soundManager.UISoundPlay();
+        if (soundManager != null)
+            soundManager.UISoundPlay();
     }
 
     // ----------- Jour 1 -----------
     public void TillTheSoil()
     {
-        TryDoAction(FlowerActionType.TillSoil);
+        PrepareAction(FlowerActionType.TillSoil);
         PlaySound();
     }
 
     public void Rake()
     {
-        TryDoAction(FlowerActionType.Rake);
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.Rake, turnManager.jourActuel))
+            return;
+
+        if (rakeDragFeedback != null)
+            rakeDragFeedback.Show(currentFlower, this);
+
         PlaySound();
     }
 
@@ -113,6 +197,17 @@ public class MenuInteract : MonoBehaviour
     public void Ladybug()
     {
         TryDoAction(FlowerActionType.AddLadybug);
+        PlaySound();
+    }
+    
+    public void ValidateRakeDrag(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
+        TryDoAction(FlowerActionType.Rake);
         PlaySound();
     }
 }
