@@ -78,12 +78,12 @@ public class FlowerLayoutManager : MonoBehaviour
             case 6:
                 return new Vector2[]
                 {
-                    new Vector2(-220f, 120f),
-                    new Vector2(0f, 120f),
-                    new Vector2(220f, 120f),
-                    new Vector2(-80f, -100f),
-                    new Vector2(140f, -100f),
-                    new Vector2(360f, -100f)
+                    new Vector2(-100f, 80f),
+                    new Vector2(120f, 80f),
+                    new Vector2(340f, 80f),
+                    new Vector2(40f, -100f),
+                    new Vector2(260f, -100f),
+                    new Vector2(480f, -100f)
                 };
 
             default:
