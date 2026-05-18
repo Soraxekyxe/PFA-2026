@@ -18,6 +18,7 @@ public class MenuInteract : MonoBehaviour
     [SerializeField] private int tapsRequired = 3;
     
     [SerializeField] private RakeDragFeedback rakeDragFeedback;
+    [SerializeField] private DigDragFeedback digDragFeedback;
     
 
     void TryDoAction(FlowerActionType actionType)
@@ -148,7 +149,20 @@ public class MenuInteract : MonoBehaviour
 
     public void Dig()
     {
-        TryDoAction(FlowerActionType.Dig);
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.Dig, turnManager.jourActuel))
+            return;
+
+        if (digDragFeedback != null)
+            digDragFeedback.Show(currentFlower, this);
+
         PlaySound();
     }
 
@@ -208,6 +222,17 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.Rake);
+        PlaySound();
+    }
+    
+    public void ValidateDigDrag(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
+        TryDoAction(FlowerActionType.Dig);
         PlaySound();
     }
 }
