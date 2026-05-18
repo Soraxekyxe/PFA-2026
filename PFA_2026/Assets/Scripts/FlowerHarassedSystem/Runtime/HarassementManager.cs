@@ -58,6 +58,24 @@ public class HarassmentManager : MonoBehaviour
                 if (isHealthy) SetStateAndSprite(HarassementState.State.FlowerEat,0);
                 break;
         }
+        
+        float lifePercent = (float)harrasmentState.CurrentHealth / harrasmentState.MaxHealth;
+
+        int spriteIndex;
+
+        if (lifePercent == 0)
+        {
+            spriteIndex = 0;
+        }
+        else if (lifePercent > 0.5f)
+        {
+            spriteIndex = 1;
+        }
+        else
+        {
+            spriteIndex = 2;
+        }
+        SetStateAndSprite(harrasmentState.currentState, spriteIndex);
         Debug.Log("nouvelle état :" + harrasmentState.currentState);
     }
 

@@ -7,6 +7,8 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
 {
     [Header("Sprite")]
     private Image flowerSprite;
+    [SerializeField] GameObject feather;
+    [SerializeField] GameObject petal;
 
     // UI du soin
     [Header("UI")] 
@@ -75,6 +77,16 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     {
         flowerSprite.sprite = harrassmentState.StateSprite(state, spriteIndex);
         IsHealth = false;
+
+        if (harrassmentState.currentState == HarassementState.State.Feather && harrassmentState.CurrentHealth == 0)
+        {
+            feather.SetActive(true);
+            petal.SetActive(true);
+        }
+        else
+        {
+            feather.SetActive(false);
+        }
     }
 
     // change de sprite de la fleur lorsqu'on la soigne
@@ -88,6 +100,9 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         UIHealth.SetActive(false);
         // Joue l'audio
         soundManager.UISoundPlay();
+        // Enléve les pétrals
+        if (petal.activeSelf)
+            petal.SetActive(false);
     }
 
     // Montre les ui pour soigner la fleur

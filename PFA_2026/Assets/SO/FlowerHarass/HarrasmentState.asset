@@ -20,9 +20,9 @@ MonoBehaviour:
   seedEat:
   - {fileID: -4253150923516122908, guid: 7e4658aa0886f8b4e87ceae8f5468646, type: 3}
   drinkWater:
-  - {fileID: 4965576835819622114, guid: 8b52033f8ae569a45a6f83967036a324, type: 3}
-  feather:
   - {fileID: -8793330057522321911, guid: c6411d4c0215cbe45967f21efd32ea71, type: 3}
+  feather:
+  - {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
   shadow:
   - {fileID: 5653349732126569118, guid: f11ca741a5600ea4b83c3d51e1cf2964, type: 3}
   flowerEat:
@@ -30,12 +30,12 @@ MonoBehaviour:
   flattenedSoil: {fileID: -1352246446861443988, guid: fc712fa9cc5147d498c905aae9bdcb3c, type: 3}
   fertilizer: {fileID: -4253150923516122908, guid: 7e4658aa0886f8b4e87ceae8f5468646, type: 3}
   wellPreparedSoil: {fileID: 4965576835819622114, guid: 8b52033f8ae569a45a6f83967036a324, type: 3}
-  flowerShoot: {fileID: -7869003543780421158, guid: 447d2de8d98490f40b5e33af5772af13, type: 3}
-  deadLeaf: {fileID: -8606715413541744997, guid: a219948d1909753408f3931ee300feba, type: 3}
-  bud: {fileID: 7653013314114205579, guid: eb08be19f29316444ae4508f6e82b759, type: 3}
-  flower: {fileID: 8380858389932175383, guid: aa9aa53ebfac9984583b019840423ffd, type: 3}
-  FlowerGrow: 1
+  flowerShoot: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
+  deadLeaf: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
+  bud: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
+  flower: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
+  FlowerGrow: 7
   MaxHealth: 100
-  CurrentHealth: 0
-  currentState: 1
-  currentFlowerHeatlyState: 1
+  CurrentHealth: 100
+  currentState: 0
+  currentFlowerHeatlyState: 6
