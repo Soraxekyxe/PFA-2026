@@ -25,7 +25,9 @@ public class RakeDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler
 
     private void Awake()
     {
-        Hide();
+        rakeStartPosition = rake.position;
+        arrowStartPosition = arrow.position;
+        
     }
 
     private void Update()
@@ -54,7 +56,12 @@ public class RakeDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler
             if (distance <= validationDistance)
             {
                 validated = true;
+
+                rake.position = rakeStartPosition;
+                arrow.position = arrowStartPosition;
+
                 menuInteract.ValidateRakeDrag(targetFlower);
+
                 Hide();
             }
         }
@@ -69,9 +76,6 @@ public class RakeDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler
 
         if (root != null)
             root.SetActive(true);
-
-        rakeStartPosition = rake.position;
-        arrowStartPosition = arrow.position;
 
         rake.position = rakeStartPosition;
         arrow.position = arrowStartPosition;

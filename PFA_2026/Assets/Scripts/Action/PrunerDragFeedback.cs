@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler, IPointerUpHandler
+public class PrunerDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler, IPointerUpHandler
 {
     [SerializeField] private GameObject root;
     [SerializeField] private RectTransform shovel;
@@ -23,6 +23,7 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
     {
         shovelStartPosition = shovel.position;
         arrowStartPosition = arrow.position;
+        
     }
 
     private void Update()
@@ -39,7 +40,7 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
         }
         else
         {
-            arrow.position = arrowStartPosition + new Vector3(0f, y, 0f);
+            arrow.position = shovel.position + new Vector3(0f, 100f + y, 0f);
         }
 
         if (isDragging && !validated && targetFlower != null)
@@ -53,9 +54,9 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
                 validated = true;
 
                 shovel.position = shovelStartPosition;
-                arrow.position = arrowStartPosition;
+                arrow.position = shovel.position + new Vector3(0f, 100f, 0f);
 
-                menuInteract.ValidateDigDrag(targetFlower);
+                menuInteract.ValidatePrunerDrag(targetFlower);
 
                 Hide();
             }
@@ -70,9 +71,10 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
         validated = false;
 
         root.SetActive(true);
+        
 
         shovel.position = shovelStartPosition;
-        arrow.position = arrowStartPosition;
+        arrow.position = shovel.position + new Vector3(0f, 100f, 0f);
     }
 
     public void Hide()
@@ -108,6 +110,6 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
         isDragging = false;
 
         shovel.position = shovelStartPosition;
-        arrow.position = arrowStartPosition;
+        arrow.position = shovel.position + new Vector3(0f, 100f, 0f);
     }
 }

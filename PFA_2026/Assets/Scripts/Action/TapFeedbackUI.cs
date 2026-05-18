@@ -17,7 +17,7 @@ public class TapFeedbackUI : MonoBehaviour
 
     private void Awake()
     {
-        Hide();
+        
     }
 
     private void Update()

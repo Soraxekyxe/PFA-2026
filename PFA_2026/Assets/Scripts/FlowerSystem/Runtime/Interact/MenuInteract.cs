@@ -19,6 +19,12 @@ public class MenuInteract : MonoBehaviour
     
     [SerializeField] private RakeDragFeedback rakeDragFeedback;
     [SerializeField] private DigDragFeedback digDragFeedback;
+    [SerializeField] private FertilizerHoldFeedback fertilizerHoldFeedback;
+    [SerializeField] private SeedHoldFeedback seedHoldFeedback;
+    [SerializeField] private CoverSoilSwipeFeedback coverSoilSwipeFeedback;
+    [SerializeField] private WateringCanDragFeedback wateringCanDragFeedback;
+    [SerializeField] private PrunerDragFeedback prunerDragFeedback;
+    [SerializeField] private ReflectivePanelDragFeedback reflectivePanelDragFeedback;
     
 
     void TryDoAction(FlowerActionType actionType)
@@ -169,6 +175,30 @@ public class MenuInteract : MonoBehaviour
     // ----------- Jour 2 -----------
     public void PlantTheFertilizer()
     {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.AddFertilizer, turnManager.jourActuel))
+            return;
+
+        if (fertilizerHoldFeedback != null)
+            fertilizerHoldFeedback.Show(currentFlower, this);
+
+        PlaySound();
+    }
+    
+    public void ValidateFertilizerHold(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
         TryDoAction(FlowerActionType.AddFertilizer);
         PlaySound();
     }
@@ -176,12 +206,60 @@ public class MenuInteract : MonoBehaviour
     // ----------- Jour 3 -----------
     public void PlantSeed()
     {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.PlantSeed, turnManager.jourActuel))
+            return;
+
+        if (seedHoldFeedback != null)
+            seedHoldFeedback.Show(currentFlower, this);
+
+        PlaySound();
+    }
+    
+    public void ValidateSeedHold(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
         TryDoAction(FlowerActionType.PlantSeed);
         PlaySound();
     }
 
     public void CoverSoil()
     {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.CoverSoil, turnManager.jourActuel))
+            return;
+
+        if (coverSoilSwipeFeedback != null)
+            coverSoilSwipeFeedback.Show(currentFlower, this);
+
+        PlaySound();
+    }
+    
+    public void ValidateCoverSoilSwipe(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
         TryDoAction(FlowerActionType.CoverSoil);
         PlaySound();
     }
@@ -189,6 +267,30 @@ public class MenuInteract : MonoBehaviour
     // ----------- Jour 4 -----------
     public void WaterThePlants()
     {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.Water, turnManager.jourActuel))
+            return;
+
+        if (wateringCanDragFeedback != null)
+            wateringCanDragFeedback.Show(currentFlower, this);
+
+        PlaySound();
+    }
+    
+    public void ValidateWateringCanDrag(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
         TryDoAction(FlowerActionType.Water);
         PlaySound();
     }
@@ -196,6 +298,30 @@ public class MenuInteract : MonoBehaviour
     // ----------- Jour 5 -----------
     public void RemovePetalAndLeaf()
     {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.RemoveDeadLeaves, turnManager.jourActuel))
+            return;
+
+        if (prunerDragFeedback != null)
+            prunerDragFeedback.Show(currentFlower, this);
+
+        PlaySound();
+    }
+    
+    public void ValidatePrunerDrag(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
         TryDoAction(FlowerActionType.RemoveDeadLeaves);
         PlaySound();
     }
@@ -203,14 +329,38 @@ public class MenuInteract : MonoBehaviour
     // ----------- Jour 6 -----------
     public void ReflectivePanel()
     {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (currentFlower == null)
+            return;
+
+        if (menuInteract.actionPoint < 1)
+            return;
+
+        if (!currentFlower.CanDoAction(FlowerActionType.AddReflectivePanel, turnManager.jourActuel))
+            return;
+
+        if (reflectivePanelDragFeedback != null)
+            reflectivePanelDragFeedback.Show(currentFlower, this);
+
+        PlaySound();
+    }
+    
+    public void ValidateReflectivePanelDrag(Flower flower)
+    {
+        Flower currentFlower = turnManager.GetCurrentFlower();
+
+        if (flower != currentFlower)
+            return;
+
         TryDoAction(FlowerActionType.AddReflectivePanel);
         PlaySound();
     }
-
+    
     // ----------- Jour 7 -----------
     public void Ladybug()
     {
-        TryDoAction(FlowerActionType.AddLadybug);
+        PrepareAction(FlowerActionType.AddLadybug);
         PlaySound();
     }
     
