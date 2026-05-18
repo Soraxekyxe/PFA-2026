@@ -105,7 +105,7 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
             petal.SetActive(false);
     }
 
-    // Montre les ui pour soigner la fleur
+    // ------------------------------------------- ICI QUE TU DOIT FAIRE BOUGER LE PANNEAU OK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     public void ShowUIHealth()
     {
         // ne s'active que si la fleur n'est pas soigner
