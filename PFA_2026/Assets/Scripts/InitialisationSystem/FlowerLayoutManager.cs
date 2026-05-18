@@ -38,41 +38,41 @@ public class FlowerLayoutManager : MonoBehaviour
             case 1:
                 return new Vector2[]
                 {
-                    new Vector2(0f, 0f)
+                    new Vector2(165f, 0f)
                 };
 
             case 2:
                 return new Vector2[]
                 {
-                    new Vector2(-130f, 0f),
-                    new Vector2(130f, 0f)
+                    new Vector2(20f, 0f),
+                    new Vector2(380f, 0f)
                 };
 
             case 3:
                 return new Vector2[]
                 {
-                    new Vector2(-150f, 90f),
-                    new Vector2(150f, 90f),
-                    new Vector2(0f, -90f)
+                    new Vector2(-60f, 80f),
+                    new Vector2(420f, 80f),
+                    new Vector2(170f, -100f)
                 };
 
             case 4:
                 return new Vector2[]
                 {
-                    new Vector2(-160f, 100f),
-                    new Vector2(160f, 100f),
-                    new Vector2(20f, -100f),
-                    new Vector2(340f, -100f)
+                    new Vector2(-60f, 80f),
+                    new Vector2(260f, 80f),
+                    new Vector2(120f, -100f),
+                    new Vector2(440f, -100f)
                 };
 
             case 5:
                 return new Vector2[]
                 {
-                    new Vector2(-180f, 110f),
-                    new Vector2(60f, 110f),
-                    new Vector2(320f, 110f),
-                    new Vector2(-40f, -120f),
-                    new Vector2(200f, -120f)
+                    new Vector2(-80f, 80f),
+                    new Vector2(160f, 80f),
+                    new Vector2(420f, 80f),
+                    new Vector2(60f, -100f),
+                    new Vector2(300f, -100f)
                 };
 
             case 6:
