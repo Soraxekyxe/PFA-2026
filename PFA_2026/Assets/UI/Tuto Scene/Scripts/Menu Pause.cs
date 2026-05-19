@@ -46,6 +46,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Pause()
     {
+        soundManager.UISoundPlay();
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;

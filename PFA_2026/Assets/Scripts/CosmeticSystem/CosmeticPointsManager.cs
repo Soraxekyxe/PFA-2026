@@ -11,6 +11,9 @@ public class CosmeticPointsManager : MonoBehaviour
     public TextMeshProUGUI scoreText2;
     public TextMeshProUGUI feedbackText;
     
+    [Header("Sound")]
+    
+    
 
     private int points = 0;
 
