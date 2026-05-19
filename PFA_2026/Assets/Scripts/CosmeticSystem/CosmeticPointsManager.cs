@@ -35,7 +35,9 @@ public class CosmeticPointsManager : MonoBehaviour
     // Ajouter des points
     public void AddPoints(int amount)
     {
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.AddPoint);
+        
         points += amount;
         UpdateUI();
 

@@ -5,9 +5,6 @@ public class PauseMenu : MonoBehaviour
 {
     public GameObject pauseMenuUI;
     public GameObject confirmMenuUI;
-    
-    [Header("System")]
-    [SerializeField] SoundManager soundManager;
 
     private bool isPaused = false;
 
@@ -36,6 +33,7 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         //Joue le son
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         SoundManager.instance.Music(SoundManager.instance.Background);
         
@@ -48,6 +46,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Pause()
     {
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         SoundManager.instance.Music(SoundManager.instance.PauseMenu);
         
@@ -66,6 +65,7 @@ public class PauseMenu : MonoBehaviour
     public void AskMainMenu()
     {
         // Joue le son
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         actionToConfirm = ActionType.MainMenu;
@@ -77,6 +77,7 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f;
 
         // Joue le son
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         if (actionToConfirm == ActionType.Quit)
@@ -93,6 +94,7 @@ public class PauseMenu : MonoBehaviour
     public void ConfirmNo()
     {
         // Joue le son
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         CloseConfirmMenu();
@@ -100,7 +102,9 @@ public class PauseMenu : MonoBehaviour
 
     void CloseConfirmMenu()
     {
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        
         confirmMenuUI.SetActive(false);
         actionToConfirm = ActionType.None;
     }

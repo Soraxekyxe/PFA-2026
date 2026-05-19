@@ -40,6 +40,9 @@ public class HealthHarrassment : MonoBehaviour
 
     public void Health()
     {
+        if(SoundManager.instance != null)
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        
         switch (harrassementState.currentState)
         {
             case HarassementState.State.TrampledSoil:

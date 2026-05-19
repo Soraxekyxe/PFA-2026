@@ -6,7 +6,6 @@ public class MenuInteract : MonoBehaviour
     [Header("System")]
     public UIMenuInteract menuInteract;
     public TurnManager turnManager;
-    [SerializeField] SoundManager soundManager;
     
     [SerializeField] 
     private TapFeedbackUI tapFeedbackUI;
@@ -123,6 +122,7 @@ public class MenuInteract : MonoBehaviour
 
     public void PlaySound()
     {
+        if(SoundManager.instance != null)
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
     }
 

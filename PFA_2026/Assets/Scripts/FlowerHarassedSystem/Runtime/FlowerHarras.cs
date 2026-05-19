@@ -16,7 +16,6 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     
     [Header("System")]
     [SerializeField] HarassementState harrassmentState;
-    [SerializeField] SoundManager soundManager;
     bool IsHealth = false;
     
     // Animation des effets
@@ -98,8 +97,6 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         IsHealth = true;
         // Désactive l'UI du soin 
         UIHealth.SetActive(false);
-        // Joue l'audio
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         // Enléve les pétrals
         if (petal.activeSelf)
             petal.SetActive(false);

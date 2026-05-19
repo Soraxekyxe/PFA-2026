@@ -42,9 +42,6 @@ public class TurnManager : MonoBehaviour
     [Header("System")]
     public HarassmentManager harrasementManager; // Gestion des événements / contraintes du jour
     public UIMenuInteract uiMenuInteract; // Gestion de l’interface des actions
-
-    [SerializeField]
-    SoundManager soundManager; // Gestion des sons UI
     
     // CIEL / DECOR
 
