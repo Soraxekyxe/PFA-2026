@@ -222,6 +222,8 @@ public class UIMenuInteract : MonoBehaviour
     /// pour la fleur du joueur actuel
     public void ShowActionsForCurrentFlower()
     {
+        Debug.Log("ShowActionsForCurrentFlower appelé");
+        
         HideAllActionPanels();
         HideAllButtons();
 
@@ -229,20 +231,36 @@ public class UIMenuInteract : MonoBehaviour
             panelNextAction.SetActive(false);
 
         if (turnManager == null)
+        {
+            Debug.Log("turnManager NULL");
             return;
+        }
 
         Flower currentFlower = turnManager.GetCurrentFlower();
 
         if (currentFlower == null)
+        {
+            Debug.Log("currentFlower NULL");
             return;
+        }
+            
 
         // Ne rien afficher si la fleur est terminée
         if (currentFlower.IsFinished())
+        {
+            Debug.Log("currentFlower.IsFinished()");
             return;
+        }
+            
 
         // Ne rien afficher si aucune action disponible aujourd'hui
         if (!currentFlower.HasActionAvailable(turnManager.jourActuel))
+        {
+            Debug.Log("Aucune action dispo");
             return;
+        }
+            
+        Debug.Log("Affichage des actions");
 
         FlowerActionType currentAction = currentFlower.GetNextRequiredAction();
         int requiredDay = currentFlower.GetNextRequiredDay();

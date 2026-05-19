@@ -75,17 +75,22 @@ public class TurnManager : MonoBehaviour
     /// Initialise la partie au lancement de la scène.
     void Start()
     {
+        Debug.Log("1");
         // Récupère le nombre de joueurs sauvegardé
         nombreJoueurs = PlayerPrefs.GetInt("NombreJoueurs", 1);
 
+        Debug.Log("2");
         // Cache la popup de fin de journée au démarrage
         popupJourSuivant.SetActive(false);
 
+        Debug.Log("3");
         // Initialise les noms et l’affichage des fleurs
         InitialiserNoms();
 
+        Debug.Log("4");
         // Lance le premier jour
         StartDay();
+        Debug.Log("5");
     }
     
     /// Initialise les slots des joueurs :
@@ -125,27 +130,36 @@ public class TurnManager : MonoBehaviour
     /// - affiche le premier joueur
     void StartDay()
     {
+        Debug.Log("A");
         // Met à jour l’affichage du jour
         textJour.text = "Jour " + jourActuel + "/7";
-
+        
+        Debug.Log("B");
         // Crée l’ordre aléatoire des joueurs pour cette journée
         ordreDuJour = CreerOrdreAleatoire(nombreJoueurs);
-
+        
+        Debug.Log("C");
         // Replace le tour au premier joueur de la liste
         indexTourDansLeJour = 0;
 
+        Debug.Log("D");
         // Fait avancer les fleurs selon le jour actuel
         AdvanceFlowersForNewDay();
 
+        Debug.Log("E");
         // Réinitialise les points d’action
         if (uiMenuInteract != null)
             uiMenuInteract.UpdateActionPoint();
-
+        
+        Debug.Log("F");
         // Lance les événements liés au harcèlement / contraintes
         if (harrasementManager != null)
         {
+            Debug.Log("GrowingFlower");
             harrasementManager.GrowingFlower();
+            Debug.Log("HarrasementInDays");
             harrasementManager.HarrasementInDays();
+            Debug.Log("Fin Harassment");
         }
 
         // Si le jour 8 est atteint, la partie est terminée
@@ -154,13 +168,16 @@ public class TurnManager : MonoBehaviour
             StartCoroutine(CaptureEtChargerSceneFin());
             return;
         }
-
+        
+        Debug.Log("G");
         // Met à jour l’affichage du joueur actuel
         UpdateCurrentTour();
-
+        
+        Debug.Log("H");
         // Affiche le tableau d’actions au début du jour
         if (uiMenuInteract != null)
             uiMenuInteract.ShowBoardAtStartOfDay();
+        Debug.Log("I");
     }
     
     /// Fait avancer chaque fleur au début d’un nouveau jour.
