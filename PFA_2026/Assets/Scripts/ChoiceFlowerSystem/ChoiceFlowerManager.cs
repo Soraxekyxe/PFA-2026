@@ -107,6 +107,8 @@ public class ChoiceFlowerManager : MonoBehaviour
     // ----------- CHOIX DE LA FLEUR AVEC SCRIPTABLE OBJECT -----------
     public void ChooseFlower(FlowerDataSO flowerData)
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        
         if (currentStep != Step.ChoosingFlower)
             return;
 
@@ -123,6 +125,7 @@ public class ChoiceFlowerManager : MonoBehaviour
 
     public void AddLetter(string lettre)
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.Letter);
         if (currentStep != Step.NamingFlower && currentStep != Step.NamingGarden)
             return;
 

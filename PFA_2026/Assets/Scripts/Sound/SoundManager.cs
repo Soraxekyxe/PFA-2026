@@ -5,11 +5,19 @@ using UnityEngine;
 public class SoundManager : MonoBehaviour
 {
     [Header("UI")] 
-    [SerializeField] private SoundID UI;
+    public SoundID UI;
+    public SoundID Letter;
+    public SoundID AddPoint;
+    public SoundID LossPoint;
+    
+
+    [Header("Music actuel")] 
+    private SoundID CurrentMusic;
 
     [Header("Music")] 
-    [SerializeField] private SoundID Background;
-    [SerializeField] private SoundID PauseMenu;
+    public SoundID MainMenu;
+    public SoundID Background;
+    public SoundID PauseMenu;
 
     public static SoundManager instance;
 
@@ -26,14 +34,20 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    public void UISoundPlay()
+    public void UISoundPlay(SoundID ui)
     {
-        BroAudio.Play(UI);
+        BroAudio.Play(ui);
     }
 
-    public void Music()
+    public void Music(SoundID music)
     {
-        BroAudio.Play(Background);
-        BroAudio.Play(PauseMenu);
+        
+        if (music.Equals(CurrentMusic))
+            return;
+
+        CurrentMusic = music;
+
+        BroAudio.Play(music);
+
     }
 }

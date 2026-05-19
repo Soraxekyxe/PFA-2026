@@ -10,13 +10,13 @@ public class ShopUIManager : MonoBehaviour
 
     public void OpenShop()
     {
-        soundManager.UISoundPlay();
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         shopPanel.SetActive(true);
     }
 
     public void CloseShop()
     {
-        soundManager.UISoundPlay();
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         shopPanel.SetActive(false);
     }
 }

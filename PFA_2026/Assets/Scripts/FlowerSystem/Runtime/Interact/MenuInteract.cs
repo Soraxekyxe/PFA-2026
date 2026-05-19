@@ -123,8 +123,7 @@ public class MenuInteract : MonoBehaviour
 
     public void PlaySound()
     {
-        if (soundManager != null)
-            soundManager.UISoundPlay();
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
     }
 
     // ----------- Jour 1 -----------

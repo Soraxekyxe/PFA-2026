@@ -248,7 +248,7 @@ public class TurnManager : MonoBehaviour
     public void NextTurn()
     {
         // Joue un son d’interface
-        soundManager.UISoundPlay();
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
 
         // Lance la routine de changement de tour
         StartCoroutine(NextTurnRoutine());

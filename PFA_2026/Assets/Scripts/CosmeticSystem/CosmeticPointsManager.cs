@@ -11,9 +11,6 @@ public class CosmeticPointsManager : MonoBehaviour
     public TextMeshProUGUI scoreText2;
     public TextMeshProUGUI feedbackText;
     
-    [Header("Sound")]
-    
-    
 
     private int points = 0;
 
@@ -38,6 +35,7 @@ public class CosmeticPointsManager : MonoBehaviour
     // Ajouter des points
     public void AddPoints(int amount)
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.AddPoint);
         points += amount;
         UpdateUI();
 

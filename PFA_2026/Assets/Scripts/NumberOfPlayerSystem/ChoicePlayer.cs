@@ -24,6 +24,7 @@ public class ChoicePlayer : MonoBehaviour
     //---Quand on clique sur la flèche de droite le nombre de joueur augmente
     public void RightArrow()
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         nombreJoueurs++;
 
         //---Si on appuie sur la flèche de droite alors que le nombre de joueur est à 10 ça remet à 1
@@ -38,6 +39,7 @@ public class ChoicePlayer : MonoBehaviour
     //---Quand on clique sur la flèche de gauche le nombre de joueur diminue
     public void LeftArrow()
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         nombreJoueurs--;
 
         //---Si on appuie sur la flèche de gauche alors que le nombre de joueur est à 1 ça met à 10
@@ -58,6 +60,7 @@ public class ChoicePlayer : MonoBehaviour
     //---Quand on clique sur le bouton demarrer ça Load la prochaine salle
     public void ToStartUp()
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         PlayerPrefs.SetInt("NombreJoueurs", nombreJoueurs);
         SceneManager.LoadScene(nomSceneJeu);
     }

@@ -99,7 +99,7 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         // Désactive l'UI du soin 
         UIHealth.SetActive(false);
         // Joue l'audio
-        soundManager.UISoundPlay();
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         // Enléve les pétrals
         if (petal.activeSelf)
             petal.SetActive(false);

@@ -12,12 +12,14 @@ public class MenuManager : MonoBehaviour
     //lance la scene de jeu
     public void Play()
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         SceneManager.LoadScene(nomSceneJeu);
     }
 
     //pour load la scene carousel
     public void OpenRules()
     {
+        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         SceneManager.LoadScene(nomSceneRegles);
     }
 
