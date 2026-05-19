@@ -37,6 +37,8 @@ public class PauseMenu : MonoBehaviour
     {
         //Joue le son
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        SoundManager.instance.Music(SoundManager.instance.Background);
+        
         
         pauseMenuUI.SetActive(false);
         confirmMenuUI.SetActive(false);
@@ -47,6 +49,8 @@ public class PauseMenu : MonoBehaviour
     public void Pause()
     {
         SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        SoundManager.instance.Music(SoundManager.instance.PauseMenu);
+        
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
