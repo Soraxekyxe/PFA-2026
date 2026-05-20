@@ -47,6 +47,9 @@ public class UIMenuInteract : MonoBehaviour
     public GameObject buttonReflectivePanel;
     public GameObject buttonLadybug;
     
+    [Header("Buttons help")]
+    public GameObject buttonHelp;
+    
     // UI PROCHAINE ACTION
 
     [Header("Prochaine action")]
