@@ -14,4 +14,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FlowerDataSO
   flowerId: Hortensia
   flowerName: Hortensia
-  stateVisuals: []
+  stateVisuals:
+  - state: 0
+    sprite: {fileID: -1905820876124019655, guid: 5445a962bddb12942a3da15227403b83, type: 3}
+  - state: 1
+    sprite: {fileID: -9104527227827714951, guid: ca9b3d4ab4bfd6c4887d49b324c444d3, type: 3}
+  - state: 2
+    sprite: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
+  - state: 3
+    sprite: {fileID: -4253150923516122908, guid: c67698e551d8f154490ab35cb606d533, type: 3}
+  - state: 4
+    sprite: {fileID: -6174330988520656004, guid: d1eceb38da155c04f96701a58b307fd7, type: 3}
+  - state: 5
+    sprite: {fileID: 4965576835819622114, guid: c07e6314869dfc042b80cbfc7fae77e7, type: 3}
+  - state: 6
+    sprite: {fileID: -4126170742856864810, guid: ae0dfbd64ede4fb46be1bc5d7cd912a6, type: 3}
+  - state: 7
+    sprite: {fileID: -3925641796716509709, guid: 1cd5b0dbf8d823b40bd85bc8376f366f, type: 3}
+  - state: 8
+    sprite: {fileID: -3762900759678819805, guid: fdc98cd0d533d62409bfb1e2fdb0abb3, type: 3}
+  - state: 9
+    sprite: {fileID: -6658331744862912579, guid: e7a5be8f337262c46b08536d9cf99e6f, type: 3}
+  - state: 10
+    sprite: {fileID: -3762900759678819805, guid: fdc98cd0d533d62409bfb1e2fdb0abb3, type: 3}
+  - state: 11
+    sprite: {fileID: -1120700207997475548, guid: 28e460e18eb1bd44e803382604376e7a, type: 3}
+  - state: 12
+    sprite: {fileID: -5641085582197029168, guid: 484215661d90f9942ad5421028f9401c, type: 3}
+  - state: 13
+    sprite: {fileID: 6290861137267944912, guid: 365f2b5f2d54978498ed36931474fc56, type: 3}
+  - state: 14
+    sprite: {fileID: -2840939914018001074, guid: 4187cc3ceff3ac94d9493369eb1132a1, type: 3}

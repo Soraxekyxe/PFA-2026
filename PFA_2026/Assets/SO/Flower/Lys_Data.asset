@@ -14,4 +14,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FlowerDataSO
   flowerId: Lys
   flowerName: Lys
-  stateVisuals: []
+  stateVisuals:
+  - state: 0
+    sprite: {fileID: -1905820876124019655, guid: 5445a962bddb12942a3da15227403b83, type: 3}
+  - state: 1
+    sprite: {fileID: -9104527227827714951, guid: ca9b3d4ab4bfd6c4887d49b324c444d3, type: 3}
+  - state: 2
+    sprite: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
+  - state: 3
+    sprite: {fileID: -4253150923516122908, guid: c67698e551d8f154490ab35cb606d533, type: 3}
+  - state: 4
+    sprite: {fileID: -6174330988520656004, guid: d1eceb38da155c04f96701a58b307fd7, type: 3}
+  - state: 5
+    sprite: {fileID: 4965576835819622114, guid: c07e6314869dfc042b80cbfc7fae77e7, type: 3}
+  - state: 6
+    sprite: {fileID: -4126170742856864810, guid: ae0dfbd64ede4fb46be1bc5d7cd912a6, type: 3}
+  - state: 7
+    sprite: {fileID: 5168039427554068596, guid: 6aa1f6b44bf24e84eb1c9a37352d39d3, type: 3}
+  - state: 8
+    sprite: {fileID: -5739260337952506678, guid: b1d6f88acf96b5242b24ab780d88413f, type: 3}
+  - state: 9
+    sprite: {fileID: 1282595128845057355, guid: 26855c714e6afed4e841702b91b4a4f3, type: 3}
+  - state: 10
+    sprite: {fileID: -5739260337952506678, guid: b1d6f88acf96b5242b24ab780d88413f, type: 3}
+  - state: 11
+    sprite: {fileID: 821870042445340722, guid: ed792c4f51d63c147a5adf2b234deac2, type: 3}
+  - state: 12
+    sprite: {fileID: 4478237702059888544, guid: 6802605a4716ba04fa3e1fd3b18f3b33, type: 3}
+  - state: 13
+    sprite: {fileID: 3685952210768911733, guid: 68306f6a6c3831c45935b51c09a2751e, type: 3}
+  - state: 14
+    sprite: {fileID: -8374197364258733642, guid: e30b486fd6c68de48a255a78510aab42, type: 3}

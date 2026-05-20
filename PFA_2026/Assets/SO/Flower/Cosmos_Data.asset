@@ -14,4 +14,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FlowerDataSO
   flowerId: Cosmos
   flowerName: Cosmos
-  stateVisuals: []
+  stateVisuals:
+  - state: 0
+    sprite: {fileID: -1905820876124019655, guid: 5445a962bddb12942a3da15227403b83, type: 3}
+  - state: 1
+    sprite: {fileID: -9104527227827714951, guid: ca9b3d4ab4bfd6c4887d49b324c444d3, type: 3}
+  - state: 2
+    sprite: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
+  - state: 3
+    sprite: {fileID: -4253150923516122908, guid: c67698e551d8f154490ab35cb606d533, type: 3}
+  - state: 4
+    sprite: {fileID: -6174330988520656004, guid: d1eceb38da155c04f96701a58b307fd7, type: 3}
+  - state: 5
+    sprite: {fileID: 4965576835819622114, guid: c07e6314869dfc042b80cbfc7fae77e7, type: 3}
+  - state: 6
+    sprite: {fileID: -4126170742856864810, guid: ae0dfbd64ede4fb46be1bc5d7cd912a6, type: 3}
+  - state: 7
+    sprite: {fileID: -1811685328952928558, guid: defed46df8a1d934c8debf6aba4da2c2, type: 3}
+  - state: 8
+    sprite: {fileID: 4105000382944674370, guid: b2d9e4bcf7916ae468922c180492cde0, type: 3}
+  - state: 9
+    sprite: {fileID: -5683325840945561119, guid: d3edb122d3ba3ca43b4c9fb4a6f3a6ca, type: 3}
+  - state: 10
+    sprite: {fileID: 4105000382944674370, guid: b2d9e4bcf7916ae468922c180492cde0, type: 3}
+  - state: 11
+    sprite: {fileID: 4804258067390025978, guid: cb66c0a20c9cf8e44af6d0a6eda8d62d, type: 3}
+  - state: 12
+    sprite: {fileID: 1083854310782089601, guid: 9c07bc898563a97468e28fb30c095b08, type: 3}
+  - state: 13
+    sprite: {fileID: 1942749197283826710, guid: 8500a290279578d43991531d5d341420, type: 3}
+  - state: 14
+    sprite: {fileID: -8209719765182087941, guid: ff8c8e4f669c453409811f315708f7bc, type: 3}

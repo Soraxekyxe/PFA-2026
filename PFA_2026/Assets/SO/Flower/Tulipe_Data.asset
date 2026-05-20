@@ -16,32 +16,32 @@ MonoBehaviour:
   flowerName: Tulipe
   stateVisuals:
   - state: 0
-    sprite: {fileID: 6041323109971217681, guid: 98116f3e93432a04ca1bcd10a4fb67ad, type: 3}
+    sprite: {fileID: -1905820876124019655, guid: 5445a962bddb12942a3da15227403b83, type: 3}
   - state: 1
-    sprite: {fileID: -592084771932588111, guid: 2b672ec1cad64b64c9c274fa0d198108, type: 3}
+    sprite: {fileID: -9104527227827714951, guid: ca9b3d4ab4bfd6c4887d49b324c444d3, type: 3}
   - state: 2
-    sprite: {fileID: 4744384826891572306, guid: afa6e82be47f8c9478f5d4f158514ea5, type: 3}
+    sprite: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
   - state: 3
-    sprite: {fileID: -2802858419996237882, guid: 08778a888d8db4e42b5112073e74d7e9, type: 3}
+    sprite: {fileID: -4253150923516122908, guid: c67698e551d8f154490ab35cb606d533, type: 3}
   - state: 4
-    sprite: {fileID: -9129888637710165294, guid: 0924f0b477eb39144847a416afec4d66, type: 3}
+    sprite: {fileID: -6174330988520656004, guid: d1eceb38da155c04f96701a58b307fd7, type: 3}
   - state: 5
-    sprite: {fileID: 1298265983320342435, guid: 0afd67f160c2eb9409205bc392af1cd5, type: 3}
+    sprite: {fileID: 4965576835819622114, guid: c07e6314869dfc042b80cbfc7fae77e7, type: 3}
   - state: 6
-    sprite: {fileID: 5019970745670215707, guid: a449b8c36d170a44ca196500b974014c, type: 3}
+    sprite: {fileID: -4126170742856864810, guid: ae0dfbd64ede4fb46be1bc5d7cd912a6, type: 3}
   - state: 7
-    sprite: {fileID: -7869003543780421158, guid: 447d2de8d98490f40b5e33af5772af13, type: 3}
+    sprite: {fileID: 5628825778331055581, guid: 72e7d5213040373469c92168e857263b, type: 3}
   - state: 8
-    sprite: {fileID: -975352104485045991, guid: 6bdf09da4b3aab3459dddd135b66182b, type: 3}
+    sprite: {fileID: -2683577397320243065, guid: c14b909861f2aa74a98c325de51e2027, type: 3}
   - state: 9
-    sprite: {fileID: -8606715413541744997, guid: a219948d1909753408f3931ee300feba, type: 3}
+    sprite: {fileID: -78294289694341511, guid: f8094d2ec2a2f5949b4507530d1b5f92, type: 3}
   - state: 10
-    sprite: {fileID: -975352104485045991, guid: 6bdf09da4b3aab3459dddd135b66182b, type: 3}
+    sprite: {fileID: 2231498393814363276, guid: dda47bb853f8c454186aabf773c6a7bf, type: 3}
   - state: 11
-    sprite: {fileID: 7653013314114205579, guid: eb08be19f29316444ae4508f6e82b759, type: 3}
+    sprite: {fileID: -4534751488015109566, guid: ce346b48a263a574d8aaa49dd5984b96, type: 3}
   - state: 12
-    sprite: {fileID: 8380858389932175383, guid: aa9aa53ebfac9984583b019840423ffd, type: 3}
+    sprite: {fileID: -6164018797961862705, guid: 000c8aaf686779d4591f2134ad0789fb, type: 3}
   - state: 13
-    sprite: {fileID: -6325030397911662614, guid: 964211905ce34b24eab44fea8fb87b21, type: 3}
+    sprite: {fileID: 4107054803784323356, guid: 9f142a641cfb6a44f9df44ddc89e6c1b, type: 3}
   - state: 14
-    sprite: {fileID: -8929817100853470447, guid: 4ac4d549c4b9275478d6375265c5e18b, type: 3}
+    sprite: {fileID: -1315587262164277528, guid: 55177ac071d304647ba6d29427589ee4, type: 3}

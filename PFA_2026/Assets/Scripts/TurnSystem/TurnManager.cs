@@ -69,6 +69,9 @@ public class TurnManager : MonoBehaviour
 
     private bool finEnCours = false; // Évite de lancer plusieurs fois la fin de partie
     
+    [Header("Flower Database")]
+    public FlowerDatabase flowerDatabase;
+    
     /// Initialise la partie au lancement de la scène.
     void Start()
     {
@@ -95,19 +98,21 @@ public class TurnManager : MonoBehaviour
         {
             if (i < nombreJoueurs)
             {
-                // Récupère le nom de la fleur du joueur
-                string nomFleur =
-                    PlayerPrefs.GetString("Joueur_" + i + "_NomFleur", "Fleur");
+                string nomFleur = PlayerPrefs.GetString("Joueur_" + i + "_NomFleur", "Fleur");
+                string flowerId = PlayerPrefs.GetString("Joueur_" + i + "_FlowerId", "");
 
-                // Active le slot du joueur
+                FlowerDataSO data = flowerDatabase.GetFlowerById(flowerId);
+
                 flowerSlots[i].gameObject.SetActive(true);
-
-                // Affiche le nom de la fleur
                 flowerSlots[i].SetFlowerName(nomFleur);
+
+                if (flowerSlots[i].flower != null && data != null)
+                {
+                    flowerSlots[i].flower.Initialize(data, nomFleur, i + 1);
+                }
             }
             else
             {
-                // Désactive les slots qui ne servent pas
                 flowerSlots[i].gameObject.SetActive(false);
             }
         }

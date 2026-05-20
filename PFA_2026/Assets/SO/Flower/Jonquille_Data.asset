@@ -16,4 +16,32 @@ MonoBehaviour:
   flowerName: Jonquille
   stateVisuals:
   - state: 0
-    sprite: {fileID: 0}
+    sprite: {fileID: -1905820876124019655, guid: 5445a962bddb12942a3da15227403b83, type: 3}
+  - state: 1
+    sprite: {fileID: -9104527227827714951, guid: ca9b3d4ab4bfd6c4887d49b324c444d3, type: 3}
+  - state: 2
+    sprite: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
+  - state: 3
+    sprite: {fileID: -4253150923516122908, guid: c67698e551d8f154490ab35cb606d533, type: 3}
+  - state: 4
+    sprite: {fileID: -6174330988520656004, guid: d1eceb38da155c04f96701a58b307fd7, type: 3}
+  - state: 5
+    sprite: {fileID: 4965576835819622114, guid: c07e6314869dfc042b80cbfc7fae77e7, type: 3}
+  - state: 6
+    sprite: {fileID: -4126170742856864810, guid: ae0dfbd64ede4fb46be1bc5d7cd912a6, type: 3}
+  - state: 7
+    sprite: {fileID: 6149815526156174699, guid: b6b701951ff7a9c42b711a5aa1fe8bab, type: 3}
+  - state: 8
+    sprite: {fileID: 5305124433175122417, guid: 852b2c326b7fd784c8dccb362301fa0d, type: 3}
+  - state: 9
+    sprite: {fileID: -5795311099426488389, guid: 3da955b5e51d06842bbd58f65d136426, type: 3}
+  - state: 10
+    sprite: {fileID: 4305975517049207969, guid: d5113c6c3253b5f4fb16d8388b95b623, type: 3}
+  - state: 11
+    sprite: {fileID: -8772706531506090954, guid: 6cddda326eebf374f9761032eab95261, type: 3}
+  - state: 12
+    sprite: {fileID: 3047585240651055156, guid: bd2e4df6252e56e49bc8348ae64bda3e, type: 3}
+  - state: 13
+    sprite: {fileID: 8942660779799846143, guid: 06ef59b33babbed4288f11e1571c0478, type: 3}
+  - state: 14
+    sprite: {fileID: -2389880754764944867, guid: db3d8f25e2df5c94599527bdb1e52c65, type: 3}
