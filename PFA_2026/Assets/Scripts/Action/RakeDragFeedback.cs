@@ -14,6 +14,8 @@ public class RakeDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler
 
     [Header("Detection")]
     [SerializeField] private float validationDistance = 80f;
+    
+    [SerializeField] private RectTransform toolTip;
 
     private Vector3 rakeStartPosition;
     private Vector3 arrowStartPosition;
@@ -51,7 +53,7 @@ public class RakeDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler
         {
             RectTransform flowerRect = targetFlower.GetComponentInParent<RectTransform>();
 
-            float distance = Vector2.Distance(rake.position, flowerRect.position);
+            float distance = Vector2.Distance(toolTip.position, flowerRect.position);
 
             if (distance <= validationDistance)
             {

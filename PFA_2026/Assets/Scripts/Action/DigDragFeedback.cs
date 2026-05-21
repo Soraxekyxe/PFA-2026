@@ -10,6 +10,8 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
     [SerializeField] private float arrowMoveDistance = 20f;
     [SerializeField] private float arrowSpeed = 4f;
     [SerializeField] private float validationDistance = 80f;
+    
+    [SerializeField] private RectTransform toolTip;
 
     private Vector3 shovelStartPosition;
     private Vector3 arrowStartPosition;
@@ -46,7 +48,7 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
         {
             RectTransform flowerRect = targetFlower.GetComponentInParent<RectTransform>();
 
-            float distance = Vector2.Distance(shovel.position, flowerRect.position);
+            float distance = Vector2.Distance(toolTip.position, flowerRect.position);
 
             if (distance <= validationDistance)
             {
