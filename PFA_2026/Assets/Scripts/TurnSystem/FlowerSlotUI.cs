@@ -68,11 +68,20 @@ public class FlowerSlotUI : MonoBehaviour, IPointerClickHandler
     
     public void OnPointerClick(PointerEventData eventData)
     {
-        MenuInteract menu = FindObjectOfType<MenuInteract>();
+        UIMenuInteract ui = FindObjectOfType<UIMenuInteract>();
 
-        if (menu != null && flower != null)
+        if (ui != null && ui.turnManager != null && flower != null)
         {
-            menu.ValidateFlowerTap(flower);
+            Flower currentFlower = ui.turnManager.GetCurrentFlower();
+
+            if (currentFlower == flower)
+            {
+                ui.RestoreCurrentPlayerUI();
+
+                MenuInteract menu = FindObjectOfType<MenuInteract>();
+                if (menu != null)
+                    menu.ValidateFlowerTap(flower);
+            }
         }
     }
 }

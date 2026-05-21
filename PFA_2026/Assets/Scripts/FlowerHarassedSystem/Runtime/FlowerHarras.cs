@@ -103,12 +103,16 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     }
 
     // ------------------------------------------- ICI QUE TU DOIT FAIRE BOUGER LE PANNEAU OK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    [SerializeField] private UIMenuInteract uiMenuInteract;
+
     public void ShowUIHealth()
     {
-        // ne s'active que si la fleur n'est pas soigner
         if (IsHealth == false)
         {
-            UIHealth.SetActive(true);
+            //UIHealth.SetActive(true);
+
+            if (uiMenuInteract != null)
+                uiMenuInteract.ShowHarassmentFlowerUI();
         }
     }
     

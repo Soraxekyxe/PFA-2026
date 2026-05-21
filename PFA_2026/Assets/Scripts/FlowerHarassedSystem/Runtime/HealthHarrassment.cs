@@ -80,6 +80,8 @@ public class HealthHarrassment : MonoBehaviour
             cosmeticPointsManager.AddPoints(10);
             menuInteract.UiUpdate();
             harrassmentManager.HeatlHarrasemen();
+            
+            menuInteract.RestoreCurrentPlayerUI();
         }
         else
         {

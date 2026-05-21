@@ -161,7 +161,7 @@ public class TurnManager : MonoBehaviour
         }
         
         // Met à jour l’affichage du joueur actuel
-        UpdateCurrentTour();
+        RefreshCurrentTourUI();
         
         // Affiche le tableau d’actions au début du jour
         if (uiMenuInteract != null)
@@ -208,7 +208,7 @@ public class TurnManager : MonoBehaviour
     }
     
     /// Met à jour l’UI pour afficher le joueur dont c’est le tour.
-    void UpdateCurrentTour()
+    public void RefreshCurrentTourUI()
     {
         // Retire le surlignage de tous les joueurs
         for (int i = 0; i < flowerSlots.Length; i++)
@@ -268,7 +268,7 @@ public class TurnManager : MonoBehaviour
         }
 
         // Met à jour l’affichage du nouveau joueur
-        UpdateCurrentTour();
+        RefreshCurrentTourUI();
 
         // Affiche le tableau d’actions du nouveau joueur
         if (uiMenuInteract != null)

@@ -50,6 +50,9 @@ public class UIMenuInteract : MonoBehaviour
     [Header("Buttons help")]
     public GameObject buttonHelp;
     
+    [Header("Bouton soin")]
+    public GameObject buttonHealth;
+    
     // UI PROCHAINE ACTION
 
     [Header("Prochaine action")]
@@ -388,4 +391,74 @@ public class UIMenuInteract : MonoBehaviour
                 return "Aucune";
         }
     }
+
+    public void ShowHarassmentFlowerUI()
+    {
+        if (currentMode == UISelectionMode.HarassmentFlower)
+            return;
+
+        currentMode = UISelectionMode.HarassmentFlower;
+
+        StopAllCoroutines();
+        StartCoroutine(ShowHarassmentFlowerRoutine());
+    }
+
+    IEnumerator ShowHarassmentFlowerRoutine()
+    {
+        yield return MoveTableau(positionTableauCachee);
+
+        HideAllActionPanels();
+        HideAllButtons();
+
+        if (panelNextAction != null)
+            panelNextAction.SetActive(false);
+
+        if (turnManager != null && turnManager.textTour != null)
+            turnManager.textTour.text = "Fleur isolée";
+
+        yield return MoveTableau(positionTableauVisible);
+
+        if (buttonHealth != null)
+            buttonHealth.SetActive(true);
+    }
+
+    public void RestoreCurrentPlayerUI()
+    {
+        if (currentMode == UISelectionMode.CurrentPlayer)
+            return;
+
+        currentMode = UISelectionMode.CurrentPlayer;
+
+        StopAllCoroutines();
+        StartCoroutine(RestoreCurrentPlayerRoutine());
+    }
+
+    IEnumerator RestoreCurrentPlayerRoutine()
+    {
+        yield return MoveTableau(positionTableauCachee);
+
+        if (buttonHealth != null)
+            buttonHealth.SetActive(false);
+
+        HideAllActionPanels();
+        HideAllButtons();
+
+        if (panelNextAction != null)
+            panelNextAction.SetActive(false);
+
+        if (turnManager != null)
+            turnManager.RefreshCurrentTourUI();
+
+        yield return MoveTableau(positionTableauVisible);
+
+        ShowActionsForCurrentFlower();
+    }
+    
+    private enum UISelectionMode
+    {
+        CurrentPlayer,
+        HarassmentFlower
+    }
+
+    private UISelectionMode currentMode = UISelectionMode.CurrentPlayer;
 }

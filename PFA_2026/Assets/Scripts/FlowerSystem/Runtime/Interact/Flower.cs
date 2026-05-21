@@ -231,11 +231,20 @@ public class Flower : MonoBehaviour, IPointerClickHandler
     
     public void OnPointerClick(PointerEventData eventData)
     {
-        MenuInteract menu = FindObjectOfType<MenuInteract>();
+        UIMenuInteract ui = FindObjectOfType<UIMenuInteract>();
 
-        if (menu != null)
+        if (ui != null && ui.turnManager != null)
         {
-            menu.ValidateFlowerTap(this);
+            Flower currentFlower = ui.turnManager.GetCurrentFlower();
+
+            if (currentFlower == this)
+            {
+                ui.RestoreCurrentPlayerUI();
+
+                MenuInteract menu = FindObjectOfType<MenuInteract>();
+                if (menu != null)
+                    menu.ValidateFlowerTap(this);
+            }
         }
     }
 }
