@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: e420239480bac9542bd0a9ab77605249
+guid: 5fbc60606a9157940b7bf12fe88ceb01
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2498428767757282995
-    second: UI_NamePlate_Hugo_PFA_0
+      213: 1033220583315031405
+    second: UI_ShopCanards_Hugo_PFA_0
+  - first:
+      213: -5020029084736534543
+    second: UI_ShopCanards_Hugo_PFA_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_NamePlate_Hugo_PFA_0
+      name: UI_ShopCanards_Hugo_PFA_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 385
-        width: 959
-        height: 230
+        x: 137
+        y: 225
+        width: 725
+        height: 766
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 354, y: 44, z: 90, w: 61}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3be2ace1ab33ca220800000000000000
-      internalID: 2498428767757282995
+      spriteID: d654d1375acb65e00800000000000000
+      internalID: 1033220583315031405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ShopCanards_Hugo_PFA_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 689
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7462a0526455ab0800000000000000
+      internalID: -5020029084736534543
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d4a31316dc023b84389d963ff7e77338
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      UI_NamePlate_Hugo_PFA_0: 2498428767757282995
+      UI_ShopCanards_Hugo_PFA_0: 1033220583315031405
+      UI_ShopCanards_Hugo_PFA_1: -5020029084736534543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
