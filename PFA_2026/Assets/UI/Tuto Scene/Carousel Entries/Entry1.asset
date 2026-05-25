@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a15ca1d1bd3fcc94e9d91db718e0ac8a, type: 3}
   m_Name: Entry1
   m_EditorClassIdentifier: Assembly-CSharp::Tuto.UI.CarouselEntry
-  <EntryGraphic>k__BackingField: {fileID: -855298285791758126, guid: bb5e8e28d5e13514b950ecc751ca9db8, type: 3}
+  <EntryGraphic>k__BackingField: {fileID: -6943342715952737927, guid: 36eb37dcb6a181e44aaacdc6d018623f, type: 3}
   <Headline>k__BackingField: 
   <Description>k__BackingField: 
   levelNameToload: 
