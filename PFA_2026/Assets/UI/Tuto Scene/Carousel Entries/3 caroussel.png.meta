@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5d071a5b7e412f440b7b8bbaf9fce579
+guid: 650fe6ad648184741b661e9dd5f836c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2376560309748782056
-    second: Votre texte de paragraphe_0
+      213: 6123577731347910009
+    second: 3 caroussel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Votre texte de paragraphe_0
+      name: 3 caroussel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 533
+        height: 300
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e35ed9920d3bf020800000000000000
-      internalID: 2376560309748782056
+      spriteID: 97d0c77a0815bf450800000000000000
+      internalID: 6123577731347910009
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Votre texte de paragraphe_0: 2376560309748782056
+      3 caroussel_0: 6123577731347910009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
