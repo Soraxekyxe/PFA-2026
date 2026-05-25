@@ -162,13 +162,12 @@ public class UIMenuInteract : MonoBehaviour
     /// Animation du tableau lorsqu'on change de joueur
     public IEnumerator AnimateBoardForNewPlayer()
     {
-        ShowActionsForCurrentFlower();
-
         Flower currentFlower = turnManager.GetCurrentFlower();
 
         if (currentFlower != null && currentFlower.HasActionAvailable(turnManager.jourActuel))
         {
             yield return MoveTableau(positionTableauVisible);
+            ShowActionsForCurrentFlower();
         }
     }
     
@@ -402,24 +401,27 @@ public class UIMenuInteract : MonoBehaviour
         StopAllCoroutines();
         StartCoroutine(ShowHarassmentFlowerRoutine());
     }
-
+    
     IEnumerator ShowHarassmentFlowerRoutine()
     {
+        // 1. Le tableau remonte
         yield return MoveTableau(positionTableauCachee);
 
+        // 2. Une fois en haut, on change l'UI
         HideAllActionPanels();
         HideAllButtons();
 
         if (panelNextAction != null)
             panelNextAction.SetActive(false);
 
+        if (buttonHealth != null)
+            buttonHealth.SetActive(true);
+
         if (turnManager != null && turnManager.textTour != null)
             turnManager.textTour.text = "Fleur isolée";
 
+        // 3. Le tableau redescend
         yield return MoveTableau(positionTableauVisible);
-
-        if (buttonHealth != null)
-            buttonHealth.SetActive(true);
     }
 
     public void RestoreCurrentPlayerUI()
@@ -432,11 +434,13 @@ public class UIMenuInteract : MonoBehaviour
         StopAllCoroutines();
         StartCoroutine(RestoreCurrentPlayerRoutine());
     }
-
+    
     IEnumerator RestoreCurrentPlayerRoutine()
     {
+        // 1. Le tableau remonte
         yield return MoveTableau(positionTableauCachee);
 
+        // 2. Une fois en haut, on change l'UI
         if (buttonHealth != null)
             buttonHealth.SetActive(false);
 
@@ -449,9 +453,10 @@ public class UIMenuInteract : MonoBehaviour
         if (turnManager != null)
             turnManager.RefreshCurrentTourUI();
 
-        yield return MoveTableau(positionTableauVisible);
-
         ShowActionsForCurrentFlower();
+
+        // 3. Le tableau redescend
+        yield return MoveTableau(positionTableauVisible);
     }
     
     private enum UISelectionMode
