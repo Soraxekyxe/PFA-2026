@@ -72,6 +72,8 @@ public class TurnManager : MonoBehaviour
     [Header("Flower Database")]
     public FlowerDatabase flowerDatabase;
     
+    private bool canNextTurn = true;
+    
     /// Initialise la partie au lancement de la scène.
     void Start()
     {
@@ -130,6 +132,9 @@ public class TurnManager : MonoBehaviour
         // Met à jour l’affichage du jour
         textJour.text = "Jour " + jourActuel + "/7";
         
+        if (uiMenuInteract != null && uiMenuInteract.harassmentFlowerHelp != null)
+            uiMenuInteract.harassmentFlowerHelp.OnNewRealDay(jourActuel);
+        
         // Crée l’ordre aléatoire des joueurs pour cette journée
         ordreDuJour = CreerOrdreAleatoire(nombreJoueurs);
         
@@ -165,7 +170,10 @@ public class TurnManager : MonoBehaviour
         
         // Affiche le tableau d’actions au début du jour
         if (uiMenuInteract != null)
+        {
+            uiMenuInteract.ForceCurrentPlayerUIWithoutAnimation();
             uiMenuInteract.ShowBoardAtStartOfDay();
+        }
     }
     
     /// Fait avancer chaque fleur au début d’un nouveau jour.
@@ -235,11 +243,22 @@ public class TurnManager : MonoBehaviour
     /// Méthode appelée par l’UI pour passer au joueur suivant.
     public void NextTurn()
     {
-        // Joue un son d’interface
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        if (!canNextTurn)
+            return;
 
-        // Lance la routine de changement de tour
+        canNextTurn = false;
+
+        if (SoundManager.instance != null)
+            SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+
+        StartCoroutine(NextTurnCooldown());
         StartCoroutine(NextTurnRoutine());
+    }
+    
+    IEnumerator NextTurnCooldown()
+    {
+        yield return new WaitForSeconds(1f);
+        canNextTurn = true;
     }
     
     /// Routine de passage au joueur suivant :
@@ -250,11 +269,14 @@ public class TurnManager : MonoBehaviour
     IEnumerator NextTurnRoutine()
     {
         // Cache le tableau d’actions avant de changer de joueur
+        
         if (uiMenuInteract != null)
         {
             yield return StartCoroutine(
                 uiMenuInteract.MoveTableau(uiMenuInteract.positionTableauCachee)
             );
+
+            uiMenuInteract.ForceExitHarassmentWithoutShowingPlayerActions();
         }
 
         // Passe au joueur suivant
@@ -273,6 +295,10 @@ public class TurnManager : MonoBehaviour
         // Affiche le tableau d’actions du nouveau joueur
         if (uiMenuInteract != null)
         {
+            
+            //uiMenuInteract.RestoreCurrentPlayerUI();
+            //yield return new WaitForSeconds(uiMenuInteract.dureeAnimationTableau);
+            
             yield return StartCoroutine(
                 uiMenuInteract.AnimateBoardForNewPlayer()
             );
@@ -334,6 +360,13 @@ public class TurnManager : MonoBehaviour
 
         // Passe au jour suivant
         StartNextDay();
+
+        if (uiMenuInteract != null)
+        {
+            yield return StartCoroutine(
+                uiMenuInteract.MoveTableau(uiMenuInteract.positionTableauVisible)
+            );
+        }
     }
     
     /// Incrémente le jour actuel et relance une nouvelle journée.
@@ -344,9 +377,15 @@ public class TurnManager : MonoBehaviour
 
         // Passe au jour suivant
         jourActuel++;
+        
+        if (uiMenuInteract != null && uiMenuInteract.harassmentFlowerHelp != null)
+            uiMenuInteract.harassmentFlowerHelp.AdvanceHelpDay();
 
         // Lance la rotation du ciel
         StartCoroutine(RotateSkySmooth());
+        
+        if (uiMenuInteract != null)
+            uiMenuInteract.tableauActions.anchoredPosition = uiMenuInteract.positionTableauCachee;
 
         // Démarre la nouvelle journée
         StartDay();

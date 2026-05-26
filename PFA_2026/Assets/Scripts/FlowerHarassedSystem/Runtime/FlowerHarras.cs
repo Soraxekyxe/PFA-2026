@@ -107,7 +107,7 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
 
     public void ShowUIHealth()
     {
-        if (IsHealth == false)
+        if (IsHealth == false && uiMenuInteract.harassmentFlowerHelp.HasActionAvailable(uiMenuInteract.turnManager.jourActuel))
         {
             //UIHealth.SetActive(true);
 
@@ -119,6 +119,11 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     // Permet de cliquer sur la fleur
     public void OnPointerDown(PointerEventData click)
     {
+        HealthHarrassment health = FindObjectOfType<HealthHarrassment>();
+
+        if (health != null)
+            health.ValidateHarassmentFlowerTap();
+        
         ShowUIHealth();
     }
 }

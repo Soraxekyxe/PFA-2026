@@ -72,6 +72,23 @@ public class UIMenuInteract : MonoBehaviour
     // Durée de l'animation du tableau
     public float dureeAnimationTableau = 0.5f;
     
+    [Header("Fleur isolée")]
+    public HarassmentFlowerHelp harassmentFlowerHelp;
+    
+    public GameObject buttonHelpRakeSoil;
+    public GameObject buttonHelpDigSoil;
+    public GameObject buttonHelpFertilizer;
+    public GameObject buttonHelpPlantSeeds;
+    public GameObject buttonHelpCoverSoil;
+    public GameObject buttonHelpWater;
+    public GameObject buttonHelpRemoveFeathers;
+    public GameObject buttonHelpRemoveDeadLeaves;
+    public GameObject buttonHelpSweep;
+    public GameObject buttonHelpReflectivePanels;
+    public GameObject buttonHelpRemoveEatenPetals;
+    public GameObject buttonHelpMagicPowder;
+    public GameObject buttonHelpLadybugs;
+    
     /// Initialisation de l'UI
     void Start()
     {
@@ -125,12 +142,7 @@ public class UIMenuInteract : MonoBehaviour
         if (tableauActions == null)
             return;
 
-        StopAllCoroutines();
-
-        // Replace directement le tableau à sa position visible
         tableauActions.anchoredPosition = positionTableauVisible;
-
-        // Affiche les actions disponibles
         ShowActionsForCurrentFlower();
     }
     
@@ -394,7 +406,10 @@ public class UIMenuInteract : MonoBehaviour
     public void ShowHarassmentFlowerUI()
     {
         if (currentMode == UISelectionMode.HarassmentFlower)
+        {
+            ShowHarassmentHelpAction();
             return;
+        }
 
         currentMode = UISelectionMode.HarassmentFlower;
 
@@ -414,8 +429,7 @@ public class UIMenuInteract : MonoBehaviour
         if (panelNextAction != null)
             panelNextAction.SetActive(false);
 
-        if (buttonHealth != null)
-            buttonHealth.SetActive(true);
+        ShowHarassmentHelpAction();
 
         if (turnManager != null && turnManager.textTour != null)
             turnManager.textTour.text = "Fleur isolée";
@@ -441,11 +455,11 @@ public class UIMenuInteract : MonoBehaviour
         yield return MoveTableau(positionTableauCachee);
 
         // 2. Une fois en haut, on change l'UI
-        if (buttonHealth != null)
-            buttonHealth.SetActive(false);
+        HideAllHarassmentHelpButtons();
 
         HideAllActionPanels();
         HideAllButtons();
+        
 
         if (panelNextAction != null)
             panelNextAction.SetActive(false);
@@ -466,4 +480,171 @@ public class UIMenuInteract : MonoBehaviour
     }
 
     private UISelectionMode currentMode = UISelectionMode.CurrentPlayer;
+    
+    void HideAllHarassmentHelpButtons()
+    {
+        buttonHealth.SetActive(false);
+
+        buttonHelpRakeSoil.SetActive(false);
+        buttonHelpDigSoil.SetActive(false);
+        buttonHelpFertilizer.SetActive(false);
+        buttonHelpPlantSeeds.SetActive(false);
+        buttonHelpCoverSoil.SetActive(false);
+        buttonHelpWater.SetActive(false);
+        buttonHelpRemoveFeathers.SetActive(false);
+        buttonHelpRemoveDeadLeaves.SetActive(false);
+        buttonHelpSweep.SetActive(false);
+        buttonHelpReflectivePanels.SetActive(false);
+        buttonHelpRemoveEatenPetals.SetActive(false);
+        buttonHelpMagicPowder.SetActive(false);
+        buttonHelpLadybugs.SetActive(false);
+    }
+    
+    public void ShowHarassmentHelpAction()
+    {
+        
+        HideAllHarassmentHelpButtons();
+
+        if (harassmentFlowerHelp == null || turnManager == null)
+            return;
+
+        if (!harassmentFlowerHelp.HasActionAvailable(turnManager.jourActuel))
+            return;
+
+        HarassmentHelpActionType action =
+            harassmentFlowerHelp.GetNextRequiredAction();
+
+        switch (action)
+        {
+            case HarassmentHelpActionType.RakeSoil:
+                buttonHelpRakeSoil.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.DigSoil:
+                buttonHelpDigSoil.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.AddFertilizer:
+                buttonHelpFertilizer.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.PlantSeeds:
+                buttonHelpPlantSeeds.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.CoverSoil:
+                buttonHelpCoverSoil.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.Water:
+                buttonHelpWater.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.RemoveFeathers:
+                buttonHelpRemoveFeathers.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.RemoveDeadLeaves:
+                buttonHelpRemoveDeadLeaves.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.Sweep:
+                buttonHelpSweep.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.AddReflectivePanels:
+                buttonHelpReflectivePanels.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.RemoveEatenPetals:
+                buttonHelpRemoveEatenPetals.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.AddMagicPowder:
+                buttonHelpMagicPowder.SetActive(true);
+                break;
+
+            case HarassmentHelpActionType.AddLadybugs:
+                buttonHelpLadybugs.SetActive(true);
+                break;
+        }
+    }
+    
+    public void RefreshHarassmentFlowerUI()
+    {
+        ShowHarassmentHelpAction();
+    }
+    
+    public void RefreshHarassmentAfterHelpAction()
+    {
+        StopAllCoroutines();
+        StartCoroutine(RefreshHarassmentAfterHelpActionRoutine());
+    }
+
+    IEnumerator RefreshHarassmentAfterHelpActionRoutine()
+    {
+        yield return MoveTableau(positionTableauCachee);
+
+        HideAllActionPanels();
+        HideAllButtons();
+
+        if (panelNextAction != null)
+            panelNextAction.SetActive(false);
+
+        ShowHarassmentHelpAction();
+        yield return null;
+
+        if (harassmentFlowerHelp != null &&
+            harassmentFlowerHelp.HasActionAvailable(turnManager.jourActuel))
+        {
+            yield return MoveTableau(positionTableauVisible);
+        }
+        else
+        {
+            currentMode = UISelectionMode.CurrentPlayer;
+
+            if (turnManager != null)
+                turnManager.RefreshCurrentTourUI();
+
+            ShowActionsForCurrentFlower();
+
+            yield return MoveTableau(positionTableauVisible);
+        }
+        
+        
+    }
+    
+    public bool IsOnHarassmentFlower()
+    {
+        return currentMode == UISelectionMode.HarassmentFlower;
+    }
+    
+    public void ForceCurrentPlayerUIWithoutAnimation()
+    {
+        currentMode = UISelectionMode.CurrentPlayer;
+
+        HideAllHarassmentHelpButtons();
+        HideAllActionPanels();
+        HideAllButtons();
+
+        if (panelNextAction != null)
+            panelNextAction.SetActive(false);
+
+        if (turnManager != null)
+            turnManager.RefreshCurrentTourUI();
+
+        ShowActionsForCurrentFlower();
+    }
+    
+    public void ForceExitHarassmentWithoutShowingPlayerActions()
+    {
+        currentMode = UISelectionMode.CurrentPlayer;
+
+        HideAllHarassmentHelpButtons();
+        HideAllActionPanels();
+        HideAllButtons();
+
+        if (panelNextAction != null)
+            panelNextAction.SetActive(false);
+    }
 }
