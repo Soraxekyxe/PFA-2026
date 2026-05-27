@@ -148,15 +148,6 @@ public class TurnManager : MonoBehaviour
         if (uiMenuInteract != null)
             uiMenuInteract.UpdateActionPoint();
         
-        // Lance les événements liés au harcèlement / contraintes
-        if (harrasementManager != null)
-        {
-            Debug.Log("GrowingFlower");
-            harrasementManager.GrowingFlower();
-            Debug.Log("HarrasementInDays");
-            harrasementManager.HarrasementInDays();
-            Debug.Log("Fin Harassment");
-        }
 
         // Si le jour 8 est atteint, la partie est terminée
         if (jourActuel == 8 && !finEnCours)
@@ -378,8 +369,6 @@ public class TurnManager : MonoBehaviour
         // Passe au jour suivant
         jourActuel++;
         
-        if (uiMenuInteract != null && uiMenuInteract.harassmentFlowerHelp != null)
-            uiMenuInteract.harassmentFlowerHelp.AdvanceHelpDay();
 
         // Lance la rotation du ciel
         StartCoroutine(RotateSkySmooth());

@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 6673697924add6a4294d4ebd39e6cb5a
+guid: 426cdb26e7371394fa42a448a1a36bf6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2649393809432452772
-    second: PFA26_Chrys_feuilles_mortes_0
+      213: 6617520706313436259
+    second: PFA26_fleur_harcelee_Chrysantheme_dessecher_0
   - first:
-      213: 8102633965145979484
-    second: PFA26_Chrys_feuilles_mortes_1
+      213: -502432287945512204
+    second: PFA26_fleur_harcelee_Chrysantheme_dessecher_1
   - first:
-      213: -8103254777800283840
-    second: PFA26_Chrys_feuilles_mortes_2
-  - first:
-      213: 1226773601721826118
-    second: PFA26_Chrys_feuilles_mortes_3
+      213: -3579034456882538601
+    second: PFA26_fleur_harcelee_Chrysantheme_dessecher_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -122,13 +119,57 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_0
+      name: PFA26_fleur_harcelee_Chrysantheme_dessecher_0
       rect:
         serializedVersion: 2
-        x: 471
+        x: 452
+        y: 699
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cba91750826db50800000000000000
+      internalID: 6617520706313436259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_fleur_harcelee_Chrysantheme_dessecher_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 629
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa22510f700709f0800000000000000
+      internalID: -502432287945512204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_fleur_harcelee_Chrysantheme_dessecher_2
+      rect:
+        serializedVersion: 2
+        x: 409
         y: 434
-        width: 26
-        height: 24
+        width: 293
+        height: 178
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,74 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c51e8ae0e567b3bd0800000000000000
-      internalID: -2649393809432452772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_1
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 421
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5a7a8569a6527070800000000000000
-      internalID: 8102633965145979484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_2
-      rect:
-        serializedVersion: 2
-        x: 546
-        y: 355
-        width: 191
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0492ab466b47b8f80800000000000000
-      internalID: -8103254777800283840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_3
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 342
-        width: 108
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64bb47e4710660110800000000000000
-      internalID: 1226773601721826118
+      spriteID: 79712aebf17b45ec0800000000000000
+      internalID: -3579034456882538601
       vertices: []
       indices: 
       edges: []
@@ -213,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PFA26_Chrys_feuilles_mortes_0: -2649393809432452772
-      PFA26_Chrys_feuilles_mortes_1: 8102633965145979484
-      PFA26_Chrys_feuilles_mortes_2: -8103254777800283840
-      PFA26_Chrys_feuilles_mortes_3: 1226773601721826118
+      PFA26_fleur_harcelee_Chrysantheme_dessecher_0: 6617520706313436259
+      PFA26_fleur_harcelee_Chrysantheme_dessecher_1: -502432287945512204
+      PFA26_fleur_harcelee_Chrysantheme_dessecher_2: -3579034456882538601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

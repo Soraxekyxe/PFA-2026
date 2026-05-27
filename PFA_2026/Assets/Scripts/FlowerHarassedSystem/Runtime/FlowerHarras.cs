@@ -126,4 +126,11 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         
         ShowUIHealth();
     }
+    
+    public void UpdateHarassmentVisual(HarassementState.HarassmentVisualState state)
+    {
+        harrassmentState.currentHarassmentVisualState = state;
+        flowerSprite.sprite = harrassmentState.GetHarassmentVisualSprite(state);
+        IsHealth = false;
+    }
 }

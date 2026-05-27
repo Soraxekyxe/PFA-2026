@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 6673697924add6a4294d4ebd39e6cb5a
+guid: 24d49375d6ab95440bde4894846013c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2649393809432452772
-    second: PFA26_Chrys_feuilles_mortes_0
+      213: 3754301379855553959
+    second: PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_0
   - first:
-      213: 8102633965145979484
-    second: PFA26_Chrys_feuilles_mortes_1
+      213: 2410435870495451157
+    second: PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_1
   - first:
-      213: -8103254777800283840
-    second: PFA26_Chrys_feuilles_mortes_2
-  - first:
-      213: 1226773601721826118
-    second: PFA26_Chrys_feuilles_mortes_3
+      213: 3932792505775286277
+    second: PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -122,57 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_0
+      name: PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_0
       rect:
         serializedVersion: 2
-        x: 471
-        y: 434
-        width: 26
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c51e8ae0e567b3bd0800000000000000
-      internalID: -2649393809432452772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_1
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 421
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5a7a8569a6527070800000000000000
-      internalID: 8102633965145979484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_2
-      rect:
-        serializedVersion: 2
-        x: 546
+        x: 444
         y: 355
-        width: 191
-        height: 177
+        width: 288
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0492ab466b47b8f80800000000000000
-      internalID: -8103254777800283840
+      spriteID: 7a59c0eb635f91430800000000000000
+      internalID: 3754301379855553959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PFA26_Chrys_feuilles_mortes_3
+      name: PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_1
       rect:
         serializedVersion: 2
-        x: 434
-        y: 342
-        width: 108
-        height: 91
+        x: 527
+        y: 732
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +156,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64bb47e4710660110800000000000000
-      internalID: 1226773601721826118
+      spriteID: 518adb637a6937120800000000000000
+      internalID: 2410435870495451157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 574
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ed0a72f5149630800000000000000
+      internalID: 3932792505775286277
       vertices: []
       indices: 
       edges: []
@@ -213,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PFA26_Chrys_feuilles_mortes_0: -2649393809432452772
-      PFA26_Chrys_feuilles_mortes_1: 8102633965145979484
-      PFA26_Chrys_feuilles_mortes_2: -8103254777800283840
-      PFA26_Chrys_feuilles_mortes_3: 1226773601721826118
+      PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_0: 3754301379855553959
+      PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_1: 2410435870495451157
+      PFA26_fleur_harcelee_Chrysantheme_feuilles_manger_2: 3932792505775286277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

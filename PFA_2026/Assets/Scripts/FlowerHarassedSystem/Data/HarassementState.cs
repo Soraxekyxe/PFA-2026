@@ -1,10 +1,9 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "HarassementState", menuName = "Scriptable Objects/HarassementState")]
 public class HarassementState : ScriptableObject
 {
-    [Header("Sprite Harassment")] 
+    [Header("Ancien Sprite Harassment")]
     public Sprite[] trampledSoil;
     public Sprite[] missingFertilizer;
     public Sprite[] seedEat;
@@ -13,7 +12,7 @@ public class HarassementState : ScriptableObject
     public Sprite[] shadow;
     public Sprite[] flowerEat;
 
-    [Header("Sprite Healthy")] 
+    [Header("Sprite Healthy")]
     public Sprite flattenedSoil;
     public Sprite fertilizer;
     public Sprite wellPreparedSoil;
@@ -23,18 +22,13 @@ public class HarassementState : ScriptableObject
     public Sprite flower;
 
     [Header("Grow")]
-    // Niveau de croissance de la fleur ce qui change le sprite de la fleur (exp : 1 = fleur planter, 2 = fleur en bourgeon)
     [Range(1, 7)]
     public int FlowerGrow;
 
-    [Header("Vie")] 
-    public int MaxHealth = 100 ;
-    public int  CurrentHealth;
+    [Header("Vie")]
+    public int MaxHealth = 100;
+    public int CurrentHealth;
 
-
-    // ----------- Etat du harcelement ----------- //
-
-    // Liste des Etats
     public enum State
     {
         Healthy,
@@ -47,48 +41,35 @@ public class HarassementState : ScriptableObject
         FlowerEat,
     }
 
-    // Ici on relie les sprite à la liste des etats
+    public State currentState;
+
     public Sprite StateSprite(State allState, int spriteIndex)
     {
         switch (allState)
         {
-            case State.TrampledSoil: 
-                return GetSpriteFromArray(trampledSoil, spriteIndex);
-            case State.MissingFertilizer: 
-                return GetSpriteFromArray (missingFertilizer, spriteIndex);
-            case State.SeedEat: 
-                return GetSpriteFromArray (seedEat, spriteIndex);
-            case State.DrinkWater: 
-                return GetSpriteFromArray (drinkWater,  spriteIndex);
-            case State.Feather: 
-                return GetSpriteFromArray (feather, spriteIndex);
-            case State.Shadow: 
-                return GetSpriteFromArray (shadow,  spriteIndex);
-            case State.FlowerEat: 
-                return GetSpriteFromArray (flowerEat, spriteIndex);
+            case State.TrampledSoil: return GetSpriteFromArray(trampledSoil, spriteIndex);
+            case State.MissingFertilizer: return GetSpriteFromArray(missingFertilizer, spriteIndex);
+            case State.SeedEat: return GetSpriteFromArray(seedEat, spriteIndex);
+            case State.DrinkWater: return GetSpriteFromArray(drinkWater, spriteIndex);
+            case State.Feather: return GetSpriteFromArray(feather, spriteIndex);
+            case State.Shadow: return GetSpriteFromArray(shadow, spriteIndex);
+            case State.FlowerEat: return GetSpriteFromArray(flowerEat, spriteIndex);
+            default: return null;
         }
-        return null;
     }
-    
-    Sprite GetSpriteFromArray(Sprite[] sprites, int index)
+
+    private Sprite GetSpriteFromArray(Sprite[] sprites, int index)
     {
+        if (sprites == null || sprites.Length == 0)
         {
-            if (sprites == null || sprites.Length == 0)
-            {
-                Debug.LogWarning("Aucun sprite assigné pour cet état !");
-                return null;
-            }
-
-            // ✅ adapte automatiquement l’index
-            index = Mathf.Clamp(index, 0, sprites.Length - 1);
-
-            return sprites[index];
+            Debug.LogWarning("Aucun sprite assigné pour cet état !");
+            return null;
         }
+
+        index = Mathf.Clamp(index, 0, sprites.Length - 1);
+        return sprites[index];
     }
 
-    // ----------- Stade de croissance de la fleur ----------- //
-    
-    // Liste des Etats
     public enum FlowerHeatlyState
     {
         FlattenedSoil,
@@ -99,23 +80,9 @@ public class HarassementState : ScriptableObject
         Bud,
         Flower
     }
-    
-    // Liste de sprite  
-    public Sprite[] AllFlowerSprites()
-    {
-        return new[]
-        {
-            flattenedSoil,
-            fertilizer,
-            wellPreparedSoil,
-            flowerShoot,
-            deadLeaf,
-            bud,
-            flower
-        };
-    }
-    
-    // Ici on relie les sprite à la liste des etats
+
+    public FlowerHeatlyState currentFlowerHeatlyState;
+
     public Sprite FlowerHeatlySprite(FlowerHeatlyState state)
     {
         switch (state)
@@ -128,14 +95,103 @@ public class HarassementState : ScriptableObject
             case FlowerHeatlyState.Bud: return bud;
             case FlowerHeatlyState.Flower: return flower;
             default: return null;
-        };
+        }
     }
-    
-    // ----------- Indique l'etat actuel de la fleur ----------- //
-    
-    // Etat actuel de la fleur harceler
-    public State currentState;
-    
-    // Etat actuel de la fleur lorsquelle est soigner
-    public FlowerHeatlyState currentFlowerHeatlyState;
+
+    // ---------------- NOUVEAU SYSTEME VISUEL FLEUR ISOLEE ----------------
+
+    public enum HarassmentVisualState
+    {
+        TrampledSoil,
+        RakedSoil,
+        DugSoil,
+
+        MissingFertilizer,
+        SoilWithFertilizer,
+
+        MissingSeed,
+        SoilWithSeed,
+        CoveredSoil,
+
+        MissingWater,
+        WateredSoil,
+
+        FeatherFlower,
+        FlowerWithDeadLeaves,
+        FlowerWithoutDeadLeaves,
+
+        ShadowFlower,
+        FlowerWithoutShadow,
+        FlowerWithReflectivePanel,
+
+        EatenPetals,
+        NeedMagic,
+        FullyGrownFlower,
+        FlowerWithLadybug
+    }
+
+    [Header("Nouveaux sprites fleur isolée")]
+    public Sprite trampledSoilVisual;
+    public Sprite rakedSoilVisual;
+    public Sprite dugSoilVisual;
+
+    public Sprite missingFertilizerVisual;
+    public Sprite soilWithFertilizerVisual;
+
+    public Sprite missingSeedVisual;
+    public Sprite soilWithSeedVisual;
+    public Sprite coveredSoilVisual;
+
+    public Sprite missingWaterVisual;
+    public Sprite wateredSoilVisual;
+
+    public Sprite featherFlowerVisual;
+    public Sprite flowerWithDeadLeavesVisual;
+    public Sprite flowerWithoutDeadLeavesVisual;
+
+    public Sprite shadowFlowerVisual;
+    public Sprite flowerWithoutShadowVisual;
+    public Sprite flowerWithReflectivePanelVisual;
+
+    public Sprite eatenPetalsVisual;
+    public Sprite needMagicVisual;
+    public Sprite fullyGrownFlowerVisual;
+    public Sprite flowerWithLadybugVisual;
+
+    public HarassmentVisualState currentHarassmentVisualState;
+
+    public Sprite GetHarassmentVisualSprite(HarassmentVisualState state)
+    {
+        switch (state)
+        {
+            case HarassmentVisualState.TrampledSoil: return trampledSoilVisual;
+            case HarassmentVisualState.RakedSoil: return rakedSoilVisual;
+            case HarassmentVisualState.DugSoil: return dugSoilVisual;
+
+            case HarassmentVisualState.MissingFertilizer: return missingFertilizerVisual;
+            case HarassmentVisualState.SoilWithFertilizer: return soilWithFertilizerVisual;
+
+            case HarassmentVisualState.MissingSeed: return missingSeedVisual;
+            case HarassmentVisualState.SoilWithSeed: return soilWithSeedVisual;
+            case HarassmentVisualState.CoveredSoil: return coveredSoilVisual;
+
+            case HarassmentVisualState.MissingWater: return missingWaterVisual;
+            case HarassmentVisualState.WateredSoil: return wateredSoilVisual;
+
+            case HarassmentVisualState.FeatherFlower: return featherFlowerVisual;
+            case HarassmentVisualState.FlowerWithDeadLeaves: return flowerWithDeadLeavesVisual;
+            case HarassmentVisualState.FlowerWithoutDeadLeaves: return flowerWithoutDeadLeavesVisual;
+
+            case HarassmentVisualState.ShadowFlower: return shadowFlowerVisual;
+            case HarassmentVisualState.FlowerWithoutShadow: return flowerWithoutShadowVisual;
+            case HarassmentVisualState.FlowerWithReflectivePanel: return flowerWithReflectivePanelVisual;
+
+            case HarassmentVisualState.EatenPetals: return eatenPetalsVisual;
+            case HarassmentVisualState.NeedMagic: return needMagicVisual;
+            case HarassmentVisualState.FullyGrownFlower: return fullyGrownFlowerVisual;
+            case HarassmentVisualState.FlowerWithLadybug: return flowerWithLadybugVisual;
+
+            default: return trampledSoilVisual;
+        }
+    }
 }
