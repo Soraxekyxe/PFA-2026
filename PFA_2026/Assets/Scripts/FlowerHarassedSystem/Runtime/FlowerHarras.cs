@@ -135,4 +135,9 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         flowerSprite.color = Color.white;
         IsHealth = false;
     }
+    
+    public HarassementState.HarassmentVisualState CurrentVisualState
+    {
+        get { return harrassmentState.currentHarassmentVisualState; }
+    }
 }

@@ -74,6 +74,9 @@ public class TurnManager : MonoBehaviour
     
     private bool canNextTurn = true;
     
+    [Header("Fleur isolée")]
+    [SerializeField] private FlowerHarras flowerHarras;
+    
     /// Initialise la partie au lancement de la scène.
     void Start()
     {
@@ -479,8 +482,18 @@ public class TurnManager : MonoBehaviour
             if (obj != null)
                 obj.SetActive(true);
         }
+        
+        if (flowerHarras != null)
+        {
+            EndGameScreenshotStore.finalFlowerState =
+                flowerHarras.CurrentVisualState;
+        }
+        
+        Time.timeScale = 1f;
 
-        // Charge la scène de fin
+        
+
         SceneManager.LoadScene(nomSceneFin);
+        
     }
 }
