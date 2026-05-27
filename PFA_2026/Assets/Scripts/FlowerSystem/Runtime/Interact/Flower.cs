@@ -14,6 +14,15 @@ public class Flower : MonoBehaviour, IPointerClickHandler
 
     [Header("State")]
     public FlowerState currentState = FlowerState.TerreVide;
+    
+    [Header("Indicateur action disponible")]
+    [SerializeField] private GameObject actionAvailableIcon;
+    [SerializeField] private float iconRotationSpeed = 90f;
+    [SerializeField] private float iconPulseSpeed = 3f;
+    [SerializeField] private float iconMinScale = 0.85f;
+    [SerializeField] private float iconMaxScale = 1.15f;
+
+    private Vector3 iconBaseScale;
 
     private int progressIndex = 0;
 
@@ -21,6 +30,61 @@ public class Flower : MonoBehaviour, IPointerClickHandler
     {
         Action,
         WaitNextDay
+    }
+    
+    private void Awake()
+    {
+        if (actionAvailableIcon != null)
+        {
+            iconBaseScale = actionAvailableIcon.transform.localScale;
+            actionAvailableIcon.SetActive(false);
+        }
+    }
+    
+    private void Update()
+    {
+        UpdateActionAvailableIcon();
+        AnimateActionAvailableIcon();
+    }
+    
+    void UpdateActionAvailableIcon()
+    {
+        if (actionAvailableIcon == null)
+            return;
+
+        UIMenuInteract ui = FindObjectOfType<UIMenuInteract>();
+
+        if (ui == null || ui.turnManager == null)
+        {
+            actionAvailableIcon.SetActive(false);
+            return;
+        }
+
+        Flower currentFlower = ui.turnManager.GetCurrentFlower();
+
+        bool canShow =
+            currentFlower == this &&
+            HasActionAvailable(ui.turnManager.jourActuel) &&
+            !ui.IsShowingCurrentFlowerUI();
+
+        actionAvailableIcon.SetActive(canShow);
+    }
+
+    void AnimateActionAvailableIcon()
+    {
+        if (actionAvailableIcon == null || !actionAvailableIcon.activeSelf)
+            return;
+
+        actionAvailableIcon.transform.Rotate(
+            0f,
+            0f,
+            -iconRotationSpeed * Time.deltaTime
+        );
+
+        float t = (Mathf.Sin(Time.time * iconPulseSpeed) + 1f) / 2f;
+        float scale = Mathf.Lerp(iconMinScale, iconMaxScale, t);
+
+        actionAvailableIcon.transform.localScale = iconBaseScale * scale;
     }
 
     private struct FlowerStep

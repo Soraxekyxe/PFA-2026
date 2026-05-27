@@ -139,6 +139,7 @@ public class UIMenuInteract : MonoBehaviour
     /// Affiche immédiatement le tableau au début de la journée
     public void ShowBoardAtStartOfDay()
     {
+        currentFlowerUIActive = true;
         if (tableauActions == null)
             return;
 
@@ -405,6 +406,7 @@ public class UIMenuInteract : MonoBehaviour
 
     public void ShowHarassmentFlowerUI()
     {
+        currentFlowerUIActive = false;
         if (currentMode == UISelectionMode.HarassmentFlower)
         {
             ShowHarassmentHelpAction();
@@ -440,6 +442,7 @@ public class UIMenuInteract : MonoBehaviour
 
     public void RestoreCurrentPlayerUI()
     {
+        currentFlowerUIActive = true;
         if (currentMode == UISelectionMode.CurrentPlayer)
             return;
 
@@ -621,6 +624,7 @@ public class UIMenuInteract : MonoBehaviour
     
     public void ForceCurrentPlayerUIWithoutAnimation()
     {
+        currentFlowerUIActive = true;
         currentMode = UISelectionMode.CurrentPlayer;
 
         HideAllHarassmentHelpButtons();
@@ -647,4 +651,13 @@ public class UIMenuInteract : MonoBehaviour
         if (panelNextAction != null)
             panelNextAction.SetActive(false);
     }
+    
+    public bool IsShowingCurrentFlowerUI()
+    {
+        return currentFlowerUIActive;
+    }
+    
+    private bool currentFlowerUIActive = false;
+    
+    
 }
