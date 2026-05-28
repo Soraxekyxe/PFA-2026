@@ -87,8 +87,6 @@ public class HealthHarrassment : MonoBehaviour
 
     public void Health()
     {
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         switch (harrassementState.currentState)
         {
@@ -141,8 +139,6 @@ public class HealthHarrassment : MonoBehaviour
     
     public void DoHarassmentHelpAction(HarassmentHelpActionType actionType)
     {
-        if (SoundManager.instance != null)
-            SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
     
         if (harassmentFlowerHelp == null || turnManager == null || menuInteract == null)
         {
@@ -342,9 +338,7 @@ public class HealthHarrassment : MonoBehaviour
             return;
 
         harassmentTapCount++;
-
-        if (SoundManager.instance != null)
-            SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+        
 
         if (harassmentTapCount >= tapsRequired)
         {

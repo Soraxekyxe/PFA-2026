@@ -2,8 +2,6 @@ using System.Collections;
 using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
-using Ami.BroAudio;
-using Ami.BroAudio.Runtime;
 using UnityEngine.SceneManagement;
 
 /// Gère le système de tours du jeu :
@@ -242,8 +240,7 @@ public class TurnManager : MonoBehaviour
 
         canNextTurn = false;
 
-        if (SoundManager.instance != null)
-            SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+
 
         StartCoroutine(NextTurnCooldown());
         StartCoroutine(NextTurnRoutine());

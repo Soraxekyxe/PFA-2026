@@ -33,9 +33,6 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         //Joue le son
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
-        SoundManager.instance.Music(SoundManager.instance.Background);
         
         
         pauseMenuUI.SetActive(false);
@@ -46,9 +43,6 @@ public class PauseMenu : MonoBehaviour
 
     public void Pause()
     {
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
-        SoundManager.instance.Music(SoundManager.instance.PauseMenu);
         
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
@@ -65,8 +59,6 @@ public class PauseMenu : MonoBehaviour
     public void AskMainMenu()
     {
         // Joue le son
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         actionToConfirm = ActionType.MainMenu;
         confirmMenuUI.SetActive(true);
@@ -77,8 +69,7 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f;
 
         // Joue le son
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
+
         
         if (actionToConfirm == ActionType.Quit)
         {
@@ -94,16 +85,12 @@ public class PauseMenu : MonoBehaviour
     public void ConfirmNo()
     {
         // Joue le son
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         CloseConfirmMenu();
     }
 
     void CloseConfirmMenu()
     {
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         confirmMenuUI.SetActive(false);
         actionToConfirm = ActionType.None;

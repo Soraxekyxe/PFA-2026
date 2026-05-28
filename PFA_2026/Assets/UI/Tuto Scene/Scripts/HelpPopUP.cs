@@ -8,8 +8,6 @@ public class HelpPopup : MonoBehaviour
 
     public void ToggleHelp()
     {
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         isOpen = !isOpen;
         helpPanel.SetActive(isOpen);

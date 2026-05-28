@@ -12,8 +12,6 @@ public class MenuManager : MonoBehaviour
     //lance la scene de jeu
     public void Play()
     {
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         SceneManager.LoadScene(nomSceneJeu);
     }
@@ -21,8 +19,6 @@ public class MenuManager : MonoBehaviour
     //pour load la scene carousel
     public void OpenRules()
     {
-        if(SoundManager.instance != null)
-        SoundManager.instance.UISoundPlay(SoundManager.instance.UI);
         
         SceneManager.LoadScene(nomSceneRegles);
     }
