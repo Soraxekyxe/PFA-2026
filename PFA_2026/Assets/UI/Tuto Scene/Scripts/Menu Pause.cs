@@ -8,10 +8,16 @@ public class PauseMenu : MonoBehaviour
 
     private bool isPaused = false;
 
-    private enum ActionType { None, Quit, MainMenu }
+    private enum ActionType
+    {
+        None,
+        Quit,
+        MainMenu
+    }
+
     private ActionType actionToConfirm = ActionType.None;
 
-    void Update()
+    private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
@@ -32,48 +38,76 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
-        //Joue le son
-        
-        
+        if (SoundManagerY.Instance != null)
+        {
+            SoundManagerY.Instance.PlaySFX("bop");
+            SoundManagerY.Instance.PlayMusic("gamebackground");
+        }
+
         pauseMenuUI.SetActive(false);
         confirmMenuUI.SetActive(false);
+
         Time.timeScale = 1f;
         isPaused = false;
     }
 
     public void Pause()
     {
-        
+        Debug.Log("PAUSE appelée");
+
+        if (SoundManagerY.Instance != null)
+        {
+            Debug.Log("Je lance pausemenu + bop");
+            SoundManagerY.Instance.PlaySFX("bop");
+            SoundManagerY.Instance.PlayMusic("pausemenu");
+        }
+        else
+        {
+            Debug.LogWarning("SoundManagerY.Instance est NULL");
+        }
+
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
     }
 
-    //ouvre le pop up de confirmation
     public void AskQuit()
     {
+        if (SoundManagerY.Instance != null)
+        {
+            SoundManagerY.Instance.PlaySFX("bop");
+        }
+
         actionToConfirm = ActionType.Quit;
+
         confirmMenuUI.SetActive(true);
     }
 
     public void AskMainMenu()
     {
-        // Joue le son
-        
+        if (SoundManagerY.Instance != null)
+        {
+            SoundManagerY.Instance.PlaySFX("bop");
+        }
+
         actionToConfirm = ActionType.MainMenu;
+
         confirmMenuUI.SetActive(true);
     }
 
     public void ConfirmYes()
     {
+        if (SoundManagerY.Instance != null)
+        {
+            SoundManagerY.Instance.PlaySFX("bop");
+        }
+
         Time.timeScale = 1f;
 
-        // Joue le son
-
-        
         if (actionToConfirm == ActionType.Quit)
         {
             Application.Quit();
+
             Debug.Log("Quit Game");
         }
         else if (actionToConfirm == ActionType.MainMenu)
@@ -84,15 +118,18 @@ public class PauseMenu : MonoBehaviour
 
     public void ConfirmNo()
     {
-        // Joue le son
-        
+        if (SoundManagerY.Instance != null)
+        {
+            SoundManagerY.Instance.PlaySFX("bop");
+        }
+
         CloseConfirmMenu();
     }
 
-    void CloseConfirmMenu()
+    private void CloseConfirmMenu()
     {
-        
         confirmMenuUI.SetActive(false);
+
         actionToConfirm = ActionType.None;
     }
 }
