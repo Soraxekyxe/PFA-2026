@@ -84,6 +84,9 @@ public class TurnManager : MonoBehaviour
         // Cache la popup de fin de journée au démarrage
         popupJourSuivant.SetActive(false);
         
+        // Lance la musique du menu
+        SoundManagerY.Instance.PlayMusic("GameBackground");
+        
         // Initialise les noms et l’affichage des fleurs
         InitialiserNoms();
         
@@ -244,6 +247,9 @@ public class TurnManager : MonoBehaviour
 
         StartCoroutine(NextTurnCooldown());
         StartCoroutine(NextTurnRoutine());
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
     }
     
     IEnumerator NextTurnCooldown()

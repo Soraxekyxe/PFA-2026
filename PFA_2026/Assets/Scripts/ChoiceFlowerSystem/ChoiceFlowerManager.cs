@@ -117,6 +117,9 @@ public class ChoiceFlowerManager : MonoBehaviour
         joueurs[joueurActuel].flowerId = flowerData.flowerId;
 
         Debug.Log("Joueur " + (joueurActuel + 1) + " a choisi la fleur : " + flowerData.flowerName);
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
 
         StartNamingFlower();
     }
@@ -132,6 +135,9 @@ public class ChoiceFlowerManager : MonoBehaviour
 
         currentName += lettre;
         texteNomActuel.text = currentName;
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("LetterSelect");
     }
 
     public void RemoveLetter()
@@ -144,6 +150,9 @@ public class ChoiceFlowerManager : MonoBehaviour
 
         currentName = currentName.Substring(0, currentName.Length - 1);
         texteNomActuel.text = currentName;
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("RemoveLetter");
     }
 
     public void Continue()
@@ -168,6 +177,9 @@ public class ChoiceFlowerManager : MonoBehaviour
         {
             StartNamingGarden();
         }
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("SecondValidate");
     }
 
     public void StartGame()
@@ -192,6 +204,9 @@ public class ChoiceFlowerManager : MonoBehaviour
         PlayerPrefs.Save();
 
         currentStep = Step.Finished;
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("SecondValidate");
         SceneManager.LoadScene(gameSceneName);
+        
     }
 }

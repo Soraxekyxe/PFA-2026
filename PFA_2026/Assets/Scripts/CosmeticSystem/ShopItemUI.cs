@@ -43,6 +43,9 @@ public class ShopItemUI : MonoBehaviour
             bought = true;
 
             buyButton.interactable = false;
+            
+            // Son du bouton
+            SoundManagerY.Instance.PlaySFX("Buy");
         }
         else
         {

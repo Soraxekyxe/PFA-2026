@@ -9,23 +9,39 @@ public class MenuManager : MonoBehaviour
     [Header("Nom de la scène des règles")]
     public string nomSceneRegles = "Rules";
 
-    //lance la scene de jeu
+    private void Start()
+    {
+        // Lance la musique du menu
+        SoundManagerY.Instance.PlayMusic("MainMenu");
+    }
+
+    // Lance la scène de jeu
     public void Play()
     {
-        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
+
+        // Charge la scène
         SceneManager.LoadScene(nomSceneJeu);
     }
 
-    //pour load la scene carousel
+    // Ouvre la scène des règles
     public void OpenRules()
     {
-        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
+
+        // Charge la scène
         SceneManager.LoadScene(nomSceneRegles);
     }
 
     public void QuitGame()
     {
-        Application.Quit();
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
+
         Debug.Log("Quitter le jeu");
+
+        Application.Quit();
     }
 }

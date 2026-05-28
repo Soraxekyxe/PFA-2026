@@ -32,6 +32,9 @@ public class ChoicePlayer : MonoBehaviour
         {
             nombreJoueurs = minJoueurs;
         }
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
 
         UpdateDisplay();
     }
@@ -47,6 +50,9 @@ public class ChoicePlayer : MonoBehaviour
         {
             nombreJoueurs = maxJoueurs;
         }
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
 
         UpdateDisplay();
     }
@@ -60,6 +66,9 @@ public class ChoicePlayer : MonoBehaviour
     //---Quand on clique sur le bouton demarrer ça Load la prochaine salle
     public void ToStartUp()
     {
+        
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Bop");
         
         PlayerPrefs.SetInt("NombreJoueurs", nombreJoueurs);
         SceneManager.LoadScene(nomSceneJeu);

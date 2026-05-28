@@ -17,7 +17,7 @@ public class CosmeticPointsManager : MonoBehaviour
     void Awake()
     {
         Instance = this;
-        Debug.Log("✅ CosmeticPointsManager initialisé");
+        Debug.Log("CosmeticPointsManager initialisé");
     }
 
     void Start()
@@ -39,6 +39,7 @@ public class CosmeticPointsManager : MonoBehaviour
         UpdateUI();
 
         StartCoroutine(ShowFeedback("+" + amount + " points"));
+        
     }
 
     // Dépenser des points
@@ -50,6 +51,7 @@ public class CosmeticPointsManager : MonoBehaviour
         points -= amount;
         UpdateUI();
         return true;
+        
     }
 
     // Affichage du texte "+2 points"
