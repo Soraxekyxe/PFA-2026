@@ -162,12 +162,15 @@ public class HealthHarrassment : MonoBehaviour
         Debug.Log("Action dispo ? " + harassmentFlowerHelp.HasActionAvailable(turnManager.jourActuel));
     
         bool success = harassmentFlowerHelp.PerformAction(actionType, turnManager.jourActuel);
+        
     
         if (!success)
         {
             Debug.Log("Action impossible : " + actionType);
             return;
         }
+        
+        cosmeticPointsManager.AddPoints(10);
         
         menuInteract.actionPoint -= 1;
         menuInteract.UiUpdate();
