@@ -6,6 +6,10 @@ using UnityEngine.EventSystems;
 
 public class FlowerSlotUI : MonoBehaviour, IPointerClickHandler
 {
+    [Header("Turn Icon")]
+    public GameObject turnIconObject;
+    public Image turnIconImage;
+
     public TextMeshProUGUI flowerNameText;
     public Image slotImage;
     public Flower flower;
@@ -25,13 +29,13 @@ public class FlowerSlotUI : MonoBehaviour, IPointerClickHandler
             blinkCoroutine = null;
         }
 
-        if (!active)
-        {
-            SetAlpha(1f);
-            return;
-        }
+        SetAlpha(1f);
 
-        blinkCoroutine = StartCoroutine(BlinkRoutine());
+        if (turnIconObject != null)
+            turnIconObject.SetActive(active);
+
+        if (active && turnIconImage != null && flower != null && flower.flowerData != null)
+            turnIconImage.sprite = flower.flowerData.turnIcon;
     }
 
     IEnumerator BlinkRoutine()
@@ -65,7 +69,7 @@ public class FlowerSlotUI : MonoBehaviour, IPointerClickHandler
         c.a = alpha;
         slotImage.color = c;
     }
-    
+
     public void OnPointerClick(PointerEventData eventData)
     {
         UIMenuInteract ui = FindObjectOfType<UIMenuInteract>();

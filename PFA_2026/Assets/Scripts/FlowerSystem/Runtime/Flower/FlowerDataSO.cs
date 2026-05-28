@@ -10,6 +10,9 @@ public class FlowerDataSO : ScriptableObject
 
     [Header("Visuels par état")]
     public List<FlowerStateVisual> stateVisuals = new List<FlowerStateVisual>();
+
+    [Header("Icone du tour")]
+    public Sprite turnIcon;
     // Liste qui associe chaque état à un sprite
 
     public Sprite GetSpriteForState(FlowerState state)
@@ -27,7 +30,7 @@ public class FlowerDataSO : ScriptableObject
         // Si aucun sprite n'est trouvé, on retourne null
         return null;
     }
-    
+
     // Retourne le premier sprite de la liste
     public Sprite GetFirstSprite()
     {

@@ -34,7 +34,7 @@ MonoBehaviour:
   - state: 8
     sprite: {fileID: -7043340811942855662, guid: 0c8f5f5898ba9eb44afc8b626e104d0e, type: 3}
   - state: 9
-    sprite: {fileID: -8103254777800283840, guid: 6673697924add6a4294d4ebd39e6cb5a, type: 3}
+    sprite: {fileID: 21300000, guid: 6673697924add6a4294d4ebd39e6cb5a, type: 3}
   - state: 10
     sprite: {fileID: -7043340811942855662, guid: 0c8f5f5898ba9eb44afc8b626e104d0e, type: 3}
   - state: 11
@@ -45,3 +45,4 @@ MonoBehaviour:
     sprite: {fileID: 8514647892275879907, guid: 9bef2af0396e9e543af36c3b4238dcc3, type: 3}
   - state: 14
     sprite: {fileID: 1758605881523984269, guid: 9959df69540a7cb44a93b0c79855bb15, type: 3}
+  turnIcon: {fileID: 3633015144294832693, guid: 90cb06ec02b00b148b27f841acd65f0a, type: 3}

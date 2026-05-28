@@ -45,3 +45,4 @@ MonoBehaviour:
     sprite: {fileID: 3685952210768911733, guid: 68306f6a6c3831c45935b51c09a2751e, type: 3}
   - state: 14
     sprite: {fileID: -8374197364258733642, guid: e30b486fd6c68de48a255a78510aab42, type: 3}
+  turnIcon: {fileID: -3632131639520574969, guid: f198baecdb28ee8489307aa462cf6a19, type: 3}
