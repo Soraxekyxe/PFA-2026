@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: daa66438c5b99e249a1b699052255f93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4381310204891715116
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_0
+  - first:
+      213: -7378088401779331549
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_1
+  - first:
+      213: 6096900051709700975
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_2
+  - first:
+      213: -450558940146355863
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_3
+  - first:
+      213: 580826566376822133
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_4
+  - first:
+      213: 7067376575494218089
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_5
+  - first:
+      213: -3857166483037949012
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_6
+  - first:
+      213: -3555138396906237292
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_7
+  - first:
+      213: -5438868509704103016
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_8
+  - first:
+      213: 5349122838173716800
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_9
+  - first:
+      213: -7144356505213248285
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_10
+  - first:
+      213: 7106982287207499636
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_11
+  - first:
+      213: -124715916623014199
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_12
+  - first:
+      213: -8875265886197917226
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_13
+  - first:
+      213: -7795005630869016241
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_14
+  - first:
+      213: 3102785879026634506
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_15
+  - first:
+      213: 2561171622264727953
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_16
+  - first:
+      213: -6180031815629439048
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_17
+  - first:
+      213: 2125663836327278862
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_18
+  - first:
+      213: 4058274105002938392
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_19
+  - first:
+      213: 6009412488380343967
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_20
+  - first:
+      213: -8063052803598028164
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_21
+  - first:
+      213: 7708320954746705712
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_22
+  - first:
+      213: 3367668326223083473
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_23
+  - first:
+      213: 7753281169468772750
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_24
+  - first:
+      213: -5097636829191307325
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_25
+  - first:
+      213: 2328769196201043456
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_26
+  - first:
+      213: -4526851564924992602
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_27
+  - first:
+      213: 2880265251552566213
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_28
+  - first:
+      213: 5200948605481646375
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_29
+  - first:
+      213: 2207561803096073783
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_30
+  - first:
+      213: 8556461338096493505
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_31
+  - first:
+      213: -8521835475721056875
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_32
+  - first:
+      213: -3525302247103479206
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_33
+  - first:
+      213: 6631651145875694961
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_34
+  - first:
+      213: 5713560290284651361
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_35
+  - first:
+      213: 5982647876291186316
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_36
+  - first:
+      213: -4270669765396147514
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_37
+  - first:
+      213: 7755510799546305075
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_38
+  - first:
+      213: -1072558864903539918
+    second: Anim_Jonq_Fleur_Coccinelle_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a2a2f4957233c0800000000000000
+      internalID: -4381310204891715116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e638a70b3cb9990800000000000000
+      internalID: -7378088401779331549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ba7355b4a8c9450800000000000000
+      internalID: 6096900051709700975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9613336f70b4fb9f0800000000000000
+      internalID: -450558940146355863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575100d4fa28f0800800000000000000
+      internalID: 580826566376822133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961ef340d8d541260800000000000000
+      internalID: 7067376575494218089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3faf21587987ac0800000000000000
+      internalID: -3857166483037949012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4925d05c67c99aec0800000000000000
+      internalID: -3555138396906237292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b570328e14584b0800000000000000
+      internalID: -5438868509704103016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041164561e6eb3a40800000000000000
+      internalID: 5349122838173716800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec53066c952adc90800000000000000
+      internalID: -7144356505213248285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770ffd5cb211a260800000000000000
+      internalID: 7106982287207499636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c619dbd88be44ef0800000000000000
+      internalID: -124715916623014199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d70e13b8b4d480800000000000000
+      internalID: -8875265886197917226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f1edada392d390800000000000000
+      internalID: -7795005630869016241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0b75515f4f0b20800000000000000
+      internalID: 3102785879026634506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19966e1550c1b8320800000000000000
+      internalID: 2561171622264727953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf7bc09ecd1c3aa0800000000000000
+      internalID: -6180031815629439048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e097e243fffdf7d10800000000000000
+      internalID: 2125663836327278862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ddddfbc2e15830800000000000000
+      internalID: 4058274105002938392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e4b6a1d8b56350800000000000000
+      internalID: 6009412488380343967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72725ce1384a1090800000000000000
+      internalID: -8063052803598028164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0379062611579fa60800000000000000
+      internalID: 7708320954746705712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d77cd1008c5cbe20800000000000000
+      internalID: 3367668326223083473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8159ed1520399b60800000000000000
+      internalID: 7753281169468772750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7a12ff4e8149b0800000000000000
+      internalID: -5097636829191307325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066f6fde33715020800000000000000
+      internalID: 2328769196201043456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a389b96c746d21c0800000000000000
+      internalID: -4526851564924992602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb11b96cf1c8f720800000000000000
+      internalID: 2880265251552566213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729fbcc633b7d2840800000000000000
+      internalID: 5200948605481646375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736234583c5d2ae10800000000000000
+      internalID: 2207561803096073783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ea9fb048aeb670800000000000000
+      internalID: 8556461338096493505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d035319cb5cb980800000000000000
+      internalID: -8521835475721056875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c28bb84c931fc0800000000000000
+      internalID: -3525302247103479206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ab38c49b580c50800000000000000
+      internalID: 6631651145875694961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163c131ffc4aa4f40800000000000000
+      internalID: 5713560290284651361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ec49acb82a60350800000000000000
+      internalID: 5982647876291186316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2df80b9788bb4c0800000000000000
+      internalID: -4270669765396147514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac9a25bfb11ab60800000000000000
+      internalID: 7755510799546305075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Coccinelle_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2337ab025618d11f0800000000000000
+      internalID: -1072558864903539918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1478ad9341b8fa74bb43d53ff331abf0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_0: -4381310204891715116
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_1: -7378088401779331549
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_10: -7144356505213248285
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_11: 7106982287207499636
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_12: -124715916623014199
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_13: -8875265886197917226
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_14: -7795005630869016241
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_15: 3102785879026634506
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_16: 2561171622264727953
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_17: -6180031815629439048
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_18: 2125663836327278862
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_19: 4058274105002938392
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_2: 6096900051709700975
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_20: 6009412488380343967
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_21: -8063052803598028164
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_22: 7708320954746705712
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_23: 3367668326223083473
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_24: 7753281169468772750
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_25: -5097636829191307325
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_26: 2328769196201043456
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_27: -4526851564924992602
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_28: 2880265251552566213
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_29: 5200948605481646375
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_3: -450558940146355863
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_30: 2207561803096073783
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_31: 8556461338096493505
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_32: -8521835475721056875
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_33: -3525302247103479206
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_34: 6631651145875694961
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_35: 5713560290284651361
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_36: 5982647876291186316
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_37: -4270669765396147514
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_38: 7755510799546305075
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_39: -1072558864903539918
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_4: 580826566376822133
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_5: 7067376575494218089
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_6: -3857166483037949012
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_7: -3555138396906237292
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_8: -5438868509704103016
+      Anim_Jonq_Fleur_Coccinelle_spritesheet_9: 5349122838173716800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: a1ec4c7cf3b9fee46b97c26694f16d67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4337773273147449676
+    second: Anim_Jonq_Bourgeon_spritesheet_0
+  - first:
+      213: -1184907378507607692
+    second: Anim_Jonq_Bourgeon_spritesheet_1
+  - first:
+      213: -4249654491699737323
+    second: Anim_Jonq_Bourgeon_spritesheet_2
+  - first:
+      213: 5421960360018259303
+    second: Anim_Jonq_Bourgeon_spritesheet_3
+  - first:
+      213: 5391141511117218945
+    second: Anim_Jonq_Bourgeon_spritesheet_4
+  - first:
+      213: -2662576144535224097
+    second: Anim_Jonq_Bourgeon_spritesheet_5
+  - first:
+      213: -7485071074012782971
+    second: Anim_Jonq_Bourgeon_spritesheet_6
+  - first:
+      213: -4586912486088409613
+    second: Anim_Jonq_Bourgeon_spritesheet_7
+  - first:
+      213: 184360074912442386
+    second: Anim_Jonq_Bourgeon_spritesheet_8
+  - first:
+      213: -1201724284731131477
+    second: Anim_Jonq_Bourgeon_spritesheet_9
+  - first:
+      213: 956640708124358539
+    second: Anim_Jonq_Bourgeon_spritesheet_10
+  - first:
+      213: 7242266027196268552
+    second: Anim_Jonq_Bourgeon_spritesheet_11
+  - first:
+      213: 8665515060000324097
+    second: Anim_Jonq_Bourgeon_spritesheet_12
+  - first:
+      213: -8188029490922846228
+    second: Anim_Jonq_Bourgeon_spritesheet_13
+  - first:
+      213: -6730319591084225594
+    second: Anim_Jonq_Bourgeon_spritesheet_14
+  - first:
+      213: -7500524851173945939
+    second: Anim_Jonq_Bourgeon_spritesheet_15
+  - first:
+      213: 8126144407042308988
+    second: Anim_Jonq_Bourgeon_spritesheet_16
+  - first:
+      213: -636865147026148034
+    second: Anim_Jonq_Bourgeon_spritesheet_17
+  - first:
+      213: -3763351472672323906
+    second: Anim_Jonq_Bourgeon_spritesheet_18
+  - first:
+      213: 369611700845059957
+    second: Anim_Jonq_Bourgeon_spritesheet_19
+  - first:
+      213: 1684586646661039304
+    second: Anim_Jonq_Bourgeon_spritesheet_20
+  - first:
+      213: 2511254316920389734
+    second: Anim_Jonq_Bourgeon_spritesheet_21
+  - first:
+      213: 8520910300658548092
+    second: Anim_Jonq_Bourgeon_spritesheet_22
+  - first:
+      213: -8295525389736703058
+    second: Anim_Jonq_Bourgeon_spritesheet_23
+  - first:
+      213: -4862720269517139541
+    second: Anim_Jonq_Bourgeon_spritesheet_24
+  - first:
+      213: 7822033530014582837
+    second: Anim_Jonq_Bourgeon_spritesheet_25
+  - first:
+      213: -785392380264076754
+    second: Anim_Jonq_Bourgeon_spritesheet_26
+  - first:
+      213: 910129304771332013
+    second: Anim_Jonq_Bourgeon_spritesheet_27
+  - first:
+      213: -3501910794527855077
+    second: Anim_Jonq_Bourgeon_spritesheet_28
+  - first:
+      213: -2980246121018629254
+    second: Anim_Jonq_Bourgeon_spritesheet_29
+  - first:
+      213: 8232298836875929362
+    second: Anim_Jonq_Bourgeon_spritesheet_30
+  - first:
+      213: 2792545847535361564
+    second: Anim_Jonq_Bourgeon_spritesheet_31
+  - first:
+      213: -1640498067416426667
+    second: Anim_Jonq_Bourgeon_spritesheet_32
+  - first:
+      213: -7378342247577726968
+    second: Anim_Jonq_Bourgeon_spritesheet_33
+  - first:
+      213: 2546347989131897659
+    second: Anim_Jonq_Bourgeon_spritesheet_34
+  - first:
+      213: -3491267884726680307
+    second: Anim_Jonq_Bourgeon_spritesheet_35
+  - first:
+      213: 5992133074440416222
+    second: Anim_Jonq_Bourgeon_spritesheet_36
+  - first:
+      213: 8035217795132444019
+    second: Anim_Jonq_Bourgeon_spritesheet_37
+  - first:
+      213: -2201513637536801868
+    second: Anim_Jonq_Bourgeon_spritesheet_38
+  - first:
+      213: 2731761752741439089
+    second: Anim_Jonq_Bourgeon_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bedcd9c0322dc3c0800000000000000
+      internalID: -4337773273147449676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719054640d5e8fe0800000000000000
+      internalID: -1184907378507607692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d081461c13605c0800000000000000
+      internalID: -4249654491699737323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d232d783cae3b40800000000000000
+      internalID: 5421960360018259303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184210014ae21da40800000000000000
+      internalID: 5391141511117218945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08c8d7a11ac0bd0800000000000000
+      internalID: -2662576144535224097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e9aea048faf1890800000000000000
+      internalID: -7485071074012782971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd75ea75630850c0800000000000000
+      internalID: -4586912486088409613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218abe7e28afe8200800000000000000
+      internalID: 184360074912442386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f3aa412e925fe0800000000000000
+      internalID: -1201724284731131477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873e61d7aba64d00800000000000000
+      internalID: 956640708124358539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800c9ef9492b18460800000000000000
+      internalID: 7242266027196268552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10afd130908124870800000000000000
+      internalID: 8665515060000324097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce70f1f5f864e5e80800000000000000
+      internalID: -8188029490922846228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb829c9df91992a0800000000000000
+      internalID: -6730319591084225594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad89c82368c8e790800000000000000
+      internalID: -7500524851173945939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb847b84dd5c070800000000000000
+      internalID: 8126144407042308988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35fda5e5866927f0800000000000000
+      internalID: -636865147026148034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64c6256c3e5cbc0800000000000000
+      internalID: -3763351472672323906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f92b532ef112500800000000000000
+      internalID: 369611700845059957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4099b31aad06710800000000000000
+      internalID: 1684586646661039304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c4bcfe74c9d220800000000000000
+      internalID: 2511254316920389734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d38b1d5ca504670800000000000000
+      internalID: 8520910300658548092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab828f0c9f50ec80800000000000000
+      internalID: -8295525389736703058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1d65dbda5248cb0800000000000000
+      internalID: -4862720269517139541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c6b97d027d8c60800000000000000
+      internalID: 7822033530014582837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aaf059ac9b915f0800000000000000
+      internalID: -785392380264076754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78196d7cd61ac00800000000000000
+      internalID: 910129304771332013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eaf01bfa6b66fc0800000000000000
+      internalID: -3501910794527855077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e27561f904a6d0800000000000000
+      internalID: -2980246121018629254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217e9d0fc200f3270800000000000000
+      internalID: 8232298836875929362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e565d17ad11c620800000000000000
+      internalID: 2792545847535361564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ddec03b7cb39e0800000000000000
+      internalID: -1640498067416426667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8005fd561dcda9990800000000000000
+      internalID: -7378342247577726968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bacb64102765320800000000000000
+      internalID: 2546347989131897659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05032b3b568c8fc0800000000000000
+      internalID: -3491267884726680307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe3e49845582350800000000000000
+      internalID: 5992133074440416222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d44c32304d28f60800000000000000
+      internalID: 8035217795132444019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd072c207a271e0800000000000000
+      internalID: -2201513637536801868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Bourgeon_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e62337da29e520800000000000000
+      internalID: 2731761752741439089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5d6fda782350154494c0cfea260c3f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Jonq_Bourgeon_spritesheet_0: -4337773273147449676
+      Anim_Jonq_Bourgeon_spritesheet_1: -1184907378507607692
+      Anim_Jonq_Bourgeon_spritesheet_10: 956640708124358539
+      Anim_Jonq_Bourgeon_spritesheet_11: 7242266027196268552
+      Anim_Jonq_Bourgeon_spritesheet_12: 8665515060000324097
+      Anim_Jonq_Bourgeon_spritesheet_13: -8188029490922846228
+      Anim_Jonq_Bourgeon_spritesheet_14: -6730319591084225594
+      Anim_Jonq_Bourgeon_spritesheet_15: -7500524851173945939
+      Anim_Jonq_Bourgeon_spritesheet_16: 8126144407042308988
+      Anim_Jonq_Bourgeon_spritesheet_17: -636865147026148034
+      Anim_Jonq_Bourgeon_spritesheet_18: -3763351472672323906
+      Anim_Jonq_Bourgeon_spritesheet_19: 369611700845059957
+      Anim_Jonq_Bourgeon_spritesheet_2: -4249654491699737323
+      Anim_Jonq_Bourgeon_spritesheet_20: 1684586646661039304
+      Anim_Jonq_Bourgeon_spritesheet_21: 2511254316920389734
+      Anim_Jonq_Bourgeon_spritesheet_22: 8520910300658548092
+      Anim_Jonq_Bourgeon_spritesheet_23: -8295525389736703058
+      Anim_Jonq_Bourgeon_spritesheet_24: -4862720269517139541
+      Anim_Jonq_Bourgeon_spritesheet_25: 7822033530014582837
+      Anim_Jonq_Bourgeon_spritesheet_26: -785392380264076754
+      Anim_Jonq_Bourgeon_spritesheet_27: 910129304771332013
+      Anim_Jonq_Bourgeon_spritesheet_28: -3501910794527855077
+      Anim_Jonq_Bourgeon_spritesheet_29: -2980246121018629254
+      Anim_Jonq_Bourgeon_spritesheet_3: 5421960360018259303
+      Anim_Jonq_Bourgeon_spritesheet_30: 8232298836875929362
+      Anim_Jonq_Bourgeon_spritesheet_31: 2792545847535361564
+      Anim_Jonq_Bourgeon_spritesheet_32: -1640498067416426667
+      Anim_Jonq_Bourgeon_spritesheet_33: -7378342247577726968
+      Anim_Jonq_Bourgeon_spritesheet_34: 2546347989131897659
+      Anim_Jonq_Bourgeon_spritesheet_35: -3491267884726680307
+      Anim_Jonq_Bourgeon_spritesheet_36: 5992133074440416222
+      Anim_Jonq_Bourgeon_spritesheet_37: 8035217795132444019
+      Anim_Jonq_Bourgeon_spritesheet_38: -2201513637536801868
+      Anim_Jonq_Bourgeon_spritesheet_39: 2731761752741439089
+      Anim_Jonq_Bourgeon_spritesheet_4: 5391141511117218945
+      Anim_Jonq_Bourgeon_spritesheet_5: -2662576144535224097
+      Anim_Jonq_Bourgeon_spritesheet_6: -7485071074012782971
+      Anim_Jonq_Bourgeon_spritesheet_7: -4586912486088409613
+      Anim_Jonq_Bourgeon_spritesheet_8: 184360074912442386
+      Anim_Jonq_Bourgeon_spritesheet_9: -1201724284731131477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

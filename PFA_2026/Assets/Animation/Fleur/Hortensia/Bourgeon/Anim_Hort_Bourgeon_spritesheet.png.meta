@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 391164d826319ba48a9e4d932bcefeb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6305353447131637470
+    second: Anim_Hort_Bourgeon_spritesheet_0
+  - first:
+      213: -2130264626057803574
+    second: Anim_Hort_Bourgeon_spritesheet_1
+  - first:
+      213: -7089023936924505647
+    second: Anim_Hort_Bourgeon_spritesheet_2
+  - first:
+      213: -1328827713051840563
+    second: Anim_Hort_Bourgeon_spritesheet_3
+  - first:
+      213: 3725094514624266801
+    second: Anim_Hort_Bourgeon_spritesheet_4
+  - first:
+      213: 5294155337360217840
+    second: Anim_Hort_Bourgeon_spritesheet_5
+  - first:
+      213: 5224261749611774982
+    second: Anim_Hort_Bourgeon_spritesheet_6
+  - first:
+      213: 8219605172307223721
+    second: Anim_Hort_Bourgeon_spritesheet_7
+  - first:
+      213: 886079045772207907
+    second: Anim_Hort_Bourgeon_spritesheet_8
+  - first:
+      213: -6106571682822637720
+    second: Anim_Hort_Bourgeon_spritesheet_9
+  - first:
+      213: -6647179731483995329
+    second: Anim_Hort_Bourgeon_spritesheet_10
+  - first:
+      213: 903507104189198387
+    second: Anim_Hort_Bourgeon_spritesheet_11
+  - first:
+      213: 3271696826914082301
+    second: Anim_Hort_Bourgeon_spritesheet_12
+  - first:
+      213: -8961214144683990105
+    second: Anim_Hort_Bourgeon_spritesheet_13
+  - first:
+      213: -7898037455240785601
+    second: Anim_Hort_Bourgeon_spritesheet_14
+  - first:
+      213: 7500123181284542080
+    second: Anim_Hort_Bourgeon_spritesheet_15
+  - first:
+      213: -4848793423567835319
+    second: Anim_Hort_Bourgeon_spritesheet_16
+  - first:
+      213: -4334124336007807222
+    second: Anim_Hort_Bourgeon_spritesheet_17
+  - first:
+      213: 7229088845118971959
+    second: Anim_Hort_Bourgeon_spritesheet_18
+  - first:
+      213: 4599444047965975579
+    second: Anim_Hort_Bourgeon_spritesheet_19
+  - first:
+      213: -1626477071150370461
+    second: Anim_Hort_Bourgeon_spritesheet_20
+  - first:
+      213: -3376636997350886701
+    second: Anim_Hort_Bourgeon_spritesheet_21
+  - first:
+      213: -8874386768873854214
+    second: Anim_Hort_Bourgeon_spritesheet_22
+  - first:
+      213: 3806295406622664918
+    second: Anim_Hort_Bourgeon_spritesheet_23
+  - first:
+      213: -9134952539052115512
+    second: Anim_Hort_Bourgeon_spritesheet_24
+  - first:
+      213: 7944291037811113732
+    second: Anim_Hort_Bourgeon_spritesheet_25
+  - first:
+      213: 1267349147509612218
+    second: Anim_Hort_Bourgeon_spritesheet_26
+  - first:
+      213: -3404046949658265096
+    second: Anim_Hort_Bourgeon_spritesheet_27
+  - first:
+      213: -4627583168600323387
+    second: Anim_Hort_Bourgeon_spritesheet_28
+  - first:
+      213: 7681471298708650719
+    second: Anim_Hort_Bourgeon_spritesheet_29
+  - first:
+      213: 5861562623842809724
+    second: Anim_Hort_Bourgeon_spritesheet_30
+  - first:
+      213: 795214025450487045
+    second: Anim_Hort_Bourgeon_spritesheet_31
+  - first:
+      213: -4523327881263159926
+    second: Anim_Hort_Bourgeon_spritesheet_32
+  - first:
+      213: -1244625771457090733
+    second: Anim_Hort_Bourgeon_spritesheet_33
+  - first:
+      213: 8595011740537246765
+    second: Anim_Hort_Bourgeon_spritesheet_34
+  - first:
+      213: -1098443852583652694
+    second: Anim_Hort_Bourgeon_spritesheet_35
+  - first:
+      213: -1962398891966818834
+    second: Anim_Hort_Bourgeon_spritesheet_36
+  - first:
+      213: -7900840948527234406
+    second: Anim_Hort_Bourgeon_spritesheet_37
+  - first:
+      213: -1393523933212168076
+    second: Anim_Hort_Bourgeon_spritesheet_38
+  - first:
+      213: 7579906990259379567
+    second: Anim_Hort_Bourgeon_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e09f8d8d118750800000000000000
+      internalID: 6305353447131637470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac88e36fb97cf62e0800000000000000
+      internalID: -2130264626057803574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9af53e94abe9d90800000000000000
+      internalID: -7089023936924505647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa9d34c3e0f8de0800000000000000
+      internalID: -1328827713051840563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328fe289b132b330800000000000000
+      internalID: 3725094514624266801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6181dca3e987940800000000000000
+      internalID: 5294155337360217840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044547c16e408840800000000000000
+      internalID: 5224261749611774982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e559da57e11270800000000000000
+      internalID: 8219605172307223721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3276b2e823cfb4c00800000000000000
+      internalID: 886079045772207907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b5e19869114ba0800000000000000
+      internalID: -6106571682822637720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3358b2a04970c3a0800000000000000
+      internalID: -6647179731483995329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303d3d9ce6e98c00800000000000000
+      internalID: 903507104189198387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd8cfc0ee6676d20800000000000000
+      internalID: 3271696826914082301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a7e5c63f53a380800000000000000
+      internalID: -8961214144683990105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3194a1b7c8846290800000000000000
+      internalID: -7898037455240785601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0864328cb4ac51860800000000000000
+      internalID: 7500123181284542080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f2dfe3210a5bcb0800000000000000
+      internalID: -4848793423567835319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff0eb21e81ad3c0800000000000000
+      internalID: -4334124336007807222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302e07d002e25460800000000000000
+      internalID: 7229088845118971959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14fb432ef184df30800000000000000
+      internalID: 4599444047965975579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b3c2a8b79d69e0800000000000000
+      internalID: -1626477071150370461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d275758a86c321d0800000000000000
+      internalID: -3376636997350886701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afae8d19048d7d480800000000000000
+      internalID: -8874386768873854214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e1f5718da2d430800000000000000
+      internalID: 3806295406622664918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9feb590112a3180800000000000000
+      internalID: -9134952539052115512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffc05bb9acf3e60800000000000000
+      internalID: 7944291037811113732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe54bfb557869110800000000000000
+      internalID: 1267349147509612218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9fddea55562c0d0800000000000000
+      internalID: -3404046949658265096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca400b40a587cfb0800000000000000
+      internalID: -4627583168600323387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda33efa2711a9a60800000000000000
+      internalID: 7681471298708650719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c777bd68624785150800000000000000
+      internalID: 5861562623842809724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d726361fa290b00800000000000000
+      internalID: 795214025450487045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8560b2f149e931c0800000000000000
+      internalID: -4523327881263159926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be00684733abee0800000000000000
+      internalID: -1244625771457090733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d803c3ad974770800000000000000
+      internalID: 8595011740537246765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23a09c22b81c0f0800000000000000
+      internalID: -1098443852583652694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee592b0ea9824c4e0800000000000000
+      internalID: -1962398891966818834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928c2c84039a5290800000000000000
+      internalID: -7900840948527234406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47032eead5539ace0800000000000000
+      internalID: -1393523933212168076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Bourgeon_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d19e06f3d313960800000000000000
+      internalID: 7579906990259379567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31d51d510548d9246aa10fe31d86f59f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Hort_Bourgeon_spritesheet_0: 6305353447131637470
+      Anim_Hort_Bourgeon_spritesheet_1: -2130264626057803574
+      Anim_Hort_Bourgeon_spritesheet_10: -6647179731483995329
+      Anim_Hort_Bourgeon_spritesheet_11: 903507104189198387
+      Anim_Hort_Bourgeon_spritesheet_12: 3271696826914082301
+      Anim_Hort_Bourgeon_spritesheet_13: -8961214144683990105
+      Anim_Hort_Bourgeon_spritesheet_14: -7898037455240785601
+      Anim_Hort_Bourgeon_spritesheet_15: 7500123181284542080
+      Anim_Hort_Bourgeon_spritesheet_16: -4848793423567835319
+      Anim_Hort_Bourgeon_spritesheet_17: -4334124336007807222
+      Anim_Hort_Bourgeon_spritesheet_18: 7229088845118971959
+      Anim_Hort_Bourgeon_spritesheet_19: 4599444047965975579
+      Anim_Hort_Bourgeon_spritesheet_2: -7089023936924505647
+      Anim_Hort_Bourgeon_spritesheet_20: -1626477071150370461
+      Anim_Hort_Bourgeon_spritesheet_21: -3376636997350886701
+      Anim_Hort_Bourgeon_spritesheet_22: -8874386768873854214
+      Anim_Hort_Bourgeon_spritesheet_23: 3806295406622664918
+      Anim_Hort_Bourgeon_spritesheet_24: -9134952539052115512
+      Anim_Hort_Bourgeon_spritesheet_25: 7944291037811113732
+      Anim_Hort_Bourgeon_spritesheet_26: 1267349147509612218
+      Anim_Hort_Bourgeon_spritesheet_27: -3404046949658265096
+      Anim_Hort_Bourgeon_spritesheet_28: -4627583168600323387
+      Anim_Hort_Bourgeon_spritesheet_29: 7681471298708650719
+      Anim_Hort_Bourgeon_spritesheet_3: -1328827713051840563
+      Anim_Hort_Bourgeon_spritesheet_30: 5861562623842809724
+      Anim_Hort_Bourgeon_spritesheet_31: 795214025450487045
+      Anim_Hort_Bourgeon_spritesheet_32: -4523327881263159926
+      Anim_Hort_Bourgeon_spritesheet_33: -1244625771457090733
+      Anim_Hort_Bourgeon_spritesheet_34: 8595011740537246765
+      Anim_Hort_Bourgeon_spritesheet_35: -1098443852583652694
+      Anim_Hort_Bourgeon_spritesheet_36: -1962398891966818834
+      Anim_Hort_Bourgeon_spritesheet_37: -7900840948527234406
+      Anim_Hort_Bourgeon_spritesheet_38: -1393523933212168076
+      Anim_Hort_Bourgeon_spritesheet_39: 7579906990259379567
+      Anim_Hort_Bourgeon_spritesheet_4: 3725094514624266801
+      Anim_Hort_Bourgeon_spritesheet_5: 5294155337360217840
+      Anim_Hort_Bourgeon_spritesheet_6: 5224261749611774982
+      Anim_Hort_Bourgeon_spritesheet_7: 8219605172307223721
+      Anim_Hort_Bourgeon_spritesheet_8: 886079045772207907
+      Anim_Hort_Bourgeon_spritesheet_9: -6106571682822637720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

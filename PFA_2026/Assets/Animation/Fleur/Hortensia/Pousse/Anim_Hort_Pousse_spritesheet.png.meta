@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: cb2bf18091ae6fb448e0c9c9713ba1db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -182741378840534185
+    second: Anim_Hort_Pousse_spritesheet_0
+  - first:
+      213: -3570532025967305057
+    second: Anim_Hort_Pousse_spritesheet_1
+  - first:
+      213: 1098178411183422003
+    second: Anim_Hort_Pousse_spritesheet_2
+  - first:
+      213: -1245995430467804399
+    second: Anim_Hort_Pousse_spritesheet_3
+  - first:
+      213: -1718947295888519257
+    second: Anim_Hort_Pousse_spritesheet_4
+  - first:
+      213: 186668506388486891
+    second: Anim_Hort_Pousse_spritesheet_5
+  - first:
+      213: -5873608704484613648
+    second: Anim_Hort_Pousse_spritesheet_6
+  - first:
+      213: 816747340474695450
+    second: Anim_Hort_Pousse_spritesheet_7
+  - first:
+      213: -2137551071492640767
+    second: Anim_Hort_Pousse_spritesheet_8
+  - first:
+      213: -947819793611727323
+    second: Anim_Hort_Pousse_spritesheet_9
+  - first:
+      213: -4333038434470550804
+    second: Anim_Hort_Pousse_spritesheet_10
+  - first:
+      213: 7419131586126998737
+    second: Anim_Hort_Pousse_spritesheet_11
+  - first:
+      213: 4797649442718422843
+    second: Anim_Hort_Pousse_spritesheet_12
+  - first:
+      213: 3039600527140054366
+    second: Anim_Hort_Pousse_spritesheet_13
+  - first:
+      213: 2338774574929632354
+    second: Anim_Hort_Pousse_spritesheet_14
+  - first:
+      213: -6757393334951633768
+    second: Anim_Hort_Pousse_spritesheet_15
+  - first:
+      213: -306402526477606582
+    second: Anim_Hort_Pousse_spritesheet_16
+  - first:
+      213: 4064256966277714161
+    second: Anim_Hort_Pousse_spritesheet_17
+  - first:
+      213: 7980213404483396505
+    second: Anim_Hort_Pousse_spritesheet_18
+  - first:
+      213: 1854379316593624006
+    second: Anim_Hort_Pousse_spritesheet_19
+  - first:
+      213: 3836763246734381188
+    second: Anim_Hort_Pousse_spritesheet_20
+  - first:
+      213: -943037094242447877
+    second: Anim_Hort_Pousse_spritesheet_21
+  - first:
+      213: -8106225641434287369
+    second: Anim_Hort_Pousse_spritesheet_22
+  - first:
+      213: -2452441680655410394
+    second: Anim_Hort_Pousse_spritesheet_23
+  - first:
+      213: 3849560580759254995
+    second: Anim_Hort_Pousse_spritesheet_24
+  - first:
+      213: -4905125905127928950
+    second: Anim_Hort_Pousse_spritesheet_25
+  - first:
+      213: 6057836052638709745
+    second: Anim_Hort_Pousse_spritesheet_26
+  - first:
+      213: -5106240103792800944
+    second: Anim_Hort_Pousse_spritesheet_27
+  - first:
+      213: 5740639186628222800
+    second: Anim_Hort_Pousse_spritesheet_28
+  - first:
+      213: 809471937717812649
+    second: Anim_Hort_Pousse_spritesheet_29
+  - first:
+      213: 7487859893761872068
+    second: Anim_Hort_Pousse_spritesheet_30
+  - first:
+      213: 9211535091195630975
+    second: Anim_Hort_Pousse_spritesheet_31
+  - first:
+      213: 7318129578588490936
+    second: Anim_Hort_Pousse_spritesheet_32
+  - first:
+      213: -4937415374267108934
+    second: Anim_Hort_Pousse_spritesheet_33
+  - first:
+      213: -6779825452252530605
+    second: Anim_Hort_Pousse_spritesheet_34
+  - first:
+      213: 4463946267445048423
+    second: Anim_Hort_Pousse_spritesheet_35
+  - first:
+      213: -1498138108879985765
+    second: Anim_Hort_Pousse_spritesheet_36
+  - first:
+      213: 7703836693504948733
+    second: Anim_Hort_Pousse_spritesheet_37
+  - first:
+      213: -4302980306797271790
+    second: Anim_Hort_Pousse_spritesheet_38
+  - first:
+      213: 7937640543525444011
+    second: Anim_Hort_Pousse_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e1742fa5c67df0800000000000000
+      internalID: -182741378840534185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e10153a0ce27ec0800000000000000
+      internalID: -3570532025967305057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a379252738d3f00800000000000000
+      internalID: 1098178411183422003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113e43fe1c555bee0800000000000000
+      internalID: -1245995430467804399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af42f0ba821528e0800000000000000
+      internalID: -1718947295888519257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead90e740e279200800000000000000
+      internalID: 186668506388486891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16d83c000cc7ea0800000000000000
+      internalID: -5873608704484613648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f3d3cf06ba55b00800000000000000
+      internalID: 816747340474695450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100fc6e20a4e552e0800000000000000
+      internalID: -2137551071492640767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e50b26beaa8d2f0800000000000000
+      internalID: -947819793611727323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a4435084fdd3c0800000000000000
+      internalID: -4333038434470550804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dceafc8edc06f660800000000000000
+      internalID: 7419131586126998737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b371516cfbca49240800000000000000
+      internalID: 4797649442718422843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e54f2394de2a20800000000000000
+      internalID: 3039600527140054366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c5564a51ff47020800000000000000
+      internalID: 2338774574929632354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c9d96609ae832a0800000000000000
+      internalID: -6757393334951633768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41250b86807fbbf0800000000000000
+      internalID: -306402526477606582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d3ee6d24276830800000000000000
+      internalID: 4064256966277714161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9932b067fc96fbe60800000000000000
+      internalID: 7980213404483396505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3056cd9241cb910800000000000000
+      internalID: 1854379316593624006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48090e848dbee3530800000000000000
+      internalID: 3836763246734381188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd89ab52c8a9e2f0800000000000000
+      internalID: -943037094242447877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2752d4ab6e08f80800000000000000
+      internalID: -8106225641434287369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b1c28f84d27fdd0800000000000000
+      internalID: -2452441680655410394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7708dc3f26c6530800000000000000
+      internalID: 3849560580759254995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b884e4afd7debb0800000000000000
+      internalID: -4905125905127928950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b5194bc1c11450800000000000000
+      internalID: 6057836052638709745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b839bfdadf229b0800000000000000
+      internalID: -5106240103792800944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f99aecce8daaf40800000000000000
+      internalID: 5740639186628222800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad31574072db3b00800000000000000
+      internalID: 809471937717812649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01297a6e83ae760800000000000000
+      internalID: 7487859893761872068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75d2c25c52f5df70800000000000000
+      internalID: 9211535091195630975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bccb0024183f8560800000000000000
+      internalID: 7318129578588490936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1b14c60e6ca7bb0800000000000000
+      internalID: -4937415374267108934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f5571ca839e1a0800000000000000
+      internalID: -6779825452252530605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7643e7faa7f13fd30800000000000000
+      internalID: 4463946267445048423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93abb3d35b853be0800000000000000
+      internalID: -1498138108879985765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df97bf3f7a689ea60800000000000000
+      internalID: 7703836693504948733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e8d9853eb844c0800000000000000
+      internalID: -4302980306797271790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Pousse_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba99297d40a282e60800000000000000
+      internalID: 7937640543525444011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 978aee4ebecb7094aa6ffee9763c5470
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Hort_Pousse_spritesheet_0: -182741378840534185
+      Anim_Hort_Pousse_spritesheet_1: -3570532025967305057
+      Anim_Hort_Pousse_spritesheet_10: -4333038434470550804
+      Anim_Hort_Pousse_spritesheet_11: 7419131586126998737
+      Anim_Hort_Pousse_spritesheet_12: 4797649442718422843
+      Anim_Hort_Pousse_spritesheet_13: 3039600527140054366
+      Anim_Hort_Pousse_spritesheet_14: 2338774574929632354
+      Anim_Hort_Pousse_spritesheet_15: -6757393334951633768
+      Anim_Hort_Pousse_spritesheet_16: -306402526477606582
+      Anim_Hort_Pousse_spritesheet_17: 4064256966277714161
+      Anim_Hort_Pousse_spritesheet_18: 7980213404483396505
+      Anim_Hort_Pousse_spritesheet_19: 1854379316593624006
+      Anim_Hort_Pousse_spritesheet_2: 1098178411183422003
+      Anim_Hort_Pousse_spritesheet_20: 3836763246734381188
+      Anim_Hort_Pousse_spritesheet_21: -943037094242447877
+      Anim_Hort_Pousse_spritesheet_22: -8106225641434287369
+      Anim_Hort_Pousse_spritesheet_23: -2452441680655410394
+      Anim_Hort_Pousse_spritesheet_24: 3849560580759254995
+      Anim_Hort_Pousse_spritesheet_25: -4905125905127928950
+      Anim_Hort_Pousse_spritesheet_26: 6057836052638709745
+      Anim_Hort_Pousse_spritesheet_27: -5106240103792800944
+      Anim_Hort_Pousse_spritesheet_28: 5740639186628222800
+      Anim_Hort_Pousse_spritesheet_29: 809471937717812649
+      Anim_Hort_Pousse_spritesheet_3: -1245995430467804399
+      Anim_Hort_Pousse_spritesheet_30: 7487859893761872068
+      Anim_Hort_Pousse_spritesheet_31: 9211535091195630975
+      Anim_Hort_Pousse_spritesheet_32: 7318129578588490936
+      Anim_Hort_Pousse_spritesheet_33: -4937415374267108934
+      Anim_Hort_Pousse_spritesheet_34: -6779825452252530605
+      Anim_Hort_Pousse_spritesheet_35: 4463946267445048423
+      Anim_Hort_Pousse_spritesheet_36: -1498138108879985765
+      Anim_Hort_Pousse_spritesheet_37: 7703836693504948733
+      Anim_Hort_Pousse_spritesheet_38: -4302980306797271790
+      Anim_Hort_Pousse_spritesheet_39: 7937640543525444011
+      Anim_Hort_Pousse_spritesheet_4: -1718947295888519257
+      Anim_Hort_Pousse_spritesheet_5: 186668506388486891
+      Anim_Hort_Pousse_spritesheet_6: -5873608704484613648
+      Anim_Hort_Pousse_spritesheet_7: 816747340474695450
+      Anim_Hort_Pousse_spritesheet_8: -2137551071492640767
+      Anim_Hort_Pousse_spritesheet_9: -947819793611727323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 665d93a2cf22ede49bc99ad51639642b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8127553971299448680
+    second: Anim_Lys_Fleur_Panneau_spritesheet_0
+  - first:
+      213: -5417765525482818512
+    second: Anim_Lys_Fleur_Panneau_spritesheet_1
+  - first:
+      213: -7855187936344339702
+    second: Anim_Lys_Fleur_Panneau_spritesheet_2
+  - first:
+      213: 24279705273650591
+    second: Anim_Lys_Fleur_Panneau_spritesheet_3
+  - first:
+      213: 3139651198479006654
+    second: Anim_Lys_Fleur_Panneau_spritesheet_4
+  - first:
+      213: -2207429005170335673
+    second: Anim_Lys_Fleur_Panneau_spritesheet_5
+  - first:
+      213: 2644317405043809883
+    second: Anim_Lys_Fleur_Panneau_spritesheet_6
+  - first:
+      213: 8523251364279108575
+    second: Anim_Lys_Fleur_Panneau_spritesheet_7
+  - first:
+      213: 5248438783154403930
+    second: Anim_Lys_Fleur_Panneau_spritesheet_8
+  - first:
+      213: 4284558744996954012
+    second: Anim_Lys_Fleur_Panneau_spritesheet_9
+  - first:
+      213: -2330473371724618208
+    second: Anim_Lys_Fleur_Panneau_spritesheet_10
+  - first:
+      213: -1249510390658708232
+    second: Anim_Lys_Fleur_Panneau_spritesheet_11
+  - first:
+      213: 6312383458982971383
+    second: Anim_Lys_Fleur_Panneau_spritesheet_12
+  - first:
+      213: 7552754339863515771
+    second: Anim_Lys_Fleur_Panneau_spritesheet_13
+  - first:
+      213: -8984024098994194236
+    second: Anim_Lys_Fleur_Panneau_spritesheet_14
+  - first:
+      213: -3717122925091436128
+    second: Anim_Lys_Fleur_Panneau_spritesheet_15
+  - first:
+      213: 577742241480945473
+    second: Anim_Lys_Fleur_Panneau_spritesheet_16
+  - first:
+      213: 1719256849623472450
+    second: Anim_Lys_Fleur_Panneau_spritesheet_17
+  - first:
+      213: -3920443356011885546
+    second: Anim_Lys_Fleur_Panneau_spritesheet_18
+  - first:
+      213: 2110496312267829902
+    second: Anim_Lys_Fleur_Panneau_spritesheet_19
+  - first:
+      213: 8714028361784905782
+    second: Anim_Lys_Fleur_Panneau_spritesheet_20
+  - first:
+      213: -8275838399862325194
+    second: Anim_Lys_Fleur_Panneau_spritesheet_21
+  - first:
+      213: -4075555490884674005
+    second: Anim_Lys_Fleur_Panneau_spritesheet_22
+  - first:
+      213: -8994969721380136324
+    second: Anim_Lys_Fleur_Panneau_spritesheet_23
+  - first:
+      213: 202472321553573312
+    second: Anim_Lys_Fleur_Panneau_spritesheet_24
+  - first:
+      213: -211411392682708254
+    second: Anim_Lys_Fleur_Panneau_spritesheet_25
+  - first:
+      213: -3131387424820534911
+    second: Anim_Lys_Fleur_Panneau_spritesheet_26
+  - first:
+      213: -7849791285116684308
+    second: Anim_Lys_Fleur_Panneau_spritesheet_27
+  - first:
+      213: 7487868765026097418
+    second: Anim_Lys_Fleur_Panneau_spritesheet_28
+  - first:
+      213: 5160392692260772532
+    second: Anim_Lys_Fleur_Panneau_spritesheet_29
+  - first:
+      213: -7211531664256597105
+    second: Anim_Lys_Fleur_Panneau_spritesheet_30
+  - first:
+      213: -9077855383379271444
+    second: Anim_Lys_Fleur_Panneau_spritesheet_31
+  - first:
+      213: 2623258599006754278
+    second: Anim_Lys_Fleur_Panneau_spritesheet_32
+  - first:
+      213: 1277835485337225563
+    second: Anim_Lys_Fleur_Panneau_spritesheet_33
+  - first:
+      213: -2801287595107023553
+    second: Anim_Lys_Fleur_Panneau_spritesheet_34
+  - first:
+      213: 1784012742264198906
+    second: Anim_Lys_Fleur_Panneau_spritesheet_35
+  - first:
+      213: -3596075652234060098
+    second: Anim_Lys_Fleur_Panneau_spritesheet_36
+  - first:
+      213: -3665065668893364514
+    second: Anim_Lys_Fleur_Panneau_spritesheet_37
+  - first:
+      213: -6148445154004607969
+    second: Anim_Lys_Fleur_Panneau_spritesheet_38
+  - first:
+      213: 3126551790057930058
+    second: Anim_Lys_Fleur_Panneau_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89881e789b0253f80800000000000000
+      internalID: -8127553971299448680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0343d3985fa30d4b0800000000000000
+      internalID: -5417765525482818512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0342c034ccf290800000000000000
+      internalID: -7855187936344339702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d46186342465000800000000000000
+      internalID: 24279705273650591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb78f36128429b20800000000000000
+      internalID: 3139651198479006654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ade7e303ad51e0800000000000000
+      internalID: -2207429005170335673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed4017ba082b420800000000000000
+      internalID: 2644317405043809883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3483b25fba84670800000000000000
+      internalID: 8523251364279108575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a3d4f044336d840800000000000000
+      internalID: 5248438783154403930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f36de5a7fc57b30800000000000000
+      internalID: 4284558744996954012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026e8d7d0de78afd0800000000000000
+      internalID: -2330473371724618208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc0ad7be8d8aee0800000000000000
+      internalID: -1249510390658708232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74bbebf471a9750800000000000000
+      internalID: 6312383458982971383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72da5f4e06c0d860800000000000000
+      internalID: 7552754339863515771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f6ed6ea5525380800000000000000
+      internalID: -8984024098994194236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c67fc4602a6cc0800000000000000
+      internalID: -3717122925091436128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa533f18d840800800000000000000
+      internalID: 577742241480945473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d677eef60cd710800000000000000
+      internalID: 1719256849623472450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c0fd20a89c799c0800000000000000
+      internalID: -3920443356011885546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82fe70d63df94d10800000000000000
+      internalID: 2110496312267829902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6305eda40a27ee870800000000000000
+      internalID: 8714028361784905782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6304ba592d0562d80800000000000000
+      internalID: -8275838399862325194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e1d6fcfd7b077c0800000000000000
+      internalID: -4075555490884674005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1ebf12b27b2380800000000000000
+      internalID: -8994969721380136324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ac03f0835fc200800000000000000
+      internalID: 202472321553573312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23dad557ae01df0800000000000000
+      internalID: -211411392682708254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18162795ab31b84d0800000000000000
+      internalID: -3131387424820534911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b9a98a60ff0390800000000000000
+      internalID: -7849791285116684308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a099f1828f04ae760800000000000000
+      internalID: 7487868765026097418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba99bb00d56d9740800000000000000
+      internalID: 5160392692260772532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f830181e82e7beb90800000000000000
+      internalID: -7211531664256597105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0af4710aaf40280800000000000000
+      internalID: -9077855383379271444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e559c31ccfa76420800000000000000
+      internalID: 2623258599006754278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b590ae88a98cbb110800000000000000
+      internalID: 1277835485337225563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3500fb26c3df19d0800000000000000
+      internalID: -2801287595107023553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af69d61132612c810800000000000000
+      internalID: 1784012742264198906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe58234f3c281ec0800000000000000
+      internalID: -3596075652234060098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea1274132132dc0800000000000000
+      internalID: -3665065668893364514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c559255b55caaa0800000000000000
+      internalID: -6148445154004607969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Panneau_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db342b94eb36b20800000000000000
+      internalID: 3126551790057930058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c12db5098a1909440b03c5ac5af656c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Lys_Fleur_Panneau_spritesheet_0: -8127553971299448680
+      Anim_Lys_Fleur_Panneau_spritesheet_1: -5417765525482818512
+      Anim_Lys_Fleur_Panneau_spritesheet_10: -2330473371724618208
+      Anim_Lys_Fleur_Panneau_spritesheet_11: -1249510390658708232
+      Anim_Lys_Fleur_Panneau_spritesheet_12: 6312383458982971383
+      Anim_Lys_Fleur_Panneau_spritesheet_13: 7552754339863515771
+      Anim_Lys_Fleur_Panneau_spritesheet_14: -8984024098994194236
+      Anim_Lys_Fleur_Panneau_spritesheet_15: -3717122925091436128
+      Anim_Lys_Fleur_Panneau_spritesheet_16: 577742241480945473
+      Anim_Lys_Fleur_Panneau_spritesheet_17: 1719256849623472450
+      Anim_Lys_Fleur_Panneau_spritesheet_18: -3920443356011885546
+      Anim_Lys_Fleur_Panneau_spritesheet_19: 2110496312267829902
+      Anim_Lys_Fleur_Panneau_spritesheet_2: -7855187936344339702
+      Anim_Lys_Fleur_Panneau_spritesheet_20: 8714028361784905782
+      Anim_Lys_Fleur_Panneau_spritesheet_21: -8275838399862325194
+      Anim_Lys_Fleur_Panneau_spritesheet_22: -4075555490884674005
+      Anim_Lys_Fleur_Panneau_spritesheet_23: -8994969721380136324
+      Anim_Lys_Fleur_Panneau_spritesheet_24: 202472321553573312
+      Anim_Lys_Fleur_Panneau_spritesheet_25: -211411392682708254
+      Anim_Lys_Fleur_Panneau_spritesheet_26: -3131387424820534911
+      Anim_Lys_Fleur_Panneau_spritesheet_27: -7849791285116684308
+      Anim_Lys_Fleur_Panneau_spritesheet_28: 7487868765026097418
+      Anim_Lys_Fleur_Panneau_spritesheet_29: 5160392692260772532
+      Anim_Lys_Fleur_Panneau_spritesheet_3: 24279705273650591
+      Anim_Lys_Fleur_Panneau_spritesheet_30: -7211531664256597105
+      Anim_Lys_Fleur_Panneau_spritesheet_31: -9077855383379271444
+      Anim_Lys_Fleur_Panneau_spritesheet_32: 2623258599006754278
+      Anim_Lys_Fleur_Panneau_spritesheet_33: 1277835485337225563
+      Anim_Lys_Fleur_Panneau_spritesheet_34: -2801287595107023553
+      Anim_Lys_Fleur_Panneau_spritesheet_35: 1784012742264198906
+      Anim_Lys_Fleur_Panneau_spritesheet_36: -3596075652234060098
+      Anim_Lys_Fleur_Panneau_spritesheet_37: -3665065668893364514
+      Anim_Lys_Fleur_Panneau_spritesheet_38: -6148445154004607969
+      Anim_Lys_Fleur_Panneau_spritesheet_39: 3126551790057930058
+      Anim_Lys_Fleur_Panneau_spritesheet_4: 3139651198479006654
+      Anim_Lys_Fleur_Panneau_spritesheet_5: -2207429005170335673
+      Anim_Lys_Fleur_Panneau_spritesheet_6: 2644317405043809883
+      Anim_Lys_Fleur_Panneau_spritesheet_7: 8523251364279108575
+      Anim_Lys_Fleur_Panneau_spritesheet_8: 5248438783154403930
+      Anim_Lys_Fleur_Panneau_spritesheet_9: 4284558744996954012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

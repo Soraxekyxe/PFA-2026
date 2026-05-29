@@ -1,0 +1,1708 @@
+fileFormatVersion: 2
+guid: 9148aaaedc82131438d2aee494eaf2f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5202887607389223275
+    second: Anim_Chris_Pousse_SpriteSHeet_0
+  - first:
+      213: 6501895243017867347
+    second: Anim_Chris_Pousse_SpriteSHeet_1
+  - first:
+      213: 1398938370569843957
+    second: Anim_Chris_Pousse_SpriteSHeet_2
+  - first:
+      213: -7137629143046411489
+    second: Anim_Chris_Pousse_SpriteSHeet_3
+  - first:
+      213: 4507653333184334030
+    second: Anim_Chris_Pousse_SpriteSHeet_4
+  - first:
+      213: -107278314740987953
+    second: Anim_Chris_Pousse_SpriteSHeet_5
+  - first:
+      213: 8479943293860411115
+    second: Anim_Chris_Pousse_SpriteSHeet_6
+  - first:
+      213: -1995627950878460488
+    second: Anim_Chris_Pousse_SpriteSHeet_7
+  - first:
+      213: -1632148031774074836
+    second: Anim_Chris_Pousse_SpriteSHeet_8
+  - first:
+      213: 4976392678737087906
+    second: Anim_Chris_Pousse_SpriteSHeet_9
+  - first:
+      213: 8145751986478210301
+    second: Anim_Chris_Pousse_SpriteSHeet_10
+  - first:
+      213: 2863802667011709556
+    second: Anim_Chris_Pousse_SpriteSHeet_11
+  - first:
+      213: -5566126850870750685
+    second: Anim_Chris_Pousse_SpriteSHeet_12
+  - first:
+      213: -7811166838076618881
+    second: Anim_Chris_Pousse_SpriteSHeet_13
+  - first:
+      213: 5490384320003671003
+    second: Anim_Chris_Pousse_SpriteSHeet_14
+  - first:
+      213: 5190875084141071636
+    second: Anim_Chris_Pousse_SpriteSHeet_15
+  - first:
+      213: -8372490771963629043
+    second: Anim_Chris_Pousse_SpriteSHeet_16
+  - first:
+      213: -8759168383556945441
+    second: Anim_Chris_Pousse_SpriteSHeet_17
+  - first:
+      213: -5565715434330994186
+    second: Anim_Chris_Pousse_SpriteSHeet_18
+  - first:
+      213: -4949611787751926631
+    second: Anim_Chris_Pousse_SpriteSHeet_19
+  - first:
+      213: -1641923250056447997
+    second: Anim_Chris_Pousse_SpriteSHeet_20
+  - first:
+      213: 6643275262404511014
+    second: Anim_Chris_Pousse_SpriteSHeet_21
+  - first:
+      213: -9083666951860263882
+    second: Anim_Chris_Pousse_SpriteSHeet_22
+  - first:
+      213: -8300454499257066986
+    second: Anim_Chris_Pousse_SpriteSHeet_23
+  - first:
+      213: 1705895179032896280
+    second: Anim_Chris_Pousse_SpriteSHeet_24
+  - first:
+      213: -9212821970854387243
+    second: Anim_Chris_Pousse_SpriteSHeet_25
+  - first:
+      213: 5982659710209889383
+    second: Anim_Chris_Pousse_SpriteSHeet_26
+  - first:
+      213: -1027503222277193611
+    second: Anim_Chris_Pousse_SpriteSHeet_27
+  - first:
+      213: -2925175664924046926
+    second: Anim_Chris_Pousse_SpriteSHeet_28
+  - first:
+      213: -2233466094731340641
+    second: Anim_Chris_Pousse_SpriteSHeet_29
+  - first:
+      213: 2231960678035517216
+    second: Anim_Chris_Pousse_SpriteSHeet_30
+  - first:
+      213: 7921547079214303586
+    second: Anim_Chris_Pousse_SpriteSHeet_31
+  - first:
+      213: -8827506934198232334
+    second: Anim_Chris_Pousse_SpriteSHeet_32
+  - first:
+      213: -5301735773390989672
+    second: Anim_Chris_Pousse_SpriteSHeet_33
+  - first:
+      213: -8240500268510311887
+    second: Anim_Chris_Pousse_SpriteSHeet_34
+  - first:
+      213: -7673425248044650810
+    second: Anim_Chris_Pousse_SpriteSHeet_35
+  - first:
+      213: 7211041743777564586
+    second: Anim_Chris_Pousse_SpriteSHeet_36
+  - first:
+      213: 1689781846197467167
+    second: Anim_Chris_Pousse_SpriteSHeet_37
+  - first:
+      213: 1567147101104787187
+    second: Anim_Chris_Pousse_SpriteSHeet_38
+  - first:
+      213: 1749285659320932368
+    second: Anim_Chris_Pousse_SpriteSHeet_39
+  - first:
+      213: 9189006632671913743
+    second: Anim_Chris_Pousse_SpriteSHeet_40
+  - first:
+      213: -8370598614014765297
+    second: Anim_Chris_Pousse_SpriteSHeet_41
+  - first:
+      213: -3114558476561792809
+    second: Anim_Chris_Pousse_SpriteSHeet_42
+  - first:
+      213: 2303214923119674280
+    second: Anim_Chris_Pousse_SpriteSHeet_43
+  - first:
+      213: 1925611322539284958
+    second: Anim_Chris_Pousse_SpriteSHeet_44
+  - first:
+      213: 8377759564523288565
+    second: Anim_Chris_Pousse_SpriteSHeet_45
+  - first:
+      213: -3430308605451201772
+    second: Anim_Chris_Pousse_SpriteSHeet_46
+  - first:
+      213: 131555443696187114
+    second: Anim_Chris_Pousse_SpriteSHeet_47
+  - first:
+      213: 8531001812715914132
+    second: Anim_Chris_Pousse_SpriteSHeet_48
+  - first:
+      213: -8455228544647468924
+    second: Anim_Chris_Pousse_SpriteSHeet_49
+  - first:
+      213: 8645997885768569897
+    second: Anim_Chris_Pousse_SpriteSHeet_50
+  - first:
+      213: -4967233930033952183
+    second: Anim_Chris_Pousse_SpriteSHeet_51
+  - first:
+      213: 1079353004084506155
+    second: Anim_Chris_Pousse_SpriteSHeet_52
+  - first:
+      213: -4317878059687684741
+    second: Anim_Chris_Pousse_SpriteSHeet_53
+  - first:
+      213: 4537268540286656273
+    second: Anim_Chris_Pousse_SpriteSHeet_54
+  - first:
+      213: -8453378412975815956
+    second: Anim_Chris_Pousse_SpriteSHeet_55
+  - first:
+      213: -5168116371773161579
+    second: Anim_Chris_Pousse_SpriteSHeet_56
+  - first:
+      213: -7044339584298349247
+    second: Anim_Chris_Pousse_SpriteSHeet_57
+  - first:
+      213: -6202932277879342305
+    second: Anim_Chris_Pousse_SpriteSHeet_58
+  - first:
+      213: 517125496631978745
+    second: Anim_Chris_Pousse_SpriteSHeet_59
+  - first:
+      213: 4654598110299578287
+    second: Anim_Chris_Pousse_SpriteSHeet_60
+  - first:
+      213: -7447206762291023984
+    second: Anim_Chris_Pousse_SpriteSHeet_61
+  - first:
+      213: -471605106016521186
+    second: Anim_Chris_Pousse_SpriteSHeet_62
+  - first:
+      213: -4549606330914300279
+    second: Anim_Chris_Pousse_SpriteSHeet_63
+  - first:
+      213: -6103707900230811458
+    second: Anim_Chris_Pousse_SpriteSHeet_64
+  - first:
+      213: 1322852283680132263
+    second: Anim_Chris_Pousse_SpriteSHeet_65
+  - first:
+      213: 1553765772159704984
+    second: Anim_Chris_Pousse_SpriteSHeet_66
+  - first:
+      213: 8814051745785530925
+    second: Anim_Chris_Pousse_SpriteSHeet_67
+  - first:
+      213: 3781368895281373322
+    second: Anim_Chris_Pousse_SpriteSHeet_68
+  - first:
+      213: -3526942262580414917
+    second: Anim_Chris_Pousse_SpriteSHeet_69
+  - first:
+      213: -4855646910998866263
+    second: Anim_Chris_Pousse_SpriteSHeet_70
+  - first:
+      213: -7588106649031638823
+    second: Anim_Chris_Pousse_SpriteSHeet_71
+  - first:
+      213: -8849312269963630791
+    second: Anim_Chris_Pousse_SpriteSHeet_72
+  - first:
+      213: -9094257491142042651
+    second: Anim_Chris_Pousse_SpriteSHeet_73
+  - first:
+      213: -7369997053936652694
+    second: Anim_Chris_Pousse_SpriteSHeet_74
+  - first:
+      213: 7965004144842779126
+    second: Anim_Chris_Pousse_SpriteSHeet_75
+  - first:
+      213: 5320029491194568454
+    second: Anim_Chris_Pousse_SpriteSHeet_76
+  - first:
+      213: -2167317055429170547
+    second: Anim_Chris_Pousse_SpriteSHeet_77
+  - first:
+      213: -1727226071273666400
+    second: Anim_Chris_Pousse_SpriteSHeet_78
+  - first:
+      213: -5300427014182124391
+    second: Anim_Chris_Pousse_SpriteSHeet_79
+  - first:
+      213: 2344025336188262769
+    second: Anim_Chris_Pousse_SpriteSHeet_80
+  - first:
+      213: 4843730401504062492
+    second: Anim_Chris_Pousse_SpriteSHeet_81
+  - first:
+      213: -2464776397609909842
+    second: Anim_Chris_Pousse_SpriteSHeet_82
+  - first:
+      213: 3663313128530713220
+    second: Anim_Chris_Pousse_SpriteSHeet_83
+  - first:
+      213: 3530789378421798279
+    second: Anim_Chris_Pousse_SpriteSHeet_84
+  - first:
+      213: 3807016113276118280
+    second: Anim_Chris_Pousse_SpriteSHeet_85
+  - first:
+      213: -8716165949701861517
+    second: Anim_Chris_Pousse_SpriteSHeet_86
+  - first:
+      213: 9217069090992924424
+    second: Anim_Chris_Pousse_SpriteSHeet_87
+  - first:
+      213: -9180246787687045103
+    second: Anim_Chris_Pousse_SpriteSHeet_88
+  - first:
+      213: -7224790487280310968
+    second: Anim_Chris_Pousse_SpriteSHeet_89
+  - first:
+      213: -1910916382192737586
+    second: Anim_Chris_Pousse_SpriteSHeet_90
+  - first:
+      213: 6006426611986056797
+    second: Anim_Chris_Pousse_SpriteSHeet_91
+  - first:
+      213: -1252794554867221957
+    second: Anim_Chris_Pousse_SpriteSHeet_92
+  - first:
+      213: -1921347611209067024
+    second: Anim_Chris_Pousse_SpriteSHeet_93
+  - first:
+      213: 476198811884322695
+    second: Anim_Chris_Pousse_SpriteSHeet_94
+  - first:
+      213: 6286388002334608883
+    second: Anim_Chris_Pousse_SpriteSHeet_95
+  - first:
+      213: -491695737759917731
+    second: Anim_Chris_Pousse_SpriteSHeet_96
+  - first:
+      213: -1404955088195770613
+    second: Anim_Chris_Pousse_SpriteSHeet_97
+  - first:
+      213: 6786644883222158116
+    second: Anim_Chris_Pousse_SpriteSHeet_98
+  - first:
+      213: -8948715285918377536
+    second: Anim_Chris_Pousse_SpriteSHeet_99
+  - first:
+      213: 8880767656322875063
+    second: Anim_Chris_Pousse_SpriteSHeet_100
+  - first:
+      213: -2352427421278930773
+    second: Anim_Chris_Pousse_SpriteSHeet_101
+  - first:
+      213: -173659293422898730
+    second: Anim_Chris_Pousse_SpriteSHeet_102
+  - first:
+      213: 3978048426931892723
+    second: Anim_Chris_Pousse_SpriteSHeet_103
+  - first:
+      213: -1834031888301559604
+    second: Anim_Chris_Pousse_SpriteSHeet_104
+  - first:
+      213: 7281756055851186589
+    second: Anim_Chris_Pousse_SpriteSHeet_105
+  - first:
+      213: -367953977295767715
+    second: Anim_Chris_Pousse_SpriteSHeet_106
+  - first:
+      213: -761585234437196692
+    second: Anim_Chris_Pousse_SpriteSHeet_107
+  - first:
+      213: 4278674213730688444
+    second: Anim_Chris_Pousse_SpriteSHeet_108
+  - first:
+      213: 4925620126997640901
+    second: Anim_Chris_Pousse_SpriteSHeet_109
+  - first:
+      213: 7881318177642924637
+    second: Anim_Chris_Pousse_SpriteSHeet_110
+  - first:
+      213: -4580996850886962211
+    second: Anim_Chris_Pousse_SpriteSHeet_111
+  - first:
+      213: 4177524817108798112
+    second: Anim_Chris_Pousse_SpriteSHeet_112
+  - first:
+      213: 454305760806983060
+    second: Anim_Chris_Pousse_SpriteSHeet_113
+  - first:
+      213: 678256143177976485
+    second: Anim_Chris_Pousse_SpriteSHeet_114
+  - first:
+      213: -9182542237809957944
+    second: Anim_Chris_Pousse_SpriteSHeet_115
+  - first:
+      213: -4930537690295275971
+    second: Anim_Chris_Pousse_SpriteSHeet_116
+  - first:
+      213: -4089720309023077340
+    second: Anim_Chris_Pousse_SpriteSHeet_117
+  - first:
+      213: 6490904349075008515
+    second: Anim_Chris_Pousse_SpriteSHeet_118
+  - first:
+      213: 5378303226609394932
+    second: Anim_Chris_Pousse_SpriteSHeet_119
+  - first:
+      213: 5457087195836514587
+    second: Anim_Chris_Pousse_SpriteSHeet_120
+  - first:
+      213: -4680542960669803028
+    second: Anim_Chris_Pousse_SpriteSHeet_121
+  - first:
+      213: 3062775439705449369
+    second: Anim_Chris_Pousse_SpriteSHeet_122
+  - first:
+      213: 357599634756946456
+    second: Anim_Chris_Pousse_SpriteSHeet_123
+  - first:
+      213: -923234490523500730
+    second: Anim_Chris_Pousse_SpriteSHeet_124
+  - first:
+      213: 3798103307530059718
+    second: Anim_Chris_Pousse_SpriteSHeet_125
+  - first:
+      213: 542537778294344109
+    second: Anim_Chris_Pousse_SpriteSHeet_126
+  - first:
+      213: 6308972683734692416
+    second: Anim_Chris_Pousse_SpriteSHeet_127
+  - first:
+      213: 8036812623164957630
+    second: Anim_Chris_Pousse_SpriteSHeet_128
+  - first:
+      213: -2214646558282472603
+    second: Anim_Chris_Pousse_SpriteSHeet_129
+  - first:
+      213: -2428397894856453633
+    second: Anim_Chris_Pousse_SpriteSHeet_130
+  - first:
+      213: -2283238114244322229
+    second: Anim_Chris_Pousse_SpriteSHeet_131
+  - first:
+      213: -6422100218143756106
+    second: Anim_Chris_Pousse_SpriteSHeet_132
+  - first:
+      213: 8261105781686730171
+    second: Anim_Chris_Pousse_SpriteSHeet_133
+  - first:
+      213: -7969531467894514600
+    second: Anim_Chris_Pousse_SpriteSHeet_134
+  - first:
+      213: -6552255652228698573
+    second: Anim_Chris_Pousse_SpriteSHeet_135
+  - first:
+      213: 2482340046156726935
+    second: Anim_Chris_Pousse_SpriteSHeet_136
+  - first:
+      213: 8320546919586292573
+    second: Anim_Chris_Pousse_SpriteSHeet_137
+  - first:
+      213: -3198798368145590176
+    second: Anim_Chris_Pousse_SpriteSHeet_138
+  - first:
+      213: 2280452888529534708
+    second: Anim_Chris_Pousse_SpriteSHeet_139
+  - first:
+      213: 5691760471304259419
+    second: Anim_Chris_Pousse_SpriteSHeet_140
+  - first:
+      213: -1634122065852862303
+    second: Anim_Chris_Pousse_SpriteSHeet_141
+  - first:
+      213: 621187727206558970
+    second: Anim_Chris_Pousse_SpriteSHeet_142
+  - first:
+      213: -7015128774083774105
+    second: Anim_Chris_Pousse_SpriteSHeet_143
+  - first:
+      213: -8987077641748678958
+    second: Anim_Chris_Pousse_SpriteSHeet_144
+  - first:
+      213: -3138633992491520586
+    second: Anim_Chris_Pousse_SpriteSHeet_145
+  - first:
+      213: -7457744104404380854
+    second: Anim_Chris_Pousse_SpriteSHeet_146
+  - first:
+      213: 5942735969085981353
+    second: Anim_Chris_Pousse_SpriteSHeet_147
+  - first:
+      213: 3611121389688016552
+    second: Anim_Chris_Pousse_SpriteSHeet_148
+  - first:
+      213: -8478523413474700221
+    second: Anim_Chris_Pousse_SpriteSHeet_149
+  - first:
+      213: -8684051972972292105
+    second: Anim_Chris_Pousse_SpriteSHeet_150
+  - first:
+      213: -6287978428305566962
+    second: Anim_Chris_Pousse_SpriteSHeet_151
+  - first:
+      213: -7650107447596171773
+    second: Anim_Chris_Pousse_SpriteSHeet_152
+  - first:
+      213: -3788864759239205787
+    second: Anim_Chris_Pousse_SpriteSHeet_153
+  - first:
+      213: 82952169664264536
+    second: Anim_Chris_Pousse_SpriteSHeet_154
+  - first:
+      213: 7294867811719663523
+    second: Anim_Chris_Pousse_SpriteSHeet_155
+  - first:
+      213: -2088300124021811941
+    second: Anim_Chris_Pousse_SpriteSHeet_156
+  - first:
+      213: 9075568747455050546
+    second: Anim_Chris_Pousse_SpriteSHeet_157
+  - first:
+      213: -7914636979148743822
+    second: Anim_Chris_Pousse_SpriteSHeet_158
+  - first:
+      213: 222563074594620322
+    second: Anim_Chris_Pousse_SpriteSHeet_159
+  - first:
+      213: -8887436644529928807
+    second: Anim_Chris_Pousse_SpriteSHeet_160
+  - first:
+      213: -7163364394729786129
+    second: Anim_Chris_Pousse_SpriteSHeet_161
+  - first:
+      213: -8265078824741904013
+    second: Anim_Chris_Pousse_SpriteSHeet_162
+  - first:
+      213: -2741800868367007712
+    second: Anim_Chris_Pousse_SpriteSHeet_163
+  - first:
+      213: -7268460927577028391
+    second: Anim_Chris_Pousse_SpriteSHeet_164
+  - first:
+      213: 513712493012983089
+    second: Anim_Chris_Pousse_SpriteSHeet_165
+  - first:
+      213: -4003592105104733863
+    second: Anim_Chris_Pousse_SpriteSHeet_166
+  - first:
+      213: 8356095547898925711
+    second: Anim_Chris_Pousse_SpriteSHeet_167
+  - first:
+      213: -6611865604632880171
+    second: Anim_Chris_Pousse_SpriteSHeet_168
+  - first:
+      213: 121797511956232604
+    second: Anim_Chris_Pousse_SpriteSHeet_169
+  - first:
+      213: -298063150100918501
+    second: Anim_Chris_Pousse_SpriteSHeet_170
+  - first:
+      213: -8211092134596707124
+    second: Anim_Chris_Pousse_SpriteSHeet_171
+  - first:
+      213: -2314681165452214090
+    second: Anim_Chris_Pousse_SpriteSHeet_172
+  - first:
+      213: 4707211412429397207
+    second: Anim_Chris_Pousse_SpriteSHeet_173
+  - first:
+      213: -231366987600318993
+    second: Anim_Chris_Pousse_SpriteSHeet_174
+  - first:
+      213: -3033475169458267445
+    second: Anim_Chris_Pousse_SpriteSHeet_175
+  - first:
+      213: 924915688935128661
+    second: Anim_Chris_Pousse_SpriteSHeet_176
+  - first:
+      213: 2055217858930191503
+    second: Anim_Chris_Pousse_SpriteSHeet_177
+  - first:
+      213: -6965258997561224835
+    second: Anim_Chris_Pousse_SpriteSHeet_178
+  - first:
+      213: -5571852671817700570
+    second: Anim_Chris_Pousse_SpriteSHeet_179
+  - first:
+      213: 2057332286302605894
+    second: Anim_Chris_Pousse_SpriteSHeet_180
+  - first:
+      213: 3365151109550055979
+    second: Anim_Chris_Pousse_SpriteSHeet_181
+  - first:
+      213: -9195702510333625635
+    second: Anim_Chris_Pousse_SpriteSHeet_182
+  - first:
+      213: 788097179195955331
+    second: Anim_Chris_Pousse_SpriteSHeet_183
+  - first:
+      213: 2539892381576045180
+    second: Anim_Chris_Pousse_SpriteSHeet_184
+  - first:
+      213: -3678087411762205180
+    second: Anim_Chris_Pousse_SpriteSHeet_185
+  - first:
+      213: -8994062102789052104
+    second: Anim_Chris_Pousse_SpriteSHeet_186
+  - first:
+      213: 3672175692151047177
+    second: Anim_Chris_Pousse_SpriteSHeet_187
+  - first:
+      213: 6704286980782770930
+    second: Anim_Chris_Pousse_SpriteSHeet_188
+  - first:
+      213: 8042666192968755202
+    second: Anim_Chris_Pousse_SpriteSHeet_189
+  - first:
+      213: -1299293825507025164
+    second: Anim_Chris_Pousse_SpriteSHeet_190
+  - first:
+      213: 5942135725808410370
+    second: Anim_Chris_Pousse_SpriteSHeet_191
+  - first:
+      213: 493527458770301647
+    second: Anim_Chris_Pousse_SpriteSHeet_192
+  - first:
+      213: 4682542258762687181
+    second: Anim_Chris_Pousse_SpriteSHeet_193
+  - first:
+      213: 4518428147359420220
+    second: Anim_Chris_Pousse_SpriteSHeet_194
+  - first:
+      213: -3999814748807976868
+    second: Anim_Chris_Pousse_SpriteSHeet_195
+  - first:
+      213: 3285012942569190856
+    second: Anim_Chris_Pousse_SpriteSHeet_196
+  - first:
+      213: -649074012135301277
+    second: Anim_Chris_Pousse_SpriteSHeet_197
+  - first:
+      213: -846984336393491435
+    second: Anim_Chris_Pousse_SpriteSHeet_198
+  - first:
+      213: -2714861700022321856
+    second: Anim_Chris_Pousse_SpriteSHeet_199
+  - first:
+      213: 3400118132727950685
+    second: Anim_Chris_Pousse_SpriteSHeet_200
+  - first:
+      213: 8364022459194111987
+    second: Anim_Chris_Pousse_SpriteSHeet_201
+  - first:
+      213: 4326363023025798216
+    second: Anim_Chris_Pousse_SpriteSHeet_202
+  - first:
+      213: 6316339520739826049
+    second: Anim_Chris_Pousse_SpriteSHeet_203
+  - first:
+      213: 94949403662665529
+    second: Anim_Chris_Pousse_SpriteSHeet_204
+  - first:
+      213: 5714262376358515076
+    second: Anim_Chris_Pousse_SpriteSHeet_205
+  - first:
+      213: -6772777853895163777
+    second: Anim_Chris_Pousse_SpriteSHeet_206
+  - first:
+      213: 6171166126026652307
+    second: Anim_Chris_Pousse_SpriteSHeet_207
+  - first:
+      213: -8425457506348935240
+    second: Anim_Chris_Pousse_SpriteSHeet_208
+  - first:
+      213: -8012645209778870510
+    second: Anim_Chris_Pousse_SpriteSHeet_209
+  - first:
+      213: 1852731820435392793
+    second: Anim_Chris_Pousse_SpriteSHeet_210
+  - first:
+      213: 1259468068863082304
+    second: Anim_Chris_Pousse_SpriteSHeet_211
+  - first:
+      213: 7110628664635101499
+    second: Anim_Chris_Pousse_SpriteSHeet_212
+  - first:
+      213: 6528111958025142325
+    second: Anim_Chris_Pousse_SpriteSHeet_213
+  - first:
+      213: -1882614656479476544
+    second: Anim_Chris_Pousse_SpriteSHeet_214
+  - first:
+      213: -1587371896344493089
+    second: Anim_Chris_Pousse_SpriteSHeet_215
+  - first:
+      213: -8578338700872565782
+    second: Anim_Chris_Pousse_SpriteSHeet_216
+  - first:
+      213: -7879996789277800227
+    second: Anim_Chris_Pousse_SpriteSHeet_217
+  - first:
+      213: 4117040799535529419
+    second: Anim_Chris_Pousse_SpriteSHeet_218
+  - first:
+      213: -1808569180776674394
+    second: Anim_Chris_Pousse_SpriteSHeet_219
+  - first:
+      213: -2038397577185358267
+    second: Anim_Chris_Pousse_SpriteSHeet_220
+  - first:
+      213: -861901235982568292
+    second: Anim_Chris_Pousse_SpriteSHeet_221
+  - first:
+      213: 3961224531517367988
+    second: Anim_Chris_Pousse_SpriteSHeet_222
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6977bc76be543840800000000000000
+      internalID: 5202887607389223275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d1e6664f5b3a50800000000000000
+      internalID: 6501895243017867347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ba7049070a6310800000000000000
+      internalID: 1398938370569843957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b2e367c1c02fc90800000000000000
+      internalID: -7137629143046411489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ce0fe2d66e8e30800000000000000
+      internalID: 4507653333184334030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c2cde0fed28ef0800000000000000
+      internalID: -107278314740987953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be671024f7fcea570800000000000000
+      internalID: 8479943293860411115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57c04b3fa1e44e0800000000000000
+      internalID: -1995627950878460488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d04933027959e0800000000000000
+      internalID: -1632148031774074836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8af676c2bf0540800000000000000
+      internalID: 4976392678737087906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc577e06468b0170800000000000000
+      internalID: 8145751986478210301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a9c024a554eb720800000000000000
+      internalID: 2863802667011709556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322d517ae1521c2b0800000000000000
+      internalID: -5566126850870750685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77c1276529299390800000000000000
+      internalID: -7811166838076618881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd381322373c13c40800000000000000
+      internalID: 5490384320003671003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d87a7f261b90840800000000000000
+      internalID: 5190875084141071636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023fd39000fecb80800000000000000
+      internalID: -8372490771963629043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9714263ce217680800000000000000
+      internalID: -8759168383556945441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9cac70d4b92c2b0800000000000000
+      internalID: -5565715434330994186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d5fe9d427f4bb0800000000000000
+      internalID: -4949611787751926631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3083eebd087b639e0800000000000000
+      internalID: -1641923250056447997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625c2c057a7a13c50800000000000000
+      internalID: 6643275262404511014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e96cd80550f180800000000000000
+      internalID: -9083666951860263882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a5d715c9cdecc80800000000000000
+      internalID: -8300454499257066986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813ae4a80ae8ca710800000000000000
+      internalID: 1705895179032896280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d16f48aa3b752080800000000000000
+      internalID: -9212821970854387243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7641a171f4da60350800000000000000
+      internalID: 5982659710209889383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570499663439db1f0800000000000000
+      internalID: -1027503222277193611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c5922b30b767d0800000000000000
+      internalID: -2925175664924046926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94d8a59b622101e0800000000000000
+      internalID: -2233466094731340641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f62f6496489fe10800000000000000
+      internalID: 2231960678035517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690a10391dfeed60800000000000000
+      internalID: 7921547079214303586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa11d6a6356e7580800000000000000
+      internalID: -8827506934198232334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969c0667637c66b0800000000000000
+      internalID: -5301735773390989672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8ee37aacd3ad80800000000000000
+      internalID: -8240500268510311887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee8c77464828590800000000000000
+      internalID: -7673425248044650810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7006e9244c21460800000000000000
+      internalID: 7211041743777564586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18f082e2af437710800000000000000
+      internalID: 1689781846197467167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe42204cff9fb510800000000000000
+      internalID: 1567147101104787187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chris_Pousse_SpriteSHeet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018528ef906b64810800000000000000
+      internalID: 1749285659320932368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73b5636394ac21c4eb36f54a3796abd9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Chris_Pousse_SpriteSHeet_0: 5202887607389223275
+      Anim_Chris_Pousse_SpriteSHeet_1: 6501895243017867347
+      Anim_Chris_Pousse_SpriteSHeet_10: 8145751986478210301
+      Anim_Chris_Pousse_SpriteSHeet_11: 2863802667011709556
+      Anim_Chris_Pousse_SpriteSHeet_12: -5566126850870750685
+      Anim_Chris_Pousse_SpriteSHeet_13: -7811166838076618881
+      Anim_Chris_Pousse_SpriteSHeet_14: 5490384320003671003
+      Anim_Chris_Pousse_SpriteSHeet_15: 5190875084141071636
+      Anim_Chris_Pousse_SpriteSHeet_16: -8372490771963629043
+      Anim_Chris_Pousse_SpriteSHeet_17: -8759168383556945441
+      Anim_Chris_Pousse_SpriteSHeet_18: -5565715434330994186
+      Anim_Chris_Pousse_SpriteSHeet_19: -4949611787751926631
+      Anim_Chris_Pousse_SpriteSHeet_2: 1398938370569843957
+      Anim_Chris_Pousse_SpriteSHeet_20: -1641923250056447997
+      Anim_Chris_Pousse_SpriteSHeet_21: 6643275262404511014
+      Anim_Chris_Pousse_SpriteSHeet_22: -9083666951860263882
+      Anim_Chris_Pousse_SpriteSHeet_23: -8300454499257066986
+      Anim_Chris_Pousse_SpriteSHeet_24: 1705895179032896280
+      Anim_Chris_Pousse_SpriteSHeet_25: -9212821970854387243
+      Anim_Chris_Pousse_SpriteSHeet_26: 5982659710209889383
+      Anim_Chris_Pousse_SpriteSHeet_27: -1027503222277193611
+      Anim_Chris_Pousse_SpriteSHeet_28: -2925175664924046926
+      Anim_Chris_Pousse_SpriteSHeet_29: -2233466094731340641
+      Anim_Chris_Pousse_SpriteSHeet_3: -7137629143046411489
+      Anim_Chris_Pousse_SpriteSHeet_30: 2231960678035517216
+      Anim_Chris_Pousse_SpriteSHeet_31: 7921547079214303586
+      Anim_Chris_Pousse_SpriteSHeet_32: -8827506934198232334
+      Anim_Chris_Pousse_SpriteSHeet_33: -5301735773390989672
+      Anim_Chris_Pousse_SpriteSHeet_34: -8240500268510311887
+      Anim_Chris_Pousse_SpriteSHeet_35: -7673425248044650810
+      Anim_Chris_Pousse_SpriteSHeet_36: 7211041743777564586
+      Anim_Chris_Pousse_SpriteSHeet_37: 1689781846197467167
+      Anim_Chris_Pousse_SpriteSHeet_38: 1567147101104787187
+      Anim_Chris_Pousse_SpriteSHeet_39: 1749285659320932368
+      Anim_Chris_Pousse_SpriteSHeet_4: 4507653333184334030
+      Anim_Chris_Pousse_SpriteSHeet_5: -107278314740987953
+      Anim_Chris_Pousse_SpriteSHeet_6: 8479943293860411115
+      Anim_Chris_Pousse_SpriteSHeet_7: -1995627950878460488
+      Anim_Chris_Pousse_SpriteSHeet_8: -1632148031774074836
+      Anim_Chris_Pousse_SpriteSHeet_9: 4976392678737087906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

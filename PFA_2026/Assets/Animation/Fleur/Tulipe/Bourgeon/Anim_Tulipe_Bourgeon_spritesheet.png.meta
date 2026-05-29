@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 4c483e9fb90764d47861ace6feae0cae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -362898714723605854
+    second: Anim_Tulipe_Bourgeon_spritesheet_0
+  - first:
+      213: 5567537253573137091
+    second: Anim_Tulipe_Bourgeon_spritesheet_1
+  - first:
+      213: 838510551861819602
+    second: Anim_Tulipe_Bourgeon_spritesheet_2
+  - first:
+      213: -8062248189722961544
+    second: Anim_Tulipe_Bourgeon_spritesheet_3
+  - first:
+      213: -2818893384623149156
+    second: Anim_Tulipe_Bourgeon_spritesheet_4
+  - first:
+      213: 1687386197306147244
+    second: Anim_Tulipe_Bourgeon_spritesheet_5
+  - first:
+      213: 8823666328039130989
+    second: Anim_Tulipe_Bourgeon_spritesheet_6
+  - first:
+      213: -807992953959727292
+    second: Anim_Tulipe_Bourgeon_spritesheet_7
+  - first:
+      213: -6463971283826875610
+    second: Anim_Tulipe_Bourgeon_spritesheet_8
+  - first:
+      213: 4140449138681691339
+    second: Anim_Tulipe_Bourgeon_spritesheet_9
+  - first:
+      213: 7471013022771118973
+    second: Anim_Tulipe_Bourgeon_spritesheet_10
+  - first:
+      213: 2163795791378444258
+    second: Anim_Tulipe_Bourgeon_spritesheet_11
+  - first:
+      213: -5333241387260524643
+    second: Anim_Tulipe_Bourgeon_spritesheet_12
+  - first:
+      213: -8107061780075872615
+    second: Anim_Tulipe_Bourgeon_spritesheet_13
+  - first:
+      213: -8422987870796880865
+    second: Anim_Tulipe_Bourgeon_spritesheet_14
+  - first:
+      213: 5529377595352860279
+    second: Anim_Tulipe_Bourgeon_spritesheet_15
+  - first:
+      213: -4872468453475707753
+    second: Anim_Tulipe_Bourgeon_spritesheet_16
+  - first:
+      213: 6781732203832804274
+    second: Anim_Tulipe_Bourgeon_spritesheet_17
+  - first:
+      213: -6162976813338207216
+    second: Anim_Tulipe_Bourgeon_spritesheet_18
+  - first:
+      213: -4544379791275041040
+    second: Anim_Tulipe_Bourgeon_spritesheet_19
+  - first:
+      213: 4440741690846019240
+    second: Anim_Tulipe_Bourgeon_spritesheet_20
+  - first:
+      213: -8751772236272806468
+    second: Anim_Tulipe_Bourgeon_spritesheet_21
+  - first:
+      213: -1185779226740821152
+    second: Anim_Tulipe_Bourgeon_spritesheet_22
+  - first:
+      213: -8397496247322161799
+    second: Anim_Tulipe_Bourgeon_spritesheet_23
+  - first:
+      213: 2910156152412979798
+    second: Anim_Tulipe_Bourgeon_spritesheet_24
+  - first:
+      213: -2135541801802528236
+    second: Anim_Tulipe_Bourgeon_spritesheet_25
+  - first:
+      213: -7077403382361058514
+    second: Anim_Tulipe_Bourgeon_spritesheet_26
+  - first:
+      213: -4775904369437475510
+    second: Anim_Tulipe_Bourgeon_spritesheet_27
+  - first:
+      213: 3628540979718028124
+    second: Anim_Tulipe_Bourgeon_spritesheet_28
+  - first:
+      213: -643424447214612085
+    second: Anim_Tulipe_Bourgeon_spritesheet_29
+  - first:
+      213: -8531542204562985726
+    second: Anim_Tulipe_Bourgeon_spritesheet_30
+  - first:
+      213: -6114148302178277371
+    second: Anim_Tulipe_Bourgeon_spritesheet_31
+  - first:
+      213: -214672885421951333
+    second: Anim_Tulipe_Bourgeon_spritesheet_32
+  - first:
+      213: -4218128798532795325
+    second: Anim_Tulipe_Bourgeon_spritesheet_33
+  - first:
+      213: 2065555749882207057
+    second: Anim_Tulipe_Bourgeon_spritesheet_34
+  - first:
+      213: 3323165811021489187
+    second: Anim_Tulipe_Bourgeon_spritesheet_35
+  - first:
+      213: 9161224703688914030
+    second: Anim_Tulipe_Bourgeon_spritesheet_36
+  - first:
+      213: 1343780841513424355
+    second: Anim_Tulipe_Bourgeon_spritesheet_37
+  - first:
+      213: 2497819019515407416
+    second: Anim_Tulipe_Bourgeon_spritesheet_38
+  - first:
+      213: -6685481873583067074
+    second: Anim_Tulipe_Bourgeon_spritesheet_39
+  - first:
+      213: -624314887704816767
+    second: Anim_Tulipe_Bourgeon_spritesheet_40
+  - first:
+      213: 120063571281035723
+    second: Anim_Tulipe_Bourgeon_spritesheet_41
+  - first:
+      213: 4381187885975080297
+    second: Anim_Tulipe_Bourgeon_spritesheet_42
+  - first:
+      213: -1442240861754878429
+    second: Anim_Tulipe_Bourgeon_spritesheet_43
+  - first:
+      213: -2608352505671011870
+    second: Anim_Tulipe_Bourgeon_spritesheet_44
+  - first:
+      213: -7546578124863096514
+    second: Anim_Tulipe_Bourgeon_spritesheet_45
+  - first:
+      213: 7330689560696763549
+    second: Anim_Tulipe_Bourgeon_spritesheet_46
+  - first:
+      213: 3732043900645346364
+    second: Anim_Tulipe_Bourgeon_spritesheet_47
+  - first:
+      213: 4931602867796447499
+    second: Anim_Tulipe_Bourgeon_spritesheet_48
+  - first:
+      213: 5031127073174019078
+    second: Anim_Tulipe_Bourgeon_spritesheet_49
+  - first:
+      213: 6813606289667509185
+    second: Anim_Tulipe_Bourgeon_spritesheet_50
+  - first:
+      213: -5094124447914607115
+    second: Anim_Tulipe_Bourgeon_spritesheet_51
+  - first:
+      213: -824903937052248543
+    second: Anim_Tulipe_Bourgeon_spritesheet_52
+  - first:
+      213: -5143343694372751228
+    second: Anim_Tulipe_Bourgeon_spritesheet_53
+  - first:
+      213: 6998974755686337821
+    second: Anim_Tulipe_Bourgeon_spritesheet_54
+  - first:
+      213: 7750758546573549671
+    second: Anim_Tulipe_Bourgeon_spritesheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2247baa89b6faf0800000000000000
+      internalID: -362898714723605854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c21bf052add34d40800000000000000
+      internalID: 5567537253573137091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8f32087ecf2ab00800000000000000
+      internalID: 838510551861819602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d680bcf32d1090800000000000000
+      internalID: -8062248189722961544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa6ddd66741e8d0800000000000000
+      internalID: -2818893384623149156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca184596eccca6710800000000000000
+      internalID: 1687386197306147244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67095b86c5f37a70800000000000000
+      internalID: 8823666328039130989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f363670be69c4f0800000000000000
+      internalID: -807992953959727292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236c2d6d5c5b46a0800000000000000
+      internalID: -6463971283826875610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccb1b9fd84d57930800000000000000
+      internalID: 4140449138681691339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730796d2ce5ea760800000000000000
+      internalID: 7471013022771118973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe897dec8570e10800000000000000
+      internalID: 2163795791378444258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97ccea07358cf5b0800000000000000
+      internalID: -5333241387260524643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e7e6a934eed7f80800000000000000
+      internalID: -8107061780075872615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f146abd88298b1b80800000000000000
+      internalID: -8422987870796880865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c20880ab4cbc40800000000000000
+      internalID: 5529377595352860279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794984bc1c3816cb0800000000000000
+      internalID: -4872468453475707753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3084b128d8d1e50800000000000000
+      internalID: 6781732203832804274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd10abd35b87aa0800000000000000
+      internalID: -6162976813338207216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe569038ae1fe0c0800000000000000
+      internalID: -4544379791275041040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aef42e2a0fa0ad30800000000000000
+      internalID: 4440741690846019240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb555dd15857b8680800000000000000
+      internalID: -8751772236272806468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063731863144b8fe0800000000000000
+      internalID: -1185779226740821152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dcfa7a7a9167b80800000000000000
+      internalID: -8397496247322161799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6524e791a93f26820800000000000000
+      internalID: 2910156152412979798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a009cbb080d52e0800000000000000
+      internalID: -2135541801802528236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2398361f1308cd90800000000000000
+      internalID: -7077403382361058514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7172a74498bdb0800000000000000
+      internalID: -4775904369437475510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7a05dbca2b5230800000000000000
+      internalID: 3628540979718028124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8198ffcfd81217f0800000000000000
+      internalID: -643424447214612085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d25c6219fd99980800000000000000
+      internalID: -8531542204562985726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5082b98638e262ba0800000000000000
+      internalID: -6114148302178277371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b963489e524550df0800000000000000
+      internalID: -214672885421951333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3448b92d4323675c0800000000000000
+      internalID: -4218128798532795325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b9e7fb2045aac10800000000000000
+      internalID: 2065555749882207057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a8afb2b14e1e20800000000000000
+      internalID: 3323165811021489187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6439ea6455332f70800000000000000
+      internalID: 9161224703688914030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e512624e8116a210800000000000000
+      internalID: 1343780841513424355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c2e6b0a290aa220800000000000000
+      internalID: 2497819019515407416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Bourgeon_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30b4cc38a56833a0800000000000000
+      internalID: -6685481873583067074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0432734fb3192d246910aeec77a997b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Tulipe_Bourgeon_spritesheet_0: -362898714723605854
+      Anim_Tulipe_Bourgeon_spritesheet_1: 5567537253573137091
+      Anim_Tulipe_Bourgeon_spritesheet_10: 7471013022771118973
+      Anim_Tulipe_Bourgeon_spritesheet_11: 2163795791378444258
+      Anim_Tulipe_Bourgeon_spritesheet_12: -5333241387260524643
+      Anim_Tulipe_Bourgeon_spritesheet_13: -8107061780075872615
+      Anim_Tulipe_Bourgeon_spritesheet_14: -8422987870796880865
+      Anim_Tulipe_Bourgeon_spritesheet_15: 5529377595352860279
+      Anim_Tulipe_Bourgeon_spritesheet_16: -4872468453475707753
+      Anim_Tulipe_Bourgeon_spritesheet_17: 6781732203832804274
+      Anim_Tulipe_Bourgeon_spritesheet_18: -6162976813338207216
+      Anim_Tulipe_Bourgeon_spritesheet_19: -4544379791275041040
+      Anim_Tulipe_Bourgeon_spritesheet_2: 838510551861819602
+      Anim_Tulipe_Bourgeon_spritesheet_20: 4440741690846019240
+      Anim_Tulipe_Bourgeon_spritesheet_21: -8751772236272806468
+      Anim_Tulipe_Bourgeon_spritesheet_22: -1185779226740821152
+      Anim_Tulipe_Bourgeon_spritesheet_23: -8397496247322161799
+      Anim_Tulipe_Bourgeon_spritesheet_24: 2910156152412979798
+      Anim_Tulipe_Bourgeon_spritesheet_25: -2135541801802528236
+      Anim_Tulipe_Bourgeon_spritesheet_26: -7077403382361058514
+      Anim_Tulipe_Bourgeon_spritesheet_27: -4775904369437475510
+      Anim_Tulipe_Bourgeon_spritesheet_28: 3628540979718028124
+      Anim_Tulipe_Bourgeon_spritesheet_29: -643424447214612085
+      Anim_Tulipe_Bourgeon_spritesheet_3: -8062248189722961544
+      Anim_Tulipe_Bourgeon_spritesheet_30: -8531542204562985726
+      Anim_Tulipe_Bourgeon_spritesheet_31: -6114148302178277371
+      Anim_Tulipe_Bourgeon_spritesheet_32: -214672885421951333
+      Anim_Tulipe_Bourgeon_spritesheet_33: -4218128798532795325
+      Anim_Tulipe_Bourgeon_spritesheet_34: 2065555749882207057
+      Anim_Tulipe_Bourgeon_spritesheet_35: 3323165811021489187
+      Anim_Tulipe_Bourgeon_spritesheet_36: 9161224703688914030
+      Anim_Tulipe_Bourgeon_spritesheet_37: 1343780841513424355
+      Anim_Tulipe_Bourgeon_spritesheet_38: 2497819019515407416
+      Anim_Tulipe_Bourgeon_spritesheet_39: -6685481873583067074
+      Anim_Tulipe_Bourgeon_spritesheet_4: -2818893384623149156
+      Anim_Tulipe_Bourgeon_spritesheet_5: 1687386197306147244
+      Anim_Tulipe_Bourgeon_spritesheet_6: 8823666328039130989
+      Anim_Tulipe_Bourgeon_spritesheet_7: -807992953959727292
+      Anim_Tulipe_Bourgeon_spritesheet_8: -6463971283826875610
+      Anim_Tulipe_Bourgeon_spritesheet_9: 4140449138681691339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

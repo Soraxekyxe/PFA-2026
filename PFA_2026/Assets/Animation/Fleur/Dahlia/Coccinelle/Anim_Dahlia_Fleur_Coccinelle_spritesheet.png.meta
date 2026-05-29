@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 55f506129f9859241bd09d6cb15d6918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5885639224438430701
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_0
+  - first:
+      213: 2101277569639085786
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_1
+  - first:
+      213: 6230847820322101514
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_2
+  - first:
+      213: 7601606547409686663
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_3
+  - first:
+      213: 6384253781478769876
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_4
+  - first:
+      213: 5745083721947522616
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_5
+  - first:
+      213: -3305164388408827159
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_6
+  - first:
+      213: 2121172939784437246
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_7
+  - first:
+      213: -6304439413966455861
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_8
+  - first:
+      213: -1870854668445813618
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_9
+  - first:
+      213: 3271317903046430877
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_10
+  - first:
+      213: -6106593426844500409
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_11
+  - first:
+      213: -372275985840164760
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_12
+  - first:
+      213: 8666711761310343816
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_13
+  - first:
+      213: -7136401661005028538
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_14
+  - first:
+      213: 2352516796526010972
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_15
+  - first:
+      213: -4377883956222916136
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_16
+  - first:
+      213: -3904462792968411999
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_17
+  - first:
+      213: 5197721380371213174
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_18
+  - first:
+      213: 1085303003367852944
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_19
+  - first:
+      213: -2701427753018228978
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_20
+  - first:
+      213: -8429946093723814083
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_21
+  - first:
+      213: -4009751886625509590
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_22
+  - first:
+      213: -7142103895235490174
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_23
+  - first:
+      213: 2980053978140317277
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_24
+  - first:
+      213: -8945297539177535437
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_25
+  - first:
+      213: 3920177613048242457
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_26
+  - first:
+      213: 7572414237367877631
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_27
+  - first:
+      213: 8448886085180652794
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_28
+  - first:
+      213: -5915798629999255455
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_29
+  - first:
+      213: -703560687086814513
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_30
+  - first:
+      213: -7829151871963298113
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_31
+  - first:
+      213: -6868376785899656274
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_32
+  - first:
+      213: 8796162629170148709
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_33
+  - first:
+      213: 4477605477664453363
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_34
+  - first:
+      213: 5609827612404153791
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_35
+  - first:
+      213: -8484973893993202372
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_36
+  - first:
+      213: -6478632534067502942
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_37
+  - first:
+      213: -3467527920340058796
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_38
+  - first:
+      213: 4208502970129396594
+    second: Anim_Dahlia_Fleur_Coccinelle_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314ed3f0f42025ea0800000000000000
+      internalID: -5885639224438430701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad675d801dc392d10800000000000000
+      internalID: 2101277569639085786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09d0d3841b687650800000000000000
+      internalID: 6230847820322101514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78053ac31e45e7960800000000000000
+      internalID: 7601606547409686663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d48cf03dfc699850800000000000000
+      internalID: 6384253781478769876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836af83d433aabf40800000000000000
+      internalID: 5745083721947522616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ee901082b122d0800000000000000
+      internalID: -3305164388408827159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb50fdc8bef6d10800000000000000
+      internalID: 2121172939784437246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbbe8e51c12288a0800000000000000
+      internalID: -6304439413966455861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84f7ec57936906e0800000000000000
+      internalID: -1870854668445813618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d905576fc4e066d20800000000000000
+      internalID: 3271317903046430877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb235e1a5014ba0800000000000000
+      internalID: -6106593426844500409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b69996f865daf0800000000000000
+      internalID: -372275985840164760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826a9fbd68564870800000000000000
+      internalID: 8666711761310343816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643a945ef7866fc90800000000000000
+      internalID: -7136401661005028538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52a211ff81d5a020800000000000000
+      internalID: 2352516796526010972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d98371acb1ae33c0800000000000000
+      internalID: -4377883956222916136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4636ac6cf80d9c0800000000000000
+      internalID: -3904462792968411999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67baa768e04022840800000000000000
+      internalID: 5197721380371213174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc765d455cf0f00800000000000000
+      internalID: 1085303003367852944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f77fa75c9928ad0800000000000000
+      internalID: -2701427753018228978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3776e701b0d20b80800000000000000
+      internalID: -8429946093723814083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2feb3857ef7a58c0800000000000000
+      internalID: -4009751886625509590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0e87095622ec90800000000000000
+      internalID: -7142103895235490174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561b8add474b5920800000000000000
+      internalID: 2980053978140317277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a527484bebd380800000000000000
+      internalID: -8945297539177535437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ed22e4c4476630800000000000000
+      internalID: 3920177613048242457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3c66e0ae961960800000000000000
+      internalID: 7572414237367877631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcfeee5129704570800000000000000
+      internalID: 8448886085180652794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160e6204d7cd6eda0800000000000000
+      internalID: -5915798629999255455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab24068437c36f0800000000000000
+      internalID: -703560687086814513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb60b036ad3495390800000000000000
+      internalID: -7829151871963298113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab69e414bf9ea0a0800000000000000
+      internalID: -6868376785899656274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565b042ae4f321a70800000000000000
+      internalID: 8796162629170148709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f278846576a32e30800000000000000
+      internalID: 4477605477664453363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdf688cd7c1add40800000000000000
+      internalID: 5609827612404153791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7210e2315f3a80800000000000000
+      internalID: -8484973893993202372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02e9819064716a0800000000000000
+      internalID: -6478632534067502942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45db16b6abdd0efc0800000000000000
+      internalID: -3467527920340058796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Coccinelle_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2733dba572b976a30800000000000000
+      internalID: 4208502970129396594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: abf71550b9308ab4da34795bf8912373
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_0: -5885639224438430701
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_1: 2101277569639085786
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_10: 3271317903046430877
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_11: -6106593426844500409
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_12: -372275985840164760
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_13: 8666711761310343816
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_14: -7136401661005028538
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_15: 2352516796526010972
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_16: -4377883956222916136
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_17: -3904462792968411999
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_18: 5197721380371213174
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_19: 1085303003367852944
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_2: 6230847820322101514
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_20: -2701427753018228978
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_21: -8429946093723814083
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_22: -4009751886625509590
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_23: -7142103895235490174
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_24: 2980053978140317277
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_25: -8945297539177535437
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_26: 3920177613048242457
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_27: 7572414237367877631
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_28: 8448886085180652794
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_29: -5915798629999255455
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_3: 7601606547409686663
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_30: -703560687086814513
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_31: -7829151871963298113
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_32: -6868376785899656274
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_33: 8796162629170148709
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_34: 4477605477664453363
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_35: 5609827612404153791
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_36: -8484973893993202372
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_37: -6478632534067502942
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_38: -3467527920340058796
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_39: 4208502970129396594
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_4: 6384253781478769876
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_5: 5745083721947522616
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_6: -3305164388408827159
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_7: 2121172939784437246
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_8: -6304439413966455861
+      Anim_Dahlia_Fleur_Coccinelle_spritesheet_9: -1870854668445813618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

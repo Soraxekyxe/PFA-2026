@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: 13baebdf76d03ed4c9f8bb82d2f8b83f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5118535459416265499
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_0
+  - first:
+      213: 8087217057474845809
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_1
+  - first:
+      213: -8287182890889488589
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_2
+  - first:
+      213: 5756621589953303720
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_3
+  - first:
+      213: 54895768081229544
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_4
+  - first:
+      213: -4740195545872512540
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_5
+  - first:
+      213: -2535596387197178321
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_6
+  - first:
+      213: 5750865001412357831
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_7
+  - first:
+      213: 5438980696220582969
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_8
+  - first:
+      213: 5038291466958662396
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_9
+  - first:
+      213: -5354709156515080999
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_10
+  - first:
+      213: 3351611603480964001
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_11
+  - first:
+      213: 5062408936525547327
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_12
+  - first:
+      213: 3812148741995837583
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_13
+  - first:
+      213: -5958112671184048070
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_14
+  - first:
+      213: -8555620478984386841
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_15
+  - first:
+      213: 3277110583725440161
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_16
+  - first:
+      213: 4735446877504522728
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_17
+  - first:
+      213: 4633880212272280272
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_18
+  - first:
+      213: 3281259502850848047
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_19
+  - first:
+      213: -5031719347886955009
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_20
+  - first:
+      213: -6137418866655725168
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_21
+  - first:
+      213: 6708806448739785304
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_22
+  - first:
+      213: -4725607294864668270
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_23
+  - first:
+      213: 6468914717192289079
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_24
+  - first:
+      213: -359169767013672530
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_25
+  - first:
+      213: 3640337101874507238
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_26
+  - first:
+      213: -4665709156957425336
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_27
+  - first:
+      213: -3175163222166710367
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_28
+  - first:
+      213: 6234667316105315622
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_29
+  - first:
+      213: -3879804375272592132
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_30
+  - first:
+      213: -8041899063354405645
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_31
+  - first:
+      213: -7684775623344252696
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_32
+  - first:
+      213: 2298335493406807997
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_33
+  - first:
+      213: 5450337247074029909
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_34
+  - first:
+      213: -4986298965914595503
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_35
+  - first:
+      213: -6344634400706584576
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_36
+  - first:
+      213: 8913344994942097767
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_37
+  - first:
+      213: -6656715392042921247
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_38
+  - first:
+      213: -6532359069800311468
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_39
+  - first:
+      213: -4653611733999172990
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_40
+  - first:
+      213: 8606576672844032505
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_41
+  - first:
+      213: -3754899803606561955
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_42
+  - first:
+      213: 4956578264168951037
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_43
+  - first:
+      213: 5738112294465609968
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_44
+  - first:
+      213: 8843431147324269854
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_45
+  - first:
+      213: 5561904441989439984
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_46
+  - first:
+      213: -954001527629142789
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_47
+  - first:
+      213: -5055460939316909890
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_48
+  - first:
+      213: -3978694581991122153
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_49
+  - first:
+      213: -3093116049721643594
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_50
+  - first:
+      213: 7200195693006974636
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_51
+  - first:
+      213: -5122070001453696571
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_52
+  - first:
+      213: -1440494172297759040
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_53
+  - first:
+      213: -6450455493547109040
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_54
+  - first:
+      213: 5471624716050691974
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_55
+  - first:
+      213: 6878305797523104003
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_56
+  - first:
+      213: 570549402860812976
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_57
+  - first:
+      213: -3620005148817886929
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_58
+  - first:
+      213: 6794864206964154611
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_59
+  - first:
+      213: -2360727232399949946
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_60
+  - first:
+      213: -3524242089523401898
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_61
+  - first:
+      213: -8376139794558419066
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_62
+  - first:
+      213: 5863137484253985972
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_63
+  - first:
+      213: -8537060086065224926
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_64
+  - first:
+      213: -4375698594786100543
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_65
+  - first:
+      213: 103343473579495976
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_66
+  - first:
+      213: 5308729013357147917
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_67
+  - first:
+      213: 2277501240379241399
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_68
+  - first:
+      213: -8371641409878734659
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_69
+  - first:
+      213: 5811657410601985958
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_70
+  - first:
+      213: -65087699074244071
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_71
+  - first:
+      213: 1421167789840511595
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_72
+  - first:
+      213: 2443800999666219220
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_73
+  - first:
+      213: -5348961902899316454
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_74
+  - first:
+      213: 6913847261519022324
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_75
+  - first:
+      213: 6629435160564289663
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_76
+  - first:
+      213: 4354208483482266281
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_77
+  - first:
+      213: -6015211476466163937
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_78
+  - first:
+      213: -3790154532926282347
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_79
+  - first:
+      213: 5590483944391968596
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_80
+  - first:
+      213: -1034470407107435659
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_81
+  - first:
+      213: 3842428730517197126
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_82
+  - first:
+      213: -1919971344271660279
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_83
+  - first:
+      213: -1652591188625129131
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_84
+  - first:
+      213: -1594204647596960154
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_85
+  - first:
+      213: -2733846769246567943
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_86
+  - first:
+      213: 8296528500106589384
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_87
+  - first:
+      213: 2882541078731064460
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_88
+  - first:
+      213: 3870196213443093122
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_89
+  - first:
+      213: -6858691416752854712
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_90
+  - first:
+      213: -152220530483218388
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_91
+  - first:
+      213: 4408937099212097701
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_92
+  - first:
+      213: -7271622755042831527
+    second: Anim_Cosmos_Fleur_Coccinelle_spritesheet_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b135fb491e0b80740800000000000000
+      internalID: 5118535459416265499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c944cd0119b3070800000000000000
+      internalID: 8087217057474845809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33756df61130efc80800000000000000
+      internalID: -8287182890889488589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4d28f06d0a3ef40800000000000000
+      internalID: 5756621589953303720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e66724096703c000800000000000000
+      internalID: 54895768081229544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e941620441773eb0800000000000000
+      internalID: -4740195545872512540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e295f1580cfccd0800000000000000
+      internalID: -2535596387197178321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cee868df3d2fcf40800000000000000
+      internalID: 5750865001412357831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9344f6250242b7b40800000000000000
+      internalID: 5438980696220582969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfae3fa256b9be540800000000000000
+      internalID: 5038291466958662396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41362846040b5b0800000000000000
+      internalID: -5354709156515080999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab6f8aeef0538e20800000000000000
+      internalID: 3351611603480964001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374e512b1a414640800000000000000
+      internalID: 5062408936525547327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883d9d451977e430800000000000000
+      internalID: 3812148741995837583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30325ec718805da0800000000000000
+      internalID: -5958112671184048070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e604150184544980800000000000000
+      internalID: -8555620478984386841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb0a886b2aa7d20800000000000000
+      internalID: 3277110583725440161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c36a78dfa7b140800000000000000
+      internalID: 4735446877504522728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d273307089de4040800000000000000
+      internalID: 4633880212272280272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bc4b0220698d20800000000000000
+      internalID: 3281259502850848047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ecbb89edbb2ab0800000000000000
+      internalID: -5031719347886955009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0997437ee0283daa0800000000000000
+      internalID: -6137418866655725168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a1cfb9be77a1d50800000000000000
+      internalID: 6708806448739785304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c891e3354b6eb0800000000000000
+      internalID: -4725607294864668270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bfa8859a336c950800000000000000
+      internalID: 6468914717192289079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea91717fff8f30bf0800000000000000
+      internalID: -359169767013672530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eda7eb8e43158230800000000000000
+      internalID: 3640337101874507238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f342ed32104fb0800000000000000
+      internalID: -4665709156957425336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a75ed64fdd8fe3d0800000000000000
+      internalID: -3175163222166710367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625023d24ecf58650800000000000000
+      internalID: 6234667316105315622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfceedd0a7a282ac0800000000000000
+      internalID: -3879804375272592132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcc631e86f656090800000000000000
+      internalID: -8041899063354405645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81cf749413a5590800000000000000
+      internalID: -7684775623344252696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75f2344f355ef10800000000000000
+      internalID: 2298335493406807997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5519ded59dc73ab40800000000000000
+      internalID: 5450337247074029909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f43c0528b1dcab0800000000000000
+      internalID: -4986298965914595503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000292cb0a453f7a0800000000000000
+      internalID: -6344634400706584576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76997084c0092bb70800000000000000
+      internalID: 8913344994942097767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21866ae989e93a0800000000000000
+      internalID: -6656715392042921247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_Coccinelle_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455504339066855a0800000000000000
+      internalID: -6532359069800311468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 72f082da9ef04e949a11eb5f7b15ca03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_0: 5118535459416265499
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_1: 8087217057474845809
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_10: -5354709156515080999
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_11: 3351611603480964001
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_12: 5062408936525547327
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_13: 3812148741995837583
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_14: -5958112671184048070
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_15: -8555620478984386841
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_16: 3277110583725440161
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_17: 4735446877504522728
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_18: 4633880212272280272
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_19: 3281259502850848047
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_2: -8287182890889488589
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_20: -5031719347886955009
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_21: -6137418866655725168
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_22: 6708806448739785304
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_23: -4725607294864668270
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_24: 6468914717192289079
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_25: -359169767013672530
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_26: 3640337101874507238
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_27: -4665709156957425336
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_28: -3175163222166710367
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_29: 6234667316105315622
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_3: 5756621589953303720
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_30: -3879804375272592132
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_31: -8041899063354405645
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_32: -7684775623344252696
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_33: 2298335493406807997
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_34: 5450337247074029909
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_35: -4986298965914595503
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_36: -6344634400706584576
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_37: 8913344994942097767
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_38: -6656715392042921247
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_39: -6532359069800311468
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_4: 54895768081229544
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_5: -4740195545872512540
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_6: -2535596387197178321
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_7: 5750865001412357831
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_8: 5438980696220582969
+      Anim_Cosmos_Fleur_Coccinelle_spritesheet_9: 5038291466958662396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

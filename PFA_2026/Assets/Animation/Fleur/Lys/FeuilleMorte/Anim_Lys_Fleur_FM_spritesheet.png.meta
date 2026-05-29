@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 0bbfb5bd95c502e4b8ea3f9a42222b45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6206805297869520932
+    second: Anim_Lys_Fleur_FM_spritesheet_0
+  - first:
+      213: -6458779979470115762
+    second: Anim_Lys_Fleur_FM_spritesheet_1
+  - first:
+      213: -4506755734535209486
+    second: Anim_Lys_Fleur_FM_spritesheet_2
+  - first:
+      213: -366243958820178363
+    second: Anim_Lys_Fleur_FM_spritesheet_3
+  - first:
+      213: 7182256474586594479
+    second: Anim_Lys_Fleur_FM_spritesheet_4
+  - first:
+      213: -8778560200314134353
+    second: Anim_Lys_Fleur_FM_spritesheet_5
+  - first:
+      213: -2784745221981839700
+    second: Anim_Lys_Fleur_FM_spritesheet_6
+  - first:
+      213: -3408568409074500681
+    second: Anim_Lys_Fleur_FM_spritesheet_7
+  - first:
+      213: 2478424592662055232
+    second: Anim_Lys_Fleur_FM_spritesheet_8
+  - first:
+      213: 1174311324161714841
+    second: Anim_Lys_Fleur_FM_spritesheet_9
+  - first:
+      213: -125269520472602590
+    second: Anim_Lys_Fleur_FM_spritesheet_10
+  - first:
+      213: -6775776352988728142
+    second: Anim_Lys_Fleur_FM_spritesheet_11
+  - first:
+      213: -3661369198794905664
+    second: Anim_Lys_Fleur_FM_spritesheet_12
+  - first:
+      213: -2122008538140165190
+    second: Anim_Lys_Fleur_FM_spritesheet_13
+  - first:
+      213: -2477042589394633224
+    second: Anim_Lys_Fleur_FM_spritesheet_14
+  - first:
+      213: -3553393136985931768
+    second: Anim_Lys_Fleur_FM_spritesheet_15
+  - first:
+      213: 3488567342415653952
+    second: Anim_Lys_Fleur_FM_spritesheet_16
+  - first:
+      213: 7451535012481546966
+    second: Anim_Lys_Fleur_FM_spritesheet_17
+  - first:
+      213: 1401340330947908002
+    second: Anim_Lys_Fleur_FM_spritesheet_18
+  - first:
+      213: -2817150863890799369
+    second: Anim_Lys_Fleur_FM_spritesheet_19
+  - first:
+      213: -4360463214885361694
+    second: Anim_Lys_Fleur_FM_spritesheet_20
+  - first:
+      213: 7489839070507935440
+    second: Anim_Lys_Fleur_FM_spritesheet_21
+  - first:
+      213: -7034212063325841150
+    second: Anim_Lys_Fleur_FM_spritesheet_22
+  - first:
+      213: -5750310230877670807
+    second: Anim_Lys_Fleur_FM_spritesheet_23
+  - first:
+      213: 4249723128583144392
+    second: Anim_Lys_Fleur_FM_spritesheet_24
+  - first:
+      213: 7411257141816450807
+    second: Anim_Lys_Fleur_FM_spritesheet_25
+  - first:
+      213: -3068106849308306374
+    second: Anim_Lys_Fleur_FM_spritesheet_26
+  - first:
+      213: 1283766237717652135
+    second: Anim_Lys_Fleur_FM_spritesheet_27
+  - first:
+      213: 260110782192141207
+    second: Anim_Lys_Fleur_FM_spritesheet_28
+  - first:
+      213: 948718338884849319
+    second: Anim_Lys_Fleur_FM_spritesheet_29
+  - first:
+      213: -1975454553552381515
+    second: Anim_Lys_Fleur_FM_spritesheet_30
+  - first:
+      213: -6128699924004025978
+    second: Anim_Lys_Fleur_FM_spritesheet_31
+  - first:
+      213: -3183884874202615375
+    second: Anim_Lys_Fleur_FM_spritesheet_32
+  - first:
+      213: -4235991450194247257
+    second: Anim_Lys_Fleur_FM_spritesheet_33
+  - first:
+      213: -6163559381211884947
+    second: Anim_Lys_Fleur_FM_spritesheet_34
+  - first:
+      213: 4008274941287576706
+    second: Anim_Lys_Fleur_FM_spritesheet_35
+  - first:
+      213: 1102873343562995854
+    second: Anim_Lys_Fleur_FM_spritesheet_36
+  - first:
+      213: -7784044025938460151
+    second: Anim_Lys_Fleur_FM_spritesheet_37
+  - first:
+      213: 9168179806295097636
+    second: Anim_Lys_Fleur_FM_spritesheet_38
+  - first:
+      213: -1221181641112834362
+    second: Anim_Lys_Fleur_FM_spritesheet_39
+  - first:
+      213: -267157634303285325
+    second: Anim_Lys_Fleur_FM_spritesheet_40
+  - first:
+      213: -1701471656947814010
+    second: Anim_Lys_Fleur_FM_spritesheet_41
+  - first:
+      213: 4376877237373942081
+    second: Anim_Lys_Fleur_FM_spritesheet_42
+  - first:
+      213: -4623266259099585000
+    second: Anim_Lys_Fleur_FM_spritesheet_43
+  - first:
+      213: 9044916756826244622
+    second: Anim_Lys_Fleur_FM_spritesheet_44
+  - first:
+      213: -3134815937590495505
+    second: Anim_Lys_Fleur_FM_spritesheet_45
+  - first:
+      213: -2354253594880316953
+    second: Anim_Lys_Fleur_FM_spritesheet_46
+  - first:
+      213: -6398765498429455049
+    second: Anim_Lys_Fleur_FM_spritesheet_47
+  - first:
+      213: -6377982933601745895
+    second: Anim_Lys_Fleur_FM_spritesheet_48
+  - first:
+      213: -851552354521749175
+    second: Anim_Lys_Fleur_FM_spritesheet_49
+  - first:
+      213: 3618810738589227136
+    second: Anim_Lys_Fleur_FM_spritesheet_50
+  - first:
+      213: 1092454243252753618
+    second: Anim_Lys_Fleur_FM_spritesheet_51
+  - first:
+      213: 6698688673853056952
+    second: Anim_Lys_Fleur_FM_spritesheet_52
+  - first:
+      213: 8727131948471771050
+    second: Anim_Lys_Fleur_FM_spritesheet_53
+  - first:
+      213: 5914288983255701513
+    second: Anim_Lys_Fleur_FM_spritesheet_54
+  - first:
+      213: -1882206793759214503
+    second: Anim_Lys_Fleur_FM_spritesheet_55
+  - first:
+      213: 711685416811310704
+    second: Anim_Lys_Fleur_FM_spritesheet_56
+  - first:
+      213: 7574052083459646941
+    second: Anim_Lys_Fleur_FM_spritesheet_57
+  - first:
+      213: 599324732274236831
+    second: Anim_Lys_Fleur_FM_spritesheet_58
+  - first:
+      213: -1450889107733659464
+    second: Anim_Lys_Fleur_FM_spritesheet_59
+  - first:
+      213: -8443818422651540499
+    second: Anim_Lys_Fleur_FM_spritesheet_60
+  - first:
+      213: -3076135068138063542
+    second: Anim_Lys_Fleur_FM_spritesheet_61
+  - first:
+      213: -591583336714643109
+    second: Anim_Lys_Fleur_FM_spritesheet_62
+  - first:
+      213: -677908736304382585
+    second: Anim_Lys_Fleur_FM_spritesheet_63
+  - first:
+      213: 8656944641798358124
+    second: Anim_Lys_Fleur_FM_spritesheet_64
+  - first:
+      213: 3918938342841244392
+    second: Anim_Lys_Fleur_FM_spritesheet_65
+  - first:
+      213: -2686290845264420968
+    second: Anim_Lys_Fleur_FM_spritesheet_66
+  - first:
+      213: -8268240604346512881
+    second: Anim_Lys_Fleur_FM_spritesheet_67
+  - first:
+      213: -7833484270149249797
+    second: Anim_Lys_Fleur_FM_spritesheet_68
+  - first:
+      213: -3958738039651079057
+    second: Anim_Lys_Fleur_FM_spritesheet_69
+  - first:
+      213: 1951364345755183623
+    second: Anim_Lys_Fleur_FM_spritesheet_70
+  - first:
+      213: -4016525825996561932
+    second: Anim_Lys_Fleur_FM_spritesheet_71
+  - first:
+      213: -6843004519208615050
+    second: Anim_Lys_Fleur_FM_spritesheet_72
+  - first:
+      213: -4293909851041501627
+    second: Anim_Lys_Fleur_FM_spritesheet_73
+  - first:
+      213: 3703967413939105009
+    second: Anim_Lys_Fleur_FM_spritesheet_74
+  - first:
+      213: -4219485639398004942
+    second: Anim_Lys_Fleur_FM_spritesheet_75
+  - first:
+      213: 4555238261420570726
+    second: Anim_Lys_Fleur_FM_spritesheet_76
+  - first:
+      213: 8541808971390719825
+    second: Anim_Lys_Fleur_FM_spritesheet_77
+  - first:
+      213: 2387745710639128475
+    second: Anim_Lys_Fleur_FM_spritesheet_78
+  - first:
+      213: -7708294654802561722
+    second: Anim_Lys_Fleur_FM_spritesheet_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7976777ffcd9a0800000000000000
+      internalID: -6206805297869520932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c674924ddcd56a0800000000000000
+      internalID: -6458779979470115762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf2998989c471c0800000000000000
+      internalID: -4506755734535209486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546f3655f07daeaf0800000000000000
+      internalID: -366243958820178363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facbb7dd5308ca360800000000000000
+      internalID: 7182256474586594479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0e4e4320a4c2680800000000000000
+      internalID: -8778560200314134353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5ecd89f89a59d0800000000000000
+      internalID: -2784745221981839700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbfe70671552b0d0800000000000000
+      internalID: -3408568409074500681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049c6382902256220800000000000000
+      internalID: 2478424592662055232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aa0647dedfb4010800000000000000
+      internalID: 1174311324161714841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2280c0be804f24ef0800000000000000
+      internalID: -125269520472602590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b47d9a7e4b97f1a0800000000000000
+      internalID: -6775776352988728142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e54acc14303dc0800000000000000
+      internalID: -3661369198794905664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb3fc93a7c1d82e0800000000000000
+      internalID: -2122008538140165190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd7e9d83e6cf9dd0800000000000000
+      internalID: -2477042589394633224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80084a2c4cfcfaec0800000000000000
+      internalID: -3553393136985931768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ca6b3c381e96030800000000000000
+      internalID: 3488567342415653952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da395a2d9b296760800000000000000
+      internalID: 7451535012481546966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1149b3b9f827310800000000000000
+      internalID: 1401340330947908002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4aa17173877e8d0800000000000000
+      internalID: -2817150863890799369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a99c0fc58c73c0800000000000000
+      internalID: -4360463214885361694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a776a3f041f760800000000000000
+      internalID: 7489839070507935440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20912b2b565716e90800000000000000
+      internalID: -7034212063325841150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962fd3cbf4bc230b0800000000000000
+      internalID: -5750310230877670807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c5f06bac0afa30800000000000000
+      internalID: 4249723128583144392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fedb0d9a131ad660800000000000000
+      internalID: 7411257141816450807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34190a7315eb65d0800000000000000
+      internalID: -3068106849308306374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2eccd679ad0d110800000000000000
+      internalID: 1283766237717652135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cfc6d0691c9300800000000000000
+      internalID: 260110782192141207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae412d7d468a2d00800000000000000
+      internalID: 948718338884849319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b91599cc86c594e0800000000000000
+      internalID: -1975454553552381515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689c6cee3eb72faa0800000000000000
+      internalID: -6128699924004025978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f96b639190d3d0800000000000000
+      internalID: -3183884874202615375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18493283cb635c0800000000000000
+      internalID: -4235991450194247257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d6d21663a67aa0800000000000000
+      internalID: -6163559381211884947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284bb8582d040a730800000000000000
+      internalID: 4008274941287576706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d15376713e4f00800000000000000
+      internalID: 1102873343562995854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902cfe5333589f390800000000000000
+      internalID: -7784044025938460151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421012f65faeb3f70800000000000000
+      internalID: 9168179806295097636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_FM_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cead3b74cd7d0fe0800000000000000
+      internalID: -1221181641112834362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e364c6f8b42863e43bcee78bf843c82c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Lys_Fleur_FM_spritesheet_0: -6206805297869520932
+      Anim_Lys_Fleur_FM_spritesheet_1: -6458779979470115762
+      Anim_Lys_Fleur_FM_spritesheet_10: -125269520472602590
+      Anim_Lys_Fleur_FM_spritesheet_11: -6775776352988728142
+      Anim_Lys_Fleur_FM_spritesheet_12: -3661369198794905664
+      Anim_Lys_Fleur_FM_spritesheet_13: -2122008538140165190
+      Anim_Lys_Fleur_FM_spritesheet_14: -2477042589394633224
+      Anim_Lys_Fleur_FM_spritesheet_15: -3553393136985931768
+      Anim_Lys_Fleur_FM_spritesheet_16: 3488567342415653952
+      Anim_Lys_Fleur_FM_spritesheet_17: 7451535012481546966
+      Anim_Lys_Fleur_FM_spritesheet_18: 1401340330947908002
+      Anim_Lys_Fleur_FM_spritesheet_19: -2817150863890799369
+      Anim_Lys_Fleur_FM_spritesheet_2: -4506755734535209486
+      Anim_Lys_Fleur_FM_spritesheet_20: -4360463214885361694
+      Anim_Lys_Fleur_FM_spritesheet_21: 7489839070507935440
+      Anim_Lys_Fleur_FM_spritesheet_22: -7034212063325841150
+      Anim_Lys_Fleur_FM_spritesheet_23: -5750310230877670807
+      Anim_Lys_Fleur_FM_spritesheet_24: 4249723128583144392
+      Anim_Lys_Fleur_FM_spritesheet_25: 7411257141816450807
+      Anim_Lys_Fleur_FM_spritesheet_26: -3068106849308306374
+      Anim_Lys_Fleur_FM_spritesheet_27: 1283766237717652135
+      Anim_Lys_Fleur_FM_spritesheet_28: 260110782192141207
+      Anim_Lys_Fleur_FM_spritesheet_29: 948718338884849319
+      Anim_Lys_Fleur_FM_spritesheet_3: -366243958820178363
+      Anim_Lys_Fleur_FM_spritesheet_30: -1975454553552381515
+      Anim_Lys_Fleur_FM_spritesheet_31: -6128699924004025978
+      Anim_Lys_Fleur_FM_spritesheet_32: -3183884874202615375
+      Anim_Lys_Fleur_FM_spritesheet_33: -4235991450194247257
+      Anim_Lys_Fleur_FM_spritesheet_34: -6163559381211884947
+      Anim_Lys_Fleur_FM_spritesheet_35: 4008274941287576706
+      Anim_Lys_Fleur_FM_spritesheet_36: 1102873343562995854
+      Anim_Lys_Fleur_FM_spritesheet_37: -7784044025938460151
+      Anim_Lys_Fleur_FM_spritesheet_38: 9168179806295097636
+      Anim_Lys_Fleur_FM_spritesheet_39: -1221181641112834362
+      Anim_Lys_Fleur_FM_spritesheet_4: 7182256474586594479
+      Anim_Lys_Fleur_FM_spritesheet_5: -8778560200314134353
+      Anim_Lys_Fleur_FM_spritesheet_6: -2784745221981839700
+      Anim_Lys_Fleur_FM_spritesheet_7: -3408568409074500681
+      Anim_Lys_Fleur_FM_spritesheet_8: 2478424592662055232
+      Anim_Lys_Fleur_FM_spritesheet_9: 1174311324161714841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

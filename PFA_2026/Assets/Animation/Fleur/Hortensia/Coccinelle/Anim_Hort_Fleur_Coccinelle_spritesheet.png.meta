@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 5e6eb07f6672413458c87352a92091e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7716673084782535512
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_0
+  - first:
+      213: -2082322136714762991
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_1
+  - first:
+      213: 8856229120173373162
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_2
+  - first:
+      213: 7471314945832491995
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_3
+  - first:
+      213: -4267447738846080195
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_4
+  - first:
+      213: 8539984852307037736
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_5
+  - first:
+      213: 3633363847612268185
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_6
+  - first:
+      213: 5150652800149254139
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_7
+  - first:
+      213: -8909575653037743432
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_8
+  - first:
+      213: -7347368915340615106
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_9
+  - first:
+      213: -6096112884367207206
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_10
+  - first:
+      213: -9173618399786348319
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_11
+  - first:
+      213: 7537487827675514388
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_12
+  - first:
+      213: -2125495829298194045
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_13
+  - first:
+      213: -3136956542711166403
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_14
+  - first:
+      213: 8401721727307855268
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_15
+  - first:
+      213: -8299374284163326448
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_16
+  - first:
+      213: -5924252692399095800
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_17
+  - first:
+      213: 947238125047156322
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_18
+  - first:
+      213: -2074502505801675007
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_19
+  - first:
+      213: 3452559514551673780
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_20
+  - first:
+      213: -6403442966200831067
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_21
+  - first:
+      213: -7041698625489499288
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_22
+  - first:
+      213: 4133578281558898416
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_23
+  - first:
+      213: -8664137940582420143
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_24
+  - first:
+      213: 4351349268057283837
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_25
+  - first:
+      213: -1094664928617546675
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_26
+  - first:
+      213: 8448899224065220657
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_27
+  - first:
+      213: -4122412906876813637
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_28
+  - first:
+      213: 2003350638820357431
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_29
+  - first:
+      213: 755667886173996528
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_30
+  - first:
+      213: -7113119738165042554
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_31
+  - first:
+      213: 4140781946484221999
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_32
+  - first:
+      213: -2705081319174006565
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_33
+  - first:
+      213: 2130451219194471634
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_34
+  - first:
+      213: -2544688629382966022
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_35
+  - first:
+      213: 6701906386104243779
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_36
+  - first:
+      213: -3091725644907670420
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_37
+  - first:
+      213: 6717328244300637827
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_38
+  - first:
+      213: -8118694960098311035
+    second: Anim_Hort_Fleur_Coccinelle_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e7423941271b60800000000000000
+      internalID: 7716673084782535512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152f2d9c0b1a13e0800000000000000
+      internalID: -2082322136714762991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae677656675a7ea70800000000000000
+      internalID: 8856229120173373162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9967cb517fa760800000000000000
+      internalID: 7471314945832491995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33198434eaf6c4c0800000000000000
+      internalID: -4267447738846080195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4af4f9fe148670800000000000000
+      internalID: 8539984852307037736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99efca44b2d4c6230800000000000000
+      internalID: 3633363847612268185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6442be6bca7740800000000000000
+      internalID: 5150652800149254139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b267350624da5480800000000000000
+      internalID: -8909575653037743432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32206746e6e80a90800000000000000
+      internalID: -7347368915340615106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad45c9851a1466ba0800000000000000
+      internalID: -6096112884367207206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e05fb75ba2c0b080800000000000000
+      internalID: -9173618399786348319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160e637e398a9860800000000000000
+      internalID: 7537487827675514388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3895b1bfdc8b082e0800000000000000
+      internalID: -2125495829298194045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a0ddb05aa4774d0800000000000000
+      internalID: -3136956542711166403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5bdd19569e89470800000000000000
+      internalID: 8401721727307855268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ede6e7f03b2dc80800000000000000
+      internalID: -8299374284163326448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80086e57093d8cda0800000000000000
+      internalID: -5924252692399095800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e84295e04452d00800000000000000
+      internalID: 947238125047156322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f880056f2e533e0800000000000000
+      internalID: -2074502505801675007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b36fb60694f9ef20800000000000000
+      internalID: 3452559514551673780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a330249c866227a0800000000000000
+      internalID: -6403442966200831067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b875c986cd64e90800000000000000
+      internalID: -7041698625489499288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67693eb8b6d5930800000000000000
+      internalID: 4133578281558898416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151b996927cc2c780800000000000000
+      internalID: -8664137940582420143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcd538da19136c30800000000000000
+      internalID: 4351349268057283837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3ca51c08fec0f0800000000000000
+      internalID: -1094664928617546675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1302b718415804570800000000000000
+      internalID: 8448899224065220657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe3f1c7d4f3ac6c0800000000000000
+      internalID: -4122412906876813637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7357073bac45dcb10800000000000000
+      internalID: 2003350638820357431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5429350fbac7a00800000000000000
+      internalID: 755667886173996528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6826ad9f84f194d90800000000000000
+      internalID: -7113119738165042554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ea84dd33077930800000000000000
+      internalID: 4140781946484221999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd896125fde957ad0800000000000000
+      internalID: -2705081319174006565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d46263a812e09d10800000000000000
+      internalID: 2130451219194471634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af417a58c237facd0800000000000000
+      internalID: -2544688629382966022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3465aa59954f10d50800000000000000
+      internalID: 6701906386104243779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64105818ebf715d0800000000000000
+      internalID: -3091725644907670420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ec31c27eb83d50800000000000000
+      internalID: 6717328244300637827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_Coccinelle_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584069fc2f9945f80800000000000000
+      internalID: -8118694960098311035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c38c74d1b48c6594e85b8f1b3aa88274
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Hort_Fleur_Coccinelle_spritesheet_0: 7716673084782535512
+      Anim_Hort_Fleur_Coccinelle_spritesheet_1: -2082322136714762991
+      Anim_Hort_Fleur_Coccinelle_spritesheet_10: -6096112884367207206
+      Anim_Hort_Fleur_Coccinelle_spritesheet_11: -9173618399786348319
+      Anim_Hort_Fleur_Coccinelle_spritesheet_12: 7537487827675514388
+      Anim_Hort_Fleur_Coccinelle_spritesheet_13: -2125495829298194045
+      Anim_Hort_Fleur_Coccinelle_spritesheet_14: -3136956542711166403
+      Anim_Hort_Fleur_Coccinelle_spritesheet_15: 8401721727307855268
+      Anim_Hort_Fleur_Coccinelle_spritesheet_16: -8299374284163326448
+      Anim_Hort_Fleur_Coccinelle_spritesheet_17: -5924252692399095800
+      Anim_Hort_Fleur_Coccinelle_spritesheet_18: 947238125047156322
+      Anim_Hort_Fleur_Coccinelle_spritesheet_19: -2074502505801675007
+      Anim_Hort_Fleur_Coccinelle_spritesheet_2: 8856229120173373162
+      Anim_Hort_Fleur_Coccinelle_spritesheet_20: 3452559514551673780
+      Anim_Hort_Fleur_Coccinelle_spritesheet_21: -6403442966200831067
+      Anim_Hort_Fleur_Coccinelle_spritesheet_22: -7041698625489499288
+      Anim_Hort_Fleur_Coccinelle_spritesheet_23: 4133578281558898416
+      Anim_Hort_Fleur_Coccinelle_spritesheet_24: -8664137940582420143
+      Anim_Hort_Fleur_Coccinelle_spritesheet_25: 4351349268057283837
+      Anim_Hort_Fleur_Coccinelle_spritesheet_26: -1094664928617546675
+      Anim_Hort_Fleur_Coccinelle_spritesheet_27: 8448899224065220657
+      Anim_Hort_Fleur_Coccinelle_spritesheet_28: -4122412906876813637
+      Anim_Hort_Fleur_Coccinelle_spritesheet_29: 2003350638820357431
+      Anim_Hort_Fleur_Coccinelle_spritesheet_3: 7471314945832491995
+      Anim_Hort_Fleur_Coccinelle_spritesheet_30: 755667886173996528
+      Anim_Hort_Fleur_Coccinelle_spritesheet_31: -7113119738165042554
+      Anim_Hort_Fleur_Coccinelle_spritesheet_32: 4140781946484221999
+      Anim_Hort_Fleur_Coccinelle_spritesheet_33: -2705081319174006565
+      Anim_Hort_Fleur_Coccinelle_spritesheet_34: 2130451219194471634
+      Anim_Hort_Fleur_Coccinelle_spritesheet_35: -2544688629382966022
+      Anim_Hort_Fleur_Coccinelle_spritesheet_36: 6701906386104243779
+      Anim_Hort_Fleur_Coccinelle_spritesheet_37: -3091725644907670420
+      Anim_Hort_Fleur_Coccinelle_spritesheet_38: 6717328244300637827
+      Anim_Hort_Fleur_Coccinelle_spritesheet_39: -8118694960098311035
+      Anim_Hort_Fleur_Coccinelle_spritesheet_4: -4267447738846080195
+      Anim_Hort_Fleur_Coccinelle_spritesheet_5: 8539984852307037736
+      Anim_Hort_Fleur_Coccinelle_spritesheet_6: 3633363847612268185
+      Anim_Hort_Fleur_Coccinelle_spritesheet_7: 5150652800149254139
+      Anim_Hort_Fleur_Coccinelle_spritesheet_8: -8909575653037743432
+      Anim_Hort_Fleur_Coccinelle_spritesheet_9: -7347368915340615106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: a48ba363ae354cb438b4623c94676892
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8589047335946756832
+    second: Anim_Hort_Fleur_FM_spritesheet_0
+  - first:
+      213: 4370073933316531889
+    second: Anim_Hort_Fleur_FM_spritesheet_1
+  - first:
+      213: -7017109894561584201
+    second: Anim_Hort_Fleur_FM_spritesheet_2
+  - first:
+      213: -7462958783326527386
+    second: Anim_Hort_Fleur_FM_spritesheet_3
+  - first:
+      213: 8797590436387903262
+    second: Anim_Hort_Fleur_FM_spritesheet_4
+  - first:
+      213: 6644866038016300159
+    second: Anim_Hort_Fleur_FM_spritesheet_5
+  - first:
+      213: 5567741173029651402
+    second: Anim_Hort_Fleur_FM_spritesheet_6
+  - first:
+      213: -4929724752059363193
+    second: Anim_Hort_Fleur_FM_spritesheet_7
+  - first:
+      213: -3347114634462839770
+    second: Anim_Hort_Fleur_FM_spritesheet_8
+  - first:
+      213: -4876834822488599679
+    second: Anim_Hort_Fleur_FM_spritesheet_9
+  - first:
+      213: -2301205300367462348
+    second: Anim_Hort_Fleur_FM_spritesheet_10
+  - first:
+      213: -7595647105386342519
+    second: Anim_Hort_Fleur_FM_spritesheet_11
+  - first:
+      213: 8963265217185438163
+    second: Anim_Hort_Fleur_FM_spritesheet_12
+  - first:
+      213: -6515069500517937395
+    second: Anim_Hort_Fleur_FM_spritesheet_13
+  - first:
+      213: 5175789169748138333
+    second: Anim_Hort_Fleur_FM_spritesheet_14
+  - first:
+      213: 477412210075646141
+    second: Anim_Hort_Fleur_FM_spritesheet_15
+  - first:
+      213: -5004674543378978601
+    second: Anim_Hort_Fleur_FM_spritesheet_16
+  - first:
+      213: 8133432243122073693
+    second: Anim_Hort_Fleur_FM_spritesheet_17
+  - first:
+      213: 8377232075098052968
+    second: Anim_Hort_Fleur_FM_spritesheet_18
+  - first:
+      213: -2767232557675478059
+    second: Anim_Hort_Fleur_FM_spritesheet_19
+  - first:
+      213: -716318871682955406
+    second: Anim_Hort_Fleur_FM_spritesheet_20
+  - first:
+      213: -4013469955386920509
+    second: Anim_Hort_Fleur_FM_spritesheet_21
+  - first:
+      213: 3594806596967101543
+    second: Anim_Hort_Fleur_FM_spritesheet_22
+  - first:
+      213: -5361583226386020253
+    second: Anim_Hort_Fleur_FM_spritesheet_23
+  - first:
+      213: -3835792308039798901
+    second: Anim_Hort_Fleur_FM_spritesheet_24
+  - first:
+      213: 5191429326451854751
+    second: Anim_Hort_Fleur_FM_spritesheet_25
+  - first:
+      213: -1266519286975529365
+    second: Anim_Hort_Fleur_FM_spritesheet_26
+  - first:
+      213: 6475029120477795839
+    second: Anim_Hort_Fleur_FM_spritesheet_27
+  - first:
+      213: 3035853417926582523
+    second: Anim_Hort_Fleur_FM_spritesheet_28
+  - first:
+      213: 3566625503129811627
+    second: Anim_Hort_Fleur_FM_spritesheet_29
+  - first:
+      213: 280281200399779015
+    second: Anim_Hort_Fleur_FM_spritesheet_30
+  - first:
+      213: 1115578206620657547
+    second: Anim_Hort_Fleur_FM_spritesheet_31
+  - first:
+      213: 3149988540921886664
+    second: Anim_Hort_Fleur_FM_spritesheet_32
+  - first:
+      213: 577528112634726514
+    second: Anim_Hort_Fleur_FM_spritesheet_33
+  - first:
+      213: 5541744457841202899
+    second: Anim_Hort_Fleur_FM_spritesheet_34
+  - first:
+      213: 8387883091862494292
+    second: Anim_Hort_Fleur_FM_spritesheet_35
+  - first:
+      213: -6047101230888045477
+    second: Anim_Hort_Fleur_FM_spritesheet_36
+  - first:
+      213: 3534199795842790046
+    second: Anim_Hort_Fleur_FM_spritesheet_37
+  - first:
+      213: -648725316109721460
+    second: Anim_Hort_Fleur_FM_spritesheet_38
+  - first:
+      213: -3000371039703336694
+    second: Anim_Hort_Fleur_FM_spritesheet_39
+  - first:
+      213: -3399706615493540490
+    second: Anim_Hort_Fleur_FM_spritesheet_40
+  - first:
+      213: -5763337657487517092
+    second: Anim_Hort_Fleur_FM_spritesheet_41
+  - first:
+      213: 1940534934207435783
+    second: Anim_Hort_Fleur_FM_spritesheet_42
+  - first:
+      213: -1290200940505401108
+    second: Anim_Hort_Fleur_FM_spritesheet_43
+  - first:
+      213: -3005053066529452939
+    second: Anim_Hort_Fleur_FM_spritesheet_44
+  - first:
+      213: -7574778194640179038
+    second: Anim_Hort_Fleur_FM_spritesheet_45
+  - first:
+      213: -5061615651636705880
+    second: Anim_Hort_Fleur_FM_spritesheet_46
+  - first:
+      213: -8519628682706680144
+    second: Anim_Hort_Fleur_FM_spritesheet_47
+  - first:
+      213: 102297182281401613
+    second: Anim_Hort_Fleur_FM_spritesheet_48
+  - first:
+      213: -1669340089186793126
+    second: Anim_Hort_Fleur_FM_spritesheet_49
+  - first:
+      213: -1637477769884201735
+    second: Anim_Hort_Fleur_FM_spritesheet_50
+  - first:
+      213: -2987490402486179819
+    second: Anim_Hort_Fleur_FM_spritesheet_51
+  - first:
+      213: 8001874898541723453
+    second: Anim_Hort_Fleur_FM_spritesheet_52
+  - first:
+      213: -6043404270793491152
+    second: Anim_Hort_Fleur_FM_spritesheet_53
+  - first:
+      213: 4064031041223460340
+    second: Anim_Hort_Fleur_FM_spritesheet_54
+  - first:
+      213: -8753528285267735329
+    second: Anim_Hort_Fleur_FM_spritesheet_55
+  - first:
+      213: -3509633208319832079
+    second: Anim_Hort_Fleur_FM_spritesheet_56
+  - first:
+      213: 5609537422268833979
+    second: Anim_Hort_Fleur_FM_spritesheet_57
+  - first:
+      213: 1516413108235547260
+    second: Anim_Hort_Fleur_FM_spritesheet_58
+  - first:
+      213: 2800288472910277649
+    second: Anim_Hort_Fleur_FM_spritesheet_59
+  - first:
+      213: 1269707390828778610
+    second: Anim_Hort_Fleur_FM_spritesheet_60
+  - first:
+      213: 2765602611072003453
+    second: Anim_Hort_Fleur_FM_spritesheet_61
+  - first:
+      213: -2755668365229593726
+    second: Anim_Hort_Fleur_FM_spritesheet_62
+  - first:
+      213: 8494857714337245484
+    second: Anim_Hort_Fleur_FM_spritesheet_63
+  - first:
+      213: -8558170143978905920
+    second: Anim_Hort_Fleur_FM_spritesheet_64
+  - first:
+      213: -4422103834409811831
+    second: Anim_Hort_Fleur_FM_spritesheet_65
+  - first:
+      213: 7121709168104522546
+    second: Anim_Hort_Fleur_FM_spritesheet_66
+  - first:
+      213: -3670803059659166115
+    second: Anim_Hort_Fleur_FM_spritesheet_67
+  - first:
+      213: -3656098366341623134
+    second: Anim_Hort_Fleur_FM_spritesheet_68
+  - first:
+      213: 7427447016157758516
+    second: Anim_Hort_Fleur_FM_spritesheet_69
+  - first:
+      213: -6553174367709014843
+    second: Anim_Hort_Fleur_FM_spritesheet_70
+  - first:
+      213: -8473136129403917742
+    second: Anim_Hort_Fleur_FM_spritesheet_71
+  - first:
+      213: 465298187986811544
+    second: Anim_Hort_Fleur_FM_spritesheet_72
+  - first:
+      213: -5058180790127100853
+    second: Anim_Hort_Fleur_FM_spritesheet_73
+  - first:
+      213: 7822818085799478408
+    second: Anim_Hort_Fleur_FM_spritesheet_74
+  - first:
+      213: -3030273157127275789
+    second: Anim_Hort_Fleur_FM_spritesheet_75
+  - first:
+      213: -5358675279130042916
+    second: Anim_Hort_Fleur_FM_spritesheet_76
+  - first:
+      213: 2830401006401441425
+    second: Anim_Hort_Fleur_FM_spritesheet_77
+  - first:
+      213: 1600572606332599220
+    second: Anim_Hort_Fleur_FM_spritesheet_78
+  - first:
+      213: 8441002226324136288
+    second: Anim_Hort_Fleur_FM_spritesheet_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dd0e564f29dc880800000000000000
+      internalID: -8589047335946756832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a685b61f95ac30800000000000000
+      internalID: 4370073933316531889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb27c8aab73e9e90800000000000000
+      internalID: -7017109894561584201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e07ae68e3e6890800000000000000
+      internalID: -7462958783326527386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e175648e3e1571a70800000000000000
+      internalID: 8797590436387903262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d400a47e473c50800000000000000
+      internalID: 6644866038016300159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3cfb30917944d40800000000000000
+      internalID: 5567741173029651402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7801d01f479169bb0800000000000000
+      internalID: -4929724752059363193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cb45649f8ac81d0800000000000000
+      internalID: -3347114634462839770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183df494190025cb0800000000000000
+      internalID: -4876834822488599679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f95cb8f97010e0800000000000000
+      internalID: -2301205300367462348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987193c7337d69690800000000000000
+      internalID: -7595647105386342519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d3f1c93ae36c70800000000000000
+      internalID: 8963265217185438163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f85aebec2d595a0800000000000000
+      internalID: -6515069500517937395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d62fc3d814d740800000000000000
+      internalID: 5175789169748138333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db83ef820eb10a600800000000000000
+      internalID: 477412210075646141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8a479c403db8ab0800000000000000
+      internalID: -5004674543378978601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50fff74881cfd070800000000000000
+      internalID: 8133432243122073693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695a351038e14470800000000000000
+      internalID: 8377232075098052968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38bd476a0d899d0800000000000000
+      internalID: -2767232557675478059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277cd6b08cf1f06f0800000000000000
+      internalID: -716318871682955406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1b570075a4d48c0800000000000000
+      internalID: -4013469955386920509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647478cd8153e130800000000000000
+      internalID: 3594806596967101543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36881956674d795b0800000000000000
+      internalID: -5361583226386020253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fac1ff73784cac0800000000000000
+      internalID: -3835792308039798901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d45bf8779ab0840800000000000000
+      internalID: 5191429326451854751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e74a63b6b6c6ee0800000000000000
+      internalID: -1266519286975529365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5936ccdacebd950800000000000000
+      internalID: 6475029120477795839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf06ba55994812a20800000000000000
+      internalID: 3035853417926582523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab6e09ff23f7130800000000000000
+      internalID: 3566625503129811627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c48c0b4442c3e300800000000000000
+      internalID: 280281200399779015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87aac4e7745b7f00800000000000000
+      internalID: 1115578206620657547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7333c73e107bb20800000000000000
+      internalID: 3149988540921886664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278056132cac30800800000000000000
+      internalID: 577528112634726514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65d95193b38ec40800000000000000
+      internalID: 5541744457841202899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c18fb2b3fb76470800000000000000
+      internalID: 8387883091862494292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54371c2871641ca0800000000000000
+      internalID: -6047101230888045477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92b7744dfffb0130800000000000000
+      internalID: 3534199795842790046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c802a7813c34ff6f0800000000000000
+      internalID: -648725316109721460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort_Fleur_FM_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09fc10af6a8c56d0800000000000000
+      internalID: -3000371039703336694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2738cb138b9672a4ca0210feb226e3d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Hort_Fleur_FM_spritesheet_0: -8589047335946756832
+      Anim_Hort_Fleur_FM_spritesheet_1: 4370073933316531889
+      Anim_Hort_Fleur_FM_spritesheet_10: -2301205300367462348
+      Anim_Hort_Fleur_FM_spritesheet_11: -7595647105386342519
+      Anim_Hort_Fleur_FM_spritesheet_12: 8963265217185438163
+      Anim_Hort_Fleur_FM_spritesheet_13: -6515069500517937395
+      Anim_Hort_Fleur_FM_spritesheet_14: 5175789169748138333
+      Anim_Hort_Fleur_FM_spritesheet_15: 477412210075646141
+      Anim_Hort_Fleur_FM_spritesheet_16: -5004674543378978601
+      Anim_Hort_Fleur_FM_spritesheet_17: 8133432243122073693
+      Anim_Hort_Fleur_FM_spritesheet_18: 8377232075098052968
+      Anim_Hort_Fleur_FM_spritesheet_19: -2767232557675478059
+      Anim_Hort_Fleur_FM_spritesheet_2: -7017109894561584201
+      Anim_Hort_Fleur_FM_spritesheet_20: -716318871682955406
+      Anim_Hort_Fleur_FM_spritesheet_21: -4013469955386920509
+      Anim_Hort_Fleur_FM_spritesheet_22: 3594806596967101543
+      Anim_Hort_Fleur_FM_spritesheet_23: -5361583226386020253
+      Anim_Hort_Fleur_FM_spritesheet_24: -3835792308039798901
+      Anim_Hort_Fleur_FM_spritesheet_25: 5191429326451854751
+      Anim_Hort_Fleur_FM_spritesheet_26: -1266519286975529365
+      Anim_Hort_Fleur_FM_spritesheet_27: 6475029120477795839
+      Anim_Hort_Fleur_FM_spritesheet_28: 3035853417926582523
+      Anim_Hort_Fleur_FM_spritesheet_29: 3566625503129811627
+      Anim_Hort_Fleur_FM_spritesheet_3: -7462958783326527386
+      Anim_Hort_Fleur_FM_spritesheet_30: 280281200399779015
+      Anim_Hort_Fleur_FM_spritesheet_31: 1115578206620657547
+      Anim_Hort_Fleur_FM_spritesheet_32: 3149988540921886664
+      Anim_Hort_Fleur_FM_spritesheet_33: 577528112634726514
+      Anim_Hort_Fleur_FM_spritesheet_34: 5541744457841202899
+      Anim_Hort_Fleur_FM_spritesheet_35: 8387883091862494292
+      Anim_Hort_Fleur_FM_spritesheet_36: -6047101230888045477
+      Anim_Hort_Fleur_FM_spritesheet_37: 3534199795842790046
+      Anim_Hort_Fleur_FM_spritesheet_38: -648725316109721460
+      Anim_Hort_Fleur_FM_spritesheet_39: -3000371039703336694
+      Anim_Hort_Fleur_FM_spritesheet_4: 8797590436387903262
+      Anim_Hort_Fleur_FM_spritesheet_5: 6644866038016300159
+      Anim_Hort_Fleur_FM_spritesheet_6: 5567741173029651402
+      Anim_Hort_Fleur_FM_spritesheet_7: -4929724752059363193
+      Anim_Hort_Fleur_FM_spritesheet_8: -3347114634462839770
+      Anim_Hort_Fleur_FM_spritesheet_9: -4876834822488599679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

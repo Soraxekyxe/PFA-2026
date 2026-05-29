@@ -1,0 +1,1564 @@
+fileFormatVersion: 2
+guid: 96d011ac94afd8941988d935de78ec32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7823073240963342482
+    second: Anim_Cosmos_PetitePousse_spritesheet_0
+  - first:
+      213: -4283268108357417007
+    second: Anim_Cosmos_PetitePousse_spritesheet_1
+  - first:
+      213: 6818955626831966699
+    second: Anim_Cosmos_PetitePousse_spritesheet_2
+  - first:
+      213: 8869679143016753926
+    second: Anim_Cosmos_PetitePousse_spritesheet_3
+  - first:
+      213: 4615139573608046430
+    second: Anim_Cosmos_PetitePousse_spritesheet_4
+  - first:
+      213: -8642031085617627519
+    second: Anim_Cosmos_PetitePousse_spritesheet_5
+  - first:
+      213: -5113320267392535196
+    second: Anim_Cosmos_PetitePousse_spritesheet_6
+  - first:
+      213: 3603954010851617098
+    second: Anim_Cosmos_PetitePousse_spritesheet_7
+  - first:
+      213: 5835117204196732561
+    second: Anim_Cosmos_PetitePousse_spritesheet_8
+  - first:
+      213: -5099147847291441358
+    second: Anim_Cosmos_PetitePousse_spritesheet_9
+  - first:
+      213: 1404974539720296760
+    second: Anim_Cosmos_PetitePousse_spritesheet_10
+  - first:
+      213: -4086754531428412417
+    second: Anim_Cosmos_PetitePousse_spritesheet_11
+  - first:
+      213: 7560466854859764308
+    second: Anim_Cosmos_PetitePousse_spritesheet_12
+  - first:
+      213: 222773255697222582
+    second: Anim_Cosmos_PetitePousse_spritesheet_13
+  - first:
+      213: 2382961783180264568
+    second: Anim_Cosmos_PetitePousse_spritesheet_14
+  - first:
+      213: -4153901090377018731
+    second: Anim_Cosmos_PetitePousse_spritesheet_15
+  - first:
+      213: 89120950556626132
+    second: Anim_Cosmos_PetitePousse_spritesheet_16
+  - first:
+      213: 7867622983361674966
+    second: Anim_Cosmos_PetitePousse_spritesheet_17
+  - first:
+      213: 3588691538062593908
+    second: Anim_Cosmos_PetitePousse_spritesheet_18
+  - first:
+      213: 51734720638431321
+    second: Anim_Cosmos_PetitePousse_spritesheet_19
+  - first:
+      213: 510024191960833423
+    second: Anim_Cosmos_PetitePousse_spritesheet_20
+  - first:
+      213: -683834152580244743
+    second: Anim_Cosmos_PetitePousse_spritesheet_21
+  - first:
+      213: -434617535410418259
+    second: Anim_Cosmos_PetitePousse_spritesheet_22
+  - first:
+      213: -8624256051567743680
+    second: Anim_Cosmos_PetitePousse_spritesheet_23
+  - first:
+      213: -6577544238287778353
+    second: Anim_Cosmos_PetitePousse_spritesheet_24
+  - first:
+      213: 2475290168793526374
+    second: Anim_Cosmos_PetitePousse_spritesheet_25
+  - first:
+      213: -8202378029778599353
+    second: Anim_Cosmos_PetitePousse_spritesheet_26
+  - first:
+      213: 2852896056491621988
+    second: Anim_Cosmos_PetitePousse_spritesheet_27
+  - first:
+      213: -2073384100299293656
+    second: Anim_Cosmos_PetitePousse_spritesheet_28
+  - first:
+      213: -4450327024909133157
+    second: Anim_Cosmos_PetitePousse_spritesheet_29
+  - first:
+      213: 3247450895640427024
+    second: Anim_Cosmos_PetitePousse_spritesheet_30
+  - first:
+      213: 4879107446163458470
+    second: Anim_Cosmos_PetitePousse_spritesheet_31
+  - first:
+      213: 288276638507310335
+    second: Anim_Cosmos_PetitePousse_spritesheet_32
+  - first:
+      213: -3757587906951857591
+    second: Anim_Cosmos_PetitePousse_spritesheet_33
+  - first:
+      213: 601286092813762911
+    second: Anim_Cosmos_PetitePousse_spritesheet_34
+  - first:
+      213: 1173334368232620526
+    second: Anim_Cosmos_PetitePousse_spritesheet_35
+  - first:
+      213: 8393634784860876464
+    second: Anim_Cosmos_PetitePousse_spritesheet_36
+  - first:
+      213: -3106288000225966535
+    second: Anim_Cosmos_PetitePousse_spritesheet_37
+  - first:
+      213: 7988707235648238090
+    second: Anim_Cosmos_PetitePousse_spritesheet_38
+  - first:
+      213: 5343249583120362030
+    second: Anim_Cosmos_PetitePousse_spritesheet_39
+  - first:
+      213: -2158026945479909918
+    second: Anim_Cosmos_PetitePousse_spritesheet_40
+  - first:
+      213: -3539223834017805021
+    second: Anim_Cosmos_PetitePousse_spritesheet_41
+  - first:
+      213: 8031301204213217666
+    second: Anim_Cosmos_PetitePousse_spritesheet_42
+  - first:
+      213: 1093593809695098983
+    second: Anim_Cosmos_PetitePousse_spritesheet_43
+  - first:
+      213: 2142195658070158947
+    second: Anim_Cosmos_PetitePousse_spritesheet_44
+  - first:
+      213: 9127915031745816259
+    second: Anim_Cosmos_PetitePousse_spritesheet_45
+  - first:
+      213: 3739764372082249047
+    second: Anim_Cosmos_PetitePousse_spritesheet_46
+  - first:
+      213: -6325403813140801245
+    second: Anim_Cosmos_PetitePousse_spritesheet_47
+  - first:
+      213: 4100696145341409176
+    second: Anim_Cosmos_PetitePousse_spritesheet_48
+  - first:
+      213: -5788112572725084268
+    second: Anim_Cosmos_PetitePousse_spritesheet_49
+  - first:
+      213: -1493808981166039563
+    second: Anim_Cosmos_PetitePousse_spritesheet_50
+  - first:
+      213: -3474817980016734219
+    second: Anim_Cosmos_PetitePousse_spritesheet_51
+  - first:
+      213: -5455157111991849544
+    second: Anim_Cosmos_PetitePousse_spritesheet_52
+  - first:
+      213: -5553091194720153442
+    second: Anim_Cosmos_PetitePousse_spritesheet_53
+  - first:
+      213: 3879253486705034527
+    second: Anim_Cosmos_PetitePousse_spritesheet_54
+  - first:
+      213: -1779311373663331788
+    second: Anim_Cosmos_PetitePousse_spritesheet_55
+  - first:
+      213: -2804742347512566157
+    second: Anim_Cosmos_PetitePousse_spritesheet_56
+  - first:
+      213: 2796837862174552300
+    second: Anim_Cosmos_PetitePousse_spritesheet_57
+  - first:
+      213: 9030702101895714792
+    second: Anim_Cosmos_PetitePousse_spritesheet_58
+  - first:
+      213: -4796012350701706529
+    second: Anim_Cosmos_PetitePousse_spritesheet_59
+  - first:
+      213: -5693757746817489944
+    second: Anim_Cosmos_PetitePousse_spritesheet_60
+  - first:
+      213: 6139792551315780577
+    second: Anim_Cosmos_PetitePousse_spritesheet_61
+  - first:
+      213: -3675906021057160815
+    second: Anim_Cosmos_PetitePousse_spritesheet_62
+  - first:
+      213: -3312918024203650553
+    second: Anim_Cosmos_PetitePousse_spritesheet_63
+  - first:
+      213: 624960130526015065
+    second: Anim_Cosmos_PetitePousse_spritesheet_64
+  - first:
+      213: -1454755714020659188
+    second: Anim_Cosmos_PetitePousse_spritesheet_65
+  - first:
+      213: 8756697926769429887
+    second: Anim_Cosmos_PetitePousse_spritesheet_66
+  - first:
+      213: -1619488124261884285
+    second: Anim_Cosmos_PetitePousse_spritesheet_67
+  - first:
+      213: -4425352959820245214
+    second: Anim_Cosmos_PetitePousse_spritesheet_68
+  - first:
+      213: -3660461280474475598
+    second: Anim_Cosmos_PetitePousse_spritesheet_69
+  - first:
+      213: -4141148481347043924
+    second: Anim_Cosmos_PetitePousse_spritesheet_70
+  - first:
+      213: -8652958913293311972
+    second: Anim_Cosmos_PetitePousse_spritesheet_71
+  - first:
+      213: -2203210142500676201
+    second: Anim_Cosmos_PetitePousse_spritesheet_72
+  - first:
+      213: 2474717182495806
+    second: Anim_Cosmos_PetitePousse_spritesheet_73
+  - first:
+      213: -1775920583021854229
+    second: Anim_Cosmos_PetitePousse_spritesheet_74
+  - first:
+      213: 1917312559544134012
+    second: Anim_Cosmos_PetitePousse_spritesheet_75
+  - first:
+      213: 5068328239405953014
+    second: Anim_Cosmos_PetitePousse_spritesheet_76
+  - first:
+      213: 5293060714170804938
+    second: Anim_Cosmos_PetitePousse_spritesheet_77
+  - first:
+      213: -772836378807705244
+    second: Anim_Cosmos_PetitePousse_spritesheet_78
+  - first:
+      213: 7719542272030135324
+    second: Anim_Cosmos_PetitePousse_spritesheet_79
+  - first:
+      213: 6172410681138479284
+    second: Anim_Cosmos_PetitePousse_spritesheet_80
+  - first:
+      213: 6185330154645288217
+    second: Anim_Cosmos_PetitePousse_spritesheet_81
+  - first:
+      213: 4331478918535814749
+    second: Anim_Cosmos_PetitePousse_spritesheet_82
+  - first:
+      213: -3017772122501133373
+    second: Anim_Cosmos_PetitePousse_spritesheet_83
+  - first:
+      213: 3987553690418000018
+    second: Anim_Cosmos_PetitePousse_spritesheet_84
+  - first:
+      213: -6236523443829010244
+    second: Anim_Cosmos_PetitePousse_spritesheet_85
+  - first:
+      213: 8287259938910129716
+    second: Anim_Cosmos_PetitePousse_spritesheet_86
+  - first:
+      213: 6032910967396056183
+    second: Anim_Cosmos_PetitePousse_spritesheet_87
+  - first:
+      213: 5448207130525060745
+    second: Anim_Cosmos_PetitePousse_spritesheet_88
+  - first:
+      213: -4785378123618780142
+    second: Anim_Cosmos_PetitePousse_spritesheet_89
+  - first:
+      213: 1236220480897087446
+    second: Anim_Cosmos_PetitePousse_spritesheet_90
+  - first:
+      213: -36072595983536030
+    second: Anim_Cosmos_PetitePousse_spritesheet_91
+  - first:
+      213: 5805245385106435563
+    second: Anim_Cosmos_PetitePousse_spritesheet_92
+  - first:
+      213: 7667288512796842119
+    second: Anim_Cosmos_PetitePousse_spritesheet_93
+  - first:
+      213: -5048027450451520982
+    second: Anim_Cosmos_PetitePousse_spritesheet_94
+  - first:
+      213: -360992588543915593
+    second: Anim_Cosmos_PetitePousse_spritesheet_95
+  - first:
+      213: 1393020294018981007
+    second: Anim_Cosmos_PetitePousse_spritesheet_96
+  - first:
+      213: -8790696955209570460
+    second: Anim_Cosmos_PetitePousse_spritesheet_97
+  - first:
+      213: 4865151796369550921
+    second: Anim_Cosmos_PetitePousse_spritesheet_98
+  - first:
+      213: 7210979552744347198
+    second: Anim_Cosmos_PetitePousse_spritesheet_99
+  - first:
+      213: -8700241283358031255
+    second: Anim_Cosmos_PetitePousse_spritesheet_100
+  - first:
+      213: -8701147207319166418
+    second: Anim_Cosmos_PetitePousse_spritesheet_101
+  - first:
+      213: -3625615663387445314
+    second: Anim_Cosmos_PetitePousse_spritesheet_102
+  - first:
+      213: 5808336758787751681
+    second: Anim_Cosmos_PetitePousse_spritesheet_103
+  - first:
+      213: -8934193238353302648
+    second: Anim_Cosmos_PetitePousse_spritesheet_104
+  - first:
+      213: 823045726139039455
+    second: Anim_Cosmos_PetitePousse_spritesheet_105
+  - first:
+      213: -7495117072242340674
+    second: Anim_Cosmos_PetitePousse_spritesheet_106
+  - first:
+      213: -8889598901649356108
+    second: Anim_Cosmos_PetitePousse_spritesheet_107
+  - first:
+      213: 6896198985374166853
+    second: Anim_Cosmos_PetitePousse_spritesheet_108
+  - first:
+      213: -2060988484472421564
+    second: Anim_Cosmos_PetitePousse_spritesheet_109
+  - first:
+      213: 457623850481722731
+    second: Anim_Cosmos_PetitePousse_spritesheet_110
+  - first:
+      213: -5857692353567149162
+    second: Anim_Cosmos_PetitePousse_spritesheet_111
+  - first:
+      213: -3053418972753986948
+    second: Anim_Cosmos_PetitePousse_spritesheet_112
+  - first:
+      213: 6798163565960828102
+    second: Anim_Cosmos_PetitePousse_spritesheet_113
+  - first:
+      213: 6487394890300775217
+    second: Anim_Cosmos_PetitePousse_spritesheet_114
+  - first:
+      213: -7065880277389493121
+    second: Anim_Cosmos_PetitePousse_spritesheet_115
+  - first:
+      213: 1849464156797942939
+    second: Anim_Cosmos_PetitePousse_spritesheet_116
+  - first:
+      213: 8724174816979338999
+    second: Anim_Cosmos_PetitePousse_spritesheet_117
+  - first:
+      213: -7015648311294311093
+    second: Anim_Cosmos_PetitePousse_spritesheet_118
+  - first:
+      213: -7909477028897102799
+    second: Anim_Cosmos_PetitePousse_spritesheet_119
+  - first:
+      213: 7493344583500472467
+    second: Anim_Cosmos_PetitePousse_spritesheet_120
+  - first:
+      213: -7832046414795585366
+    second: Anim_Cosmos_PetitePousse_spritesheet_121
+  - first:
+      213: -4963626450965143391
+    second: Anim_Cosmos_PetitePousse_spritesheet_122
+  - first:
+      213: -283587965319783834
+    second: Anim_Cosmos_PetitePousse_spritesheet_123
+  - first:
+      213: 8058777563794116057
+    second: Anim_Cosmos_PetitePousse_spritesheet_124
+  - first:
+      213: 5385158038041710189
+    second: Anim_Cosmos_PetitePousse_spritesheet_125
+  - first:
+      213: -68564051677121425
+    second: Anim_Cosmos_PetitePousse_spritesheet_126
+  - first:
+      213: -7781735097820746508
+    second: Anim_Cosmos_PetitePousse_spritesheet_127
+  - first:
+      213: 8498238067390180961
+    second: Anim_Cosmos_PetitePousse_spritesheet_128
+  - first:
+      213: -2173984737168944521
+    second: Anim_Cosmos_PetitePousse_spritesheet_129
+  - first:
+      213: 3366475711314071965
+    second: Anim_Cosmos_PetitePousse_spritesheet_130
+  - first:
+      213: -2795400111447323713
+    second: Anim_Cosmos_PetitePousse_spritesheet_131
+  - first:
+      213: -2862074601385478142
+    second: Anim_Cosmos_PetitePousse_spritesheet_132
+  - first:
+      213: 6133875356804919185
+    second: Anim_Cosmos_PetitePousse_spritesheet_133
+  - first:
+      213: -7196503146028476911
+    second: Anim_Cosmos_PetitePousse_spritesheet_134
+  - first:
+      213: 127782534437896350
+    second: Anim_Cosmos_PetitePousse_spritesheet_135
+  - first:
+      213: 8979924819094278729
+    second: Anim_Cosmos_PetitePousse_spritesheet_136
+  - first:
+      213: -1517315607771810779
+    second: Anim_Cosmos_PetitePousse_spritesheet_137
+  - first:
+      213: -5722227722004864625
+    second: Anim_Cosmos_PetitePousse_spritesheet_138
+  - first:
+      213: -2712594614693166790
+    second: Anim_Cosmos_PetitePousse_spritesheet_139
+  - first:
+      213: -9161632039828006293
+    second: Anim_Cosmos_PetitePousse_spritesheet_140
+  - first:
+      213: 3931485949166482593
+    second: Anim_Cosmos_PetitePousse_spritesheet_141
+  - first:
+      213: -3273952394530765301
+    second: Anim_Cosmos_PetitePousse_spritesheet_142
+  - first:
+      213: -3454446845592029053
+    second: Anim_Cosmos_PetitePousse_spritesheet_143
+  - first:
+      213: -5573386860260895275
+    second: Anim_Cosmos_PetitePousse_spritesheet_144
+  - first:
+      213: 6235807975006446005
+    second: Anim_Cosmos_PetitePousse_spritesheet_145
+  - first:
+      213: 5110491862167730606
+    second: Anim_Cosmos_PetitePousse_spritesheet_146
+  - first:
+      213: 6928171946777050782
+    second: Anim_Cosmos_PetitePousse_spritesheet_147
+  - first:
+      213: 8810272508269557388
+    second: Anim_Cosmos_PetitePousse_spritesheet_148
+  - first:
+      213: -655593403586390192
+    second: Anim_Cosmos_PetitePousse_spritesheet_149
+  - first:
+      213: -1025120145880336262
+    second: Anim_Cosmos_PetitePousse_spritesheet_150
+  - first:
+      213: 3901659335858999066
+    second: Anim_Cosmos_PetitePousse_spritesheet_151
+  - first:
+      213: 8382815170272865492
+    second: Anim_Cosmos_PetitePousse_spritesheet_152
+  - first:
+      213: -4286415239682181249
+    second: Anim_Cosmos_PetitePousse_spritesheet_153
+  - first:
+      213: 5097864716988588582
+    second: Anim_Cosmos_PetitePousse_spritesheet_154
+  - first:
+      213: -6729535883594302261
+    second: Anim_Cosmos_PetitePousse_spritesheet_155
+  - first:
+      213: -1651930095765507634
+    second: Anim_Cosmos_PetitePousse_spritesheet_156
+  - first:
+      213: -6520706024613924833
+    second: Anim_Cosmos_PetitePousse_spritesheet_157
+  - first:
+      213: 5850761107934387565
+    second: Anim_Cosmos_PetitePousse_spritesheet_158
+  - first:
+      213: 8540188222000983405
+    second: Anim_Cosmos_PetitePousse_spritesheet_159
+  - first:
+      213: -8919177577537128517
+    second: Anim_Cosmos_PetitePousse_spritesheet_160
+  - first:
+      213: 2906160596143746244
+    second: Anim_Cosmos_PetitePousse_spritesheet_161
+  - first:
+      213: 4845703485424981933
+    second: Anim_Cosmos_PetitePousse_spritesheet_162
+  - first:
+      213: -5899507462747683358
+    second: Anim_Cosmos_PetitePousse_spritesheet_163
+  - first:
+      213: -1086382542958598375
+    second: Anim_Cosmos_PetitePousse_spritesheet_164
+  - first:
+      213: -3957452354056207086
+    second: Anim_Cosmos_PetitePousse_spritesheet_165
+  - first:
+      213: -8707086798707119119
+    second: Anim_Cosmos_PetitePousse_spritesheet_166
+  - first:
+      213: -5564146994958095460
+    second: Anim_Cosmos_PetitePousse_spritesheet_167
+  - first:
+      213: -715836190997886172
+    second: Anim_Cosmos_PetitePousse_spritesheet_168
+  - first:
+      213: -7399965164402126911
+    second: Anim_Cosmos_PetitePousse_spritesheet_169
+  - first:
+      213: -4153757415980565035
+    second: Anim_Cosmos_PetitePousse_spritesheet_170
+  - first:
+      213: -6051832669244136304
+    second: Anim_Cosmos_PetitePousse_spritesheet_171
+  - first:
+      213: -4291350380996644394
+    second: Anim_Cosmos_PetitePousse_spritesheet_172
+  - first:
+      213: -1192205376589496720
+    second: Anim_Cosmos_PetitePousse_spritesheet_173
+  - first:
+      213: 7630956061125245513
+    second: Anim_Cosmos_PetitePousse_spritesheet_174
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f1484f55cde6390800000000000000
+      internalID: -7823073240963342482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c8936956ce84c0800000000000000
+      internalID: -4283268108357417007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be17874a30cc1ae50800000000000000
+      internalID: 6818955626831966699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b643fdf2e671b70800000000000000
+      internalID: 8869679143016753926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f51c97df44c0040800000000000000
+      internalID: 4615139573608046430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb0ebd386511880800000000000000
+      internalID: -8642031085617627519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465334fee46d909b0800000000000000
+      internalID: -5113320267392535196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a7ab0411d30230800000000000000
+      internalID: 3603954010851617098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eaae27e208af050800000000000000
+      internalID: 5835117204196732561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23feef0ac003c39b0800000000000000
+      internalID: -5099147847291441358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390f7666e87f7310800000000000000
+      internalID: 1404974539720296760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ddfdf76ee847c0800000000000000
+      internalID: -4086754531428412417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452f7042c8c2ce860800000000000000
+      internalID: 7560466854859764308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4a438813771300800000000000000
+      internalID: 222773255697222582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8748ac7cd1bf11120800000000000000
+      internalID: 2382961783180264568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59258f377f06a56c0800000000000000
+      internalID: -4153901090377018731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc09f7480f9c3100800000000000000
+      internalID: 89120950556626132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deb8fd3b696f2d60800000000000000
+      internalID: 7867622983361674966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcbaea0f79dc130800000000000000
+      internalID: 3588691538062593908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950353e447cc7b000800000000000000
+      internalID: 51734720638431321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d5ea4ec48f31700800000000000000
+      internalID: 510024191960833423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa9c2a16788286f0800000000000000
+      internalID: -683834152580244743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadc4bc77ade7f9f0800000000000000
+      internalID: -434617535410418259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04daa4a70dc705880800000000000000
+      internalID: -8624256051567743680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd80765d5ed7b4a0800000000000000
+      internalID: -6577544238287778353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66074fa3b4ff95220800000000000000
+      internalID: 2475290168793526374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420495d3ac4b2e80800000000000000
+      internalID: -8202378029778599353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ebb4c19d5879720800000000000000
+      internalID: 2852896056491621988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb7b2652cd933e0800000000000000
+      internalID: -2073384100299293656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a58f156234d32c0800000000000000
+      internalID: -4450327024909133157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01afb244263411d20800000000000000
+      internalID: 3247450895640427024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a949852f5216b340800000000000000
+      internalID: 4879107446163458470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc954b431a200400800000000000000
+      internalID: 288276638507310335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ab4d905bd5adbc0800000000000000
+      internalID: -3757587906951857591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f510c820482385800800000000000000
+      internalID: 601286092813762911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1434d2465884010800000000000000
+      internalID: 1173334368232620526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beaefd8d5e2c7470800000000000000
+      internalID: 8393634784860876464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9360978858f34e4d0800000000000000
+      internalID: -3106288000225966535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02f763a7e69dde60800000000000000
+      internalID: 7988707235648238090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_PetitePousse_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa424af29072a40800000000000000
+      internalID: 5343249583120362030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a13e7fc50c865044c85cb33406638f62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Cosmos_PetitePousse_spritesheet_0: -7823073240963342482
+      Anim_Cosmos_PetitePousse_spritesheet_1: -4283268108357417007
+      Anim_Cosmos_PetitePousse_spritesheet_10: 1404974539720296760
+      Anim_Cosmos_PetitePousse_spritesheet_11: -4086754531428412417
+      Anim_Cosmos_PetitePousse_spritesheet_12: 7560466854859764308
+      Anim_Cosmos_PetitePousse_spritesheet_13: 222773255697222582
+      Anim_Cosmos_PetitePousse_spritesheet_14: 2382961783180264568
+      Anim_Cosmos_PetitePousse_spritesheet_15: -4153901090377018731
+      Anim_Cosmos_PetitePousse_spritesheet_16: 89120950556626132
+      Anim_Cosmos_PetitePousse_spritesheet_17: 7867622983361674966
+      Anim_Cosmos_PetitePousse_spritesheet_18: 3588691538062593908
+      Anim_Cosmos_PetitePousse_spritesheet_19: 51734720638431321
+      Anim_Cosmos_PetitePousse_spritesheet_2: 6818955626831966699
+      Anim_Cosmos_PetitePousse_spritesheet_20: 510024191960833423
+      Anim_Cosmos_PetitePousse_spritesheet_21: -683834152580244743
+      Anim_Cosmos_PetitePousse_spritesheet_22: -434617535410418259
+      Anim_Cosmos_PetitePousse_spritesheet_23: -8624256051567743680
+      Anim_Cosmos_PetitePousse_spritesheet_24: -6577544238287778353
+      Anim_Cosmos_PetitePousse_spritesheet_25: 2475290168793526374
+      Anim_Cosmos_PetitePousse_spritesheet_26: -8202378029778599353
+      Anim_Cosmos_PetitePousse_spritesheet_27: 2852896056491621988
+      Anim_Cosmos_PetitePousse_spritesheet_28: -2073384100299293656
+      Anim_Cosmos_PetitePousse_spritesheet_29: -4450327024909133157
+      Anim_Cosmos_PetitePousse_spritesheet_3: 8869679143016753926
+      Anim_Cosmos_PetitePousse_spritesheet_30: 3247450895640427024
+      Anim_Cosmos_PetitePousse_spritesheet_31: 4879107446163458470
+      Anim_Cosmos_PetitePousse_spritesheet_32: 288276638507310335
+      Anim_Cosmos_PetitePousse_spritesheet_33: -3757587906951857591
+      Anim_Cosmos_PetitePousse_spritesheet_34: 601286092813762911
+      Anim_Cosmos_PetitePousse_spritesheet_35: 1173334368232620526
+      Anim_Cosmos_PetitePousse_spritesheet_36: 8393634784860876464
+      Anim_Cosmos_PetitePousse_spritesheet_37: -3106288000225966535
+      Anim_Cosmos_PetitePousse_spritesheet_38: 7988707235648238090
+      Anim_Cosmos_PetitePousse_spritesheet_39: 5343249583120362030
+      Anim_Cosmos_PetitePousse_spritesheet_4: 4615139573608046430
+      Anim_Cosmos_PetitePousse_spritesheet_5: -8642031085617627519
+      Anim_Cosmos_PetitePousse_spritesheet_6: -5113320267392535196
+      Anim_Cosmos_PetitePousse_spritesheet_7: 3603954010851617098
+      Anim_Cosmos_PetitePousse_spritesheet_8: 5835117204196732561
+      Anim_Cosmos_PetitePousse_spritesheet_9: -5099147847291441358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

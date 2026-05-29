@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 69c31a7dfce62b344b483791ffd4c826
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5910856032319319651
+    second: Anim_Tulipe_PetitePousse_spritesheet_0
+  - first:
+      213: -5477683235587521821
+    second: Anim_Tulipe_PetitePousse_spritesheet_1
+  - first:
+      213: -13258297214430667
+    second: Anim_Tulipe_PetitePousse_spritesheet_2
+  - first:
+      213: 2720236492589299492
+    second: Anim_Tulipe_PetitePousse_spritesheet_3
+  - first:
+      213: 2847532875294564174
+    second: Anim_Tulipe_PetitePousse_spritesheet_4
+  - first:
+      213: 4498514029467137823
+    second: Anim_Tulipe_PetitePousse_spritesheet_5
+  - first:
+      213: 443841875510591151
+    second: Anim_Tulipe_PetitePousse_spritesheet_6
+  - first:
+      213: -4543710554622067815
+    second: Anim_Tulipe_PetitePousse_spritesheet_7
+  - first:
+      213: -165912001274349548
+    second: Anim_Tulipe_PetitePousse_spritesheet_8
+  - first:
+      213: -6206040841769145086
+    second: Anim_Tulipe_PetitePousse_spritesheet_9
+  - first:
+      213: 1698583567360723345
+    second: Anim_Tulipe_PetitePousse_spritesheet_10
+  - first:
+      213: 5266125727468750322
+    second: Anim_Tulipe_PetitePousse_spritesheet_11
+  - first:
+      213: -2247223805548640378
+    second: Anim_Tulipe_PetitePousse_spritesheet_12
+  - first:
+      213: 6824453571490752557
+    second: Anim_Tulipe_PetitePousse_spritesheet_13
+  - first:
+      213: -7172727071289617788
+    second: Anim_Tulipe_PetitePousse_spritesheet_14
+  - first:
+      213: -784497847686755103
+    second: Anim_Tulipe_PetitePousse_spritesheet_15
+  - first:
+      213: 7445132027579848094
+    second: Anim_Tulipe_PetitePousse_spritesheet_16
+  - first:
+      213: 883211834761655957
+    second: Anim_Tulipe_PetitePousse_spritesheet_17
+  - first:
+      213: -3197243252175127199
+    second: Anim_Tulipe_PetitePousse_spritesheet_18
+  - first:
+      213: 56928425534724815
+    second: Anim_Tulipe_PetitePousse_spritesheet_19
+  - first:
+      213: -5936746154495597059
+    second: Anim_Tulipe_PetitePousse_spritesheet_20
+  - first:
+      213: 1856018197616028634
+    second: Anim_Tulipe_PetitePousse_spritesheet_21
+  - first:
+      213: -8343645886982430012
+    second: Anim_Tulipe_PetitePousse_spritesheet_22
+  - first:
+      213: 8564811633416360833
+    second: Anim_Tulipe_PetitePousse_spritesheet_23
+  - first:
+      213: 3171624086074621841
+    second: Anim_Tulipe_PetitePousse_spritesheet_24
+  - first:
+      213: -3558309400374325963
+    second: Anim_Tulipe_PetitePousse_spritesheet_25
+  - first:
+      213: 3513548018045045913
+    second: Anim_Tulipe_PetitePousse_spritesheet_26
+  - first:
+      213: 8416083219984306816
+    second: Anim_Tulipe_PetitePousse_spritesheet_27
+  - first:
+      213: 2262781737676405665
+    second: Anim_Tulipe_PetitePousse_spritesheet_28
+  - first:
+      213: 5534792272242929770
+    second: Anim_Tulipe_PetitePousse_spritesheet_29
+  - first:
+      213: -4426086414606742653
+    second: Anim_Tulipe_PetitePousse_spritesheet_30
+  - first:
+      213: 7204609478999015912
+    second: Anim_Tulipe_PetitePousse_spritesheet_31
+  - first:
+      213: -4371434743191790320
+    second: Anim_Tulipe_PetitePousse_spritesheet_32
+  - first:
+      213: -811782402541859566
+    second: Anim_Tulipe_PetitePousse_spritesheet_33
+  - first:
+      213: -3374135262117808431
+    second: Anim_Tulipe_PetitePousse_spritesheet_34
+  - first:
+      213: 489656704666536822
+    second: Anim_Tulipe_PetitePousse_spritesheet_35
+  - first:
+      213: 60268569239605134
+    second: Anim_Tulipe_PetitePousse_spritesheet_36
+  - first:
+      213: -8587187592387258326
+    second: Anim_Tulipe_PetitePousse_spritesheet_37
+  - first:
+      213: 3552422320907438464
+    second: Anim_Tulipe_PetitePousse_spritesheet_38
+  - first:
+      213: 7350341353901770295
+    second: Anim_Tulipe_PetitePousse_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e2edc8e34970250800000000000000
+      internalID: 5910856032319319651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e281b68e1c5bf3b0800000000000000
+      internalID: -5477683235587521821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532153026a5e0dff0800000000000000
+      internalID: -13258297214430667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f6d57da830c520800000000000000
+      internalID: 2720236492589299492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fdd2e2018748720800000000000000
+      internalID: 2847532875294564174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ff77fcaeed6e30800000000000000
+      internalID: 4498514029467137823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae704e85d7d82600800000000000000
+      internalID: 443841875510591151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bfe8df25f71f0c0800000000000000
+      internalID: -4543710554622067815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4187114f9ef82bdf0800000000000000
+      internalID: -165912001274349548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20da8c44cb6bfd9a0800000000000000
+      internalID: -6206040841769145086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1990ad941c4929710800000000000000
+      internalID: 1698583567360723345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50250b279051940800000000000000
+      internalID: 5266125727468750322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c87bead140d0e0800000000000000
+      internalID: -2247223805548640378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d282ad2ad5455be50800000000000000
+      internalID: 6824453571490752557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48254fc3bba557c90800000000000000
+      internalID: -7172727071289617788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec829d2d57ec15f0800000000000000
+      internalID: -784497847686755103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95d7c1122c625760800000000000000
+      internalID: 7445132027579848094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b368fb7cc14c00800000000000000
+      internalID: 883211834761655957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d369da33c11a3d0800000000000000
+      internalID: -3197243252175127199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9e95f9104ac000800000000000000
+      internalID: 56928425534724815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5af93a3d07c9da0800000000000000
+      internalID: -5936746154495597059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb609597b6e1c910800000000000000
+      internalID: 1856018197616028634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c263c6b54a653c80800000000000000
+      internalID: -8343645886982430012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835ae16dc25cd670800000000000000
+      internalID: 8564811633416360833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ffc836d4fd30c20800000000000000
+      internalID: 3171624086074621841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d41cdf3785e9ec0800000000000000
+      internalID: -3558309400374325963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c4adc8e41a2c030800000000000000
+      internalID: 3513548018045045913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0825a47291febc470800000000000000
+      internalID: 8416083219984306816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab717e6004076f10800000000000000
+      internalID: 2262781737676405665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60fd9c3f388fcc40800000000000000
+      internalID: 5534792272242929770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bce283bd16392c0800000000000000
+      internalID: -4426086414606742653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10625462aebf360800000000000000
+      internalID: 7204609478999015912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d904d034b8553c0800000000000000
+      internalID: -4371434743191790320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d4495b438fbb4f0800000000000000
+      internalID: -811782402541859566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d639552bd9ac21d0800000000000000
+      internalID: -3374135262117808431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b8987bd2c9bc600800000000000000
+      internalID: 489656704666536822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fc5a4c1fd16d000800000000000000
+      internalID: 60268569239605134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a289d10b16e24d880800000000000000
+      internalID: -8587187592387258326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0894bd1874dbc4130800000000000000
+      internalID: 3552422320907438464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PetitePousse_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736cd218488a10660800000000000000
+      internalID: 7350341353901770295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec5db03ea19125a4ab2f7c721ae55755
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Tulipe_PetitePousse_spritesheet_0: 5910856032319319651
+      Anim_Tulipe_PetitePousse_spritesheet_1: -5477683235587521821
+      Anim_Tulipe_PetitePousse_spritesheet_10: 1698583567360723345
+      Anim_Tulipe_PetitePousse_spritesheet_11: 5266125727468750322
+      Anim_Tulipe_PetitePousse_spritesheet_12: -2247223805548640378
+      Anim_Tulipe_PetitePousse_spritesheet_13: 6824453571490752557
+      Anim_Tulipe_PetitePousse_spritesheet_14: -7172727071289617788
+      Anim_Tulipe_PetitePousse_spritesheet_15: -784497847686755103
+      Anim_Tulipe_PetitePousse_spritesheet_16: 7445132027579848094
+      Anim_Tulipe_PetitePousse_spritesheet_17: 883211834761655957
+      Anim_Tulipe_PetitePousse_spritesheet_18: -3197243252175127199
+      Anim_Tulipe_PetitePousse_spritesheet_19: 56928425534724815
+      Anim_Tulipe_PetitePousse_spritesheet_2: -13258297214430667
+      Anim_Tulipe_PetitePousse_spritesheet_20: -5936746154495597059
+      Anim_Tulipe_PetitePousse_spritesheet_21: 1856018197616028634
+      Anim_Tulipe_PetitePousse_spritesheet_22: -8343645886982430012
+      Anim_Tulipe_PetitePousse_spritesheet_23: 8564811633416360833
+      Anim_Tulipe_PetitePousse_spritesheet_24: 3171624086074621841
+      Anim_Tulipe_PetitePousse_spritesheet_25: -3558309400374325963
+      Anim_Tulipe_PetitePousse_spritesheet_26: 3513548018045045913
+      Anim_Tulipe_PetitePousse_spritesheet_27: 8416083219984306816
+      Anim_Tulipe_PetitePousse_spritesheet_28: 2262781737676405665
+      Anim_Tulipe_PetitePousse_spritesheet_29: 5534792272242929770
+      Anim_Tulipe_PetitePousse_spritesheet_3: 2720236492589299492
+      Anim_Tulipe_PetitePousse_spritesheet_30: -4426086414606742653
+      Anim_Tulipe_PetitePousse_spritesheet_31: 7204609478999015912
+      Anim_Tulipe_PetitePousse_spritesheet_32: -4371434743191790320
+      Anim_Tulipe_PetitePousse_spritesheet_33: -811782402541859566
+      Anim_Tulipe_PetitePousse_spritesheet_34: -3374135262117808431
+      Anim_Tulipe_PetitePousse_spritesheet_35: 489656704666536822
+      Anim_Tulipe_PetitePousse_spritesheet_36: 60268569239605134
+      Anim_Tulipe_PetitePousse_spritesheet_37: -8587187592387258326
+      Anim_Tulipe_PetitePousse_spritesheet_38: 3552422320907438464
+      Anim_Tulipe_PetitePousse_spritesheet_39: 7350341353901770295
+      Anim_Tulipe_PetitePousse_spritesheet_4: 2847532875294564174
+      Anim_Tulipe_PetitePousse_spritesheet_5: 4498514029467137823
+      Anim_Tulipe_PetitePousse_spritesheet_6: 443841875510591151
+      Anim_Tulipe_PetitePousse_spritesheet_7: -4543710554622067815
+      Anim_Tulipe_PetitePousse_spritesheet_8: -165912001274349548
+      Anim_Tulipe_PetitePousse_spritesheet_9: -6206040841769145086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

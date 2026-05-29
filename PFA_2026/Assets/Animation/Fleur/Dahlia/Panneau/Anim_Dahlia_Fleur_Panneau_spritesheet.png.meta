@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 1e927d51e13658b4b8148fa6835cfefb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1037997715374670690
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_0
+  - first:
+      213: 7498466026622022312
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_1
+  - first:
+      213: 5470155899237192122
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_2
+  - first:
+      213: 565928626485017906
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_3
+  - first:
+      213: -8367755411193371348
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_4
+  - first:
+      213: -3695134405343736685
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_5
+  - first:
+      213: 6731386539660719676
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_6
+  - first:
+      213: 165761389489109928
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_7
+  - first:
+      213: 2835103869011975584
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_8
+  - first:
+      213: -60957589697912037
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_9
+  - first:
+      213: -1279738091789295708
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_10
+  - first:
+      213: 586686256444612592
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_11
+  - first:
+      213: 4365720873541815719
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_12
+  - first:
+      213: -2744743291945443459
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_13
+  - first:
+      213: 7320995247101778438
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_14
+  - first:
+      213: -7193888875937701695
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_15
+  - first:
+      213: 6606749335363983590
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_16
+  - first:
+      213: 4378251799768981191
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_17
+  - first:
+      213: 5058443845613861618
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_18
+  - first:
+      213: -3287988379759980154
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_19
+  - first:
+      213: 1171643891785749945
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_20
+  - first:
+      213: 1652219232446368008
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_21
+  - first:
+      213: 2939198220168477024
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_22
+  - first:
+      213: 6062237371446360992
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_23
+  - first:
+      213: 7153384512053493761
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_24
+  - first:
+      213: 8404700094864215047
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_25
+  - first:
+      213: 9156251034678665882
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_26
+  - first:
+      213: -5375846062271054354
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_27
+  - first:
+      213: 6181249503271098859
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_28
+  - first:
+      213: -4058602598429810188
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_29
+  - first:
+      213: -2036383827964911597
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_30
+  - first:
+      213: -2201725965732248010
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_31
+  - first:
+      213: -1600777635773738430
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_32
+  - first:
+      213: 2827767930401282320
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_33
+  - first:
+      213: -2631433295501641281
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_34
+  - first:
+      213: -162439715823433537
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_35
+  - first:
+      213: 8200369489613353532
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_36
+  - first:
+      213: -9006465364860812912
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_37
+  - first:
+      213: -3978718743378567956
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_38
+  - first:
+      213: -949973795712140364
+    second: Anim_Dahlia_Fleur_Panneau_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cfc61d39a4891f0800000000000000
+      internalID: -1037997715374670690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f3256f17ef0860800000000000000
+      internalID: 7498466026622022312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab15a08eec5e9eb40800000000000000
+      internalID: 5470155899237192122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d3ddd56159ad700800000000000000
+      internalID: 565928626485017906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25677ca9c2cfdb80800000000000000
+      internalID: -8367755411193371348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c892406de38bcc0800000000000000
+      internalID: -3695134405343736685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36b256b460ba6d50800000000000000
+      internalID: 6731386539660719676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab39f10b17ec4200800000000000000
+      internalID: 165761389489109928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5bc5a2ff485720800000000000000
+      internalID: 2835103869011975584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1321b7256f672ff0800000000000000
+      internalID: -60957589697912037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afdc516cf47d3ee0800000000000000
+      internalID: -1279738091789295708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff1cf5ba04542800800000000000000
+      internalID: 586686256444612592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adc7fff008269c30800000000000000
+      internalID: 4365720873541815719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f94fba486b8e9d0800000000000000
+      internalID: -2744743291945443459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a13d19366699560800000000000000
+      internalID: 7320995247101778438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c06914ae2c2a2c90800000000000000
+      internalID: -7193888875937701695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e81b663483efab50800000000000000
+      internalID: 6606749335363983590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced17e90dca2cc30800000000000000
+      internalID: 4378251799768981191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa331670e3333640800000000000000
+      internalID: 5058443845613861618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815bc63df7be52d0800000000000000
+      internalID: -3287988379759980154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5552579e3824010800000000000000
+      internalID: 1171643891785749945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c80953acdde610800000000000000
+      internalID: 1652219232446368008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693a9d65312ac820800000000000000
+      internalID: 2939198220168477024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab782d25c4612450800000000000000
+      internalID: 6062237371446360992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100cabe305de54360800000000000000
+      internalID: 7153384512053493761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc21ec43e73a470800000000000000
+      internalID: 8404700094864215047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92235cddc9811f70800000000000000
+      internalID: 9156251034678665882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb6232d782565b0800000000000000
+      internalID: -5375846062271054354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9988e6ca538c550800000000000000
+      internalID: 6181249503271098859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f12d1ca072fca7c0800000000000000
+      internalID: -4058602598429810188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102dcb92bf4db3e0800000000000000
+      internalID: -2036383827964911597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63686cf36e5e171e0800000000000000
+      internalID: -2201725965732248010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2421157b835e8c9e0800000000000000
+      internalID: -1600777635773738430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0195fc653ff3e3720800000000000000
+      internalID: 2827767930401282320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93d731c554b7bd0800000000000000
+      internalID: -2631433295501641281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8cde860f5eebdf0800000000000000
+      internalID: -162439715823433537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32fa577a909dc170800000000000000
+      internalID: 8200369489613353532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091cc9d087b920380800000000000000
+      internalID: -9006465364860812912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec5bbf0260c8c8c0800000000000000
+      internalID: -3978718743378567956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_Panneau_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf5a0bdd301d2f0800000000000000
+      internalID: -949973795712140364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dadc9dff8b8407343b1afe11ddb53194
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Dahlia_Fleur_Panneau_spritesheet_0: -1037997715374670690
+      Anim_Dahlia_Fleur_Panneau_spritesheet_1: 7498466026622022312
+      Anim_Dahlia_Fleur_Panneau_spritesheet_10: -1279738091789295708
+      Anim_Dahlia_Fleur_Panneau_spritesheet_11: 586686256444612592
+      Anim_Dahlia_Fleur_Panneau_spritesheet_12: 4365720873541815719
+      Anim_Dahlia_Fleur_Panneau_spritesheet_13: -2744743291945443459
+      Anim_Dahlia_Fleur_Panneau_spritesheet_14: 7320995247101778438
+      Anim_Dahlia_Fleur_Panneau_spritesheet_15: -7193888875937701695
+      Anim_Dahlia_Fleur_Panneau_spritesheet_16: 6606749335363983590
+      Anim_Dahlia_Fleur_Panneau_spritesheet_17: 4378251799768981191
+      Anim_Dahlia_Fleur_Panneau_spritesheet_18: 5058443845613861618
+      Anim_Dahlia_Fleur_Panneau_spritesheet_19: -3287988379759980154
+      Anim_Dahlia_Fleur_Panneau_spritesheet_2: 5470155899237192122
+      Anim_Dahlia_Fleur_Panneau_spritesheet_20: 1171643891785749945
+      Anim_Dahlia_Fleur_Panneau_spritesheet_21: 1652219232446368008
+      Anim_Dahlia_Fleur_Panneau_spritesheet_22: 2939198220168477024
+      Anim_Dahlia_Fleur_Panneau_spritesheet_23: 6062237371446360992
+      Anim_Dahlia_Fleur_Panneau_spritesheet_24: 7153384512053493761
+      Anim_Dahlia_Fleur_Panneau_spritesheet_25: 8404700094864215047
+      Anim_Dahlia_Fleur_Panneau_spritesheet_26: 9156251034678665882
+      Anim_Dahlia_Fleur_Panneau_spritesheet_27: -5375846062271054354
+      Anim_Dahlia_Fleur_Panneau_spritesheet_28: 6181249503271098859
+      Anim_Dahlia_Fleur_Panneau_spritesheet_29: -4058602598429810188
+      Anim_Dahlia_Fleur_Panneau_spritesheet_3: 565928626485017906
+      Anim_Dahlia_Fleur_Panneau_spritesheet_30: -2036383827964911597
+      Anim_Dahlia_Fleur_Panneau_spritesheet_31: -2201725965732248010
+      Anim_Dahlia_Fleur_Panneau_spritesheet_32: -1600777635773738430
+      Anim_Dahlia_Fleur_Panneau_spritesheet_33: 2827767930401282320
+      Anim_Dahlia_Fleur_Panneau_spritesheet_34: -2631433295501641281
+      Anim_Dahlia_Fleur_Panneau_spritesheet_35: -162439715823433537
+      Anim_Dahlia_Fleur_Panneau_spritesheet_36: 8200369489613353532
+      Anim_Dahlia_Fleur_Panneau_spritesheet_37: -9006465364860812912
+      Anim_Dahlia_Fleur_Panneau_spritesheet_38: -3978718743378567956
+      Anim_Dahlia_Fleur_Panneau_spritesheet_39: -949973795712140364
+      Anim_Dahlia_Fleur_Panneau_spritesheet_4: -8367755411193371348
+      Anim_Dahlia_Fleur_Panneau_spritesheet_5: -3695134405343736685
+      Anim_Dahlia_Fleur_Panneau_spritesheet_6: 6731386539660719676
+      Anim_Dahlia_Fleur_Panneau_spritesheet_7: 165761389489109928
+      Anim_Dahlia_Fleur_Panneau_spritesheet_8: 2835103869011975584
+      Anim_Dahlia_Fleur_Panneau_spritesheet_9: -60957589697912037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

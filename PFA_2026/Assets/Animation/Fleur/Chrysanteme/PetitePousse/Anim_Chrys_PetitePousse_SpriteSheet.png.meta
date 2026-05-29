@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 455a28b3e26e2d34f84bda9efbba3a28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4655173180484183666
+    second: Anim_Chrys_PetitePousse_SpriteSheet_0
+  - first:
+      213: -6483706663654377498
+    second: Anim_Chrys_PetitePousse_SpriteSheet_1
+  - first:
+      213: 1126067988870912449
+    second: Anim_Chrys_PetitePousse_SpriteSheet_2
+  - first:
+      213: 1983578789835381
+    second: Anim_Chrys_PetitePousse_SpriteSheet_3
+  - first:
+      213: 3865731465233302866
+    second: Anim_Chrys_PetitePousse_SpriteSheet_4
+  - first:
+      213: -3270303629629142906
+    second: Anim_Chrys_PetitePousse_SpriteSheet_5
+  - first:
+      213: -8472222080262876400
+    second: Anim_Chrys_PetitePousse_SpriteSheet_6
+  - first:
+      213: -3513021690093506793
+    second: Anim_Chrys_PetitePousse_SpriteSheet_7
+  - first:
+      213: 243073929677111781
+    second: Anim_Chrys_PetitePousse_SpriteSheet_8
+  - first:
+      213: 3655603988968379810
+    second: Anim_Chrys_PetitePousse_SpriteSheet_9
+  - first:
+      213: -8854479264982193163
+    second: Anim_Chrys_PetitePousse_SpriteSheet_10
+  - first:
+      213: 5503654098796260880
+    second: Anim_Chrys_PetitePousse_SpriteSheet_11
+  - first:
+      213: -5216121344801426272
+    second: Anim_Chrys_PetitePousse_SpriteSheet_12
+  - first:
+      213: -2554851116751376883
+    second: Anim_Chrys_PetitePousse_SpriteSheet_13
+  - first:
+      213: -3619981198934524854
+    second: Anim_Chrys_PetitePousse_SpriteSheet_14
+  - first:
+      213: 9035228369335737107
+    second: Anim_Chrys_PetitePousse_SpriteSheet_15
+  - first:
+      213: 7042818885905565614
+    second: Anim_Chrys_PetitePousse_SpriteSheet_16
+  - first:
+      213: -9013955930297637469
+    second: Anim_Chrys_PetitePousse_SpriteSheet_17
+  - first:
+      213: 3771348272375128049
+    second: Anim_Chrys_PetitePousse_SpriteSheet_18
+  - first:
+      213: 7379285267513404717
+    second: Anim_Chrys_PetitePousse_SpriteSheet_19
+  - first:
+      213: 8554960491878493716
+    second: Anim_Chrys_PetitePousse_SpriteSheet_20
+  - first:
+      213: -6739078973860098277
+    second: Anim_Chrys_PetitePousse_SpriteSheet_21
+  - first:
+      213: -1327236975114501045
+    second: Anim_Chrys_PetitePousse_SpriteSheet_22
+  - first:
+      213: 6012726176841066902
+    second: Anim_Chrys_PetitePousse_SpriteSheet_23
+  - first:
+      213: 3004223953053894318
+    second: Anim_Chrys_PetitePousse_SpriteSheet_24
+  - first:
+      213: -6353593855687940633
+    second: Anim_Chrys_PetitePousse_SpriteSheet_25
+  - first:
+      213: -3584136240816760581
+    second: Anim_Chrys_PetitePousse_SpriteSheet_26
+  - first:
+      213: -6295041927271517914
+    second: Anim_Chrys_PetitePousse_SpriteSheet_27
+  - first:
+      213: 2477388843909800017
+    second: Anim_Chrys_PetitePousse_SpriteSheet_28
+  - first:
+      213: 456490430311129178
+    second: Anim_Chrys_PetitePousse_SpriteSheet_29
+  - first:
+      213: 6444065329868689973
+    second: Anim_Chrys_PetitePousse_SpriteSheet_30
+  - first:
+      213: 7601001968007501079
+    second: Anim_Chrys_PetitePousse_SpriteSheet_31
+  - first:
+      213: -3029698857837976776
+    second: Anim_Chrys_PetitePousse_SpriteSheet_32
+  - first:
+      213: 7452921336906860576
+    second: Anim_Chrys_PetitePousse_SpriteSheet_33
+  - first:
+      213: -3342557805433286059
+    second: Anim_Chrys_PetitePousse_SpriteSheet_34
+  - first:
+      213: 3542934969718108909
+    second: Anim_Chrys_PetitePousse_SpriteSheet_35
+  - first:
+      213: 6997225997743553794
+    second: Anim_Chrys_PetitePousse_SpriteSheet_36
+  - first:
+      213: -8219364058463836707
+    second: Anim_Chrys_PetitePousse_SpriteSheet_37
+  - first:
+      213: 4935270562803656791
+    second: Anim_Chrys_PetitePousse_SpriteSheet_38
+  - first:
+      213: -3677641925857104032
+    second: Anim_Chrys_PetitePousse_SpriteSheet_39
+  - first:
+      213: -1452224895384549050
+    second: Anim_Chrys_PetitePousse_SpriteSheet_40
+  - first:
+      213: -8410030900121361365
+    second: Anim_Chrys_PetitePousse_SpriteSheet_41
+  - first:
+      213: -5199876793235215791
+    second: Anim_Chrys_PetitePousse_SpriteSheet_42
+  - first:
+      213: -1416864620092665242
+    second: Anim_Chrys_PetitePousse_SpriteSheet_43
+  - first:
+      213: -5068621080170463423
+    second: Anim_Chrys_PetitePousse_SpriteSheet_44
+  - first:
+      213: -6222914200896032638
+    second: Anim_Chrys_PetitePousse_SpriteSheet_45
+  - first:
+      213: 2555719496769121337
+    second: Anim_Chrys_PetitePousse_SpriteSheet_46
+  - first:
+      213: 8133500299780736057
+    second: Anim_Chrys_PetitePousse_SpriteSheet_47
+  - first:
+      213: 1640266391405997097
+    second: Anim_Chrys_PetitePousse_SpriteSheet_48
+  - first:
+      213: 4294959374333326391
+    second: Anim_Chrys_PetitePousse_SpriteSheet_49
+  - first:
+      213: 2786352479064044508
+    second: Anim_Chrys_PetitePousse_SpriteSheet_50
+  - first:
+      213: -6766377118402680918
+    second: Anim_Chrys_PetitePousse_SpriteSheet_51
+  - first:
+      213: -525030342649355964
+    second: Anim_Chrys_PetitePousse_SpriteSheet_52
+  - first:
+      213: -7778226646887140639
+    second: Anim_Chrys_PetitePousse_SpriteSheet_53
+  - first:
+      213: 2762123914103379207
+    second: Anim_Chrys_PetitePousse_SpriteSheet_54
+  - first:
+      213: -5104047389210758669
+    second: Anim_Chrys_PetitePousse_SpriteSheet_55
+  - first:
+      213: 1760632288461822789
+    second: Anim_Chrys_PetitePousse_SpriteSheet_56
+  - first:
+      213: 3181301538400847014
+    second: Anim_Chrys_PetitePousse_SpriteSheet_57
+  - first:
+      213: 3690465242461365918
+    second: Anim_Chrys_PetitePousse_SpriteSheet_58
+  - first:
+      213: 287392671800833353
+    second: Anim_Chrys_PetitePousse_SpriteSheet_59
+  - first:
+      213: 5862280964393973058
+    second: Anim_Chrys_PetitePousse_SpriteSheet_60
+  - first:
+      213: 5862818430291340376
+    second: Anim_Chrys_PetitePousse_SpriteSheet_61
+  - first:
+      213: -5976557421772717470
+    second: Anim_Chrys_PetitePousse_SpriteSheet_62
+  - first:
+      213: -5101540471080286883
+    second: Anim_Chrys_PetitePousse_SpriteSheet_63
+  - first:
+      213: 8933399046926145466
+    second: Anim_Chrys_PetitePousse_SpriteSheet_64
+  - first:
+      213: 8637076078025202860
+    second: Anim_Chrys_PetitePousse_SpriteSheet_65
+  - first:
+      213: -6082529190245465223
+    second: Anim_Chrys_PetitePousse_SpriteSheet_66
+  - first:
+      213: 2012345507009133620
+    second: Anim_Chrys_PetitePousse_SpriteSheet_67
+  - first:
+      213: 4257180163701618083
+    second: Anim_Chrys_PetitePousse_SpriteSheet_68
+  - first:
+      213: 1803170406918061350
+    second: Anim_Chrys_PetitePousse_SpriteSheet_69
+  - first:
+      213: 6436936620496779208
+    second: Anim_Chrys_PetitePousse_SpriteSheet_70
+  - first:
+      213: -855633564846114298
+    second: Anim_Chrys_PetitePousse_SpriteSheet_71
+  - first:
+      213: -1725639789548184479
+    second: Anim_Chrys_PetitePousse_SpriteSheet_72
+  - first:
+      213: 5645503810580893176
+    second: Anim_Chrys_PetitePousse_SpriteSheet_73
+  - first:
+      213: 4679852639657604819
+    second: Anim_Chrys_PetitePousse_SpriteSheet_74
+  - first:
+      213: 3366926415816667976
+    second: Anim_Chrys_PetitePousse_SpriteSheet_75
+  - first:
+      213: 2378981153738939264
+    second: Anim_Chrys_PetitePousse_SpriteSheet_76
+  - first:
+      213: -4713802646330326159
+    second: Anim_Chrys_PetitePousse_SpriteSheet_77
+  - first:
+      213: -7125514500400900736
+    second: Anim_Chrys_PetitePousse_SpriteSheet_78
+  - first:
+      213: 7732824225656024015
+    second: Anim_Chrys_PetitePousse_SpriteSheet_79
+  - first:
+      213: 5080230271946549544
+    second: Anim_Chrys_PetitePousse_SpriteSheet_80
+  - first:
+      213: -809964138435678382
+    second: Anim_Chrys_PetitePousse_SpriteSheet_81
+  - first:
+      213: 4064993752255445183
+    second: Anim_Chrys_PetitePousse_SpriteSheet_82
+  - first:
+      213: -7200951374680946297
+    second: Anim_Chrys_PetitePousse_SpriteSheet_83
+  - first:
+      213: 3733606253016055080
+    second: Anim_Chrys_PetitePousse_SpriteSheet_84
+  - first:
+      213: -1060401661899459381
+    second: Anim_Chrys_PetitePousse_SpriteSheet_85
+  - first:
+      213: -2741221287578708242
+    second: Anim_Chrys_PetitePousse_SpriteSheet_86
+  - first:
+      213: -3675847493415782950
+    second: Anim_Chrys_PetitePousse_SpriteSheet_87
+  - first:
+      213: -6606257565559038117
+    second: Anim_Chrys_PetitePousse_SpriteSheet_88
+  - first:
+      213: -710797636628541456
+    second: Anim_Chrys_PetitePousse_SpriteSheet_89
+  - first:
+      213: 8814704032537381919
+    second: Anim_Chrys_PetitePousse_SpriteSheet_90
+  - first:
+      213: 3454439929983738364
+    second: Anim_Chrys_PetitePousse_SpriteSheet_91
+  - first:
+      213: 8860604666003430636
+    second: Anim_Chrys_PetitePousse_SpriteSheet_92
+  - first:
+      213: -6632780145731056708
+    second: Anim_Chrys_PetitePousse_SpriteSheet_93
+  - first:
+      213: 3986694439514058940
+    second: Anim_Chrys_PetitePousse_SpriteSheet_94
+  - first:
+      213: -8904590853388319174
+    second: Anim_Chrys_PetitePousse_SpriteSheet_95
+  - first:
+      213: 397887122581564174
+    second: Anim_Chrys_PetitePousse_SpriteSheet_96
+  - first:
+      213: 2963424737025511912
+    second: Anim_Chrys_PetitePousse_SpriteSheet_97
+  - first:
+      213: -7833743620652486642
+    second: Anim_Chrys_PetitePousse_SpriteSheet_98
+  - first:
+      213: 1014229949930406912
+    second: Anim_Chrys_PetitePousse_SpriteSheet_99
+  - first:
+      213: -2677233775237888012
+    second: Anim_Chrys_PetitePousse_SpriteSheet_100
+  - first:
+      213: 4190228426387196069
+    second: Anim_Chrys_PetitePousse_SpriteSheet_101
+  - first:
+      213: 3199757418930563246
+    second: Anim_Chrys_PetitePousse_SpriteSheet_102
+  - first:
+      213: -1652961388427538355
+    second: Anim_Chrys_PetitePousse_SpriteSheet_103
+  - first:
+      213: -1902995378030696889
+    second: Anim_Chrys_PetitePousse_SpriteSheet_104
+  - first:
+      213: 3801011545754472350
+    second: Anim_Chrys_PetitePousse_SpriteSheet_105
+  - first:
+      213: -5043502835201942911
+    second: Anim_Chrys_PetitePousse_SpriteSheet_106
+  - first:
+      213: 6369833708483800875
+    second: Anim_Chrys_PetitePousse_SpriteSheet_107
+  - first:
+      213: -6771833297915093684
+    second: Anim_Chrys_PetitePousse_SpriteSheet_108
+  - first:
+      213: 1371164713731953103
+    second: Anim_Chrys_PetitePousse_SpriteSheet_109
+  - first:
+      213: -1565677740119332044
+    second: Anim_Chrys_PetitePousse_SpriteSheet_110
+  - first:
+      213: 5133616216116859784
+    second: Anim_Chrys_PetitePousse_SpriteSheet_111
+  - first:
+      213: 5908299120358521560
+    second: Anim_Chrys_PetitePousse_SpriteSheet_112
+  - first:
+      213: -1322895760347997416
+    second: Anim_Chrys_PetitePousse_SpriteSheet_113
+  - first:
+      213: 1227749433779534241
+    second: Anim_Chrys_PetitePousse_SpriteSheet_114
+  - first:
+      213: -6872488011119123005
+    second: Anim_Chrys_PetitePousse_SpriteSheet_115
+  - first:
+      213: -3805308108483142881
+    second: Anim_Chrys_PetitePousse_SpriteSheet_116
+  - first:
+      213: -2819402700586191581
+    second: Anim_Chrys_PetitePousse_SpriteSheet_117
+  - first:
+      213: 5492171763671373521
+    second: Anim_Chrys_PetitePousse_SpriteSheet_118
+  - first:
+      213: -8104489524550863855
+    second: Anim_Chrys_PetitePousse_SpriteSheet_119
+  - first:
+      213: 6742988057929219800
+    second: Anim_Chrys_PetitePousse_SpriteSheet_120
+  - first:
+      213: 8788269785252759808
+    second: Anim_Chrys_PetitePousse_SpriteSheet_121
+  - first:
+      213: -7157162350776877248
+    second: Anim_Chrys_PetitePousse_SpriteSheet_122
+  - first:
+      213: 8174979667987942142
+    second: Anim_Chrys_PetitePousse_SpriteSheet_123
+  - first:
+      213: -754464206122379909
+    second: Anim_Chrys_PetitePousse_SpriteSheet_124
+  - first:
+      213: -534810793708517807
+    second: Anim_Chrys_PetitePousse_SpriteSheet_125
+  - first:
+      213: -3746450974137393516
+    second: Anim_Chrys_PetitePousse_SpriteSheet_126
+  - first:
+      213: -595467631978102251
+    second: Anim_Chrys_PetitePousse_SpriteSheet_127
+  - first:
+      213: -5603357573015959660
+    second: Anim_Chrys_PetitePousse_SpriteSheet_128
+  - first:
+      213: 8232213399301242486
+    second: Anim_Chrys_PetitePousse_SpriteSheet_129
+  - first:
+      213: 978049131092999360
+    second: Anim_Chrys_PetitePousse_SpriteSheet_130
+  - first:
+      213: 8565443808948168007
+    second: Anim_Chrys_PetitePousse_SpriteSheet_131
+  - first:
+      213: 2522042133764506230
+    second: Anim_Chrys_PetitePousse_SpriteSheet_132
+  - first:
+      213: 4739763657703756371
+    second: Anim_Chrys_PetitePousse_SpriteSheet_133
+  - first:
+      213: 2433087242303060734
+    second: Anim_Chrys_PetitePousse_SpriteSheet_134
+  - first:
+      213: -1761709782410054756
+    second: Anim_Chrys_PetitePousse_SpriteSheet_135
+  - first:
+      213: 2550459051263906401
+    second: Anim_Chrys_PetitePousse_SpriteSheet_136
+  - first:
+      213: 550817951049343562
+    second: Anim_Chrys_PetitePousse_SpriteSheet_137
+  - first:
+      213: 7475077323347142514
+    second: Anim_Chrys_PetitePousse_SpriteSheet_138
+  - first:
+      213: -2781333657297475346
+    second: Anim_Chrys_PetitePousse_SpriteSheet_139
+  - first:
+      213: -1446380551863225671
+    second: Anim_Chrys_PetitePousse_SpriteSheet_140
+  - first:
+      213: -856868985948260346
+    second: Anim_Chrys_PetitePousse_SpriteSheet_141
+  - first:
+      213: -7480012245508128307
+    second: Anim_Chrys_PetitePousse_SpriteSheet_142
+  - first:
+      213: 6847150211042085765
+    second: Anim_Chrys_PetitePousse_SpriteSheet_143
+  - first:
+      213: -6970346418390380054
+    second: Anim_Chrys_PetitePousse_SpriteSheet_144
+  - first:
+      213: 4175836604603204852
+    second: Anim_Chrys_PetitePousse_SpriteSheet_145
+  - first:
+      213: -3892931301750344187
+    second: Anim_Chrys_PetitePousse_SpriteSheet_146
+  - first:
+      213: -1024605185912103283
+    second: Anim_Chrys_PetitePousse_SpriteSheet_147
+  - first:
+      213: -929361066812343602
+    second: Anim_Chrys_PetitePousse_SpriteSheet_148
+  - first:
+      213: -4071217511428229319
+    second: Anim_Chrys_PetitePousse_SpriteSheet_149
+  - first:
+      213: 8719558423136815974
+    second: Anim_Chrys_PetitePousse_SpriteSheet_150
+  - first:
+      213: -3788510029077109509
+    second: Anim_Chrys_PetitePousse_SpriteSheet_151
+  - first:
+      213: -4392140585984615501
+    second: Anim_Chrys_PetitePousse_SpriteSheet_152
+  - first:
+      213: -2647280862109777542
+    second: Anim_Chrys_PetitePousse_SpriteSheet_153
+  - first:
+      213: 1137056460165442821
+    second: Anim_Chrys_PetitePousse_SpriteSheet_154
+  - first:
+      213: 109666303318360210
+    second: Anim_Chrys_PetitePousse_SpriteSheet_155
+  - first:
+      213: 3037367330039943760
+    second: Anim_Chrys_PetitePousse_SpriteSheet_156
+  - first:
+      213: -7972651883407196343
+    second: Anim_Chrys_PetitePousse_SpriteSheet_157
+  - first:
+      213: 6864727765868119754
+    second: Anim_Chrys_PetitePousse_SpriteSheet_158
+  - first:
+      213: 4556637104263793897
+    second: Anim_Chrys_PetitePousse_SpriteSheet_159
+  - first:
+      213: 6122578094956687178
+    second: Anim_Chrys_PetitePousse_SpriteSheet_160
+  - first:
+      213: 9061635313723180843
+    second: Anim_Chrys_PetitePousse_SpriteSheet_161
+  - first:
+      213: -6193818855214525829
+    second: Anim_Chrys_PetitePousse_SpriteSheet_162
+  - first:
+      213: -5830242220627485325
+    second: Anim_Chrys_PetitePousse_SpriteSheet_163
+  - first:
+      213: 2526622181111547045
+    second: Anim_Chrys_PetitePousse_SpriteSheet_164
+  - first:
+      213: 5861499163257132752
+    second: Anim_Chrys_PetitePousse_SpriteSheet_165
+  - first:
+      213: 3923788186783669096
+    second: Anim_Chrys_PetitePousse_SpriteSheet_166
+  - first:
+      213: 4545329972123429587
+    second: Anim_Chrys_PetitePousse_SpriteSheet_167
+  - first:
+      213: -1361519417836799653
+    second: Anim_Chrys_PetitePousse_SpriteSheet_168
+  - first:
+      213: -4440526407110480399
+    second: Anim_Chrys_PetitePousse_SpriteSheet_169
+  - first:
+      213: 8328524026410586156
+    second: Anim_Chrys_PetitePousse_SpriteSheet_170
+  - first:
+      213: 615665946352198894
+    second: Anim_Chrys_PetitePousse_SpriteSheet_171
+  - first:
+      213: -2416595506580700731
+    second: Anim_Chrys_PetitePousse_SpriteSheet_172
+  - first:
+      213: -3919028118967680459
+    second: Anim_Chrys_PetitePousse_SpriteSheet_173
+  - first:
+      213: -3538716563931252823
+    second: Anim_Chrys_PetitePousse_SpriteSheet_174
+  - first:
+      213: 3312532976225662795
+    second: Anim_Chrys_PetitePousse_SpriteSheet_175
+  - first:
+      213: -5466268250254522088
+    second: Anim_Chrys_PetitePousse_SpriteSheet_176
+  - first:
+      213: 5464038909434425667
+    second: Anim_Chrys_PetitePousse_SpriteSheet_177
+  - first:
+      213: 8414135629228966437
+    second: Anim_Chrys_PetitePousse_SpriteSheet_178
+  - first:
+      213: 6899079124428694601
+    second: Anim_Chrys_PetitePousse_SpriteSheet_179
+  - first:
+      213: 2772249760193269508
+    second: Anim_Chrys_PetitePousse_SpriteSheet_180
+  - first:
+      213: -7994159412837621341
+    second: Anim_Chrys_PetitePousse_SpriteSheet_181
+  - first:
+      213: 2340887447294432021
+    second: Anim_Chrys_PetitePousse_SpriteSheet_182
+  - first:
+      213: 8897090665869496320
+    second: Anim_Chrys_PetitePousse_SpriteSheet_183
+  - first:
+      213: -6918369264469295546
+    second: Anim_Chrys_PetitePousse_SpriteSheet_184
+  - first:
+      213: 8333434620469414410
+    second: Anim_Chrys_PetitePousse_SpriteSheet_185
+  - first:
+      213: -4000577773687148064
+    second: Anim_Chrys_PetitePousse_SpriteSheet_186
+  - first:
+      213: 1924568774413531494
+    second: Anim_Chrys_PetitePousse_SpriteSheet_187
+  - first:
+      213: 8780326964917837965
+    second: Anim_Chrys_PetitePousse_SpriteSheet_188
+  - first:
+      213: 8358535266540870566
+    second: Anim_Chrys_PetitePousse_SpriteSheet_189
+  - first:
+      213: -1043415319686522101
+    second: Anim_Chrys_PetitePousse_SpriteSheet_190
+  - first:
+      213: 3383389016599895695
+    second: Anim_Chrys_PetitePousse_SpriteSheet_191
+  - first:
+      213: 5719823192363627839
+    second: Anim_Chrys_PetitePousse_SpriteSheet_192
+  - first:
+      213: 7073247820813044084
+    second: Anim_Chrys_PetitePousse_SpriteSheet_193
+  - first:
+      213: 3029736568835536710
+    second: Anim_Chrys_PetitePousse_SpriteSheet_194
+  - first:
+      213: -6781338286414034301
+    second: Anim_Chrys_PetitePousse_SpriteSheet_195
+  - first:
+      213: -4606190187888068210
+    second: Anim_Chrys_PetitePousse_SpriteSheet_196
+  - first:
+      213: 8968003929708578175
+    second: Anim_Chrys_PetitePousse_SpriteSheet_197
+  - first:
+      213: 1821621660864288121
+    second: Anim_Chrys_PetitePousse_SpriteSheet_198
+  - first:
+      213: -247468648757735323
+    second: Anim_Chrys_PetitePousse_SpriteSheet_199
+  - first:
+      213: 2724133528479714567
+    second: Anim_Chrys_PetitePousse_SpriteSheet_200
+  - first:
+      213: -4609255750020469622
+    second: Anim_Chrys_PetitePousse_SpriteSheet_201
+  - first:
+      213: -6860641796268610052
+    second: Anim_Chrys_PetitePousse_SpriteSheet_202
+  - first:
+      213: -1985495313775115005
+    second: Anim_Chrys_PetitePousse_SpriteSheet_203
+  - first:
+      213: -6054318145451574044
+    second: Anim_Chrys_PetitePousse_SpriteSheet_204
+  - first:
+      213: 4213397619786034525
+    second: Anim_Chrys_PetitePousse_SpriteSheet_205
+  - first:
+      213: 2595803243769050117
+    second: Anim_Chrys_PetitePousse_SpriteSheet_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766faee75f7a9040800000000000000
+      internalID: 4655173180484183666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e73c0d342f3506a0800000000000000
+      internalID: -6483706663654377498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d695aed890af00800000000000000
+      internalID: 1126067988870912449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572f62ded0c070000800000000000000
+      internalID: 1983578789835381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255084e3946d5a530800000000000000
+      internalID: 3865731465233302866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688c848fc2c8d92d0800000000000000
+      internalID: -3270303629629142906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d5bfd7ee9c6a80800000000000000
+      internalID: -8472222080262876400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71febb9b26d3f3fc0800000000000000
+      internalID: -3513021690093506793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1009083729f5300800000000000000
+      internalID: 243073929677111781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a516f1b5705bb230800000000000000
+      internalID: 3655603988968379810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbaca385029e1580800000000000000
+      internalID: -8854479264982193163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eaf554e38e06c40800000000000000
+      internalID: 5503654098796260880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a437c9e54d9c97b0800000000000000
+      internalID: -5216121344801426272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e260c02785b8cd0800000000000000
+      internalID: -2554851116751376883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c3aef674e33cdc0800000000000000
+      internalID: -3619981198934524854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bd9cac454936d70800000000000000
+      internalID: 9035228369335737107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea740d7567e1db160800000000000000
+      internalID: 7042818885905565614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a56591e6def7e280800000000000000
+      internalID: -9013955930297637469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffd333b545865430800000000000000
+      internalID: 3771348272375128049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de86a8adc786660800000000000000
+      internalID: 7379285267513404717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e2be1cd3359b670800000000000000
+      internalID: 8554960491878493716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc3c1e06bf972a0800000000000000
+      internalID: -6739078973860098277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44498dc005b49de0800000000000000
+      internalID: -1327236975114501045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699ed4ed99e717350800000000000000
+      internalID: 6012726176841066902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64f7ba4c521b920800000000000000
+      internalID: 3004223953053894318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ad901d0083d7a0800000000000000
+      internalID: -6353593855687940633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8538b1417924ec0800000000000000
+      internalID: -3584136240816760581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217ace38b483a8a0800000000000000
+      internalID: -6295041927271517914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15062cb1704716220800000000000000
+      internalID: 2477388843909800017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506f06b0a7c55600800000000000000
+      internalID: 456490430311129178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532db30864bed6950800000000000000
+      internalID: 6444065329868689973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715d120a40f2c7960800000000000000
+      internalID: 7601001968007501079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833292ad0f854f5d0800000000000000
+      internalID: -3029698857837976776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0284349f7781e6760800000000000000
+      internalID: 7452921336906860576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55290f5b269dc91d0800000000000000
+      internalID: -3342557805433286059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27b5c65980b2130800000000000000
+      internalID: 3542934969718108909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20df1a8d8f32b1160800000000000000
+      internalID: 6997225997743553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd566a7dfe3feed80800000000000000
+      internalID: -8219364058463836707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758aa5ebd6a9d7440800000000000000
+      internalID: 4935270562803656791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_PetitePousse_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f2436472466fcc0800000000000000
+      internalID: -3677641925857104032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e177902f314449346ba4309a17532398
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Chrys_PetitePousse_SpriteSheet_0: 4655173180484183666
+      Anim_Chrys_PetitePousse_SpriteSheet_1: -6483706663654377498
+      Anim_Chrys_PetitePousse_SpriteSheet_10: -8854479264982193163
+      Anim_Chrys_PetitePousse_SpriteSheet_11: 5503654098796260880
+      Anim_Chrys_PetitePousse_SpriteSheet_12: -5216121344801426272
+      Anim_Chrys_PetitePousse_SpriteSheet_13: -2554851116751376883
+      Anim_Chrys_PetitePousse_SpriteSheet_14: -3619981198934524854
+      Anim_Chrys_PetitePousse_SpriteSheet_15: 9035228369335737107
+      Anim_Chrys_PetitePousse_SpriteSheet_16: 7042818885905565614
+      Anim_Chrys_PetitePousse_SpriteSheet_17: -9013955930297637469
+      Anim_Chrys_PetitePousse_SpriteSheet_18: 3771348272375128049
+      Anim_Chrys_PetitePousse_SpriteSheet_19: 7379285267513404717
+      Anim_Chrys_PetitePousse_SpriteSheet_2: 1126067988870912449
+      Anim_Chrys_PetitePousse_SpriteSheet_20: 8554960491878493716
+      Anim_Chrys_PetitePousse_SpriteSheet_21: -6739078973860098277
+      Anim_Chrys_PetitePousse_SpriteSheet_22: -1327236975114501045
+      Anim_Chrys_PetitePousse_SpriteSheet_23: 6012726176841066902
+      Anim_Chrys_PetitePousse_SpriteSheet_24: 3004223953053894318
+      Anim_Chrys_PetitePousse_SpriteSheet_25: -6353593855687940633
+      Anim_Chrys_PetitePousse_SpriteSheet_26: -3584136240816760581
+      Anim_Chrys_PetitePousse_SpriteSheet_27: -6295041927271517914
+      Anim_Chrys_PetitePousse_SpriteSheet_28: 2477388843909800017
+      Anim_Chrys_PetitePousse_SpriteSheet_29: 456490430311129178
+      Anim_Chrys_PetitePousse_SpriteSheet_3: 1983578789835381
+      Anim_Chrys_PetitePousse_SpriteSheet_30: 6444065329868689973
+      Anim_Chrys_PetitePousse_SpriteSheet_31: 7601001968007501079
+      Anim_Chrys_PetitePousse_SpriteSheet_32: -3029698857837976776
+      Anim_Chrys_PetitePousse_SpriteSheet_33: 7452921336906860576
+      Anim_Chrys_PetitePousse_SpriteSheet_34: -3342557805433286059
+      Anim_Chrys_PetitePousse_SpriteSheet_35: 3542934969718108909
+      Anim_Chrys_PetitePousse_SpriteSheet_36: 6997225997743553794
+      Anim_Chrys_PetitePousse_SpriteSheet_37: -8219364058463836707
+      Anim_Chrys_PetitePousse_SpriteSheet_38: 4935270562803656791
+      Anim_Chrys_PetitePousse_SpriteSheet_39: -3677641925857104032
+      Anim_Chrys_PetitePousse_SpriteSheet_4: 3865731465233302866
+      Anim_Chrys_PetitePousse_SpriteSheet_5: -3270303629629142906
+      Anim_Chrys_PetitePousse_SpriteSheet_6: -8472222080262876400
+      Anim_Chrys_PetitePousse_SpriteSheet_7: -3513021690093506793
+      Anim_Chrys_PetitePousse_SpriteSheet_8: 243073929677111781
+      Anim_Chrys_PetitePousse_SpriteSheet_9: 3655603988968379810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

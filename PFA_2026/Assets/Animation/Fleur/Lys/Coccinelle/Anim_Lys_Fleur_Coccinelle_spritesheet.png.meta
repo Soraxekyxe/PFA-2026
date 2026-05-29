@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 3852193cb45ae57429d133f1707fe22e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6684405127185743448
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_0
+  - first:
+      213: -207418208325344332
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_1
+  - first:
+      213: -7042146315165030255
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_2
+  - first:
+      213: -5971198052127171648
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_3
+  - first:
+      213: -7762563346760413572
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_4
+  - first:
+      213: -4205507294091026098
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_5
+  - first:
+      213: -2632496120942172173
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_6
+  - first:
+      213: -6993312409421801104
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_7
+  - first:
+      213: -3371870128738326120
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_8
+  - first:
+      213: 7334097524629328654
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_9
+  - first:
+      213: 2829985635703166289
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_10
+  - first:
+      213: -5334825020746812679
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_11
+  - first:
+      213: 3218638752020899860
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_12
+  - first:
+      213: -5631811896431753802
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_13
+  - first:
+      213: -2905648196461090291
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_14
+  - first:
+      213: 3053496815605018387
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_15
+  - first:
+      213: 4891593300037191781
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_16
+  - first:
+      213: -3740259800706428690
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_17
+  - first:
+      213: -2480271535008318258
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_18
+  - first:
+      213: -5198133214485130000
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_19
+  - first:
+      213: -4638220978609100112
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_20
+  - first:
+      213: 6015011244823018714
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_21
+  - first:
+      213: -5199999934407438884
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_22
+  - first:
+      213: 3909292137054004112
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_23
+  - first:
+      213: -3006820498275760846
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_24
+  - first:
+      213: -1497881191693100640
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_25
+  - first:
+      213: -5444474267528978585
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_26
+  - first:
+      213: 3028749904358068426
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_27
+  - first:
+      213: -1476754042544759672
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_28
+  - first:
+      213: 1771293671360970218
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_29
+  - first:
+      213: -1079358560136535089
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_30
+  - first:
+      213: 5422584165464905720
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_31
+  - first:
+      213: -1836700095820222070
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_32
+  - first:
+      213: -324247449543249750
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_33
+  - first:
+      213: 3947939245595986805
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_34
+  - first:
+      213: 1047887345314557542
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_35
+  - first:
+      213: -1317414093323386340
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_36
+  - first:
+      213: 2975027437736724668
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_37
+  - first:
+      213: -2568607154895378383
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_38
+  - first:
+      213: -806012107962762423
+    second: Anim_Lys_Fleur_Coccinelle_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eb4b43c07c3cc50800000000000000
+      internalID: 6684405127185743448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e1dc0d3a1f1df0800000000000000
+      internalID: -207418208325344332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198234cbc35454e90800000000000000
+      internalID: -7042146315165030255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9473220b022da0800000000000000
+      internalID: -5971198052127171648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ec0e193c5d54490800000000000000
+      internalID: -7762563346760413572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e363d56903a5c0800000000000000
+      internalID: -4205507294091026098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e5aeb9be777bd0800000000000000
+      internalID: -2632496120942172173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07915117a63c2fe90800000000000000
+      internalID: -6993312409421801104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992dcb9bf5b431d0800000000000000
+      internalID: -3371870128738326120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e035a9747d2f7c560800000000000000
+      internalID: 7334097524629328654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1559b8711f0264720800000000000000
+      internalID: 2829985635703166289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23583a8e4e6f5b0800000000000000
+      internalID: -5334825020746812679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418238254e6eaac20800000000000000
+      internalID: 3218638752020899860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5cd573be8c7d1b0800000000000000
+      internalID: -5631811896431753802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aaeaf2c501da7d0800000000000000
+      internalID: -2905648196461090291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f6ce8fc23306a20800000000000000
+      internalID: 3053496815605018387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c56a803e62e340800000000000000
+      internalID: 4891593300037191781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0583b278de71cc0800000000000000
+      internalID: -3740259800706428690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccf0511e2e449dd0800000000000000
+      internalID: -2480271535008318258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4547fd1658cd7b0800000000000000
+      internalID: -5198133214485130000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6d34289ab1afb0800000000000000
+      internalID: -4638220978609100112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcf7a7bbdc997350800000000000000
+      internalID: 6015011244823018714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd07954c93e5d7b0800000000000000
+      internalID: -5199999934407438884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093e4508c78904630800000000000000
+      internalID: 3909292137054004112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23509e800b0a546d0800000000000000
+      internalID: -3006820498275760846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9d4650ef4763be0800000000000000
+      internalID: -1497881191693100640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f1e2fef775174b0800000000000000
+      internalID: -5444474267528978585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0d2c2bdf7480a20800000000000000
+      internalID: 3028749904358068426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c5f71c504818be0800000000000000
+      internalID: -1476754042544759672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed3e5a9536e49810800000000000000
+      internalID: 1771293671360970218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3e8c5bb195501f0800000000000000
+      internalID: -1079358560136535089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f791338193e04b40800000000000000
+      internalID: 5422584165464905720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81b5bd7efab286e0800000000000000
+      internalID: -1836700095820222070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0f5ae99aa008bf0800000000000000
+      internalID: -324247449543249750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b8298a3d5e9c630800000000000000
+      internalID: 3947939245595986805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee9161df7da8e00800000000000000
+      internalID: 1047887345314557542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12cd51bcda97bde0800000000000000
+      internalID: -1317414093323386340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8865731bb694920800000000000000
+      internalID: 2975027437736724668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382fe4d6697a5cd0800000000000000
+      internalID: -2568607154895378383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Fleur_Coccinelle_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b373c124870d4f0800000000000000
+      internalID: -806012107962762423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c6cce2864abcf1444be01aee6e9dcf15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Lys_Fleur_Coccinelle_spritesheet_0: 6684405127185743448
+      Anim_Lys_Fleur_Coccinelle_spritesheet_1: -207418208325344332
+      Anim_Lys_Fleur_Coccinelle_spritesheet_10: 2829985635703166289
+      Anim_Lys_Fleur_Coccinelle_spritesheet_11: -5334825020746812679
+      Anim_Lys_Fleur_Coccinelle_spritesheet_12: 3218638752020899860
+      Anim_Lys_Fleur_Coccinelle_spritesheet_13: -5631811896431753802
+      Anim_Lys_Fleur_Coccinelle_spritesheet_14: -2905648196461090291
+      Anim_Lys_Fleur_Coccinelle_spritesheet_15: 3053496815605018387
+      Anim_Lys_Fleur_Coccinelle_spritesheet_16: 4891593300037191781
+      Anim_Lys_Fleur_Coccinelle_spritesheet_17: -3740259800706428690
+      Anim_Lys_Fleur_Coccinelle_spritesheet_18: -2480271535008318258
+      Anim_Lys_Fleur_Coccinelle_spritesheet_19: -5198133214485130000
+      Anim_Lys_Fleur_Coccinelle_spritesheet_2: -7042146315165030255
+      Anim_Lys_Fleur_Coccinelle_spritesheet_20: -4638220978609100112
+      Anim_Lys_Fleur_Coccinelle_spritesheet_21: 6015011244823018714
+      Anim_Lys_Fleur_Coccinelle_spritesheet_22: -5199999934407438884
+      Anim_Lys_Fleur_Coccinelle_spritesheet_23: 3909292137054004112
+      Anim_Lys_Fleur_Coccinelle_spritesheet_24: -3006820498275760846
+      Anim_Lys_Fleur_Coccinelle_spritesheet_25: -1497881191693100640
+      Anim_Lys_Fleur_Coccinelle_spritesheet_26: -5444474267528978585
+      Anim_Lys_Fleur_Coccinelle_spritesheet_27: 3028749904358068426
+      Anim_Lys_Fleur_Coccinelle_spritesheet_28: -1476754042544759672
+      Anim_Lys_Fleur_Coccinelle_spritesheet_29: 1771293671360970218
+      Anim_Lys_Fleur_Coccinelle_spritesheet_3: -5971198052127171648
+      Anim_Lys_Fleur_Coccinelle_spritesheet_30: -1079358560136535089
+      Anim_Lys_Fleur_Coccinelle_spritesheet_31: 5422584165464905720
+      Anim_Lys_Fleur_Coccinelle_spritesheet_32: -1836700095820222070
+      Anim_Lys_Fleur_Coccinelle_spritesheet_33: -324247449543249750
+      Anim_Lys_Fleur_Coccinelle_spritesheet_34: 3947939245595986805
+      Anim_Lys_Fleur_Coccinelle_spritesheet_35: 1047887345314557542
+      Anim_Lys_Fleur_Coccinelle_spritesheet_36: -1317414093323386340
+      Anim_Lys_Fleur_Coccinelle_spritesheet_37: 2975027437736724668
+      Anim_Lys_Fleur_Coccinelle_spritesheet_38: -2568607154895378383
+      Anim_Lys_Fleur_Coccinelle_spritesheet_39: -806012107962762423
+      Anim_Lys_Fleur_Coccinelle_spritesheet_4: -7762563346760413572
+      Anim_Lys_Fleur_Coccinelle_spritesheet_5: -4205507294091026098
+      Anim_Lys_Fleur_Coccinelle_spritesheet_6: -2632496120942172173
+      Anim_Lys_Fleur_Coccinelle_spritesheet_7: -6993312409421801104
+      Anim_Lys_Fleur_Coccinelle_spritesheet_8: -3371870128738326120
+      Anim_Lys_Fleur_Coccinelle_spritesheet_9: 7334097524629328654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

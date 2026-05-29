@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 974e29b27b2982f44861dba23cb58f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5358406996828262407
+    second: Anim_Dahlia_Bourgeon_spritesheet_0
+  - first:
+      213: -1229264612019709767
+    second: Anim_Dahlia_Bourgeon_spritesheet_1
+  - first:
+      213: 3709346889205822300
+    second: Anim_Dahlia_Bourgeon_spritesheet_2
+  - first:
+      213: -2145741513273727291
+    second: Anim_Dahlia_Bourgeon_spritesheet_3
+  - first:
+      213: 8601469388141352417
+    second: Anim_Dahlia_Bourgeon_spritesheet_4
+  - first:
+      213: -4988818288339905795
+    second: Anim_Dahlia_Bourgeon_spritesheet_5
+  - first:
+      213: 8215228226402198445
+    second: Anim_Dahlia_Bourgeon_spritesheet_6
+  - first:
+      213: -3885890635925408223
+    second: Anim_Dahlia_Bourgeon_spritesheet_7
+  - first:
+      213: -8608507972534084591
+    second: Anim_Dahlia_Bourgeon_spritesheet_8
+  - first:
+      213: -3083188276249517295
+    second: Anim_Dahlia_Bourgeon_spritesheet_9
+  - first:
+      213: -3406014146841664225
+    second: Anim_Dahlia_Bourgeon_spritesheet_10
+  - first:
+      213: -5521649725086704296
+    second: Anim_Dahlia_Bourgeon_spritesheet_11
+  - first:
+      213: -4529653460922812711
+    second: Anim_Dahlia_Bourgeon_spritesheet_12
+  - first:
+      213: 1030198059313435431
+    second: Anim_Dahlia_Bourgeon_spritesheet_13
+  - first:
+      213: -7859493762013499362
+    second: Anim_Dahlia_Bourgeon_spritesheet_14
+  - first:
+      213: -4386087916122060819
+    second: Anim_Dahlia_Bourgeon_spritesheet_15
+  - first:
+      213: -6216294065032179709
+    second: Anim_Dahlia_Bourgeon_spritesheet_16
+  - first:
+      213: -4597783177819378289
+    second: Anim_Dahlia_Bourgeon_spritesheet_17
+  - first:
+      213: -4253542970479329777
+    second: Anim_Dahlia_Bourgeon_spritesheet_18
+  - first:
+      213: 4305978722644631012
+    second: Anim_Dahlia_Bourgeon_spritesheet_19
+  - first:
+      213: 869516366232317188
+    second: Anim_Dahlia_Bourgeon_spritesheet_20
+  - first:
+      213: -8373580608951198074
+    second: Anim_Dahlia_Bourgeon_spritesheet_21
+  - first:
+      213: -3267953605390584288
+    second: Anim_Dahlia_Bourgeon_spritesheet_22
+  - first:
+      213: 6661139098592804596
+    second: Anim_Dahlia_Bourgeon_spritesheet_23
+  - first:
+      213: -207130621243589425
+    second: Anim_Dahlia_Bourgeon_spritesheet_24
+  - first:
+      213: -1737157727229980888
+    second: Anim_Dahlia_Bourgeon_spritesheet_25
+  - first:
+      213: 121947487920092804
+    second: Anim_Dahlia_Bourgeon_spritesheet_26
+  - first:
+      213: 1000909693258362556
+    second: Anim_Dahlia_Bourgeon_spritesheet_27
+  - first:
+      213: -6457901590327125858
+    second: Anim_Dahlia_Bourgeon_spritesheet_28
+  - first:
+      213: 6574974132777436295
+    second: Anim_Dahlia_Bourgeon_spritesheet_29
+  - first:
+      213: 2570656568358367307
+    second: Anim_Dahlia_Bourgeon_spritesheet_30
+  - first:
+      213: 1795845108371090065
+    second: Anim_Dahlia_Bourgeon_spritesheet_31
+  - first:
+      213: 1057187995912126183
+    second: Anim_Dahlia_Bourgeon_spritesheet_32
+  - first:
+      213: -3818245311895388243
+    second: Anim_Dahlia_Bourgeon_spritesheet_33
+  - first:
+      213: 5055337090558496599
+    second: Anim_Dahlia_Bourgeon_spritesheet_34
+  - first:
+      213: -8919529952811297653
+    second: Anim_Dahlia_Bourgeon_spritesheet_35
+  - first:
+      213: 8494492225821550786
+    second: Anim_Dahlia_Bourgeon_spritesheet_36
+  - first:
+      213: -8393726334337565184
+    second: Anim_Dahlia_Bourgeon_spritesheet_37
+  - first:
+      213: -3929107254215733751
+    second: Anim_Dahlia_Bourgeon_spritesheet_38
+  - first:
+      213: 4098257478363277595
+    second: Anim_Dahlia_Bourgeon_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009ae706c2ec5a40800000000000000
+      internalID: 5358406996828262407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85b992956c0fee0800000000000000
+      internalID: -1229264612019709767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5330dfb75f3a7330800000000000000
+      internalID: 3709346889205822300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a289567bc832e0800000000000000
+      internalID: -2145741513273727291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5df8206de8e5770800000000000000
+      internalID: 8601469388141352417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2178ad23824cab0800000000000000
+      internalID: -4988818288339905795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da32777bb8a520270800000000000000
+      internalID: 8215228226402198445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12636a11e0b821ac0800000000000000
+      internalID: -3885890635925408223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cdcfadb9f688880800000000000000
+      internalID: -8608507972534084591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113af7229905635d0800000000000000
+      internalID: -3083188276249517295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f152c85ed286bb0d0800000000000000
+      internalID: -3406014146841664225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd21a74d82f53b0800000000000000
+      internalID: -5521649725086704296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b31a2d207321c0800000000000000
+      internalID: -4529653460922812711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7239cad3daffb4e00800000000000000
+      internalID: 1030198059313435431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1079c890187de290800000000000000
+      internalID: -7859493762013499362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de749ed574c7123c0800000000000000
+      internalID: -4386087916122060819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3005362bb794bb9a0800000000000000
+      internalID: -6216294065032179709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d2fc35f846130c0800000000000000
+      internalID: -4597783177819378289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e38bf543168f4c0800000000000000
+      internalID: -4253542970479329777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed9f9d85d8e1cb30800000000000000
+      internalID: 4305978722644631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d6aa73784211c00800000000000000
+      internalID: 869516366232317188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5d512dc01bcb80800000000000000
+      internalID: -8373580608951198074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bc30a285e5a2d0800000000000000
+      internalID: -3267953605390584288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef61bc7be117c50800000000000000
+      internalID: 6661139098592804596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc7ba22ccf102df0800000000000000
+      internalID: -207130621243589425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc1ad304064e7e0800000000000000
+      internalID: -1737157727229980888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867aba189e31b100800000000000000
+      internalID: 121947487920092804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee8ee1012f3ed00800000000000000
+      internalID: 1000909693258362556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e981f1218bce066a0800000000000000
+      internalID: -6457901590327125858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784c49753200f3b50800000000000000
+      internalID: 6574974132777436295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40768c678ecca320800000000000000
+      internalID: 2570656568358367307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ae41c7c9f1ce810800000000000000
+      internalID: 1795845108371090065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee362d81e2ebae00800000000000000
+      internalID: 1057187995912126183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafbc276e1ed20bc0800000000000000
+      internalID: -3818245311895388243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f889eac4a282640800000000000000
+      internalID: 5055337090558496599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84d93ff3c6773480800000000000000
+      internalID: -8919529952811297653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c829637caf72e570800000000000000
+      internalID: 8494492225821550786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb7fbee5e738b80800000000000000
+      internalID: -8393726334337565184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e8f0405c10979c0800000000000000
+      internalID: -3929107254215733751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Bourgeon_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b196eeb867fefd830800000000000000
+      internalID: 4098257478363277595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8db07a7e37e79548b297fb7347d72d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Dahlia_Bourgeon_spritesheet_0: 5358406996828262407
+      Anim_Dahlia_Bourgeon_spritesheet_1: -1229264612019709767
+      Anim_Dahlia_Bourgeon_spritesheet_10: -3406014146841664225
+      Anim_Dahlia_Bourgeon_spritesheet_11: -5521649725086704296
+      Anim_Dahlia_Bourgeon_spritesheet_12: -4529653460922812711
+      Anim_Dahlia_Bourgeon_spritesheet_13: 1030198059313435431
+      Anim_Dahlia_Bourgeon_spritesheet_14: -7859493762013499362
+      Anim_Dahlia_Bourgeon_spritesheet_15: -4386087916122060819
+      Anim_Dahlia_Bourgeon_spritesheet_16: -6216294065032179709
+      Anim_Dahlia_Bourgeon_spritesheet_17: -4597783177819378289
+      Anim_Dahlia_Bourgeon_spritesheet_18: -4253542970479329777
+      Anim_Dahlia_Bourgeon_spritesheet_19: 4305978722644631012
+      Anim_Dahlia_Bourgeon_spritesheet_2: 3709346889205822300
+      Anim_Dahlia_Bourgeon_spritesheet_20: 869516366232317188
+      Anim_Dahlia_Bourgeon_spritesheet_21: -8373580608951198074
+      Anim_Dahlia_Bourgeon_spritesheet_22: -3267953605390584288
+      Anim_Dahlia_Bourgeon_spritesheet_23: 6661139098592804596
+      Anim_Dahlia_Bourgeon_spritesheet_24: -207130621243589425
+      Anim_Dahlia_Bourgeon_spritesheet_25: -1737157727229980888
+      Anim_Dahlia_Bourgeon_spritesheet_26: 121947487920092804
+      Anim_Dahlia_Bourgeon_spritesheet_27: 1000909693258362556
+      Anim_Dahlia_Bourgeon_spritesheet_28: -6457901590327125858
+      Anim_Dahlia_Bourgeon_spritesheet_29: 6574974132777436295
+      Anim_Dahlia_Bourgeon_spritesheet_3: -2145741513273727291
+      Anim_Dahlia_Bourgeon_spritesheet_30: 2570656568358367307
+      Anim_Dahlia_Bourgeon_spritesheet_31: 1795845108371090065
+      Anim_Dahlia_Bourgeon_spritesheet_32: 1057187995912126183
+      Anim_Dahlia_Bourgeon_spritesheet_33: -3818245311895388243
+      Anim_Dahlia_Bourgeon_spritesheet_34: 5055337090558496599
+      Anim_Dahlia_Bourgeon_spritesheet_35: -8919529952811297653
+      Anim_Dahlia_Bourgeon_spritesheet_36: 8494492225821550786
+      Anim_Dahlia_Bourgeon_spritesheet_37: -8393726334337565184
+      Anim_Dahlia_Bourgeon_spritesheet_38: -3929107254215733751
+      Anim_Dahlia_Bourgeon_spritesheet_39: 4098257478363277595
+      Anim_Dahlia_Bourgeon_spritesheet_4: 8601469388141352417
+      Anim_Dahlia_Bourgeon_spritesheet_5: -4988818288339905795
+      Anim_Dahlia_Bourgeon_spritesheet_6: 8215228226402198445
+      Anim_Dahlia_Bourgeon_spritesheet_7: -3885890635925408223
+      Anim_Dahlia_Bourgeon_spritesheet_8: -8608507972534084591
+      Anim_Dahlia_Bourgeon_spritesheet_9: -3083188276249517295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

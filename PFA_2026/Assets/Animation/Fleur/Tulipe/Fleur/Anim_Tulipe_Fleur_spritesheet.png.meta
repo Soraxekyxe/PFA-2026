@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: d0191f5bdb6a1a341a8698a9de34c918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9132944790220141385
+    second: Anim_Tulipe_Fleur_spritesheet_0
+  - first:
+      213: 6140516045310812695
+    second: Anim_Tulipe_Fleur_spritesheet_1
+  - first:
+      213: 810815137498168536
+    second: Anim_Tulipe_Fleur_spritesheet_2
+  - first:
+      213: -2845765218618191893
+    second: Anim_Tulipe_Fleur_spritesheet_3
+  - first:
+      213: -5402232435438497259
+    second: Anim_Tulipe_Fleur_spritesheet_4
+  - first:
+      213: -7048644837284267976
+    second: Anim_Tulipe_Fleur_spritesheet_5
+  - first:
+      213: -6695460510974821876
+    second: Anim_Tulipe_Fleur_spritesheet_6
+  - first:
+      213: -9148663081827245613
+    second: Anim_Tulipe_Fleur_spritesheet_7
+  - first:
+      213: -8994052006044504115
+    second: Anim_Tulipe_Fleur_spritesheet_8
+  - first:
+      213: 5408137583633128142
+    second: Anim_Tulipe_Fleur_spritesheet_9
+  - first:
+      213: 6141889217518135956
+    second: Anim_Tulipe_Fleur_spritesheet_10
+  - first:
+      213: -6856632358003964313
+    second: Anim_Tulipe_Fleur_spritesheet_11
+  - first:
+      213: 9111989840120781531
+    second: Anim_Tulipe_Fleur_spritesheet_12
+  - first:
+      213: -3924399800451200622
+    second: Anim_Tulipe_Fleur_spritesheet_13
+  - first:
+      213: -6096463126327998135
+    second: Anim_Tulipe_Fleur_spritesheet_14
+  - first:
+      213: 308855300346771044
+    second: Anim_Tulipe_Fleur_spritesheet_15
+  - first:
+      213: -6305410151469195198
+    second: Anim_Tulipe_Fleur_spritesheet_16
+  - first:
+      213: -1818773513950355070
+    second: Anim_Tulipe_Fleur_spritesheet_17
+  - first:
+      213: -6742253638819358289
+    second: Anim_Tulipe_Fleur_spritesheet_18
+  - first:
+      213: -6338321411967575848
+    second: Anim_Tulipe_Fleur_spritesheet_19
+  - first:
+      213: 8537058490856725790
+    second: Anim_Tulipe_Fleur_spritesheet_20
+  - first:
+      213: 7189431576356344308
+    second: Anim_Tulipe_Fleur_spritesheet_21
+  - first:
+      213: 2461289833960664168
+    second: Anim_Tulipe_Fleur_spritesheet_22
+  - first:
+      213: -1787539078387782079
+    second: Anim_Tulipe_Fleur_spritesheet_23
+  - first:
+      213: -3041620995443789455
+    second: Anim_Tulipe_Fleur_spritesheet_24
+  - first:
+      213: -3065694056263928568
+    second: Anim_Tulipe_Fleur_spritesheet_25
+  - first:
+      213: 1954249755140417212
+    second: Anim_Tulipe_Fleur_spritesheet_26
+  - first:
+      213: 7399047836082526086
+    second: Anim_Tulipe_Fleur_spritesheet_27
+  - first:
+      213: -2392341009018856776
+    second: Anim_Tulipe_Fleur_spritesheet_28
+  - first:
+      213: 3437584385773797071
+    second: Anim_Tulipe_Fleur_spritesheet_29
+  - first:
+      213: 5752561280008323400
+    second: Anim_Tulipe_Fleur_spritesheet_30
+  - first:
+      213: 7839853507781398285
+    second: Anim_Tulipe_Fleur_spritesheet_31
+  - first:
+      213: 1284680307382063035
+    second: Anim_Tulipe_Fleur_spritesheet_32
+  - first:
+      213: -1830705249591362669
+    second: Anim_Tulipe_Fleur_spritesheet_33
+  - first:
+      213: -3457909528291556699
+    second: Anim_Tulipe_Fleur_spritesheet_34
+  - first:
+      213: 7698366723890994625
+    second: Anim_Tulipe_Fleur_spritesheet_35
+  - first:
+      213: -4142421402613133871
+    second: Anim_Tulipe_Fleur_spritesheet_36
+  - first:
+      213: 5507617719501286724
+    second: Anim_Tulipe_Fleur_spritesheet_37
+  - first:
+      213: -615680160536059996
+    second: Anim_Tulipe_Fleur_spritesheet_38
+  - first:
+      213: -45345781261311273
+    second: Anim_Tulipe_Fleur_spritesheet_39
+  - first:
+      213: -3977115812161619227
+    second: Anim_Tulipe_Fleur_spritesheet_40
+  - first:
+      213: 1501229664993969173
+    second: Anim_Tulipe_Fleur_spritesheet_41
+  - first:
+      213: 4138096626720494929
+    second: Anim_Tulipe_Fleur_spritesheet_42
+  - first:
+      213: 700730345809597322
+    second: Anim_Tulipe_Fleur_spritesheet_43
+  - first:
+      213: -5041991985567862339
+    second: Anim_Tulipe_Fleur_spritesheet_44
+  - first:
+      213: 5678436167816412993
+    second: Anim_Tulipe_Fleur_spritesheet_45
+  - first:
+      213: -3868903894330118364
+    second: Anim_Tulipe_Fleur_spritesheet_46
+  - first:
+      213: 4266233600735056161
+    second: Anim_Tulipe_Fleur_spritesheet_47
+  - first:
+      213: -5782419935247470247
+    second: Anim_Tulipe_Fleur_spritesheet_48
+  - first:
+      213: -1393581966648636342
+    second: Anim_Tulipe_Fleur_spritesheet_49
+  - first:
+      213: -5096655452487503971
+    second: Anim_Tulipe_Fleur_spritesheet_50
+  - first:
+      213: 4964847791437145755
+    second: Anim_Tulipe_Fleur_spritesheet_51
+  - first:
+      213: -7792474774905069193
+    second: Anim_Tulipe_Fleur_spritesheet_52
+  - first:
+      213: -938111836804806369
+    second: Anim_Tulipe_Fleur_spritesheet_53
+  - first:
+      213: -4204083648871174637
+    second: Anim_Tulipe_Fleur_spritesheet_54
+  - first:
+      213: -1741849966841526805
+    second: Anim_Tulipe_Fleur_spritesheet_55
+  - first:
+      213: -2389822534669952152
+    second: Anim_Tulipe_Fleur_spritesheet_56
+  - first:
+      213: 2592367215018309689
+    second: Anim_Tulipe_Fleur_spritesheet_57
+  - first:
+      213: -3592360531557921062
+    second: Anim_Tulipe_Fleur_spritesheet_58
+  - first:
+      213: -683924851391888716
+    second: Anim_Tulipe_Fleur_spritesheet_59
+  - first:
+      213: 1041144256656691114
+    second: Anim_Tulipe_Fleur_spritesheet_60
+  - first:
+      213: -2332304017249566910
+    second: Anim_Tulipe_Fleur_spritesheet_61
+  - first:
+      213: -2527743166384629363
+    second: Anim_Tulipe_Fleur_spritesheet_62
+  - first:
+      213: -4987465904689635504
+    second: Anim_Tulipe_Fleur_spritesheet_63
+  - first:
+      213: -8767613079467289097
+    second: Anim_Tulipe_Fleur_spritesheet_64
+  - first:
+      213: -2529191883219082484
+    second: Anim_Tulipe_Fleur_spritesheet_65
+  - first:
+      213: 5579173297914795974
+    second: Anim_Tulipe_Fleur_spritesheet_66
+  - first:
+      213: 640037473948907079
+    second: Anim_Tulipe_Fleur_spritesheet_67
+  - first:
+      213: -3982919004460083417
+    second: Anim_Tulipe_Fleur_spritesheet_68
+  - first:
+      213: -7166014724928218722
+    second: Anim_Tulipe_Fleur_spritesheet_69
+  - first:
+      213: -4983261357689463370
+    second: Anim_Tulipe_Fleur_spritesheet_70
+  - first:
+      213: 7465854027127085897
+    second: Anim_Tulipe_Fleur_spritesheet_71
+  - first:
+      213: 8052902531406384803
+    second: Anim_Tulipe_Fleur_spritesheet_72
+  - first:
+      213: -4077190099758638052
+    second: Anim_Tulipe_Fleur_spritesheet_73
+  - first:
+      213: 7468285933849004656
+    second: Anim_Tulipe_Fleur_spritesheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc8ca90a13414180800000000000000
+      internalID: -9132944790220141385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71266523fce773550800000000000000
+      internalID: 6140516045310812695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc76195218904b00800000000000000
+      internalID: 810815137498168536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc9167c9fc188d0800000000000000
+      internalID: -2845765218618191893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125893e83a6705b0800000000000000
+      internalID: -5402232435438497259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838b7c5adde2e2e90800000000000000
+      internalID: -7048644837284267976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab0bba322f413a0800000000000000
+      internalID: -6695460510974821876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e4f5166b690180800000000000000
+      internalID: -9148663081827245613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe3506a55be2380800000000000000
+      internalID: -8994052006044504115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca54e09a709d0b40800000000000000
+      internalID: 5408137583633128142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a68f3c3bf5c3550800000000000000
+      internalID: 6141889217518135956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76689b9c23958d0a0800000000000000
+      internalID: -6856632358003964313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda1e517b7a447e70800000000000000
+      internalID: 9111989840120781531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2990e718c2bb989c0800000000000000
+      internalID: -3924399800451200622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949c3f84613056ba0800000000000000
+      internalID: -6096463126327998135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667a206246494400800000000000000
+      internalID: 308855300346771044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240698eefdeae78a0800000000000000
+      internalID: -6305410151469195198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281a916102b62c6e0800000000000000
+      internalID: -1818773513950355070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa956989904be62a0800000000000000
+      internalID: -6742253638819358289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d89b67f142c908a0800000000000000
+      internalID: -6338321411967575848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d5f365779b97670800000000000000
+      internalID: 8537058490856725790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f152bd6dedf5c360800000000000000
+      internalID: 7189431576356344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c61824012482220800000000000000
+      internalID: 2461289833960664168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e2192dda26137e0800000000000000
+      internalID: -1787539078387782079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171f331e1ddf9c5d0800000000000000
+      internalID: -3041620995443789455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805bc52af777475d0800000000000000
+      internalID: -3065694056263928568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e9895cc3ee1b10800000000000000
+      internalID: 1954249755140417212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68752d91ec2bea660800000000000000
+      internalID: 7399047836082526086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bad4d70782bcced0800000000000000
+      internalID: -2392341009018856776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef97729c0c4bf20800000000000000
+      internalID: 3437584385773797071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841009b710435df40800000000000000
+      internalID: 5752561280008323400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f096e5a31cccc60800000000000000
+      internalID: 7839853507781398285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf827bdee914d110800000000000000
+      internalID: 1284680307382063035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf9a566470896e0800000000000000
+      internalID: -1830705249591362669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a24eb4da990300d0800000000000000
+      internalID: -3457909528291556699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd5386fb716da60800000000000000
+      internalID: 7698366723890994625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc44b8ea92386c0800000000000000
+      internalID: -4142421402613133871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d6581a22dfe6c40800000000000000
+      internalID: 5507617719501286724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af1effe72aa477f0800000000000000
+      internalID: -615680160536059996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_Fleur_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26bdf8046ee5ff0800000000000000
+      internalID: -45345781261311273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 888314b1126ca824887c35a2b4b2bcbd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Tulipe_Fleur_spritesheet_0: -9132944790220141385
+      Anim_Tulipe_Fleur_spritesheet_1: 6140516045310812695
+      Anim_Tulipe_Fleur_spritesheet_10: 6141889217518135956
+      Anim_Tulipe_Fleur_spritesheet_11: -6856632358003964313
+      Anim_Tulipe_Fleur_spritesheet_12: 9111989840120781531
+      Anim_Tulipe_Fleur_spritesheet_13: -3924399800451200622
+      Anim_Tulipe_Fleur_spritesheet_14: -6096463126327998135
+      Anim_Tulipe_Fleur_spritesheet_15: 308855300346771044
+      Anim_Tulipe_Fleur_spritesheet_16: -6305410151469195198
+      Anim_Tulipe_Fleur_spritesheet_17: -1818773513950355070
+      Anim_Tulipe_Fleur_spritesheet_18: -6742253638819358289
+      Anim_Tulipe_Fleur_spritesheet_19: -6338321411967575848
+      Anim_Tulipe_Fleur_spritesheet_2: 810815137498168536
+      Anim_Tulipe_Fleur_spritesheet_20: 8537058490856725790
+      Anim_Tulipe_Fleur_spritesheet_21: 7189431576356344308
+      Anim_Tulipe_Fleur_spritesheet_22: 2461289833960664168
+      Anim_Tulipe_Fleur_spritesheet_23: -1787539078387782079
+      Anim_Tulipe_Fleur_spritesheet_24: -3041620995443789455
+      Anim_Tulipe_Fleur_spritesheet_25: -3065694056263928568
+      Anim_Tulipe_Fleur_spritesheet_26: 1954249755140417212
+      Anim_Tulipe_Fleur_spritesheet_27: 7399047836082526086
+      Anim_Tulipe_Fleur_spritesheet_28: -2392341009018856776
+      Anim_Tulipe_Fleur_spritesheet_29: 3437584385773797071
+      Anim_Tulipe_Fleur_spritesheet_3: -2845765218618191893
+      Anim_Tulipe_Fleur_spritesheet_30: 5752561280008323400
+      Anim_Tulipe_Fleur_spritesheet_31: 7839853507781398285
+      Anim_Tulipe_Fleur_spritesheet_32: 1284680307382063035
+      Anim_Tulipe_Fleur_spritesheet_33: -1830705249591362669
+      Anim_Tulipe_Fleur_spritesheet_34: -3457909528291556699
+      Anim_Tulipe_Fleur_spritesheet_35: 7698366723890994625
+      Anim_Tulipe_Fleur_spritesheet_36: -4142421402613133871
+      Anim_Tulipe_Fleur_spritesheet_37: 5507617719501286724
+      Anim_Tulipe_Fleur_spritesheet_38: -615680160536059996
+      Anim_Tulipe_Fleur_spritesheet_39: -45345781261311273
+      Anim_Tulipe_Fleur_spritesheet_4: -5402232435438497259
+      Anim_Tulipe_Fleur_spritesheet_5: -7048644837284267976
+      Anim_Tulipe_Fleur_spritesheet_6: -6695460510974821876
+      Anim_Tulipe_Fleur_spritesheet_7: -9148663081827245613
+      Anim_Tulipe_Fleur_spritesheet_8: -8994052006044504115
+      Anim_Tulipe_Fleur_spritesheet_9: 5408137583633128142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 5ef4d013755e2a24cb2fa894bd2c9e92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6699352335196855694
+    second: Anim_Jonq_Pousse_spritesheet_0
+  - first:
+      213: 6321309882166323119
+    second: Anim_Jonq_Pousse_spritesheet_1
+  - first:
+      213: -3836657481342862963
+    second: Anim_Jonq_Pousse_spritesheet_2
+  - first:
+      213: 8975019738662160048
+    second: Anim_Jonq_Pousse_spritesheet_3
+  - first:
+      213: -6902387602388894381
+    second: Anim_Jonq_Pousse_spritesheet_4
+  - first:
+      213: 7684788343778707991
+    second: Anim_Jonq_Pousse_spritesheet_5
+  - first:
+      213: -5725347362941679261
+    second: Anim_Jonq_Pousse_spritesheet_6
+  - first:
+      213: -3580986582856687559
+    second: Anim_Jonq_Pousse_spritesheet_7
+  - first:
+      213: -955738375543361474
+    second: Anim_Jonq_Pousse_spritesheet_8
+  - first:
+      213: -2636402384991063318
+    second: Anim_Jonq_Pousse_spritesheet_9
+  - first:
+      213: -7156765898884856371
+    second: Anim_Jonq_Pousse_spritesheet_10
+  - first:
+      213: -8927037722744576656
+    second: Anim_Jonq_Pousse_spritesheet_11
+  - first:
+      213: -3210204443211962294
+    second: Anim_Jonq_Pousse_spritesheet_12
+  - first:
+      213: -58254163908704358
+    second: Anim_Jonq_Pousse_spritesheet_13
+  - first:
+      213: 1513180682821004854
+    second: Anim_Jonq_Pousse_spritesheet_14
+  - first:
+      213: 9055499859095328353
+    second: Anim_Jonq_Pousse_spritesheet_15
+  - first:
+      213: -7215617030470417064
+    second: Anim_Jonq_Pousse_spritesheet_16
+  - first:
+      213: -3570180711030487030
+    second: Anim_Jonq_Pousse_spritesheet_17
+  - first:
+      213: -4004638299852142413
+    second: Anim_Jonq_Pousse_spritesheet_18
+  - first:
+      213: 3859531121311746717
+    second: Anim_Jonq_Pousse_spritesheet_19
+  - first:
+      213: 8340313510044444061
+    second: Anim_Jonq_Pousse_spritesheet_20
+  - first:
+      213: 8140583112700118481
+    second: Anim_Jonq_Pousse_spritesheet_21
+  - first:
+      213: 7327771773316122113
+    second: Anim_Jonq_Pousse_spritesheet_22
+  - first:
+      213: 4511445536487160197
+    second: Anim_Jonq_Pousse_spritesheet_23
+  - first:
+      213: 1306303090497162456
+    second: Anim_Jonq_Pousse_spritesheet_24
+  - first:
+      213: 9022462727084166541
+    second: Anim_Jonq_Pousse_spritesheet_25
+  - first:
+      213: 8411723897500886015
+    second: Anim_Jonq_Pousse_spritesheet_26
+  - first:
+      213: 3459421308672668544
+    second: Anim_Jonq_Pousse_spritesheet_27
+  - first:
+      213: -1582753962511895035
+    second: Anim_Jonq_Pousse_spritesheet_28
+  - first:
+      213: 6536365921829331735
+    second: Anim_Jonq_Pousse_spritesheet_29
+  - first:
+      213: 2058576953558691348
+    second: Anim_Jonq_Pousse_spritesheet_30
+  - first:
+      213: 8768446139180022321
+    second: Anim_Jonq_Pousse_spritesheet_31
+  - first:
+      213: -8131421490109595808
+    second: Anim_Jonq_Pousse_spritesheet_32
+  - first:
+      213: 3227221852236520026
+    second: Anim_Jonq_Pousse_spritesheet_33
+  - first:
+      213: -9132213700964164018
+    second: Anim_Jonq_Pousse_spritesheet_34
+  - first:
+      213: -7809084569966128298
+    second: Anim_Jonq_Pousse_spritesheet_35
+  - first:
+      213: 7236105764799541129
+    second: Anim_Jonq_Pousse_spritesheet_36
+  - first:
+      213: 5195921695667272530
+    second: Anim_Jonq_Pousse_spritesheet_37
+  - first:
+      213: -2600892616536183603
+    second: Anim_Jonq_Pousse_spritesheet_38
+  - first:
+      213: -1903900869494180055
+    second: Anim_Jonq_Pousse_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d97944471e8fc50800000000000000
+      internalID: 6699352335196855694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a0b998ddc9b750800000000000000
+      internalID: 6321309882166323119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89b6b3295471cac0800000000000000
+      internalID: -3836657481342862963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c31f86ecad8c70800000000000000
+      internalID: 8975019738662160048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dbc89cb0bc530a0800000000000000
+      internalID: -6902387602388894381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a0efc684ad5aa60800000000000000
+      internalID: 7684788343778707991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369442858ea7b80b0800000000000000
+      internalID: -5725347362941679261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930236ffca7cd4ec0800000000000000
+      internalID: -3580986582856687559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30778bd2098cb2f0800000000000000
+      internalID: -955738375543361474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27d95cffd996bd0800000000000000
+      internalID: -2636402384991063318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c658455f0eac90800000000000000
+      internalID: -7156765898884856371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0752c471d7acc1480800000000000000
+      internalID: -8927037722744576656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4868f931101373d0800000000000000
+      internalID: -3210204443211962294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c885852a013ff0800000000000000
+      internalID: -58254163908704358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e678850d5eff410800000000000000
+      internalID: 1513180682821004854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1661afcc4299bad70800000000000000
+      internalID: 9055499859095328353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8554d8f6a8afcdb90800000000000000
+      internalID: -7215617030470417064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0883171f8b247ec0800000000000000
+      internalID: -3570180711030487030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8836b0faaac68c0800000000000000
+      internalID: -4004638299852142413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0a5d2b1fcf8530800000000000000
+      internalID: 3859531121311746717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d952791d2febeb370800000000000000
+      internalID: 8340313510044444061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5c809d53929f070800000000000000
+      internalID: 8140583112700118481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10644a78a9971b560800000000000000
+      internalID: 7327771773316122113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589b6d110dfdb9e30800000000000000
+      internalID: 4511445536487160197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc041e5dbbe02210800000000000000
+      internalID: 1306303090497162456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcd071c0a363d70800000000000000
+      internalID: 9022462727084166541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3643b41527cb470800000000000000
+      internalID: 8411723897500886015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083f9d7f955520030800000000000000
+      internalID: 3459421308672668544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f2a928ade80ae0800000000000000
+      internalID: -1582753962511895035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7132b9cbc26d5ba50800000000000000
+      internalID: 6536365921829331735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eebab15d8819c10800000000000000
+      internalID: 2058576953558691348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a78fd6e47cfa970800000000000000
+      internalID: 8768446139180022321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f3a03ac33672f80800000000000000
+      internalID: -8131421490109595808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a9fe11d2569cc20800000000000000
+      internalID: 3227221852236520026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5315060cd34180800000000000000
+      internalID: -9132213700964164018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6535f2a35fe80a390800000000000000
+      internalID: -7809084569966128298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6804cadfcb6460800000000000000
+      internalID: 7236105764799541129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3ef6c04f9b1840800000000000000
+      internalID: 5195921695667272530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccac6402f5c7ebd0800000000000000
+      internalID: -2600892616536183603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Pousse_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927fd3a1f3cf395e0800000000000000
+      internalID: -1903900869494180055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b71a77c4217d4c45b3184473aa59dd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Jonq_Pousse_spritesheet_0: 6699352335196855694
+      Anim_Jonq_Pousse_spritesheet_1: 6321309882166323119
+      Anim_Jonq_Pousse_spritesheet_10: -7156765898884856371
+      Anim_Jonq_Pousse_spritesheet_11: -8927037722744576656
+      Anim_Jonq_Pousse_spritesheet_12: -3210204443211962294
+      Anim_Jonq_Pousse_spritesheet_13: -58254163908704358
+      Anim_Jonq_Pousse_spritesheet_14: 1513180682821004854
+      Anim_Jonq_Pousse_spritesheet_15: 9055499859095328353
+      Anim_Jonq_Pousse_spritesheet_16: -7215617030470417064
+      Anim_Jonq_Pousse_spritesheet_17: -3570180711030487030
+      Anim_Jonq_Pousse_spritesheet_18: -4004638299852142413
+      Anim_Jonq_Pousse_spritesheet_19: 3859531121311746717
+      Anim_Jonq_Pousse_spritesheet_2: -3836657481342862963
+      Anim_Jonq_Pousse_spritesheet_20: 8340313510044444061
+      Anim_Jonq_Pousse_spritesheet_21: 8140583112700118481
+      Anim_Jonq_Pousse_spritesheet_22: 7327771773316122113
+      Anim_Jonq_Pousse_spritesheet_23: 4511445536487160197
+      Anim_Jonq_Pousse_spritesheet_24: 1306303090497162456
+      Anim_Jonq_Pousse_spritesheet_25: 9022462727084166541
+      Anim_Jonq_Pousse_spritesheet_26: 8411723897500886015
+      Anim_Jonq_Pousse_spritesheet_27: 3459421308672668544
+      Anim_Jonq_Pousse_spritesheet_28: -1582753962511895035
+      Anim_Jonq_Pousse_spritesheet_29: 6536365921829331735
+      Anim_Jonq_Pousse_spritesheet_3: 8975019738662160048
+      Anim_Jonq_Pousse_spritesheet_30: 2058576953558691348
+      Anim_Jonq_Pousse_spritesheet_31: 8768446139180022321
+      Anim_Jonq_Pousse_spritesheet_32: -8131421490109595808
+      Anim_Jonq_Pousse_spritesheet_33: 3227221852236520026
+      Anim_Jonq_Pousse_spritesheet_34: -9132213700964164018
+      Anim_Jonq_Pousse_spritesheet_35: -7809084569966128298
+      Anim_Jonq_Pousse_spritesheet_36: 7236105764799541129
+      Anim_Jonq_Pousse_spritesheet_37: 5195921695667272530
+      Anim_Jonq_Pousse_spritesheet_38: -2600892616536183603
+      Anim_Jonq_Pousse_spritesheet_39: -1903900869494180055
+      Anim_Jonq_Pousse_spritesheet_4: -6902387602388894381
+      Anim_Jonq_Pousse_spritesheet_5: 7684788343778707991
+      Anim_Jonq_Pousse_spritesheet_6: -5725347362941679261
+      Anim_Jonq_Pousse_spritesheet_7: -3580986582856687559
+      Anim_Jonq_Pousse_spritesheet_8: -955738375543361474
+      Anim_Jonq_Pousse_spritesheet_9: -2636402384991063318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

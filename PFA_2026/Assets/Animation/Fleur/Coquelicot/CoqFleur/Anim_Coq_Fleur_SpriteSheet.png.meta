@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 257dfd37c6bfc0e4881cb68f84a4bd12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4108365869157440356
+    second: Anim_Coq_Fleur_SpriteSheet_0
+  - first:
+      213: 3854869158794145575
+    second: Anim_Coq_Fleur_SpriteSheet_1
+  - first:
+      213: -7887543701059656057
+    second: Anim_Coq_Fleur_SpriteSheet_2
+  - first:
+      213: 5825465434291639208
+    second: Anim_Coq_Fleur_SpriteSheet_3
+  - first:
+      213: -5950456848605747156
+    second: Anim_Coq_Fleur_SpriteSheet_4
+  - first:
+      213: 8331233445323846590
+    second: Anim_Coq_Fleur_SpriteSheet_5
+  - first:
+      213: -4699494605838143303
+    second: Anim_Coq_Fleur_SpriteSheet_6
+  - first:
+      213: 2942538268505060161
+    second: Anim_Coq_Fleur_SpriteSheet_7
+  - first:
+      213: -8559450106647719355
+    second: Anim_Coq_Fleur_SpriteSheet_8
+  - first:
+      213: -1266294228717430264
+    second: Anim_Coq_Fleur_SpriteSheet_9
+  - first:
+      213: -7510372469963682550
+    second: Anim_Coq_Fleur_SpriteSheet_10
+  - first:
+      213: 102552675166173156
+    second: Anim_Coq_Fleur_SpriteSheet_11
+  - first:
+      213: -4927730419207103906
+    second: Anim_Coq_Fleur_SpriteSheet_12
+  - first:
+      213: -7084633112874196930
+    second: Anim_Coq_Fleur_SpriteSheet_13
+  - first:
+      213: -6773573653195921850
+    second: Anim_Coq_Fleur_SpriteSheet_14
+  - first:
+      213: -4797689820511734920
+    second: Anim_Coq_Fleur_SpriteSheet_15
+  - first:
+      213: 6239021876098767252
+    second: Anim_Coq_Fleur_SpriteSheet_16
+  - first:
+      213: 6745602242087044213
+    second: Anim_Coq_Fleur_SpriteSheet_17
+  - first:
+      213: -2540884125203040480
+    second: Anim_Coq_Fleur_SpriteSheet_18
+  - first:
+      213: 8782261128683883839
+    second: Anim_Coq_Fleur_SpriteSheet_19
+  - first:
+      213: -6292304174079325888
+    second: Anim_Coq_Fleur_SpriteSheet_20
+  - first:
+      213: -4267964337397718351
+    second: Anim_Coq_Fleur_SpriteSheet_21
+  - first:
+      213: 1844712417513174817
+    second: Anim_Coq_Fleur_SpriteSheet_22
+  - first:
+      213: -2158809631210620167
+    second: Anim_Coq_Fleur_SpriteSheet_23
+  - first:
+      213: 8634356882255784813
+    second: Anim_Coq_Fleur_SpriteSheet_24
+  - first:
+      213: 7019007955275779197
+    second: Anim_Coq_Fleur_SpriteSheet_25
+  - first:
+      213: 8354378642179308347
+    second: Anim_Coq_Fleur_SpriteSheet_26
+  - first:
+      213: 52913839042135282
+    second: Anim_Coq_Fleur_SpriteSheet_27
+  - first:
+      213: -8539523105655757604
+    second: Anim_Coq_Fleur_SpriteSheet_28
+  - first:
+      213: -1633209566385182011
+    second: Anim_Coq_Fleur_SpriteSheet_29
+  - first:
+      213: -4244828774255731091
+    second: Anim_Coq_Fleur_SpriteSheet_30
+  - first:
+      213: -4481684619863249787
+    second: Anim_Coq_Fleur_SpriteSheet_31
+  - first:
+      213: -3750341192856342507
+    second: Anim_Coq_Fleur_SpriteSheet_32
+  - first:
+      213: 8409631422787685382
+    second: Anim_Coq_Fleur_SpriteSheet_33
+  - first:
+      213: -1714507439462995785
+    second: Anim_Coq_Fleur_SpriteSheet_34
+  - first:
+      213: -7176821908541293023
+    second: Anim_Coq_Fleur_SpriteSheet_35
+  - first:
+      213: -8674944867914805921
+    second: Anim_Coq_Fleur_SpriteSheet_36
+  - first:
+      213: 4565537366803135494
+    second: Anim_Coq_Fleur_SpriteSheet_37
+  - first:
+      213: 3629198336920296878
+    second: Anim_Coq_Fleur_SpriteSheet_38
+  - first:
+      213: 7302877614592002346
+    second: Anim_Coq_Fleur_SpriteSheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94288152072cf6c0800000000000000
+      internalID: -4108365869157440356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fa881731f3f7530800000000000000
+      internalID: 3854869158794145575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78628fb3bc0d98290800000000000000
+      internalID: -7887543701059656057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31546a2f538d050800000000000000
+      internalID: 5825465434291639208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c286097e50bbb6da0800000000000000
+      internalID: -5950456848605747156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b1618dac7e9370800000000000000
+      internalID: 8331233445323846590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b037231e8a08ceb0800000000000000
+      internalID: -4699494605838143303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143bc3807fef5d820800000000000000
+      internalID: 2942538268505060161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54255985a79b63980800000000000000
+      internalID: -8559450106647719355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9b2cab183d6ee0800000000000000
+      internalID: -1266294228717430264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d01fcb70cc5c790800000000000000
+      internalID: -7510372469963682550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7bb0e5d175c6100800000000000000
+      internalID: 102552675166173156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a164eba4f2d9bb0800000000000000
+      internalID: -4927730419207103906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e92748b35ead90800000000000000
+      internalID: -7084633112874196930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ef4d76ae6ff1a0800000000000000
+      internalID: -6773573653195921850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873f3e9078e2b6db0800000000000000
+      internalID: -4797689820511734920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49912ce2755759650800000000000000
+      internalID: 6239021876098767252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744dabdf713d9d50800000000000000
+      internalID: 6745602242087044213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f7dda957fcbcd0800000000000000
+      internalID: -2540884125203040480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8ce357fbd0e970800000000000000
+      internalID: 8782261128683883839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494b4511be3da8a0800000000000000
+      internalID: -6292304174079325888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2af5b3c0525c4c0800000000000000
+      internalID: -4267964337397718351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ff968b2cb99910800000000000000
+      internalID: 1844712417513174817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fabff9041e5a02e0800000000000000
+      internalID: -2158809631210620167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2ece66d563d770800000000000000
+      internalID: 8634356882255784813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c8ad90c86886160800000000000000
+      internalID: 7019007955275779197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b35369c17b0f370800000000000000
+      internalID: 8354378642179308347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f40fc33bdcfbb000800000000000000
+      internalID: 52913839042135282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4e520daf48d7980800000000000000
+      internalID: -8539523105655757604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca67df6d8ca559e0800000000000000
+      internalID: -1633209566385182011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e512a48b65715c0800000000000000
+      internalID: -4244828774255731091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c28bd459bddc1c0800000000000000
+      internalID: -4481684619863249787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51078452e8c14fbc0800000000000000
+      internalID: -3750341192856342507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c093f093305b470800000000000000
+      internalID: 8409631422787685382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b82b025198d438e0800000000000000
+      internalID: -1714507439462995785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eb725af7ec66c90800000000000000
+      internalID: -7176821908541293023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d07ddba976c9780800000000000000
+      internalID: -8674944867914805921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cb21dbb0c0c5f30800000000000000
+      internalID: 4565537366803135494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead929bb8a08d5230800000000000000
+      internalID: 3629198336920296878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_Fleur_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2988e78f78095560800000000000000
+      internalID: 7302877614592002346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d993c95e9a617a643ae6b18d3d4c0298
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Coq_Fleur_SpriteSheet_0: -4108365869157440356
+      Anim_Coq_Fleur_SpriteSheet_1: 3854869158794145575
+      Anim_Coq_Fleur_SpriteSheet_10: -7510372469963682550
+      Anim_Coq_Fleur_SpriteSheet_11: 102552675166173156
+      Anim_Coq_Fleur_SpriteSheet_12: -4927730419207103906
+      Anim_Coq_Fleur_SpriteSheet_13: -7084633112874196930
+      Anim_Coq_Fleur_SpriteSheet_14: -6773573653195921850
+      Anim_Coq_Fleur_SpriteSheet_15: -4797689820511734920
+      Anim_Coq_Fleur_SpriteSheet_16: 6239021876098767252
+      Anim_Coq_Fleur_SpriteSheet_17: 6745602242087044213
+      Anim_Coq_Fleur_SpriteSheet_18: -2540884125203040480
+      Anim_Coq_Fleur_SpriteSheet_19: 8782261128683883839
+      Anim_Coq_Fleur_SpriteSheet_2: -7887543701059656057
+      Anim_Coq_Fleur_SpriteSheet_20: -6292304174079325888
+      Anim_Coq_Fleur_SpriteSheet_21: -4267964337397718351
+      Anim_Coq_Fleur_SpriteSheet_22: 1844712417513174817
+      Anim_Coq_Fleur_SpriteSheet_23: -2158809631210620167
+      Anim_Coq_Fleur_SpriteSheet_24: 8634356882255784813
+      Anim_Coq_Fleur_SpriteSheet_25: 7019007955275779197
+      Anim_Coq_Fleur_SpriteSheet_26: 8354378642179308347
+      Anim_Coq_Fleur_SpriteSheet_27: 52913839042135282
+      Anim_Coq_Fleur_SpriteSheet_28: -8539523105655757604
+      Anim_Coq_Fleur_SpriteSheet_29: -1633209566385182011
+      Anim_Coq_Fleur_SpriteSheet_3: 5825465434291639208
+      Anim_Coq_Fleur_SpriteSheet_30: -4244828774255731091
+      Anim_Coq_Fleur_SpriteSheet_31: -4481684619863249787
+      Anim_Coq_Fleur_SpriteSheet_32: -3750341192856342507
+      Anim_Coq_Fleur_SpriteSheet_33: 8409631422787685382
+      Anim_Coq_Fleur_SpriteSheet_34: -1714507439462995785
+      Anim_Coq_Fleur_SpriteSheet_35: -7176821908541293023
+      Anim_Coq_Fleur_SpriteSheet_36: -8674944867914805921
+      Anim_Coq_Fleur_SpriteSheet_37: 4565537366803135494
+      Anim_Coq_Fleur_SpriteSheet_38: 3629198336920296878
+      Anim_Coq_Fleur_SpriteSheet_39: 7302877614592002346
+      Anim_Coq_Fleur_SpriteSheet_4: -5950456848605747156
+      Anim_Coq_Fleur_SpriteSheet_5: 8331233445323846590
+      Anim_Coq_Fleur_SpriteSheet_6: -4699494605838143303
+      Anim_Coq_Fleur_SpriteSheet_7: 2942538268505060161
+      Anim_Coq_Fleur_SpriteSheet_8: -8559450106647719355
+      Anim_Coq_Fleur_SpriteSheet_9: -1266294228717430264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

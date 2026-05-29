@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 1c5fa303b89f69e4983e6ff7a928f384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5949504109056122733
+    second: Anim_Dahlia_Fleur_FM_spritesheet_0
+  - first:
+      213: -3292199905197234183
+    second: Anim_Dahlia_Fleur_FM_spritesheet_1
+  - first:
+      213: 416463062077826347
+    second: Anim_Dahlia_Fleur_FM_spritesheet_2
+  - first:
+      213: -2320397490371385974
+    second: Anim_Dahlia_Fleur_FM_spritesheet_3
+  - first:
+      213: 5881406482215144819
+    second: Anim_Dahlia_Fleur_FM_spritesheet_4
+  - first:
+      213: -5290468042948708148
+    second: Anim_Dahlia_Fleur_FM_spritesheet_5
+  - first:
+      213: 3192587176383015455
+    second: Anim_Dahlia_Fleur_FM_spritesheet_6
+  - first:
+      213: -8071363304514541747
+    second: Anim_Dahlia_Fleur_FM_spritesheet_7
+  - first:
+      213: -1493561544667566058
+    second: Anim_Dahlia_Fleur_FM_spritesheet_8
+  - first:
+      213: 9039195528834113708
+    second: Anim_Dahlia_Fleur_FM_spritesheet_9
+  - first:
+      213: 3120700995649054844
+    second: Anim_Dahlia_Fleur_FM_spritesheet_10
+  - first:
+      213: -1900022344602727151
+    second: Anim_Dahlia_Fleur_FM_spritesheet_11
+  - first:
+      213: -5542261323192503976
+    second: Anim_Dahlia_Fleur_FM_spritesheet_12
+  - first:
+      213: -6175850688537307929
+    second: Anim_Dahlia_Fleur_FM_spritesheet_13
+  - first:
+      213: -6443240464183309700
+    second: Anim_Dahlia_Fleur_FM_spritesheet_14
+  - first:
+      213: 6811407785062482860
+    second: Anim_Dahlia_Fleur_FM_spritesheet_15
+  - first:
+      213: -135476409583428801
+    second: Anim_Dahlia_Fleur_FM_spritesheet_16
+  - first:
+      213: 6518412066296243420
+    second: Anim_Dahlia_Fleur_FM_spritesheet_17
+  - first:
+      213: -7879896508472929450
+    second: Anim_Dahlia_Fleur_FM_spritesheet_18
+  - first:
+      213: 864420947343218871
+    second: Anim_Dahlia_Fleur_FM_spritesheet_19
+  - first:
+      213: -4572127526747343940
+    second: Anim_Dahlia_Fleur_FM_spritesheet_20
+  - first:
+      213: 497701752730086189
+    second: Anim_Dahlia_Fleur_FM_spritesheet_21
+  - first:
+      213: -5072321606843106814
+    second: Anim_Dahlia_Fleur_FM_spritesheet_22
+  - first:
+      213: 5645918337537725554
+    second: Anim_Dahlia_Fleur_FM_spritesheet_23
+  - first:
+      213: 2841286498490084759
+    second: Anim_Dahlia_Fleur_FM_spritesheet_24
+  - first:
+      213: -3296672952884724829
+    second: Anim_Dahlia_Fleur_FM_spritesheet_25
+  - first:
+      213: -8102777163890645937
+    second: Anim_Dahlia_Fleur_FM_spritesheet_26
+  - first:
+      213: -2018591336309171259
+    second: Anim_Dahlia_Fleur_FM_spritesheet_27
+  - first:
+      213: -2233126534928116840
+    second: Anim_Dahlia_Fleur_FM_spritesheet_28
+  - first:
+      213: 8672590169139167703
+    second: Anim_Dahlia_Fleur_FM_spritesheet_29
+  - first:
+      213: -8168061561421981636
+    second: Anim_Dahlia_Fleur_FM_spritesheet_30
+  - first:
+      213: -8325247004495055053
+    second: Anim_Dahlia_Fleur_FM_spritesheet_31
+  - first:
+      213: 5267018985458205529
+    second: Anim_Dahlia_Fleur_FM_spritesheet_32
+  - first:
+      213: -3157041414583862027
+    second: Anim_Dahlia_Fleur_FM_spritesheet_33
+  - first:
+      213: 515822903364545052
+    second: Anim_Dahlia_Fleur_FM_spritesheet_34
+  - first:
+      213: 4424282253291356622
+    second: Anim_Dahlia_Fleur_FM_spritesheet_35
+  - first:
+      213: 3158783291175713847
+    second: Anim_Dahlia_Fleur_FM_spritesheet_36
+  - first:
+      213: 8787412564221711991
+    second: Anim_Dahlia_Fleur_FM_spritesheet_37
+  - first:
+      213: -944816651501683944
+    second: Anim_Dahlia_Fleur_FM_spritesheet_38
+  - first:
+      213: 1432504067156224445
+    second: Anim_Dahlia_Fleur_FM_spritesheet_39
+  - first:
+      213: 5971824921219415552
+    second: Anim_Dahlia_Fleur_FM_spritesheet_40
+  - first:
+      213: -7982304892163341137
+    second: Anim_Dahlia_Fleur_FM_spritesheet_41
+  - first:
+      213: -3115781909888608781
+    second: Anim_Dahlia_Fleur_FM_spritesheet_42
+  - first:
+      213: 6613178633382919296
+    second: Anim_Dahlia_Fleur_FM_spritesheet_43
+  - first:
+      213: -2284914571023940934
+    second: Anim_Dahlia_Fleur_FM_spritesheet_44
+  - first:
+      213: -1320648531617876532
+    second: Anim_Dahlia_Fleur_FM_spritesheet_45
+  - first:
+      213: 8543732242231925138
+    second: Anim_Dahlia_Fleur_FM_spritesheet_46
+  - first:
+      213: 2049956203902647738
+    second: Anim_Dahlia_Fleur_FM_spritesheet_47
+  - first:
+      213: -5197449436982401929
+    second: Anim_Dahlia_Fleur_FM_spritesheet_48
+  - first:
+      213: -6034922971836200881
+    second: Anim_Dahlia_Fleur_FM_spritesheet_49
+  - first:
+      213: 8118527088647451673
+    second: Anim_Dahlia_Fleur_FM_spritesheet_50
+  - first:
+      213: -6315973334653135571
+    second: Anim_Dahlia_Fleur_FM_spritesheet_51
+  - first:
+      213: 4658421958945930872
+    second: Anim_Dahlia_Fleur_FM_spritesheet_52
+  - first:
+      213: 7969644344432654969
+    second: Anim_Dahlia_Fleur_FM_spritesheet_53
+  - first:
+      213: 2504826833083542953
+    second: Anim_Dahlia_Fleur_FM_spritesheet_54
+  - first:
+      213: -1399324297878539839
+    second: Anim_Dahlia_Fleur_FM_spritesheet_55
+  - first:
+      213: -1798224680927778091
+    second: Anim_Dahlia_Fleur_FM_spritesheet_56
+  - first:
+      213: -8330444329209494256
+    second: Anim_Dahlia_Fleur_FM_spritesheet_57
+  - first:
+      213: 2029850169578029731
+    second: Anim_Dahlia_Fleur_FM_spritesheet_58
+  - first:
+      213: 9142209575972761100
+    second: Anim_Dahlia_Fleur_FM_spritesheet_59
+  - first:
+      213: -5991955684303258329
+    second: Anim_Dahlia_Fleur_FM_spritesheet_60
+  - first:
+      213: -9198375796261751780
+    second: Anim_Dahlia_Fleur_FM_spritesheet_61
+  - first:
+      213: 1794504648415876671
+    second: Anim_Dahlia_Fleur_FM_spritesheet_62
+  - first:
+      213: -1724141703426269429
+    second: Anim_Dahlia_Fleur_FM_spritesheet_63
+  - first:
+      213: 1678193902062547147
+    second: Anim_Dahlia_Fleur_FM_spritesheet_64
+  - first:
+      213: 9041280300531510793
+    second: Anim_Dahlia_Fleur_FM_spritesheet_65
+  - first:
+      213: 4870116565184508426
+    second: Anim_Dahlia_Fleur_FM_spritesheet_66
+  - first:
+      213: 8113523534777479142
+    second: Anim_Dahlia_Fleur_FM_spritesheet_67
+  - first:
+      213: -5203554417090559706
+    second: Anim_Dahlia_Fleur_FM_spritesheet_68
+  - first:
+      213: 1970089101328882067
+    second: Anim_Dahlia_Fleur_FM_spritesheet_69
+  - first:
+      213: -2203096221431959466
+    second: Anim_Dahlia_Fleur_FM_spritesheet_70
+  - first:
+      213: -8530673021860353269
+    second: Anim_Dahlia_Fleur_FM_spritesheet_71
+  - first:
+      213: 7892632678975228217
+    second: Anim_Dahlia_Fleur_FM_spritesheet_72
+  - first:
+      213: 3415492249425395348
+    second: Anim_Dahlia_Fleur_FM_spritesheet_73
+  - first:
+      213: -8981076678437680925
+    second: Anim_Dahlia_Fleur_FM_spritesheet_74
+  - first:
+      213: 5243224590937530730
+    second: Anim_Dahlia_Fleur_FM_spritesheet_75
+  - first:
+      213: -1072227363777315073
+    second: Anim_Dahlia_Fleur_FM_spritesheet_76
+  - first:
+      213: -5636070143812440216
+    second: Anim_Dahlia_Fleur_FM_spritesheet_77
+  - first:
+      213: -5102184038627430974
+    second: Anim_Dahlia_Fleur_FM_spritesheet_78
+  - first:
+      213: -7729976892202273451
+    second: Anim_Dahlia_Fleur_FM_spritesheet_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390abfdd88d1f6da0800000000000000
+      internalID: -5949504109056122733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7e42901a1cf42d0800000000000000
+      internalID: -3292199905197234183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25683dc2f297c500800000000000000
+      internalID: 416463062077826347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85a4b8c6ca4ccfd0800000000000000
+      internalID: -2320397490371385974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d0d18d804fe9150800000000000000
+      internalID: 5881406482215144819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc87c74585b7496b0800000000000000
+      internalID: -5290468042948708148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae6c23f195e4c20800000000000000
+      internalID: 3192587176383015455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a945a6d1ccff80800000000000000
+      internalID: -8071363304514541747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610f7e730bdc54be0800000000000000
+      internalID: -1493561544667566058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e477117ca17d70800000000000000
+      internalID: 9039195528834113708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78aed77505fe4b20800000000000000
+      internalID: 3120700995649054844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d46ac8eb3c1a5e0800000000000000
+      internalID: -1900022344602727151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85179b2d0bee513b0800000000000000
+      internalID: -5542261323192503976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d1e31588fa4aa0800000000000000
+      internalID: -6175850688537307929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4ee18fe20596a0800000000000000
+      internalID: -6443240464183309700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3caf8ca4bf68e50800000000000000
+      internalID: 6811407785062482860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b955b5ce0be1ef0800000000000000
+      internalID: -135476409583428801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4253ffc3d067a50800000000000000
+      internalID: 6518412066296243420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65351a100ebf4a290800000000000000
+      internalID: -7879896508472929450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b89cce854a0ffb00800000000000000
+      internalID: 864420947343218871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb370741d3a8c80c0800000000000000
+      internalID: -4572127526747343940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be09f6b1138e600800000000000000
+      internalID: 497701752730086189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af3957f5e7b99b0800000000000000
+      internalID: -5072321606843106814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274dccb80d45a5e40800000000000000
+      internalID: 5645918337537725554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d6d9f34074e6720800000000000000
+      internalID: 2841286498490084759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abfaa67a6ddf32d0800000000000000
+      internalID: -3296672952884724829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44a62c89172d8f80800000000000000
+      internalID: -8102777163890645937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5c94efd58cf3e0800000000000000
+      internalID: -2018591336309171259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935c138f375201e0800000000000000
+      internalID: -2233126534928116840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1c51a3fca3b5870800000000000000
+      internalID: 8672590169139167703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389bef394735ae80800000000000000
+      internalID: -8168061561421981636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ffad55f7c67c80800000000000000
+      internalID: -8325247004495055053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95389758cd5381940800000000000000
+      internalID: 5267018985458205529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc38866f8fef24d0800000000000000
+      internalID: -3157041414583862027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aed0a9232982700800000000000000
+      internalID: 515822903364545052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec10f7db445366d30800000000000000
+      internalID: 4424282253291356622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb7f8daa046db20800000000000000
+      internalID: 3158783291175713847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7765d316b2923f970800000000000000
+      internalID: 8787412564221711991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b3e55e24653e2f0800000000000000
+      internalID: -944816651501683944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Dahlia_Fleur_FM_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9262efbd641e310800000000000000
+      internalID: 1432504067156224445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 844a86f5957f7104fa83b0a6d80f51bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Dahlia_Fleur_FM_spritesheet_0: -5949504109056122733
+      Anim_Dahlia_Fleur_FM_spritesheet_1: -3292199905197234183
+      Anim_Dahlia_Fleur_FM_spritesheet_10: 3120700995649054844
+      Anim_Dahlia_Fleur_FM_spritesheet_11: -1900022344602727151
+      Anim_Dahlia_Fleur_FM_spritesheet_12: -5542261323192503976
+      Anim_Dahlia_Fleur_FM_spritesheet_13: -6175850688537307929
+      Anim_Dahlia_Fleur_FM_spritesheet_14: -6443240464183309700
+      Anim_Dahlia_Fleur_FM_spritesheet_15: 6811407785062482860
+      Anim_Dahlia_Fleur_FM_spritesheet_16: -135476409583428801
+      Anim_Dahlia_Fleur_FM_spritesheet_17: 6518412066296243420
+      Anim_Dahlia_Fleur_FM_spritesheet_18: -7879896508472929450
+      Anim_Dahlia_Fleur_FM_spritesheet_19: 864420947343218871
+      Anim_Dahlia_Fleur_FM_spritesheet_2: 416463062077826347
+      Anim_Dahlia_Fleur_FM_spritesheet_20: -4572127526747343940
+      Anim_Dahlia_Fleur_FM_spritesheet_21: 497701752730086189
+      Anim_Dahlia_Fleur_FM_spritesheet_22: -5072321606843106814
+      Anim_Dahlia_Fleur_FM_spritesheet_23: 5645918337537725554
+      Anim_Dahlia_Fleur_FM_spritesheet_24: 2841286498490084759
+      Anim_Dahlia_Fleur_FM_spritesheet_25: -3296672952884724829
+      Anim_Dahlia_Fleur_FM_spritesheet_26: -8102777163890645937
+      Anim_Dahlia_Fleur_FM_spritesheet_27: -2018591336309171259
+      Anim_Dahlia_Fleur_FM_spritesheet_28: -2233126534928116840
+      Anim_Dahlia_Fleur_FM_spritesheet_29: 8672590169139167703
+      Anim_Dahlia_Fleur_FM_spritesheet_3: -2320397490371385974
+      Anim_Dahlia_Fleur_FM_spritesheet_30: -8168061561421981636
+      Anim_Dahlia_Fleur_FM_spritesheet_31: -8325247004495055053
+      Anim_Dahlia_Fleur_FM_spritesheet_32: 5267018985458205529
+      Anim_Dahlia_Fleur_FM_spritesheet_33: -3157041414583862027
+      Anim_Dahlia_Fleur_FM_spritesheet_34: 515822903364545052
+      Anim_Dahlia_Fleur_FM_spritesheet_35: 4424282253291356622
+      Anim_Dahlia_Fleur_FM_spritesheet_36: 3158783291175713847
+      Anim_Dahlia_Fleur_FM_spritesheet_37: 8787412564221711991
+      Anim_Dahlia_Fleur_FM_spritesheet_38: -944816651501683944
+      Anim_Dahlia_Fleur_FM_spritesheet_39: 1432504067156224445
+      Anim_Dahlia_Fleur_FM_spritesheet_4: 5881406482215144819
+      Anim_Dahlia_Fleur_FM_spritesheet_5: -5290468042948708148
+      Anim_Dahlia_Fleur_FM_spritesheet_6: 3192587176383015455
+      Anim_Dahlia_Fleur_FM_spritesheet_7: -8071363304514541747
+      Anim_Dahlia_Fleur_FM_spritesheet_8: -1493561544667566058
+      Anim_Dahlia_Fleur_FM_spritesheet_9: 9039195528834113708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

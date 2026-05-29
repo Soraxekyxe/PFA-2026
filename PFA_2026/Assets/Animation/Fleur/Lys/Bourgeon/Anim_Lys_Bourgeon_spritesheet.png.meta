@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 0741920f017bfb942b3438fe5506e4ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7169971642273806289
+    second: Anim_Lys_Bourgeon_spritesheet_0
+  - first:
+      213: 602656942368256212
+    second: Anim_Lys_Bourgeon_spritesheet_1
+  - first:
+      213: 398166852345274084
+    second: Anim_Lys_Bourgeon_spritesheet_2
+  - first:
+      213: -4996510951308997740
+    second: Anim_Lys_Bourgeon_spritesheet_3
+  - first:
+      213: 8689850190599469406
+    second: Anim_Lys_Bourgeon_spritesheet_4
+  - first:
+      213: -3761338996882331429
+    second: Anim_Lys_Bourgeon_spritesheet_5
+  - first:
+      213: -8502654685710477838
+    second: Anim_Lys_Bourgeon_spritesheet_6
+  - first:
+      213: -2390342289795983214
+    second: Anim_Lys_Bourgeon_spritesheet_7
+  - first:
+      213: -1309239648131440556
+    second: Anim_Lys_Bourgeon_spritesheet_8
+  - first:
+      213: 1284945738468402887
+    second: Anim_Lys_Bourgeon_spritesheet_9
+  - first:
+      213: 3029657644759858549
+    second: Anim_Lys_Bourgeon_spritesheet_10
+  - first:
+      213: -2318600802179057961
+    second: Anim_Lys_Bourgeon_spritesheet_11
+  - first:
+      213: -6040882335739144133
+    second: Anim_Lys_Bourgeon_spritesheet_12
+  - first:
+      213: -2090763982099510131
+    second: Anim_Lys_Bourgeon_spritesheet_13
+  - first:
+      213: -8092916800298105112
+    second: Anim_Lys_Bourgeon_spritesheet_14
+  - first:
+      213: 6211036265793711007
+    second: Anim_Lys_Bourgeon_spritesheet_15
+  - first:
+      213: 4322931995332034151
+    second: Anim_Lys_Bourgeon_spritesheet_16
+  - first:
+      213: 3817107159565571995
+    second: Anim_Lys_Bourgeon_spritesheet_17
+  - first:
+      213: 5373276733134917892
+    second: Anim_Lys_Bourgeon_spritesheet_18
+  - first:
+      213: -2684324117014236329
+    second: Anim_Lys_Bourgeon_spritesheet_19
+  - first:
+      213: -1515810341875296696
+    second: Anim_Lys_Bourgeon_spritesheet_20
+  - first:
+      213: 4026516928392186828
+    second: Anim_Lys_Bourgeon_spritesheet_21
+  - first:
+      213: 5179985732823355314
+    second: Anim_Lys_Bourgeon_spritesheet_22
+  - first:
+      213: -432916566693801784
+    second: Anim_Lys_Bourgeon_spritesheet_23
+  - first:
+      213: 6397321892951072318
+    second: Anim_Lys_Bourgeon_spritesheet_24
+  - first:
+      213: 2019451399001090804
+    second: Anim_Lys_Bourgeon_spritesheet_25
+  - first:
+      213: -4498422006107709433
+    second: Anim_Lys_Bourgeon_spritesheet_26
+  - first:
+      213: -8879146671891284552
+    second: Anim_Lys_Bourgeon_spritesheet_27
+  - first:
+      213: -7052257173203192489
+    second: Anim_Lys_Bourgeon_spritesheet_28
+  - first:
+      213: 607825570771794002
+    second: Anim_Lys_Bourgeon_spritesheet_29
+  - first:
+      213: 8226331312199563705
+    second: Anim_Lys_Bourgeon_spritesheet_30
+  - first:
+      213: -7417175354674085274
+    second: Anim_Lys_Bourgeon_spritesheet_31
+  - first:
+      213: 5868638125527885494
+    second: Anim_Lys_Bourgeon_spritesheet_32
+  - first:
+      213: -8826856708930612665
+    second: Anim_Lys_Bourgeon_spritesheet_33
+  - first:
+      213: 4700366905481250189
+    second: Anim_Lys_Bourgeon_spritesheet_34
+  - first:
+      213: -1553644236692068639
+    second: Anim_Lys_Bourgeon_spritesheet_35
+  - first:
+      213: 6882781265383340148
+    second: Anim_Lys_Bourgeon_spritesheet_36
+  - first:
+      213: -439163894426151337
+    second: Anim_Lys_Bourgeon_spritesheet_37
+  - first:
+      213: -7136566779437327156
+    second: Anim_Lys_Bourgeon_spritesheet_38
+  - first:
+      213: 6308670819131512780
+    second: Anim_Lys_Bourgeon_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7ba53783bd08360800000000000000
+      internalID: 7169971642273806289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0784bcb411d5800800000000000000
+      internalID: 602656942368256212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee106384a2968500800000000000000
+      internalID: 398166852345274084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bc0ee23c3d8aab0800000000000000
+      internalID: -4996510951308997740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ba0225bc889870800000000000000
+      internalID: 8689850190599469406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8210b5c1a0dcbc0800000000000000
+      internalID: -3761338996882331429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f59a62cc90800a80800000000000000
+      internalID: -8502654685710477838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298dd1d1a5cc3ded0800000000000000
+      internalID: -2390342289795983214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a4470a75a4dde0800000000000000
+      internalID: -1309239648131440556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6af09575b05d110800000000000000
+      internalID: 1284945738468402887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d35fa73918b0a20800000000000000
+      internalID: 3029657644759858549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67e2adadca2dfd0800000000000000
+      internalID: -2318600802179057961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38165885897a2ca0800000000000000
+      internalID: -6040882335739144133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c07c15c3d1cf2e0800000000000000
+      internalID: -2090763982099510131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c0795c0f20bf80800000000000000
+      internalID: -8092916800298105112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be3b58398023650800000000000000
+      internalID: 6211036265793711007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ebfe1feb32efb30800000000000000
+      internalID: 4322931995332034151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97918bdcb619f430800000000000000
+      internalID: 3817107159565571995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d06e48b6b19a40800000000000000
+      internalID: 5373276733134917892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7533a5f007d5fbad0800000000000000
+      internalID: -2684324117014236329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d8a17682c6fae0800000000000000
+      internalID: -1515810341875296696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc9ee10df01e730800000000000000
+      internalID: 4026516928392186828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf078a449103e740800000000000000
+      internalID: 5179985732823355314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c095d02da8fdf9f0800000000000000
+      internalID: -432916566693801784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e9d2ffd5ad7c850800000000000000
+      internalID: 6397321892951072318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa20ae0958860c10800000000000000
+      internalID: 2019451399001090804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006624e4056291c0800000000000000
+      internalID: -4498422006107709433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf359452fe6c480800000000000000
+      internalID: -8879146671891284552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755f5862779512e90800000000000000
+      internalID: -7052257173203192489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258704fd22e6f6800800000000000000
+      internalID: 607825570771794002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f3545ebcc92270800000000000000
+      internalID: 8226331312199563705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6628ed31056e01990800000000000000
+      internalID: -7417175354674085274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b667632847917150800000000000000
+      internalID: 5868638125527885494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742dae40794b08580800000000000000
+      internalID: -8826856708930612665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8546330cce0b3140800000000000000
+      internalID: 4700366905481250189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e2ac5cc8507ae0800000000000000
+      internalID: -1553644236692068639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47833e5281d848f50800000000000000
+      internalID: 6882781265383340148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7565d8ac3c6c7e9f0800000000000000
+      internalID: -439163894426151337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccd8c34352d5fc90800000000000000
+      internalID: -7136566779437327156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Lys_Bourgeon_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7d43b6fa6ec8750800000000000000
+      internalID: 6308670819131512780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77d40a141ed66394b842632e6641717e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Lys_Bourgeon_spritesheet_0: 7169971642273806289
+      Anim_Lys_Bourgeon_spritesheet_1: 602656942368256212
+      Anim_Lys_Bourgeon_spritesheet_10: 3029657644759858549
+      Anim_Lys_Bourgeon_spritesheet_11: -2318600802179057961
+      Anim_Lys_Bourgeon_spritesheet_12: -6040882335739144133
+      Anim_Lys_Bourgeon_spritesheet_13: -2090763982099510131
+      Anim_Lys_Bourgeon_spritesheet_14: -8092916800298105112
+      Anim_Lys_Bourgeon_spritesheet_15: 6211036265793711007
+      Anim_Lys_Bourgeon_spritesheet_16: 4322931995332034151
+      Anim_Lys_Bourgeon_spritesheet_17: 3817107159565571995
+      Anim_Lys_Bourgeon_spritesheet_18: 5373276733134917892
+      Anim_Lys_Bourgeon_spritesheet_19: -2684324117014236329
+      Anim_Lys_Bourgeon_spritesheet_2: 398166852345274084
+      Anim_Lys_Bourgeon_spritesheet_20: -1515810341875296696
+      Anim_Lys_Bourgeon_spritesheet_21: 4026516928392186828
+      Anim_Lys_Bourgeon_spritesheet_22: 5179985732823355314
+      Anim_Lys_Bourgeon_spritesheet_23: -432916566693801784
+      Anim_Lys_Bourgeon_spritesheet_24: 6397321892951072318
+      Anim_Lys_Bourgeon_spritesheet_25: 2019451399001090804
+      Anim_Lys_Bourgeon_spritesheet_26: -4498422006107709433
+      Anim_Lys_Bourgeon_spritesheet_27: -8879146671891284552
+      Anim_Lys_Bourgeon_spritesheet_28: -7052257173203192489
+      Anim_Lys_Bourgeon_spritesheet_29: 607825570771794002
+      Anim_Lys_Bourgeon_spritesheet_3: -4996510951308997740
+      Anim_Lys_Bourgeon_spritesheet_30: 8226331312199563705
+      Anim_Lys_Bourgeon_spritesheet_31: -7417175354674085274
+      Anim_Lys_Bourgeon_spritesheet_32: 5868638125527885494
+      Anim_Lys_Bourgeon_spritesheet_33: -8826856708930612665
+      Anim_Lys_Bourgeon_spritesheet_34: 4700366905481250189
+      Anim_Lys_Bourgeon_spritesheet_35: -1553644236692068639
+      Anim_Lys_Bourgeon_spritesheet_36: 6882781265383340148
+      Anim_Lys_Bourgeon_spritesheet_37: -439163894426151337
+      Anim_Lys_Bourgeon_spritesheet_38: -7136566779437327156
+      Anim_Lys_Bourgeon_spritesheet_39: 6308670819131512780
+      Anim_Lys_Bourgeon_spritesheet_4: 8689850190599469406
+      Anim_Lys_Bourgeon_spritesheet_5: -3761338996882331429
+      Anim_Lys_Bourgeon_spritesheet_6: -8502654685710477838
+      Anim_Lys_Bourgeon_spritesheet_7: -2390342289795983214
+      Anim_Lys_Bourgeon_spritesheet_8: -1309239648131440556
+      Anim_Lys_Bourgeon_spritesheet_9: 1284945738468402887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

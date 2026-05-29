@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: aba051b8bdb636f40a43904582068480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4288059490051351603
+    second: Anim_Hort__Fleur_Panneau_spritesheet_0
+  - first:
+      213: -6476678748969389436
+    second: Anim_Hort__Fleur_Panneau_spritesheet_1
+  - first:
+      213: -6915137092414097007
+    second: Anim_Hort__Fleur_Panneau_spritesheet_2
+  - first:
+      213: 7804293235095089841
+    second: Anim_Hort__Fleur_Panneau_spritesheet_3
+  - first:
+      213: 4647077822887932997
+    second: Anim_Hort__Fleur_Panneau_spritesheet_4
+  - first:
+      213: 1835064596129464499
+    second: Anim_Hort__Fleur_Panneau_spritesheet_5
+  - first:
+      213: -3986540944094655201
+    second: Anim_Hort__Fleur_Panneau_spritesheet_6
+  - first:
+      213: -530890727819495878
+    second: Anim_Hort__Fleur_Panneau_spritesheet_7
+  - first:
+      213: -1301027941674675807
+    second: Anim_Hort__Fleur_Panneau_spritesheet_8
+  - first:
+      213: 3155762618719506473
+    second: Anim_Hort__Fleur_Panneau_spritesheet_9
+  - first:
+      213: 107943102716855488
+    second: Anim_Hort__Fleur_Panneau_spritesheet_10
+  - first:
+      213: 2447677275063731068
+    second: Anim_Hort__Fleur_Panneau_spritesheet_11
+  - first:
+      213: 4860152350729798198
+    second: Anim_Hort__Fleur_Panneau_spritesheet_12
+  - first:
+      213: 6269625725408470923
+    second: Anim_Hort__Fleur_Panneau_spritesheet_13
+  - first:
+      213: -1761281859212955367
+    second: Anim_Hort__Fleur_Panneau_spritesheet_14
+  - first:
+      213: 2448269545898039681
+    second: Anim_Hort__Fleur_Panneau_spritesheet_15
+  - first:
+      213: -5244678676270499969
+    second: Anim_Hort__Fleur_Panneau_spritesheet_16
+  - first:
+      213: 4919996547782807090
+    second: Anim_Hort__Fleur_Panneau_spritesheet_17
+  - first:
+      213: -2732128289397465208
+    second: Anim_Hort__Fleur_Panneau_spritesheet_18
+  - first:
+      213: 4460295393908554456
+    second: Anim_Hort__Fleur_Panneau_spritesheet_19
+  - first:
+      213: 6178757169387128327
+    second: Anim_Hort__Fleur_Panneau_spritesheet_20
+  - first:
+      213: -5797536967408369481
+    second: Anim_Hort__Fleur_Panneau_spritesheet_21
+  - first:
+      213: -7180870903147031205
+    second: Anim_Hort__Fleur_Panneau_spritesheet_22
+  - first:
+      213: -6694240983600220814
+    second: Anim_Hort__Fleur_Panneau_spritesheet_23
+  - first:
+      213: -2906719009824166394
+    second: Anim_Hort__Fleur_Panneau_spritesheet_24
+  - first:
+      213: -631418717725730069
+    second: Anim_Hort__Fleur_Panneau_spritesheet_25
+  - first:
+      213: 6451987958910758108
+    second: Anim_Hort__Fleur_Panneau_spritesheet_26
+  - first:
+      213: -2285197745649824251
+    second: Anim_Hort__Fleur_Panneau_spritesheet_27
+  - first:
+      213: 8409197451674667350
+    second: Anim_Hort__Fleur_Panneau_spritesheet_28
+  - first:
+      213: -6756403092639167245
+    second: Anim_Hort__Fleur_Panneau_spritesheet_29
+  - first:
+      213: 8391398887490932370
+    second: Anim_Hort__Fleur_Panneau_spritesheet_30
+  - first:
+      213: 6548629005000528724
+    second: Anim_Hort__Fleur_Panneau_spritesheet_31
+  - first:
+      213: -5404860522907976463
+    second: Anim_Hort__Fleur_Panneau_spritesheet_32
+  - first:
+      213: 8502065494703103384
+    second: Anim_Hort__Fleur_Panneau_spritesheet_33
+  - first:
+      213: -2334960133524049415
+    second: Anim_Hort__Fleur_Panneau_spritesheet_34
+  - first:
+      213: -767099208174036092
+    second: Anim_Hort__Fleur_Panneau_spritesheet_35
+  - first:
+      213: 3331762897610669424
+    second: Anim_Hort__Fleur_Panneau_spritesheet_36
+  - first:
+      213: -8609455041835067297
+    second: Anim_Hort__Fleur_Panneau_spritesheet_37
+  - first:
+      213: -3526103113641393435
+    second: Anim_Hort__Fleur_Panneau_spritesheet_38
+  - first:
+      213: -5640705050381865896
+    second: Anim_Hort__Fleur_Panneau_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb1fb7ec90cd74c0800000000000000
+      internalID: -4288059490051351603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482bb532ef63e16a0800000000000000
+      internalID: -6476678748969389436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199b781d37f7800a0800000000000000
+      internalID: -6915137092414097007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b3d0395b6e4c60800000000000000
+      internalID: 7804293235095089841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b4dc98acbd7040800000000000000
+      internalID: 4647077822887932997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b041301785777910800000000000000
+      internalID: 1835064596129464499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d00b80226fca8c0800000000000000
+      internalID: -3986540944094655201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3635c122b5e1a8f0800000000000000
+      internalID: -530890727819495878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19f9deaf1d1fde0800000000000000
+      internalID: -1301027941674675807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9209b3cb1658bcb20800000000000000
+      internalID: 3155762618719506473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c444651ead7f7100800000000000000
+      internalID: 107943102716855488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7348f86385e7f120800000000000000
+      internalID: 2447677275063731068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632878310dab27340800000000000000
+      internalID: 4860152350729798198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876f9d116f220750800000000000000
+      internalID: 6269625725408470923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911b5401b7bae87e0800000000000000
+      internalID: -1761281859212955367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d8a53e200af120800000000000000
+      internalID: 2448269545898039681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77b4db08882737b0800000000000000
+      internalID: -5244678676270499969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e0ebefac6574440800000000000000
+      internalID: 4919996547782807090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f1ba5dbc7851ad0800000000000000
+      internalID: -2732128289397465208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafa33770726ed30800000000000000
+      internalID: 4460295393908554456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706c7bab8ea5fb550800000000000000
+      internalID: 6178757169387128327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0cd6548d20b8fa0800000000000000
+      internalID: -5797536967408369481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b559bff95fb685c90800000000000000
+      internalID: -7180870903147031205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b5a30b474913a0800000000000000
+      internalID: -6694240983600220814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2e85067249a7d0800000000000000
+      internalID: -2906719009824166394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beadc698500cc37f0800000000000000
+      internalID: -631418717725730069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc29f15dd01a8950800000000000000
+      internalID: 6451987958910758108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec40102c85940e0800000000000000
+      internalID: -2285197745649824251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594039478873b470800000000000000
+      internalID: 8409197451674667350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc44e72f2f6c32a0800000000000000
+      internalID: -6756403092639167245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e418124dc347470800000000000000
+      internalID: 8391398887490932370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45350e8426761ea50800000000000000
+      internalID: 6548629005000528724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb9879df31ef4b0800000000000000
+      internalID: -5404860522907976463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d52e485876df570800000000000000
+      internalID: 8502065494703103384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b994312e889fd0800000000000000
+      internalID: -2334960133524049415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9d4d9557ba55f0800000000000000
+      internalID: -767099208174036092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df8e3f3bccc3e20800000000000000
+      internalID: 3331762897610669424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5899b91142158880800000000000000
+      internalID: -8609455041835067297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2810676e3c01fc0800000000000000
+      internalID: -3526103113641393435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Hort__Fleur_Panneau_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cac3574a038b1b0800000000000000
+      internalID: -5640705050381865896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 537e5246ea63ca74484ac23c006c0213
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Hort__Fleur_Panneau_spritesheet_0: -4288059490051351603
+      Anim_Hort__Fleur_Panneau_spritesheet_1: -6476678748969389436
+      Anim_Hort__Fleur_Panneau_spritesheet_10: 107943102716855488
+      Anim_Hort__Fleur_Panneau_spritesheet_11: 2447677275063731068
+      Anim_Hort__Fleur_Panneau_spritesheet_12: 4860152350729798198
+      Anim_Hort__Fleur_Panneau_spritesheet_13: 6269625725408470923
+      Anim_Hort__Fleur_Panneau_spritesheet_14: -1761281859212955367
+      Anim_Hort__Fleur_Panneau_spritesheet_15: 2448269545898039681
+      Anim_Hort__Fleur_Panneau_spritesheet_16: -5244678676270499969
+      Anim_Hort__Fleur_Panneau_spritesheet_17: 4919996547782807090
+      Anim_Hort__Fleur_Panneau_spritesheet_18: -2732128289397465208
+      Anim_Hort__Fleur_Panneau_spritesheet_19: 4460295393908554456
+      Anim_Hort__Fleur_Panneau_spritesheet_2: -6915137092414097007
+      Anim_Hort__Fleur_Panneau_spritesheet_20: 6178757169387128327
+      Anim_Hort__Fleur_Panneau_spritesheet_21: -5797536967408369481
+      Anim_Hort__Fleur_Panneau_spritesheet_22: -7180870903147031205
+      Anim_Hort__Fleur_Panneau_spritesheet_23: -6694240983600220814
+      Anim_Hort__Fleur_Panneau_spritesheet_24: -2906719009824166394
+      Anim_Hort__Fleur_Panneau_spritesheet_25: -631418717725730069
+      Anim_Hort__Fleur_Panneau_spritesheet_26: 6451987958910758108
+      Anim_Hort__Fleur_Panneau_spritesheet_27: -2285197745649824251
+      Anim_Hort__Fleur_Panneau_spritesheet_28: 8409197451674667350
+      Anim_Hort__Fleur_Panneau_spritesheet_29: -6756403092639167245
+      Anim_Hort__Fleur_Panneau_spritesheet_3: 7804293235095089841
+      Anim_Hort__Fleur_Panneau_spritesheet_30: 8391398887490932370
+      Anim_Hort__Fleur_Panneau_spritesheet_31: 6548629005000528724
+      Anim_Hort__Fleur_Panneau_spritesheet_32: -5404860522907976463
+      Anim_Hort__Fleur_Panneau_spritesheet_33: 8502065494703103384
+      Anim_Hort__Fleur_Panneau_spritesheet_34: -2334960133524049415
+      Anim_Hort__Fleur_Panneau_spritesheet_35: -767099208174036092
+      Anim_Hort__Fleur_Panneau_spritesheet_36: 3331762897610669424
+      Anim_Hort__Fleur_Panneau_spritesheet_37: -8609455041835067297
+      Anim_Hort__Fleur_Panneau_spritesheet_38: -3526103113641393435
+      Anim_Hort__Fleur_Panneau_spritesheet_39: -5640705050381865896
+      Anim_Hort__Fleur_Panneau_spritesheet_4: 4647077822887932997
+      Anim_Hort__Fleur_Panneau_spritesheet_5: 1835064596129464499
+      Anim_Hort__Fleur_Panneau_spritesheet_6: -3986540944094655201
+      Anim_Hort__Fleur_Panneau_spritesheet_7: -530890727819495878
+      Anim_Hort__Fleur_Panneau_spritesheet_8: -1301027941674675807
+      Anim_Hort__Fleur_Panneau_spritesheet_9: 3155762618719506473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

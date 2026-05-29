@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 15ab3cd225b4b7948aa7776f23e7c510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8707340377381855062
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_0
+  - first:
+      213: -6949011919861888273
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_1
+  - first:
+      213: 9212927868184300361
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_2
+  - first:
+      213: -8671707501357994108
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_3
+  - first:
+      213: -137309643517131992
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_4
+  - first:
+      213: -7591823665720359937
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_5
+  - first:
+      213: 3787192971834139643
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_6
+  - first:
+      213: 1237062854539132730
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_7
+  - first:
+      213: 5931402250577241848
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_8
+  - first:
+      213: 6092003015278249334
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_9
+  - first:
+      213: 4270641651010602272
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_10
+  - first:
+      213: 1366841886104912958
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_11
+  - first:
+      213: 1480142083429187403
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_12
+  - first:
+      213: 3765035305046660645
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_13
+  - first:
+      213: 6983206715235669206
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_14
+  - first:
+      213: -6072852771906462968
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_15
+  - first:
+      213: -8114519496913482855
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_16
+  - first:
+      213: -1667993963268164913
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_17
+  - first:
+      213: -2621914940724187645
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_18
+  - first:
+      213: -1869823967711493294
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_19
+  - first:
+      213: -490306318829157904
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_20
+  - first:
+      213: 2049965770399043456
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_21
+  - first:
+      213: -2704625242256392575
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_22
+  - first:
+      213: 1359150078849079583
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_23
+  - first:
+      213: -1130861098136473392
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_24
+  - first:
+      213: 2051286022526500384
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_25
+  - first:
+      213: -4966793570454562098
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_26
+  - first:
+      213: 5559914279638284377
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_27
+  - first:
+      213: -516104490870931443
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_28
+  - first:
+      213: -8375331018720537924
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_29
+  - first:
+      213: 3541902624478061899
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_30
+  - first:
+      213: -6014637490901359878
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_31
+  - first:
+      213: 1146934310503690139
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_32
+  - first:
+      213: -2169525936722121864
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_33
+  - first:
+      213: 712296432696786686
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_34
+  - first:
+      213: 8933689766511492105
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_35
+  - first:
+      213: -6629111525377588703
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_36
+  - first:
+      213: 1574358734125036853
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_37
+  - first:
+      213: -1943265193906090653
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_38
+  - first:
+      213: 2894757428973016080
+    second: Anim_Jonq_Fleur_Panneau_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa02dbb6f00592780800000000000000
+      internalID: -8707340377381855062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4da0f976209f90800000000000000
+      internalID: -6949011919861888273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b0c6c7515eadf70800000000000000
+      internalID: 9212927868184300361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f6771e8f7e7a780800000000000000
+      internalID: -8671707501357994108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8230de15b9d281ef0800000000000000
+      internalID: -137309643517131992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38557699c64a690800000000000000
+      internalID: -7591823665720359937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3a70641ffce8430800000000000000
+      internalID: 3787192971834139643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb2a9ac1eea2110800000000000000
+      internalID: 1237062854539132730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6eb95cbe2905250800000000000000
+      internalID: 5931402250577241848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c44037742b8450800000000000000
+      internalID: 6092003015278249334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025897b64fd544b30800000000000000
+      internalID: 4270641651010602272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34886d147ff7f210800000000000000
+      internalID: 1366841886104912958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f37ebf1658a8410800000000000000
+      internalID: 1480142083429187403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5265c1479a7104430800000000000000
+      internalID: 3765035305046660645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49eb6428559e060800000000000000
+      internalID: 6983206715235669206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bd44d4494e8bba0800000000000000
+      internalID: -6072852771906462968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b8d77928f636f80800000000000000
+      internalID: -8114519496913482855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2b7ebe3581ad8e0800000000000000
+      internalID: -1667993963268164913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e68deb0461d9bd0800000000000000
+      internalID: -2621914940724187645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538b04120d0d06e0800000000000000
+      internalID: -1869823967711493294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f10f0330051239f0800000000000000
+      internalID: -490306318829157904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f485ac101f27c10800000000000000
+      internalID: 2049965770399043456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb0c00cad377ad0800000000000000
+      internalID: -2704625242256392575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f195e3eabcbacd210800000000000000
+      internalID: 1359150078849079583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d07443a2df5e40f0800000000000000
+      internalID: -1130861098136473392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e7a61f4c1a77c10800000000000000
+      internalID: 2051286022526500384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca9c581097621bb0800000000000000
+      internalID: -4966793570454562098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95836736498c82d40800000000000000
+      internalID: 5559914279638284377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0087a233bd66d8f0800000000000000
+      internalID: -516104490870931443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb21ad810d8d4cb80800000000000000
+      internalID: -8375331018720537924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e901dbad572130800000000000000
+      internalID: 3541902624478061899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e316a117b78ca0800000000000000
+      internalID: -6014637490901359878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fa74ebdaabaef00800000000000000
+      internalID: 1146934310503690139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b6eaab7ab44e1e0800000000000000
+      internalID: -2169525936722121864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7ba5e4d592e900800000000000000
+      internalID: 712296432696786686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb57a8287dafb70800000000000000
+      internalID: 8933689766511492105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122cb61b03aa004a0800000000000000
+      internalID: -6629111525377588703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357e886dee39d510800000000000000
+      internalID: 1574358734125036853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dc8dc1a922805e0800000000000000
+      internalID: -1943265193906090653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Jonq_Fleur_Panneau_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0141cd86b8e3c2820800000000000000
+      internalID: 2894757428973016080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6169153d1b306ab45a9f049bd1862efc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Jonq_Fleur_Panneau_spritesheet_0: -8707340377381855062
+      Anim_Jonq_Fleur_Panneau_spritesheet_1: -6949011919861888273
+      Anim_Jonq_Fleur_Panneau_spritesheet_10: 4270641651010602272
+      Anim_Jonq_Fleur_Panneau_spritesheet_11: 1366841886104912958
+      Anim_Jonq_Fleur_Panneau_spritesheet_12: 1480142083429187403
+      Anim_Jonq_Fleur_Panneau_spritesheet_13: 3765035305046660645
+      Anim_Jonq_Fleur_Panneau_spritesheet_14: 6983206715235669206
+      Anim_Jonq_Fleur_Panneau_spritesheet_15: -6072852771906462968
+      Anim_Jonq_Fleur_Panneau_spritesheet_16: -8114519496913482855
+      Anim_Jonq_Fleur_Panneau_spritesheet_17: -1667993963268164913
+      Anim_Jonq_Fleur_Panneau_spritesheet_18: -2621914940724187645
+      Anim_Jonq_Fleur_Panneau_spritesheet_19: -1869823967711493294
+      Anim_Jonq_Fleur_Panneau_spritesheet_2: 9212927868184300361
+      Anim_Jonq_Fleur_Panneau_spritesheet_20: -490306318829157904
+      Anim_Jonq_Fleur_Panneau_spritesheet_21: 2049965770399043456
+      Anim_Jonq_Fleur_Panneau_spritesheet_22: -2704625242256392575
+      Anim_Jonq_Fleur_Panneau_spritesheet_23: 1359150078849079583
+      Anim_Jonq_Fleur_Panneau_spritesheet_24: -1130861098136473392
+      Anim_Jonq_Fleur_Panneau_spritesheet_25: 2051286022526500384
+      Anim_Jonq_Fleur_Panneau_spritesheet_26: -4966793570454562098
+      Anim_Jonq_Fleur_Panneau_spritesheet_27: 5559914279638284377
+      Anim_Jonq_Fleur_Panneau_spritesheet_28: -516104490870931443
+      Anim_Jonq_Fleur_Panneau_spritesheet_29: -8375331018720537924
+      Anim_Jonq_Fleur_Panneau_spritesheet_3: -8671707501357994108
+      Anim_Jonq_Fleur_Panneau_spritesheet_30: 3541902624478061899
+      Anim_Jonq_Fleur_Panneau_spritesheet_31: -6014637490901359878
+      Anim_Jonq_Fleur_Panneau_spritesheet_32: 1146934310503690139
+      Anim_Jonq_Fleur_Panneau_spritesheet_33: -2169525936722121864
+      Anim_Jonq_Fleur_Panneau_spritesheet_34: 712296432696786686
+      Anim_Jonq_Fleur_Panneau_spritesheet_35: 8933689766511492105
+      Anim_Jonq_Fleur_Panneau_spritesheet_36: -6629111525377588703
+      Anim_Jonq_Fleur_Panneau_spritesheet_37: 1574358734125036853
+      Anim_Jonq_Fleur_Panneau_spritesheet_38: -1943265193906090653
+      Anim_Jonq_Fleur_Panneau_spritesheet_39: 2894757428973016080
+      Anim_Jonq_Fleur_Panneau_spritesheet_4: -137309643517131992
+      Anim_Jonq_Fleur_Panneau_spritesheet_5: -7591823665720359937
+      Anim_Jonq_Fleur_Panneau_spritesheet_6: 3787192971834139643
+      Anim_Jonq_Fleur_Panneau_spritesheet_7: 1237062854539132730
+      Anim_Jonq_Fleur_Panneau_spritesheet_8: 5931402250577241848
+      Anim_Jonq_Fleur_Panneau_spritesheet_9: 6092003015278249334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

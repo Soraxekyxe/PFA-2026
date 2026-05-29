@@ -1,0 +1,1453 @@
+fileFormatVersion: 2
+guid: de006f898f0e43c40bf2e59bf8fd67dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1958072601328699116
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_0
+  - first:
+      213: -6421420631773280624
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_1
+  - first:
+      213: -6596265422065595526
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_2
+  - first:
+      213: -4708041731445010334
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_3
+  - first:
+      213: -6099763797864463666
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_4
+  - first:
+      213: 8855852725836392868
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_5
+  - first:
+      213: 4965786853532362682
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_6
+  - first:
+      213: -4271036226806711383
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_7
+  - first:
+      213: 4094944414365260269
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_8
+  - first:
+      213: 6693045844720641746
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_9
+  - first:
+      213: 4771361337499163786
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_10
+  - first:
+      213: -4408660490740609668
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_11
+  - first:
+      213: -6431405020575382966
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_12
+  - first:
+      213: -4511619852532135482
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_13
+  - first:
+      213: -7115657166853851161
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_14
+  - first:
+      213: -7024722761694337547
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_15
+  - first:
+      213: -2320686793155622356
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_16
+  - first:
+      213: 651895289682950351
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_17
+  - first:
+      213: 3515388061958063266
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_18
+  - first:
+      213: -8959754193843312578
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_19
+  - first:
+      213: 8906053856342198050
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_20
+  - first:
+      213: -4680092941715710762
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_21
+  - first:
+      213: -7213182325602571956
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_22
+  - first:
+      213: -7282673889218391101
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_23
+  - first:
+      213: -1348168329999650836
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_24
+  - first:
+      213: -5692157704873710721
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_25
+  - first:
+      213: 2598794177589595244
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_26
+  - first:
+      213: -8123649484292094964
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_27
+  - first:
+      213: -559764478375786933
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_28
+  - first:
+      213: 3072664466689402680
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_29
+  - first:
+      213: 6520496530030898470
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_30
+  - first:
+      213: 7003375956612813131
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_31
+  - first:
+      213: 5232487155852866711
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_32
+  - first:
+      213: 6530631143311568631
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_33
+  - first:
+      213: 2704932654017639780
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_34
+  - first:
+      213: -8722015938630402069
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_35
+  - first:
+      213: 5657025185413357328
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_36
+  - first:
+      213: -8477593298864981494
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_37
+  - first:
+      213: 3730012135997714139
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_38
+  - first:
+      213: 7353670163638136415
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_39
+  - first:
+      213: -507450888934302588
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_40
+  - first:
+      213: 1931682525402298284
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_41
+  - first:
+      213: -7165575230032351230
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_42
+  - first:
+      213: 2951326323853244382
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_43
+  - first:
+      213: 425866107600450156
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_44
+  - first:
+      213: 6086031286210035458
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_45
+  - first:
+      213: 1000008312552756312
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_46
+  - first:
+      213: -1399390948601662476
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_47
+  - first:
+      213: 2657815543639441216
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_48
+  - first:
+      213: 1406346577862767922
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_49
+  - first:
+      213: 5378181981204289663
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_50
+  - first:
+      213: -1137451556296805967
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_51
+  - first:
+      213: 1929937949773541791
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_52
+  - first:
+      213: 3029035757234658319
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_53
+  - first:
+      213: 2948503260404484033
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_54
+  - first:
+      213: -6458247869121352097
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_55
+  - first:
+      213: -2366290933596439349
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_56
+  - first:
+      213: -4675394150725052856
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_57
+  - first:
+      213: 4051544460155272743
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_58
+  - first:
+      213: -20596995927420034
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_59
+  - first:
+      213: 4772808081365469402
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_60
+  - first:
+      213: -4862561502104136666
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_61
+  - first:
+      213: 3237279378347706579
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_62
+  - first:
+      213: -4318200242290767456
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_63
+  - first:
+      213: -1377771747260527011
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_64
+  - first:
+      213: -4579793867182952806
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_65
+  - first:
+      213: 5268803852758124977
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_66
+  - first:
+      213: 283822008036814948
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_67
+  - first:
+      213: -7980802427353477136
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_68
+  - first:
+      213: -2294497790211350025
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_69
+  - first:
+      213: -1028380439037256900
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_70
+  - first:
+      213: -1646251313730875852
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_71
+  - first:
+      213: -6136772031871808229
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_72
+  - first:
+      213: 160938989237484473
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_73
+  - first:
+      213: -841067979414627667
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_74
+  - first:
+      213: 8502834542184354748
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_75
+  - first:
+      213: 8498925335839748167
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_76
+  - first:
+      213: -921720935287404335
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_77
+  - first:
+      213: -5991972953064556338
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_78
+  - first:
+      213: -2250556935210136494
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_79
+  - first:
+      213: -4579169507126085280
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_80
+  - first:
+      213: 87016216644277955
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_81
+  - first:
+      213: 1569440062108870971
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_82
+  - first:
+      213: -3146787918873125469
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_83
+  - first:
+      213: -658111951151207890
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_84
+  - first:
+      213: -6428755122724747798
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_85
+  - first:
+      213: 880016437337729420
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_86
+  - first:
+      213: 8701790522118931096
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_87
+  - first:
+      213: -8956894922825071543
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_88
+  - first:
+      213: -7551378940196236928
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_89
+  - first:
+      213: 3682036497183267799
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_90
+  - first:
+      213: -344353622920637880
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_91
+  - first:
+      213: 2897298799816899739
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_92
+  - first:
+      213: 5184986766038504719
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_93
+  - first:
+      213: -6239254911779307458
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_94
+  - first:
+      213: 3911635512027261448
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_95
+  - first:
+      213: 409132039868046749
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_96
+  - first:
+      213: 4878300505152243796
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_97
+  - first:
+      213: -7133057944429946224
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_98
+  - first:
+      213: 8630219641187840511
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_99
+  - first:
+      213: 1544777412768445023
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_100
+  - first:
+      213: -9096406809164815419
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_101
+  - first:
+      213: 4495815935753384530
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_102
+  - first:
+      213: 4909744210925771596
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_103
+  - first:
+      213: 6243840527282748731
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_104
+  - first:
+      213: 2523108164762318377
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_105
+  - first:
+      213: 1767342693545395776
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_106
+  - first:
+      213: 5094536957648776413
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_107
+  - first:
+      213: 2996622541728355827
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_108
+  - first:
+      213: -6639641061790943653
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_109
+  - first:
+      213: -5680867661731486739
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_110
+  - first:
+      213: -9148143504462434246
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_111
+  - first:
+      213: -6951574420681423527
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_112
+  - first:
+      213: 8217013041085674763
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_113
+  - first:
+      213: -9158046369596164764
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_114
+  - first:
+      213: -185163459619775877
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_115
+  - first:
+      213: -8996347525666594120
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_116
+  - first:
+      213: 4033736279413630902
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_117
+  - first:
+      213: -12782288196541137
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_118
+  - first:
+      213: -7919303395521499525
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_119
+  - first:
+      213: -1663394709109676263
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_120
+  - first:
+      213: -9125470802072539852
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_121
+  - first:
+      213: 279094858658994291
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_122
+  - first:
+      213: -8086894040292715685
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_123
+  - first:
+      213: -244151340901760141
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_124
+  - first:
+      213: 2489795558971616556
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_125
+  - first:
+      213: 5813370219210148277
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_126
+  - first:
+      213: -5082262180530374225
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_127
+  - first:
+      213: -3146125300538040649
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_128
+  - first:
+      213: -7148966226528182608
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_129
+  - first:
+      213: -5676045671863391508
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_130
+  - first:
+      213: 9200795086234610018
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_131
+  - first:
+      213: 4667751676194720721
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_132
+  - first:
+      213: 6349839086108771728
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_133
+  - first:
+      213: -1712467348732464521
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_134
+  - first:
+      213: 4729783316614467738
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_135
+  - first:
+      213: -1075709363705182306
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_136
+  - first:
+      213: -6933195262983224764
+    second: Anim_Chrys_Pousse_FM_SpriteSheet_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419b069e75783d4e0800000000000000
+      internalID: -1958072601328699116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0960ac125f782e6a0800000000000000
+      internalID: -6421420631773280624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b86911c8b5574a0800000000000000
+      internalID: -6596265422065595526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26051815dfca9aeb0800000000000000
+      internalID: -4708041731445010334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2408ec429495ba0800000000000000
+      internalID: -6099763797864463666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a927a2422f46ea70800000000000000
+      internalID: 8855852725836392868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7e91b55d40ae440800000000000000
+      internalID: 4965786853532362682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab7c5e3e2b3ab4c0800000000000000
+      internalID: -4271036226806711383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91639bf3a24d830800000000000000
+      internalID: 4094944414365260269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66af70cb972ec50800000000000000
+      internalID: 6693045844720641746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9ba05bd7473240800000000000000
+      internalID: 4771361337499163786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4b1a44aa41d2c0800000000000000
+      internalID: -4408660490740609668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42c0f5753f0fb6a0800000000000000
+      internalID: -6431405020575382966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c830d5a18361c0800000000000000
+      internalID: -4511619852532135482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b632d18b104d90800000000000000
+      internalID: -7115657166853851161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5ab97eddb238e90800000000000000
+      internalID: -7024722761694337547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac40b38a34bcfd0800000000000000
+      internalID: -2320686793155622356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc87d44ef4ffb0900800000000000000
+      internalID: 651895289682950351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c8a821da29c030800000000000000
+      internalID: 3515388061958063266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e382721180f88a380800000000000000
+      internalID: -8959754193843312578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22746c9cbc8a89b70800000000000000
+      internalID: 8906053856342198050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd8350448fc0fb0800000000000000
+      internalID: -4680092941715710762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49255654e0a5eb90800000000000000
+      internalID: -7213182325602571956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3102adeaebeea90800000000000000
+      internalID: -7282673889218391101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef60f8fb085a4de0800000000000000
+      internalID: -1348168329999650836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bef7bc9b46101b0800000000000000
+      internalID: -5692157704873710721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc4971985c01420800000000000000
+      internalID: 2598794177589595244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c040cf0c5dff24f80800000000000000
+      internalID: -8123649484292094964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4687843c215b38f0800000000000000
+      internalID: -559764478375786933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837acf28d0c44aa20800000000000000
+      internalID: 3072664466689402680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da8a70c057d7a50800000000000000
+      internalID: 6520496530030898470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b411b6ab35df03160800000000000000
+      internalID: 7003375956612813131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794776868578d9840800000000000000
+      internalID: 5232487155852866711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe60309c6671aa50800000000000000
+      internalID: 6530631143311568631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4657310eae9d98520800000000000000
+      internalID: 2704932654017639780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb3ac07bc25f680800000000000000
+      internalID: -8722015938630402069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f50061f6ac18e40800000000000000
+      internalID: 5657025185413357328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abbe69fc9895a80800000000000000
+      internalID: -8477593298864981494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2a06764aa3c330800000000000000
+      internalID: 3730012135997714139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Chrys_Pousse_FM_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e2a0b6d0c7d0660800000000000000
+      internalID: 7353670163638136415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24614c53bba14f94c9607f4937ff6013
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Chrys_Pousse_FM_SpriteSheet_0: -1958072601328699116
+      Anim_Chrys_Pousse_FM_SpriteSheet_1: -6421420631773280624
+      Anim_Chrys_Pousse_FM_SpriteSheet_10: 4771361337499163786
+      Anim_Chrys_Pousse_FM_SpriteSheet_11: -4408660490740609668
+      Anim_Chrys_Pousse_FM_SpriteSheet_12: -6431405020575382966
+      Anim_Chrys_Pousse_FM_SpriteSheet_13: -4511619852532135482
+      Anim_Chrys_Pousse_FM_SpriteSheet_14: -7115657166853851161
+      Anim_Chrys_Pousse_FM_SpriteSheet_15: -7024722761694337547
+      Anim_Chrys_Pousse_FM_SpriteSheet_16: -2320686793155622356
+      Anim_Chrys_Pousse_FM_SpriteSheet_17: 651895289682950351
+      Anim_Chrys_Pousse_FM_SpriteSheet_18: 3515388061958063266
+      Anim_Chrys_Pousse_FM_SpriteSheet_19: -8959754193843312578
+      Anim_Chrys_Pousse_FM_SpriteSheet_2: -6596265422065595526
+      Anim_Chrys_Pousse_FM_SpriteSheet_20: 8906053856342198050
+      Anim_Chrys_Pousse_FM_SpriteSheet_21: -4680092941715710762
+      Anim_Chrys_Pousse_FM_SpriteSheet_22: -7213182325602571956
+      Anim_Chrys_Pousse_FM_SpriteSheet_23: -7282673889218391101
+      Anim_Chrys_Pousse_FM_SpriteSheet_24: -1348168329999650836
+      Anim_Chrys_Pousse_FM_SpriteSheet_25: -5692157704873710721
+      Anim_Chrys_Pousse_FM_SpriteSheet_26: 2598794177589595244
+      Anim_Chrys_Pousse_FM_SpriteSheet_27: -8123649484292094964
+      Anim_Chrys_Pousse_FM_SpriteSheet_28: -559764478375786933
+      Anim_Chrys_Pousse_FM_SpriteSheet_29: 3072664466689402680
+      Anim_Chrys_Pousse_FM_SpriteSheet_3: -4708041731445010334
+      Anim_Chrys_Pousse_FM_SpriteSheet_30: 6520496530030898470
+      Anim_Chrys_Pousse_FM_SpriteSheet_31: 7003375956612813131
+      Anim_Chrys_Pousse_FM_SpriteSheet_32: 5232487155852866711
+      Anim_Chrys_Pousse_FM_SpriteSheet_33: 6530631143311568631
+      Anim_Chrys_Pousse_FM_SpriteSheet_34: 2704932654017639780
+      Anim_Chrys_Pousse_FM_SpriteSheet_35: -8722015938630402069
+      Anim_Chrys_Pousse_FM_SpriteSheet_36: 5657025185413357328
+      Anim_Chrys_Pousse_FM_SpriteSheet_37: -8477593298864981494
+      Anim_Chrys_Pousse_FM_SpriteSheet_38: 3730012135997714139
+      Anim_Chrys_Pousse_FM_SpriteSheet_39: 7353670163638136415
+      Anim_Chrys_Pousse_FM_SpriteSheet_4: -6099763797864463666
+      Anim_Chrys_Pousse_FM_SpriteSheet_5: 8855852725836392868
+      Anim_Chrys_Pousse_FM_SpriteSheet_6: 4965786853532362682
+      Anim_Chrys_Pousse_FM_SpriteSheet_7: -4271036226806711383
+      Anim_Chrys_Pousse_FM_SpriteSheet_8: 4094944414365260269
+      Anim_Chrys_Pousse_FM_SpriteSheet_9: 6693045844720641746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

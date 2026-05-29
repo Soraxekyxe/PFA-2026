@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 9d380cb799437f14fa120e2672279bc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2208964492504779882
+    second: Anim_Coq_FM_SpriteSheet_0
+  - first:
+      213: -8262428130414438432
+    second: Anim_Coq_FM_SpriteSheet_1
+  - first:
+      213: 7552295981791011241
+    second: Anim_Coq_FM_SpriteSheet_2
+  - first:
+      213: -3193082121068493883
+    second: Anim_Coq_FM_SpriteSheet_3
+  - first:
+      213: 3041273691788687559
+    second: Anim_Coq_FM_SpriteSheet_4
+  - first:
+      213: -5590654828627526446
+    second: Anim_Coq_FM_SpriteSheet_5
+  - first:
+      213: -4612312834010481286
+    second: Anim_Coq_FM_SpriteSheet_6
+  - first:
+      213: 3055226031205482650
+    second: Anim_Coq_FM_SpriteSheet_7
+  - first:
+      213: 5156244702751134480
+    second: Anim_Coq_FM_SpriteSheet_8
+  - first:
+      213: -2080600352117298359
+    second: Anim_Coq_FM_SpriteSheet_9
+  - first:
+      213: -7886214571960024661
+    second: Anim_Coq_FM_SpriteSheet_10
+  - first:
+      213: 8662549321750397271
+    second: Anim_Coq_FM_SpriteSheet_11
+  - first:
+      213: 5908029528970500108
+    second: Anim_Coq_FM_SpriteSheet_12
+  - first:
+      213: 8050201374569005305
+    second: Anim_Coq_FM_SpriteSheet_13
+  - first:
+      213: 1563062840970102724
+    second: Anim_Coq_FM_SpriteSheet_14
+  - first:
+      213: -2283717352742648213
+    second: Anim_Coq_FM_SpriteSheet_15
+  - first:
+      213: 2859199426582137585
+    second: Anim_Coq_FM_SpriteSheet_16
+  - first:
+      213: -2325189308167868593
+    second: Anim_Coq_FM_SpriteSheet_17
+  - first:
+      213: -727443304078857338
+    second: Anim_Coq_FM_SpriteSheet_18
+  - first:
+      213: -5125283947005788567
+    second: Anim_Coq_FM_SpriteSheet_19
+  - first:
+      213: 1828988777854974053
+    second: Anim_Coq_FM_SpriteSheet_20
+  - first:
+      213: -235858896841447148
+    second: Anim_Coq_FM_SpriteSheet_21
+  - first:
+      213: 2302714737822083446
+    second: Anim_Coq_FM_SpriteSheet_22
+  - first:
+      213: -5012935205014291506
+    second: Anim_Coq_FM_SpriteSheet_23
+  - first:
+      213: -1822513081595283938
+    second: Anim_Coq_FM_SpriteSheet_24
+  - first:
+      213: -7304672696864427038
+    second: Anim_Coq_FM_SpriteSheet_25
+  - first:
+      213: 605385283322073368
+    second: Anim_Coq_FM_SpriteSheet_26
+  - first:
+      213: 2801228244177490607
+    second: Anim_Coq_FM_SpriteSheet_27
+  - first:
+      213: 5899300907349539362
+    second: Anim_Coq_FM_SpriteSheet_28
+  - first:
+      213: -7610950018120001308
+    second: Anim_Coq_FM_SpriteSheet_29
+  - first:
+      213: 781456556793402641
+    second: Anim_Coq_FM_SpriteSheet_30
+  - first:
+      213: -814299130231113998
+    second: Anim_Coq_FM_SpriteSheet_31
+  - first:
+      213: 1378488856187807010
+    second: Anim_Coq_FM_SpriteSheet_32
+  - first:
+      213: 5881584774456230935
+    second: Anim_Coq_FM_SpriteSheet_33
+  - first:
+      213: -5470948233498364563
+    second: Anim_Coq_FM_SpriteSheet_34
+  - first:
+      213: 3968749320114450260
+    second: Anim_Coq_FM_SpriteSheet_35
+  - first:
+      213: 5137195845202733984
+    second: Anim_Coq_FM_SpriteSheet_36
+  - first:
+      213: 1781924265453884525
+    second: Anim_Coq_FM_SpriteSheet_37
+  - first:
+      213: 6477828165155815725
+    second: Anim_Coq_FM_SpriteSheet_38
+  - first:
+      213: -3295013765862828497
+    second: Anim_Coq_FM_SpriteSheet_39
+  - first:
+      213: 5269975876361760716
+    second: Anim_Coq_FM_SpriteSheet_40
+  - first:
+      213: 9189911782839574904
+    second: Anim_Coq_FM_SpriteSheet_41
+  - first:
+      213: -4193328222562874923
+    second: Anim_Coq_FM_SpriteSheet_42
+  - first:
+      213: 5979241026049862588
+    second: Anim_Coq_FM_SpriteSheet_43
+  - first:
+      213: 8439083724503287716
+    second: Anim_Coq_FM_SpriteSheet_44
+  - first:
+      213: 7080451805621608808
+    second: Anim_Coq_FM_SpriteSheet_45
+  - first:
+      213: -5092284200263894093
+    second: Anim_Coq_FM_SpriteSheet_46
+  - first:
+      213: 560732832396070491
+    second: Anim_Coq_FM_SpriteSheet_47
+  - first:
+      213: 4249155702520463984
+    second: Anim_Coq_FM_SpriteSheet_48
+  - first:
+      213: -3467166129441858085
+    second: Anim_Coq_FM_SpriteSheet_49
+  - first:
+      213: 1626996330509354185
+    second: Anim_Coq_FM_SpriteSheet_50
+  - first:
+      213: 3878416030914695358
+    second: Anim_Coq_FM_SpriteSheet_51
+  - first:
+      213: 2131084806037833657
+    second: Anim_Coq_FM_SpriteSheet_52
+  - first:
+      213: -8231100535827637136
+    second: Anim_Coq_FM_SpriteSheet_53
+  - first:
+      213: 5782912034211344787
+    second: Anim_Coq_FM_SpriteSheet_54
+  - first:
+      213: -7899070875966426998
+    second: Anim_Coq_FM_SpriteSheet_55
+  - first:
+      213: -3984130905147556229
+    second: Anim_Coq_FM_SpriteSheet_56
+  - first:
+      213: -1395456302717194417
+    second: Anim_Coq_FM_SpriteSheet_57
+  - first:
+      213: 1117413138095685416
+    second: Anim_Coq_FM_SpriteSheet_58
+  - first:
+      213: 4654504375210463716
+    second: Anim_Coq_FM_SpriteSheet_59
+  - first:
+      213: 2746066321708043700
+    second: Anim_Coq_FM_SpriteSheet_60
+  - first:
+      213: 3851575226004483338
+    second: Anim_Coq_FM_SpriteSheet_61
+  - first:
+      213: -8603642542188014889
+    second: Anim_Coq_FM_SpriteSheet_62
+  - first:
+      213: -4684439621323708917
+    second: Anim_Coq_FM_SpriteSheet_63
+  - first:
+      213: 4681932632257179193
+    second: Anim_Coq_FM_SpriteSheet_64
+  - first:
+      213: 8022791782404628312
+    second: Anim_Coq_FM_SpriteSheet_65
+  - first:
+      213: 1646627054596783563
+    second: Anim_Coq_FM_SpriteSheet_66
+  - first:
+      213: -8880737642134315819
+    second: Anim_Coq_FM_SpriteSheet_67
+  - first:
+      213: -4072650592581550862
+    second: Anim_Coq_FM_SpriteSheet_68
+  - first:
+      213: -9123769489655546183
+    second: Anim_Coq_FM_SpriteSheet_69
+  - first:
+      213: 558037850056604005
+    second: Anim_Coq_FM_SpriteSheet_70
+  - first:
+      213: -1869227471500526759
+    second: Anim_Coq_FM_SpriteSheet_71
+  - first:
+      213: 557348089537379552
+    second: Anim_Coq_FM_SpriteSheet_72
+  - first:
+      213: -8330193111547818674
+    second: Anim_Coq_FM_SpriteSheet_73
+  - first:
+      213: -6105372968771967105
+    second: Anim_Coq_FM_SpriteSheet_74
+  - first:
+      213: -6390734337092128922
+    second: Anim_Coq_FM_SpriteSheet_75
+  - first:
+      213: -3935761260412488803
+    second: Anim_Coq_FM_SpriteSheet_76
+  - first:
+      213: -281529398696070539
+    second: Anim_Coq_FM_SpriteSheet_77
+  - first:
+      213: -8350445962519423529
+    second: Anim_Coq_FM_SpriteSheet_78
+  - first:
+      213: -630661952247793337
+    second: Anim_Coq_FM_SpriteSheet_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc2399081d7ae10800000000000000
+      internalID: 2208964492504779882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d3704465f55d80800000000000000
+      internalID: -8262428130414438432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a163418e252fc860800000000000000
+      internalID: 7552295981791011241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3cf038ab4efa3d0800000000000000
+      internalID: -3193082121068493883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83ecf2f46c43a20800000000000000
+      internalID: 3041273691788687559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc75ddcd010a62b0800000000000000
+      internalID: -5590654828627526446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d74df1ae5cdffb0800000000000000
+      internalID: -4612312834010481286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90878a53e7566a20800000000000000
+      internalID: 3055226031205482650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013987afc39ae8740800000000000000
+      internalID: 5156244702751134480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bee74d0093023e0800000000000000
+      internalID: -2080600352117298359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba140d731a98e8290800000000000000
+      internalID: -7886214571960024661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751cb3446be873870800000000000000
+      internalID: 8662549321750397271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c081ec4fd898df150800000000000000
+      internalID: 5908029528970500108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f00c859f7f08bf60800000000000000
+      internalID: 8050201374569005305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7c2a55f5d11b510800000000000000
+      internalID: 1563062840970102724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b660166da2b9e40e0800000000000000
+      internalID: -2283717352742648213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1facd63dabaeda720800000000000000
+      internalID: 2859199426582137585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f2e13c4a44bbfd0800000000000000
+      internalID: -2325189308167868593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba42a4b2a97e5f0800000000000000
+      internalID: -727443304078857338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e35b5b7655fd8b0800000000000000
+      internalID: -5125283947005788567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568b8326a9fd16910800000000000000
+      internalID: 1828988777854974053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41966ac359f0abcf0800000000000000
+      internalID: -235858896841447148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67921fe8ad2e4ff10800000000000000
+      internalID: 2302714737822083446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb21f9df97e6ab0800000000000000
+      internalID: -5012935205014291506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b205220225b6e0800000000000000
+      internalID: -1822513081595283938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3b6ee42e690aa90800000000000000
+      internalID: -7304672696864427038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81159ac25b2c66800800000000000000
+      internalID: 605385283322073368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29dfc1f36ffd620800000000000000
+      internalID: 2801228244177490607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a75bd5be68ed150800000000000000
+      internalID: 5899300907349539362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e854b67849706690800000000000000
+      internalID: -7610950018120001308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115121b199a48da00800000000000000
+      internalID: 781456556793402641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f63aa1614703b4f0800000000000000
+      internalID: -814299130231113998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225a8e7af40612310800000000000000
+      internalID: 1378488856187807010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7144fcdb0369f9150800000000000000
+      internalID: 5881584774456230935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6577c561994314b0800000000000000
+      internalID: -5470948233498364563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45faef3ba74d31730800000000000000
+      internalID: 3968749320114450260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abebe6376cfa4740800000000000000
+      internalID: 5137195845202733984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64170badaaaab810800000000000000
+      internalID: 1781924265453884525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21022c256ed5e950800000000000000
+      internalID: 6477828165155815725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Coq_FM_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2659bb0072c542d0800000000000000
+      internalID: -3295013765862828497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Coq_FM_SpriteSheet_0: 2208964492504779882
+      Anim_Coq_FM_SpriteSheet_1: -8262428130414438432
+      Anim_Coq_FM_SpriteSheet_10: -7886214571960024661
+      Anim_Coq_FM_SpriteSheet_11: 8662549321750397271
+      Anim_Coq_FM_SpriteSheet_12: 5908029528970500108
+      Anim_Coq_FM_SpriteSheet_13: 8050201374569005305
+      Anim_Coq_FM_SpriteSheet_14: 1563062840970102724
+      Anim_Coq_FM_SpriteSheet_15: -2283717352742648213
+      Anim_Coq_FM_SpriteSheet_16: 2859199426582137585
+      Anim_Coq_FM_SpriteSheet_17: -2325189308167868593
+      Anim_Coq_FM_SpriteSheet_18: -727443304078857338
+      Anim_Coq_FM_SpriteSheet_19: -5125283947005788567
+      Anim_Coq_FM_SpriteSheet_2: 7552295981791011241
+      Anim_Coq_FM_SpriteSheet_20: 1828988777854974053
+      Anim_Coq_FM_SpriteSheet_21: -235858896841447148
+      Anim_Coq_FM_SpriteSheet_22: 2302714737822083446
+      Anim_Coq_FM_SpriteSheet_23: -5012935205014291506
+      Anim_Coq_FM_SpriteSheet_24: -1822513081595283938
+      Anim_Coq_FM_SpriteSheet_25: -7304672696864427038
+      Anim_Coq_FM_SpriteSheet_26: 605385283322073368
+      Anim_Coq_FM_SpriteSheet_27: 2801228244177490607
+      Anim_Coq_FM_SpriteSheet_28: 5899300907349539362
+      Anim_Coq_FM_SpriteSheet_29: -7610950018120001308
+      Anim_Coq_FM_SpriteSheet_3: -3193082121068493883
+      Anim_Coq_FM_SpriteSheet_30: 781456556793402641
+      Anim_Coq_FM_SpriteSheet_31: -814299130231113998
+      Anim_Coq_FM_SpriteSheet_32: 1378488856187807010
+      Anim_Coq_FM_SpriteSheet_33: 5881584774456230935
+      Anim_Coq_FM_SpriteSheet_34: -5470948233498364563
+      Anim_Coq_FM_SpriteSheet_35: 3968749320114450260
+      Anim_Coq_FM_SpriteSheet_36: 5137195845202733984
+      Anim_Coq_FM_SpriteSheet_37: 1781924265453884525
+      Anim_Coq_FM_SpriteSheet_38: 6477828165155815725
+      Anim_Coq_FM_SpriteSheet_39: -3295013765862828497
+      Anim_Coq_FM_SpriteSheet_4: 3041273691788687559
+      Anim_Coq_FM_SpriteSheet_5: -5590654828627526446
+      Anim_Coq_FM_SpriteSheet_6: -4612312834010481286
+      Anim_Coq_FM_SpriteSheet_7: 3055226031205482650
+      Anim_Coq_FM_SpriteSheet_8: 5156244702751134480
+      Anim_Coq_FM_SpriteSheet_9: -2080600352117298359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

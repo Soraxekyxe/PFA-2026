@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: 9ec21d87b899fd04bbe2c61dd16f7924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3101165498804925017
+    second: Anim_Cosmos_Fleur_spritesheet_0
+  - first:
+      213: 844171873818426633
+    second: Anim_Cosmos_Fleur_spritesheet_1
+  - first:
+      213: -29057805805725652
+    second: Anim_Cosmos_Fleur_spritesheet_2
+  - first:
+      213: 4795737911187710950
+    second: Anim_Cosmos_Fleur_spritesheet_3
+  - first:
+      213: -6708733354524997671
+    second: Anim_Cosmos_Fleur_spritesheet_4
+  - first:
+      213: 16745371591776347
+    second: Anim_Cosmos_Fleur_spritesheet_5
+  - first:
+      213: -7267142538560890009
+    second: Anim_Cosmos_Fleur_spritesheet_6
+  - first:
+      213: 8526667828069407657
+    second: Anim_Cosmos_Fleur_spritesheet_7
+  - first:
+      213: -6811919607905339167
+    second: Anim_Cosmos_Fleur_spritesheet_8
+  - first:
+      213: -1579141154164359535
+    second: Anim_Cosmos_Fleur_spritesheet_9
+  - first:
+      213: 7709869672421453881
+    second: Anim_Cosmos_Fleur_spritesheet_10
+  - first:
+      213: -7157628455752797533
+    second: Anim_Cosmos_Fleur_spritesheet_11
+  - first:
+      213: -2666831439872951762
+    second: Anim_Cosmos_Fleur_spritesheet_12
+  - first:
+      213: 3929920561144588464
+    second: Anim_Cosmos_Fleur_spritesheet_13
+  - first:
+      213: -6887349566184960316
+    second: Anim_Cosmos_Fleur_spritesheet_14
+  - first:
+      213: 3600540745713893519
+    second: Anim_Cosmos_Fleur_spritesheet_15
+  - first:
+      213: -1565750760969918136
+    second: Anim_Cosmos_Fleur_spritesheet_16
+  - first:
+      213: 5614787190703481899
+    second: Anim_Cosmos_Fleur_spritesheet_17
+  - first:
+      213: 7002478604495273787
+    second: Anim_Cosmos_Fleur_spritesheet_18
+  - first:
+      213: -4575212276796511099
+    second: Anim_Cosmos_Fleur_spritesheet_19
+  - first:
+      213: 2380414976296095722
+    second: Anim_Cosmos_Fleur_spritesheet_20
+  - first:
+      213: -2168603624170628039
+    second: Anim_Cosmos_Fleur_spritesheet_21
+  - first:
+      213: -5933589095096013553
+    second: Anim_Cosmos_Fleur_spritesheet_22
+  - first:
+      213: -8276377427679843340
+    second: Anim_Cosmos_Fleur_spritesheet_23
+  - first:
+      213: 3716522895615185509
+    second: Anim_Cosmos_Fleur_spritesheet_24
+  - first:
+      213: -6469091805988934892
+    second: Anim_Cosmos_Fleur_spritesheet_25
+  - first:
+      213: 2564013511415702961
+    second: Anim_Cosmos_Fleur_spritesheet_26
+  - first:
+      213: 8125665831122765809
+    second: Anim_Cosmos_Fleur_spritesheet_27
+  - first:
+      213: 7681022880018489277
+    second: Anim_Cosmos_Fleur_spritesheet_28
+  - first:
+      213: -7799392562287173689
+    second: Anim_Cosmos_Fleur_spritesheet_29
+  - first:
+      213: -9086004668125439361
+    second: Anim_Cosmos_Fleur_spritesheet_30
+  - first:
+      213: 6367335405832948586
+    second: Anim_Cosmos_Fleur_spritesheet_31
+  - first:
+      213: -2079541567593276148
+    second: Anim_Cosmos_Fleur_spritesheet_32
+  - first:
+      213: 1781998252776753000
+    second: Anim_Cosmos_Fleur_spritesheet_33
+  - first:
+      213: -653067422169569410
+    second: Anim_Cosmos_Fleur_spritesheet_34
+  - first:
+      213: -1057056164681520388
+    second: Anim_Cosmos_Fleur_spritesheet_35
+  - first:
+      213: 308564037951507824
+    second: Anim_Cosmos_Fleur_spritesheet_36
+  - first:
+      213: -2914761226233928269
+    second: Anim_Cosmos_Fleur_spritesheet_37
+  - first:
+      213: 7072986779680839522
+    second: Anim_Cosmos_Fleur_spritesheet_38
+  - first:
+      213: -4496151116064035976
+    second: Anim_Cosmos_Fleur_spritesheet_39
+  - first:
+      213: -2524671007256093150
+    second: Anim_Cosmos_Fleur_spritesheet_40
+  - first:
+      213: -4320184558166766164
+    second: Anim_Cosmos_Fleur_spritesheet_41
+  - first:
+      213: -1813213120698397013
+    second: Anim_Cosmos_Fleur_spritesheet_42
+  - first:
+      213: 9051976616520364861
+    second: Anim_Cosmos_Fleur_spritesheet_43
+  - first:
+      213: 2339697561674246574
+    second: Anim_Cosmos_Fleur_spritesheet_44
+  - first:
+      213: 2977309383005797469
+    second: Anim_Cosmos_Fleur_spritesheet_45
+  - first:
+      213: 9158978352645227686
+    second: Anim_Cosmos_Fleur_spritesheet_46
+  - first:
+      213: 2223075976322690112
+    second: Anim_Cosmos_Fleur_spritesheet_47
+  - first:
+      213: -2932126035597847993
+    second: Anim_Cosmos_Fleur_spritesheet_48
+  - first:
+      213: -2244338970498771417
+    second: Anim_Cosmos_Fleur_spritesheet_49
+  - first:
+      213: -5963552004991033916
+    second: Anim_Cosmos_Fleur_spritesheet_50
+  - first:
+      213: 1999215993450436110
+    second: Anim_Cosmos_Fleur_spritesheet_51
+  - first:
+      213: -4623475743813861186
+    second: Anim_Cosmos_Fleur_spritesheet_52
+  - first:
+      213: -1184437073220207979
+    second: Anim_Cosmos_Fleur_spritesheet_53
+  - first:
+      213: 6895455378784368043
+    second: Anim_Cosmos_Fleur_spritesheet_54
+  - first:
+      213: 4063925274718310398
+    second: Anim_Cosmos_Fleur_spritesheet_55
+  - first:
+      213: 8618418678346033498
+    second: Anim_Cosmos_Fleur_spritesheet_56
+  - first:
+      213: -4438265413496604573
+    second: Anim_Cosmos_Fleur_spritesheet_57
+  - first:
+      213: 6691298971697523588
+    second: Anim_Cosmos_Fleur_spritesheet_58
+  - first:
+      213: -1180834422399165764
+    second: Anim_Cosmos_Fleur_spritesheet_59
+  - first:
+      213: 3850964027793907608
+    second: Anim_Cosmos_Fleur_spritesheet_60
+  - first:
+      213: 5708801209857407615
+    second: Anim_Cosmos_Fleur_spritesheet_61
+  - first:
+      213: 6352612657191723306
+    second: Anim_Cosmos_Fleur_spritesheet_62
+  - first:
+      213: -3730485277918783071
+    second: Anim_Cosmos_Fleur_spritesheet_63
+  - first:
+      213: -7781141030825292750
+    second: Anim_Cosmos_Fleur_spritesheet_64
+  - first:
+      213: -4614976094185022207
+    second: Anim_Cosmos_Fleur_spritesheet_65
+  - first:
+      213: -7198897818538323852
+    second: Anim_Cosmos_Fleur_spritesheet_66
+  - first:
+      213: -4164834804109749368
+    second: Anim_Cosmos_Fleur_spritesheet_67
+  - first:
+      213: -6030298088316250431
+    second: Anim_Cosmos_Fleur_spritesheet_68
+  - first:
+      213: -485495571149778248
+    second: Anim_Cosmos_Fleur_spritesheet_69
+  - first:
+      213: 7401999700049211645
+    second: Anim_Cosmos_Fleur_spritesheet_70
+  - first:
+      213: -5308438938114144525
+    second: Anim_Cosmos_Fleur_spritesheet_71
+  - first:
+      213: 3614733005146812901
+    second: Anim_Cosmos_Fleur_spritesheet_72
+  - first:
+      213: -3305654685685395856
+    second: Anim_Cosmos_Fleur_spritesheet_73
+  - first:
+      213: 5099588063823402740
+    second: Anim_Cosmos_Fleur_spritesheet_74
+  - first:
+      213: -7387931655673290941
+    second: Anim_Cosmos_Fleur_spritesheet_75
+  - first:
+      213: 5105049791726214313
+    second: Anim_Cosmos_Fleur_spritesheet_76
+  - first:
+      213: -8122202798234193690
+    second: Anim_Cosmos_Fleur_spritesheet_77
+  - first:
+      213: 4767358751589034510
+    second: Anim_Cosmos_Fleur_spritesheet_78
+  - first:
+      213: 4128962312389754861
+    second: Anim_Cosmos_Fleur_spritesheet_79
+  - first:
+      213: 1446565132355291221
+    second: Anim_Cosmos_Fleur_spritesheet_80
+  - first:
+      213: -6168772364821135024
+    second: Anim_Cosmos_Fleur_spritesheet_81
+  - first:
+      213: -2764147601294033286
+    second: Anim_Cosmos_Fleur_spritesheet_82
+  - first:
+      213: 4613528453270393135
+    second: Anim_Cosmos_Fleur_spritesheet_83
+  - first:
+      213: -3406929411945766395
+    second: Anim_Cosmos_Fleur_spritesheet_84
+  - first:
+      213: 1245489699102694568
+    second: Anim_Cosmos_Fleur_spritesheet_85
+  - first:
+      213: 2845761976980157620
+    second: Anim_Cosmos_Fleur_spritesheet_86
+  - first:
+      213: -8509500783580546374
+    second: Anim_Cosmos_Fleur_spritesheet_87
+  - first:
+      213: 1169466674369316027
+    second: Anim_Cosmos_Fleur_spritesheet_88
+  - first:
+      213: -5257125448880287923
+    second: Anim_Cosmos_Fleur_spritesheet_89
+  - first:
+      213: -7957898684712132800
+    second: Anim_Cosmos_Fleur_spritesheet_90
+  - first:
+      213: -6644581663150272052
+    second: Anim_Cosmos_Fleur_spritesheet_91
+  - first:
+      213: -7397854766405175199
+    second: Anim_Cosmos_Fleur_spritesheet_92
+  - first:
+      213: -8588681880130479156
+    second: Anim_Cosmos_Fleur_spritesheet_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0906d86276f4d0800000000000000
+      internalID: -3101165498804925017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db25cb8d917bb00800000000000000
+      internalID: 844171873818426633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285ffe5414c89ff0800000000000000
+      internalID: -29057805805725652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a738a832ed8240800000000000000
+      internalID: 4795737911187710950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d709b6fe8ac5e2a0800000000000000
+      internalID: -6708733354524997671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b581c55a3dd7b3000800000000000000
+      internalID: 16745371591776347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b92f83d5ce52b90800000000000000
+      internalID: -7267142538560890009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab14d1a63fc45670800000000000000
+      internalID: 8526667828069407657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8b84c25333771a0800000000000000
+      internalID: -6811919607905339167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e35d7ac73c51ae0800000000000000
+      internalID: -1579141154164359535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930fc315e95fefa60800000000000000
+      internalID: 7709869672421453881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a270ac97defaac90800000000000000
+      internalID: -7157628455752797533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a77865fe28dfad0800000000000000
+      internalID: -2666831439872951762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e682cde1e98630800000000000000
+      internalID: 3929920561144588464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceca9f6f083b60a0800000000000000
+      internalID: -6887349566184960316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80c8935bb0b7f130800000000000000
+      internalID: 3600540745713893519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84927958af5554ae0800000000000000
+      internalID: -1565750760969918136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246b47933bbbed40800000000000000
+      internalID: 5614787190703481899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fb638a03dcd2160800000000000000
+      internalID: 7002478604495273787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ca98dbca49180c0800000000000000
+      internalID: -4575212276796511099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef06281fcee80120800000000000000
+      internalID: 2380414976296095722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5faa5e7297e1e0800000000000000
+      internalID: -2168603624170628039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dabafc728a7ada0800000000000000
+      internalID: -5933589095096013553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe4146496642d80800000000000000
+      internalID: -8276377427679843340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562dfb0f1edb39330800000000000000
+      internalID: 3716522895615185509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ba3a4f64b2936a0800000000000000
+      internalID: -6469091805988934892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b52c3334b4359320800000000000000
+      internalID: 2564013511415702961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f70a93950a24c070800000000000000
+      internalID: 8125665831122765809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf56231d99789a60800000000000000
+      internalID: 7681022880018489277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9c0d99cdf2c390800000000000000
+      internalID: -7799392562287173689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a97d0e4e608e180800000000000000
+      internalID: -9086004668125439361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bc076e0d15d5850800000000000000
+      internalID: 6367335405832948586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d91ff46fbf323e0800000000000000
+      internalID: -2079541567593276148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867002f28fdeab810800000000000000
+      internalID: 1781998252776753000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77e33fb3a6dfe6f0800000000000000
+      internalID: -653067422169569410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa658cc4059451f0800000000000000
+      internalID: -1057056164681520388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d4f809b5d384400800000000000000
+      internalID: 308564037951507824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5ae399b10bc87d0800000000000000
+      internalID: -2914761226233928269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26719e7700c482260800000000000000
+      internalID: 7072986779680839522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Cosmos_Fleur_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87be68ea1667a91c0800000000000000
+      internalID: -4496151116064035976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a17d2e9c16ecfb48862737c7ca11a23
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Cosmos_Fleur_spritesheet_0: -3101165498804925017
+      Anim_Cosmos_Fleur_spritesheet_1: 844171873818426633
+      Anim_Cosmos_Fleur_spritesheet_10: 7709869672421453881
+      Anim_Cosmos_Fleur_spritesheet_11: -7157628455752797533
+      Anim_Cosmos_Fleur_spritesheet_12: -2666831439872951762
+      Anim_Cosmos_Fleur_spritesheet_13: 3929920561144588464
+      Anim_Cosmos_Fleur_spritesheet_14: -6887349566184960316
+      Anim_Cosmos_Fleur_spritesheet_15: 3600540745713893519
+      Anim_Cosmos_Fleur_spritesheet_16: -1565750760969918136
+      Anim_Cosmos_Fleur_spritesheet_17: 5614787190703481899
+      Anim_Cosmos_Fleur_spritesheet_18: 7002478604495273787
+      Anim_Cosmos_Fleur_spritesheet_19: -4575212276796511099
+      Anim_Cosmos_Fleur_spritesheet_2: -29057805805725652
+      Anim_Cosmos_Fleur_spritesheet_20: 2380414976296095722
+      Anim_Cosmos_Fleur_spritesheet_21: -2168603624170628039
+      Anim_Cosmos_Fleur_spritesheet_22: -5933589095096013553
+      Anim_Cosmos_Fleur_spritesheet_23: -8276377427679843340
+      Anim_Cosmos_Fleur_spritesheet_24: 3716522895615185509
+      Anim_Cosmos_Fleur_spritesheet_25: -6469091805988934892
+      Anim_Cosmos_Fleur_spritesheet_26: 2564013511415702961
+      Anim_Cosmos_Fleur_spritesheet_27: 8125665831122765809
+      Anim_Cosmos_Fleur_spritesheet_28: 7681022880018489277
+      Anim_Cosmos_Fleur_spritesheet_29: -7799392562287173689
+      Anim_Cosmos_Fleur_spritesheet_3: 4795737911187710950
+      Anim_Cosmos_Fleur_spritesheet_30: -9086004668125439361
+      Anim_Cosmos_Fleur_spritesheet_31: 6367335405832948586
+      Anim_Cosmos_Fleur_spritesheet_32: -2079541567593276148
+      Anim_Cosmos_Fleur_spritesheet_33: 1781998252776753000
+      Anim_Cosmos_Fleur_spritesheet_34: -653067422169569410
+      Anim_Cosmos_Fleur_spritesheet_35: -1057056164681520388
+      Anim_Cosmos_Fleur_spritesheet_36: 308564037951507824
+      Anim_Cosmos_Fleur_spritesheet_37: -2914761226233928269
+      Anim_Cosmos_Fleur_spritesheet_38: 7072986779680839522
+      Anim_Cosmos_Fleur_spritesheet_39: -4496151116064035976
+      Anim_Cosmos_Fleur_spritesheet_4: -6708733354524997671
+      Anim_Cosmos_Fleur_spritesheet_5: 16745371591776347
+      Anim_Cosmos_Fleur_spritesheet_6: -7267142538560890009
+      Anim_Cosmos_Fleur_spritesheet_7: 8526667828069407657
+      Anim_Cosmos_Fleur_spritesheet_8: -6811919607905339167
+      Anim_Cosmos_Fleur_spritesheet_9: -1579141154164359535
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

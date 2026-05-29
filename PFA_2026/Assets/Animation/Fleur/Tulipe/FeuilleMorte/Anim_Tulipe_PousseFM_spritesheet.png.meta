@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 39f77ff3910cad24a80e1acca4e8a37b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8800082122219135010
+    second: Anim_Tulipe_PousseFM_spritesheet_0
+  - first:
+      213: 469690793267916860
+    second: Anim_Tulipe_PousseFM_spritesheet_1
+  - first:
+      213: 1319987168955019376
+    second: Anim_Tulipe_PousseFM_spritesheet_2
+  - first:
+      213: -4336449801222442268
+    second: Anim_Tulipe_PousseFM_spritesheet_3
+  - first:
+      213: 3011288036998225714
+    second: Anim_Tulipe_PousseFM_spritesheet_4
+  - first:
+      213: -1988136254789541752
+    second: Anim_Tulipe_PousseFM_spritesheet_5
+  - first:
+      213: -3674912734083043881
+    second: Anim_Tulipe_PousseFM_spritesheet_6
+  - first:
+      213: -8973122259487951292
+    second: Anim_Tulipe_PousseFM_spritesheet_7
+  - first:
+      213: -6161244716318284659
+    second: Anim_Tulipe_PousseFM_spritesheet_8
+  - first:
+      213: 6495698486971300012
+    second: Anim_Tulipe_PousseFM_spritesheet_9
+  - first:
+      213: 23904388620726920
+    second: Anim_Tulipe_PousseFM_spritesheet_10
+  - first:
+      213: 6785698334378451083
+    second: Anim_Tulipe_PousseFM_spritesheet_11
+  - first:
+      213: -5773276308088703243
+    second: Anim_Tulipe_PousseFM_spritesheet_12
+  - first:
+      213: 774883094910412962
+    second: Anim_Tulipe_PousseFM_spritesheet_13
+  - first:
+      213: -8789461471034291712
+    second: Anim_Tulipe_PousseFM_spritesheet_14
+  - first:
+      213: -3599180964471723200
+    second: Anim_Tulipe_PousseFM_spritesheet_15
+  - first:
+      213: -4066646911782918336
+    second: Anim_Tulipe_PousseFM_spritesheet_16
+  - first:
+      213: -3286146421008909655
+    second: Anim_Tulipe_PousseFM_spritesheet_17
+  - first:
+      213: -4836941699307847132
+    second: Anim_Tulipe_PousseFM_spritesheet_18
+  - first:
+      213: -2088673545370908381
+    second: Anim_Tulipe_PousseFM_spritesheet_19
+  - first:
+      213: -7065991310896016354
+    second: Anim_Tulipe_PousseFM_spritesheet_20
+  - first:
+      213: -1660822481390130332
+    second: Anim_Tulipe_PousseFM_spritesheet_21
+  - first:
+      213: -7281319251172677672
+    second: Anim_Tulipe_PousseFM_spritesheet_22
+  - first:
+      213: 4803659892188282385
+    second: Anim_Tulipe_PousseFM_spritesheet_23
+  - first:
+      213: 8416219120010325507
+    second: Anim_Tulipe_PousseFM_spritesheet_24
+  - first:
+      213: 1976536367600792473
+    second: Anim_Tulipe_PousseFM_spritesheet_25
+  - first:
+      213: -2260217354893856196
+    second: Anim_Tulipe_PousseFM_spritesheet_26
+  - first:
+      213: 2084385616233592573
+    second: Anim_Tulipe_PousseFM_spritesheet_27
+  - first:
+      213: 291414923073347377
+    second: Anim_Tulipe_PousseFM_spritesheet_28
+  - first:
+      213: 1069828853209501098
+    second: Anim_Tulipe_PousseFM_spritesheet_29
+  - first:
+      213: -8502647226892728153
+    second: Anim_Tulipe_PousseFM_spritesheet_30
+  - first:
+      213: -7915907725634712361
+    second: Anim_Tulipe_PousseFM_spritesheet_31
+  - first:
+      213: 564471904657334890
+    second: Anim_Tulipe_PousseFM_spritesheet_32
+  - first:
+      213: -4100561977081244666
+    second: Anim_Tulipe_PousseFM_spritesheet_33
+  - first:
+      213: 1954980349746132276
+    second: Anim_Tulipe_PousseFM_spritesheet_34
+  - first:
+      213: -5285781567258159279
+    second: Anim_Tulipe_PousseFM_spritesheet_35
+  - first:
+      213: 3097399867996194255
+    second: Anim_Tulipe_PousseFM_spritesheet_36
+  - first:
+      213: 1644251971094870711
+    second: Anim_Tulipe_PousseFM_spritesheet_37
+  - first:
+      213: -4938994301319029897
+    second: Anim_Tulipe_PousseFM_spritesheet_38
+  - first:
+      213: -6309835780961244157
+    second: Anim_Tulipe_PousseFM_spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202329b01c202a70800000000000000
+      internalID: 8800082122219135010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307107b94da48600800000000000000
+      internalID: 469690793267916860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07033a92659815210800000000000000
+      internalID: 1319987168955019376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b2db91e5d1d3c0800000000000000
+      internalID: -4336449801222442268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f99a1e38e3ac920800000000000000
+      internalID: 3011288036998225714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a1302c98b864e0800000000000000
+      internalID: -1988136254789541752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddab60c656100dc0800000000000000
+      internalID: -3674912734083043881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f11db8d0197380800000000000000
+      internalID: -8973122259487951292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a89df29cde7aa0800000000000000
+      internalID: -6161244716318284659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca877f3bb5b552a50800000000000000
+      internalID: 6495698486971300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882bf403aece45000800000000000000
+      internalID: 23904388620726920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b806695dea4ab2e50800000000000000
+      internalID: 6785698334378451083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6b13239c331efa0800000000000000
+      internalID: -5773276308088703243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8279eb110f0ca00800000000000000
+      internalID: 774883094910412962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac4045c5f850680800000000000000
+      internalID: -8789461471034291712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba05a6bf32d0ec0800000000000000
+      internalID: -3599180964471723200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476d340e2e5097c0800000000000000
+      internalID: -4066646911782918336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aab7d7ad334562d0800000000000000
+      internalID: -3286146421008909655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4224b75d62bbfdcb0800000000000000
+      internalID: -4836941699307847132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329496c0a7a8303e0800000000000000
+      internalID: -2088673545370908381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14db08075e80fd90800000000000000
+      internalID: -7065991310896016354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b22c9a0c293f8e0800000000000000
+      internalID: -1660822481390130332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a3a918be83fa90800000000000000
+      internalID: -7281319251172677672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e7ca798370aa240800000000000000
+      internalID: 4803659892188282385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee018d2ba6cc470800000000000000
+      internalID: 8416219120010325507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937c7caa511e6b10800000000000000
+      internalID: 1976536367600792473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32f0667a4812a0e0800000000000000
+      internalID: -2260217354893856196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67986aca93dec10800000000000000
+      internalID: 2084385616233592573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd80c14505b0400800000000000000
+      internalID: 291414923073347377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad040e7cabc8de00800000000000000
+      internalID: 1069828853209501098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a849966567800a80800000000000000
+      internalID: -8502647226892728153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc5c22ddb052290800000000000000
+      internalID: -7915907725634712361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62e9c2e43865d700800000000000000
+      internalID: 564471904657334890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60459988b90e717c0800000000000000
+      internalID: -4100561977081244666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435bc79254c712b10800000000000000
+      internalID: 1954980349746132276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157154b7ba125a6b0800000000000000
+      internalID: -5285781567258159279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5414be4cc2cfa20800000000000000
+      internalID: 3097399867996194255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba7852c47e81d610800000000000000
+      internalID: 1644251971094870711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b5332d9da257bb0800000000000000
+      internalID: -4938994301319029897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Tulipe_PousseFM_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c61c4c9c5fe68a0800000000000000
+      internalID: -6309835780961244157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5cacbf691716f37469924214c5ba6977
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Tulipe_PousseFM_spritesheet_0: 8800082122219135010
+      Anim_Tulipe_PousseFM_spritesheet_1: 469690793267916860
+      Anim_Tulipe_PousseFM_spritesheet_10: 23904388620726920
+      Anim_Tulipe_PousseFM_spritesheet_11: 6785698334378451083
+      Anim_Tulipe_PousseFM_spritesheet_12: -5773276308088703243
+      Anim_Tulipe_PousseFM_spritesheet_13: 774883094910412962
+      Anim_Tulipe_PousseFM_spritesheet_14: -8789461471034291712
+      Anim_Tulipe_PousseFM_spritesheet_15: -3599180964471723200
+      Anim_Tulipe_PousseFM_spritesheet_16: -4066646911782918336
+      Anim_Tulipe_PousseFM_spritesheet_17: -3286146421008909655
+      Anim_Tulipe_PousseFM_spritesheet_18: -4836941699307847132
+      Anim_Tulipe_PousseFM_spritesheet_19: -2088673545370908381
+      Anim_Tulipe_PousseFM_spritesheet_2: 1319987168955019376
+      Anim_Tulipe_PousseFM_spritesheet_20: -7065991310896016354
+      Anim_Tulipe_PousseFM_spritesheet_21: -1660822481390130332
+      Anim_Tulipe_PousseFM_spritesheet_22: -7281319251172677672
+      Anim_Tulipe_PousseFM_spritesheet_23: 4803659892188282385
+      Anim_Tulipe_PousseFM_spritesheet_24: 8416219120010325507
+      Anim_Tulipe_PousseFM_spritesheet_25: 1976536367600792473
+      Anim_Tulipe_PousseFM_spritesheet_26: -2260217354893856196
+      Anim_Tulipe_PousseFM_spritesheet_27: 2084385616233592573
+      Anim_Tulipe_PousseFM_spritesheet_28: 291414923073347377
+      Anim_Tulipe_PousseFM_spritesheet_29: 1069828853209501098
+      Anim_Tulipe_PousseFM_spritesheet_3: -4336449801222442268
+      Anim_Tulipe_PousseFM_spritesheet_30: -8502647226892728153
+      Anim_Tulipe_PousseFM_spritesheet_31: -7915907725634712361
+      Anim_Tulipe_PousseFM_spritesheet_32: 564471904657334890
+      Anim_Tulipe_PousseFM_spritesheet_33: -4100561977081244666
+      Anim_Tulipe_PousseFM_spritesheet_34: 1954980349746132276
+      Anim_Tulipe_PousseFM_spritesheet_35: -5285781567258159279
+      Anim_Tulipe_PousseFM_spritesheet_36: 3097399867996194255
+      Anim_Tulipe_PousseFM_spritesheet_37: 1644251971094870711
+      Anim_Tulipe_PousseFM_spritesheet_38: -4938994301319029897
+      Anim_Tulipe_PousseFM_spritesheet_39: -6309835780961244157
+      Anim_Tulipe_PousseFM_spritesheet_4: 3011288036998225714
+      Anim_Tulipe_PousseFM_spritesheet_5: -1988136254789541752
+      Anim_Tulipe_PousseFM_spritesheet_6: -3674912734083043881
+      Anim_Tulipe_PousseFM_spritesheet_7: -8973122259487951292
+      Anim_Tulipe_PousseFM_spritesheet_8: -6161244716318284659
+      Anim_Tulipe_PousseFM_spritesheet_9: 6495698486971300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
