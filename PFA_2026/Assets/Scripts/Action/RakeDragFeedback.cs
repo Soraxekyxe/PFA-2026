@@ -63,6 +63,9 @@ public class RakeDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler
                 arrow.position = arrowStartPosition;
 
                 menuInteract.ValidateRakeDrag(targetFlower);
+                // Son du bouton
+                SoundManagerY.Instance.PlaySFX("Step2");
+                Debug.Log("son");
 
                 Hide();
             }

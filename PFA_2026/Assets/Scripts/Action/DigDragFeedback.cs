@@ -58,6 +58,10 @@ public class DigDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandler,
                 arrow.position = arrowStartPosition;
 
                 menuInteract.ValidateDigDrag(targetFlower);
+                
+                // Son du bouton
+                SoundManagerY.Instance.PlaySFX("Step3");
+                Debug.Log("son");
 
                 Hide();
             }

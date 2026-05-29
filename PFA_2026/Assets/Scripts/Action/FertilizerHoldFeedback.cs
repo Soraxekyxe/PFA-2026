@@ -51,6 +51,9 @@ public class FertilizerHoldFeedback : MonoBehaviour, IPointerDownHandler, IPoint
         {
             validated = true;
             menuInteract.ValidateFertilizerHold(targetFlower);
+            // Son du bouton
+            SoundManagerY.Instance.PlaySFX("Step4");
+            Debug.Log("son");
             Hide();
         }
     }

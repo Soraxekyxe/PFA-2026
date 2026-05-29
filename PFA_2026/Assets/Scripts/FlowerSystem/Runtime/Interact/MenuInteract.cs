@@ -129,7 +129,6 @@ public class MenuInteract : MonoBehaviour
             return;
 
         tapCount++;
-        PlaySound();
 
         if (tapCount >= tapsRequired)
         {
@@ -140,18 +139,38 @@ public class MenuInteract : MonoBehaviour
 
             if (tapFeedbackUI != null)
                 tapFeedbackUI.Hide();
+            // Son de validation selon l'action
+            if (actionPreparee == FlowerActionType.TillSoil)
+            {
+                SoundManagerY.Instance.PlaySFX("Step1");
+            }
+            else if (actionPreparee == FlowerActionType.AddLadybug)
+            {
+                SoundManagerY.Instance.PlaySFX("Step10");
+            }
+
+            Debug.Log("son");
         }
     }
 
-    public void PlaySound()
+    public void PlaySound(FlowerActionType actionType)
     {
+        switch (actionType)
+        {
+            case FlowerActionType.TillSoil:
+                SoundManagerY.Instance.PlaySFX("Step1");
+                break;
+
+            case FlowerActionType.AddLadybug:
+                SoundManagerY.Instance.PlaySFX("Step10");
+                break;
+        }
     }
 
     // ----------- Jour 1 -----------
     public void TillTheSoil()
     {
         PrepareAction(FlowerActionType.TillSoil);
-        PlaySound();
     }
 
     public void Rake()
@@ -163,8 +182,7 @@ public class MenuInteract : MonoBehaviour
 
         if (rakeDragFeedback != null)
             rakeDragFeedback.Show(currentFlower, this);
-
-        PlaySound();
+        
     }
 
     public void Dig()
@@ -176,8 +194,7 @@ public class MenuInteract : MonoBehaviour
 
         if (digDragFeedback != null)
             digDragFeedback.Show(currentFlower, this);
-
-        PlaySound();
+        
     }
 
     // ----------- Jour 2 -----------
@@ -190,8 +207,7 @@ public class MenuInteract : MonoBehaviour
 
         if (fertilizerHoldFeedback != null)
             fertilizerHoldFeedback.Show(currentFlower, this);
-
-        PlaySound();
+        
     }
 
     public void ValidateFertilizerHold(Flower flower)
@@ -200,7 +216,6 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.AddFertilizer);
-        PlaySound();
     }
 
     // ----------- Jour 3 -----------
@@ -213,8 +228,7 @@ public class MenuInteract : MonoBehaviour
 
         if (seedHoldFeedback != null)
             seedHoldFeedback.Show(currentFlower, this);
-
-        PlaySound();
+        
     }
 
     public void ValidateSeedHold(Flower flower)
@@ -223,7 +237,6 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.PlantSeed);
-        PlaySound();
     }
 
     public void CoverSoil()
@@ -235,8 +248,7 @@ public class MenuInteract : MonoBehaviour
 
         if (coverSoilSwipeFeedback != null)
             coverSoilSwipeFeedback.Show(currentFlower, this);
-
-        PlaySound();
+        
     }
 
     public void ValidateCoverSoilSwipe(Flower flower)
@@ -245,7 +257,7 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.CoverSoil);
-        PlaySound();
+
     }
 
     // ----------- Jour 4 -----------
@@ -259,7 +271,7 @@ public class MenuInteract : MonoBehaviour
         if (wateringCanDragFeedback != null)
             wateringCanDragFeedback.Show(currentFlower, this);
 
-        PlaySound();
+
     }
 
     public void ValidateWateringCanDrag(Flower flower)
@@ -268,7 +280,7 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.Water);
-        PlaySound();
+
     }
 
     // ----------- Jour 5 -----------
@@ -282,7 +294,7 @@ public class MenuInteract : MonoBehaviour
         if (prunerDragFeedback != null)
             prunerDragFeedback.Show(currentFlower, this);
 
-        PlaySound();
+
     }
 
     public void ValidatePrunerDrag(Flower flower)
@@ -291,7 +303,7 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.RemoveDeadLeaves);
-        PlaySound();
+
     }
 
     // ----------- Jour 6 -----------
@@ -305,7 +317,7 @@ public class MenuInteract : MonoBehaviour
         if (reflectivePanelDragFeedback != null)
             reflectivePanelDragFeedback.Show(currentFlower, this);
 
-        PlaySound();
+
     }
 
     public void ValidateReflectivePanelDrag(Flower flower)
@@ -314,14 +326,14 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.AddReflectivePanel);
-        PlaySound();
+
     }
 
     // ----------- Jour 7 -----------
     public void Ladybug()
     {
         PrepareAction(FlowerActionType.AddLadybug);
-        PlaySound();
+
     }
 
     public void ValidateRakeDrag(Flower flower)
@@ -330,7 +342,7 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.Rake);
-        PlaySound();
+
     }
 
     public void ValidateDigDrag(Flower flower)
@@ -339,6 +351,5 @@ public class MenuInteract : MonoBehaviour
             return;
 
         TryDoAction(FlowerActionType.Dig);
-        PlaySound();
     }
 }

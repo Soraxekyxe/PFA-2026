@@ -57,6 +57,9 @@ public class ReflectivePanelDragFeedback : MonoBehaviour, IPointerDownHandler, I
                 arrow.position = shovel.position + new Vector3(0f, 100f, 0f);
 
                 menuInteract.ValidateReflectivePanelDrag(targetFlower);
+                // Son du bouton
+                SoundManagerY.Instance.PlaySFX("Step9");
+                Debug.Log("son");
 
                 Hide();
             }

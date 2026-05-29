@@ -57,6 +57,9 @@ public class PrunerDragFeedback : MonoBehaviour, IPointerDownHandler, IDragHandl
                 arrow.position = shovel.position + new Vector3(0f, 100f, 0f);
 
                 menuInteract.ValidatePrunerDrag(targetFlower);
+                // Son du bouton
+                SoundManagerY.Instance.PlaySFX("Step8");
+                Debug.Log("son");
 
                 Hide();
             }

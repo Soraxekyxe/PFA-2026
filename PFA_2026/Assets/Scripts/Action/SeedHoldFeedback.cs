@@ -52,6 +52,9 @@ public class SeedHoldFeedback : MonoBehaviour, IPointerDownHandler, IPointerUpHa
         {
             validated = true;
             menuInteract.ValidateSeedHold(targetFlower);
+            // Son du bouton
+            SoundManagerY.Instance.PlaySFX("Step5");
+            Debug.Log("son");
             Hide();
         }
     }

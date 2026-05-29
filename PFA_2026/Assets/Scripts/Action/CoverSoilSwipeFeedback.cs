@@ -100,6 +100,9 @@ public class CoverSoilSwipeFeedback : MonoBehaviour,
             isSwiping = false;
 
             menuInteract.ValidateCoverSoilSwipe(targetFlower);
+            // Son du bouton
+            SoundManagerY.Instance.PlaySFX("Step6");
+            Debug.Log("son");
 
             Hide();
         }

@@ -137,19 +137,19 @@ public class HealthHarrassment : MonoBehaviour
     [SerializeField] private HarassmentFlowerHelp harassmentFlowerHelp;
     [SerializeField] private TurnManager turnManager;
     
-    public void DoHarassmentHelpAction(HarassmentHelpActionType actionType)
+    public bool DoHarassmentHelpAction(HarassmentHelpActionType actionType)
     {
     
         if (harassmentFlowerHelp == null || turnManager == null || menuInteract == null)
         {
             Debug.LogError("Référence manquante dans HealthHarrassment");
-            return;
+            return false;
         }
     
         if (menuInteract.actionPoint < 1)
         {
             Debug.Log("Plus de points d'action");
-            return;
+            return false;
         }
         
         Debug.Log("Jour actuel = " + turnManager.jourActuel);
@@ -163,7 +163,7 @@ public class HealthHarrassment : MonoBehaviour
         if (!success)
         {
             Debug.Log("Action impossible : " + actionType);
-            return;
+            return false;
         }
         
         cosmeticPointsManager.AddPoints(10);
@@ -171,7 +171,66 @@ public class HealthHarrassment : MonoBehaviour
         menuInteract.actionPoint -= 1;
         menuInteract.UiUpdate();
         menuInteract.RefreshHarassmentAfterHelpAction();
+        return true;
         
+    }
+    
+    public void PlayHarassmentSound(HarassmentHelpActionType actionType)
+    {
+        switch (actionType)
+        {
+            case HarassmentHelpActionType.RakeSoil:
+                SoundManagerY.Instance.PlaySFX("Step2");
+                break;
+
+            case HarassmentHelpActionType.DigSoil:
+                SoundManagerY.Instance.PlaySFX("Step3");
+                break;
+
+            case HarassmentHelpActionType.AddFertilizer:
+                SoundManagerY.Instance.PlaySFX("Step4");
+                break;
+
+            case HarassmentHelpActionType.PlantSeeds:
+                SoundManagerY.Instance.PlaySFX("Step5");
+                break;
+
+            case HarassmentHelpActionType.CoverSoil:
+                SoundManagerY.Instance.PlaySFX("Step6");
+                break;
+
+            case HarassmentHelpActionType.Water:
+                SoundManagerY.Instance.PlaySFX("Step7");
+                break;
+
+            case HarassmentHelpActionType.RemoveFeathers:
+                SoundManagerY.Instance.PlaySFX("Step13");
+                break;
+
+            case HarassmentHelpActionType.RemoveDeadLeaves:
+                SoundManagerY.Instance.PlaySFX("Step8");
+                break;
+
+            case HarassmentHelpActionType.Sweep:
+                SoundManagerY.Instance.PlaySFX("Step11");
+                break;
+
+            case HarassmentHelpActionType.AddReflectivePanels:
+                SoundManagerY.Instance.PlaySFX("Step9");
+                break;
+
+            case HarassmentHelpActionType.RemoveEatenPetals:
+                SoundManagerY.Instance.PlaySFX("Step8");
+                break;
+
+            case HarassmentHelpActionType.AddMagicPowder:
+                SoundManagerY.Instance.PlaySFX("Step12");
+                break;
+
+            case HarassmentHelpActionType.AddLadybugs:
+                SoundManagerY.Instance.PlaySFX("Step10");
+                break;
+        }
     }
     
     //public void HelpRakeSoil() => DoHarassmentHelpAction(HarassmentHelpActionType.RakeSoil);
@@ -198,7 +257,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentRakeDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.RakeSoil);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.RakeSoil))
+            PlayHarassmentSound(HarassmentHelpActionType.RakeSoil);
     }
     public void HelpDigSoil()
     {
@@ -221,7 +281,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentDigDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.DigSoil);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.DigSoil))
+            PlayHarassmentSound(HarassmentHelpActionType.DigSoil);
     }
     public void HelpFertilizer()
     {
@@ -244,7 +305,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentFertilizerHold()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.AddFertilizer);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.AddFertilizer))
+            PlayHarassmentSound(HarassmentHelpActionType.AddFertilizer);
     }
     public void HelpPlantSeeds()
     {
@@ -265,7 +327,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentSeedHold()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.PlantSeeds);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.PlantSeeds))
+            PlayHarassmentSound(HarassmentHelpActionType.PlantSeeds);
     }
     public void HelpCoverSoil()
     {
@@ -286,7 +349,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentCoverSoilSwipe()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.CoverSoil);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.CoverSoil))
+            PlayHarassmentSound(HarassmentHelpActionType.CoverSoil);
     }
     public void HelpWater()
     {
@@ -307,7 +371,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentWateringCanDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.Water);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.Water))
+            PlayHarassmentSound(HarassmentHelpActionType.Water);
     }
     public void HelpRemoveFeathers()
     {
@@ -342,7 +407,8 @@ public class HealthHarrassment : MonoBehaviour
 
         if (harassmentTapCount >= tapsRequired)
         {
-            DoHarassmentHelpAction(harassmentTapAction);
+            if (DoHarassmentHelpAction(harassmentTapAction))
+                PlayHarassmentSound(harassmentTapAction);
 
             harassmentTapActionWaiting = false;
             harassmentTapCount = 0;
@@ -372,7 +438,8 @@ public class HealthHarrassment : MonoBehaviour
     
     public void ValidateHarassmentPrunerDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.RemoveDeadLeaves);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.RemoveDeadLeaves))
+            PlayHarassmentSound(HarassmentHelpActionType.RemoveDeadLeaves);
     }
     public void HelpSweep()
     {
@@ -393,7 +460,8 @@ public class HealthHarrassment : MonoBehaviour
 
     public void ValidateHarassmentSweepDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.Sweep);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.Sweep))
+            PlayHarassmentSound(HarassmentHelpActionType.Sweep);
     }
     public void HelpReflectivePanels()
     {
@@ -414,7 +482,8 @@ public class HealthHarrassment : MonoBehaviour
 
     public void ValidateHarassmentReflectivePanelDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.AddReflectivePanels);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.AddReflectivePanels))
+            PlayHarassmentSound(HarassmentHelpActionType.AddReflectivePanels);
     }
     public void HelpRemoveEatenPetals()
     {
@@ -435,7 +504,8 @@ public class HealthHarrassment : MonoBehaviour
 
     public void ValidateHarassmentEatenPetalsDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.RemoveEatenPetals);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.RemoveEatenPetals))
+            PlayHarassmentSound(HarassmentHelpActionType.RemoveEatenPetals);
     }
     public void HelpMagicPowder()
     {
@@ -456,7 +526,8 @@ public class HealthHarrassment : MonoBehaviour
 
     public void ValidateHarassmentMagicPowderDrag()
     {
-        DoHarassmentHelpAction(HarassmentHelpActionType.AddMagicPowder);
+        if (DoHarassmentHelpAction(HarassmentHelpActionType.AddMagicPowder))
+            PlayHarassmentSound(HarassmentHelpActionType.AddMagicPowder);
     }
     public void HelpLadybugs()
     {
