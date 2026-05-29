@@ -137,7 +137,7 @@ public class ChoiceFlowerManager : MonoBehaviour
         texteNomActuel.text = currentName;
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("LetterSelect");
+        SoundManagerY.Instance.PlaySFX("Letterselect");
     }
 
     public void RemoveLetter()
@@ -152,7 +152,7 @@ public class ChoiceFlowerManager : MonoBehaviour
         texteNomActuel.text = currentName;
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("RemoveLetter");
+        SoundManagerY.Instance.PlaySFX("Removeletter");
     }
 
     public void Continue()
@@ -179,7 +179,7 @@ public class ChoiceFlowerManager : MonoBehaviour
         }
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("SecondValidate");
+        SoundManagerY.Instance.PlaySFX("Secondvalidate");
     }
 
     public void StartGame()

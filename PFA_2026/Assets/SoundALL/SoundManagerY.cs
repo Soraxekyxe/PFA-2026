@@ -27,25 +27,29 @@ public class SoundManagerY : MonoBehaviour
     [SerializeField] private AudioSource musicSource;
     [SerializeField] private AudioSource sfxSource;
 
+    [Header("Master Volumes")]
+    [SerializeField, Range(0f, 1f)] private float musicMasterVolume = 0.25f;
+    [SerializeField, Range(0f, 1f)] private float sfxMasterVolume = 1f;
+
     [Header("Sounds")]
     [SerializeField] private List<Sound> sounds = new List<Sound>();
+
+    public IReadOnlyList<Sound> Sounds => sounds;
 
     [Header("Start Music")]
     [SerializeField] private string startMusicId = "background";
 
     private Dictionary<string, Sound> soundDictionary;
-    
 
     private void Awake()
     {
-        if (Instance != null)
+        if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
             return;
         }
 
         Instance = this;
-
         DontDestroyOnLoad(gameObject);
 
         BuildDictionary();
@@ -53,12 +57,8 @@ public class SoundManagerY : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log("promis je me lance");
-
         if (!string.IsNullOrWhiteSpace(startMusicId))
         {
-            Debug.Log("je marche pas aaah : " + startMusicId);
-
             PlayMusic(startMusicId);
         }
     }
@@ -69,17 +69,8 @@ public class SoundManagerY : MonoBehaviour
 
         foreach (Sound sound in sounds)
         {
-            if (string.IsNullOrWhiteSpace(sound.id))
-            {
-                Debug.LogWarning("Un son n'a pas d'id.");
+            if (sound == null || string.IsNullOrWhiteSpace(sound.id) || sound.clip == null)
                 continue;
-            }
-
-            if (sound.clip == null)
-            {
-                Debug.LogWarning($"Le son '{sound.id}' n'a pas de clip.");
-                continue;
-            }
 
             if (soundDictionary.ContainsKey(sound.id))
             {
@@ -93,7 +84,6 @@ public class SoundManagerY : MonoBehaviour
 
     public void PlaySFX(string id)
     {
-        Debug.Log("playsfx appelé wsh : " + id);
         if (!soundDictionary.TryGetValue(id, out Sound sound))
         {
             Debug.LogWarning($"SFX introuvable : {id}");
@@ -108,16 +98,15 @@ public class SoundManagerY : MonoBehaviour
 
         if (sfxSource == null)
         {
-            Debug.LogWarning("SFX Source non assignée dans l'Inspector.");
+            Debug.LogWarning("SFX Source non assignée.");
             return;
         }
 
-        sfxSource.PlayOneShot(sound.clip, sound.volume);
+        sfxSource.PlayOneShot(sound.clip, sound.volume * sfxMasterVolume);
     }
 
     public void PlayMusic(string id)
     {
-        Debug.Log("PlayMusic appelée avec : " + id);
         if (!soundDictionary.TryGetValue(id, out Sound sound))
         {
             Debug.LogWarning($"Musique introuvable : {id}");
@@ -132,19 +121,17 @@ public class SoundManagerY : MonoBehaviour
 
         if (musicSource == null)
         {
-            Debug.LogWarning("Music Source non assignée dans l'Inspector.");
+            Debug.LogWarning("Music Source non assignée.");
             return;
         }
 
         if (musicSource.clip == sound.clip && musicSource.isPlaying)
-        {
             return;
-        }
 
         musicSource.Stop();
 
         musicSource.clip = sound.clip;
-        musicSource.volume = sound.volume;
+        musicSource.volume = sound.volume * musicMasterVolume;
         musicSource.loop = true;
 
         musicSource.Play();
@@ -153,8 +140,6 @@ public class SoundManagerY : MonoBehaviour
     public void StopMusic()
     {
         if (musicSource != null)
-        {
             musicSource.Stop();
-        }
     }
 }
