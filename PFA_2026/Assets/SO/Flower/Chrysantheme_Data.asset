@@ -16,19 +16,19 @@ MonoBehaviour:
   flowerName: Chrysantheme
   stateVisuals:
   - state: 0
-    sprite: {fileID: -1905820876124019655, guid: 5445a962bddb12942a3da15227403b83, type: 3}
+    sprite: {fileID: -2419982886314059383, guid: 214775829bb3cf449972935c1dc35739, type: 3}
   - state: 1
-    sprite: {fileID: -9104527227827714951, guid: ca9b3d4ab4bfd6c4887d49b324c444d3, type: 3}
+    sprite: {fileID: -5512983313411282392, guid: 00d2db0db14947b43b54666345b85d6b, type: 3}
   - state: 2
-    sprite: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
+    sprite: {fileID: 8705562321151481407, guid: 3975e0e45e05f3b4d83109344d7eea14, type: 3}
   - state: 3
-    sprite: {fileID: -4253150923516122908, guid: c67698e551d8f154490ab35cb606d533, type: 3}
+    sprite: {fileID: 3477504557856178224, guid: 204cf82ea12865949a60a23f8f32e0e6, type: 3}
   - state: 4
-    sprite: {fileID: -6174330988520656004, guid: d1eceb38da155c04f96701a58b307fd7, type: 3}
+    sprite: {fileID: -6688331777263397249, guid: 5cab2692e703c32409de776adecc6c05, type: 3}
   - state: 5
-    sprite: {fileID: 4965576835819622114, guid: c07e6314869dfc042b80cbfc7fae77e7, type: 3}
+    sprite: {fileID: 1290591263600583184, guid: e68e62706e152de49a97a038782395b4, type: 3}
   - state: 6
-    sprite: {fileID: -4126170742856864810, guid: ae0dfbd64ede4fb46be1bc5d7cd912a6, type: 3}
+    sprite: {fileID: -5614065320660814865, guid: 1350da4248148a740ba344a207e57e12, type: 3}
   - state: 7
     sprite: {fileID: -7259777609259090230, guid: 4e87a0633e39ff041b0a0d4aba0c1e8b, type: 3}
   - state: 8
