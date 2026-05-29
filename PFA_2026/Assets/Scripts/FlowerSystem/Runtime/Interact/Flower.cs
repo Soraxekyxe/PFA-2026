@@ -25,6 +25,8 @@ public class Flower : MonoBehaviour, IPointerClickHandler
     private Vector3 iconBaseScale;
 
     private int progressIndex = 0;
+    
+    public Animator flowerAnimator;
 
     private enum StepType
     {
@@ -269,28 +271,63 @@ public class Flower : MonoBehaviour, IPointerClickHandler
 
     public void UpdateVisual()
     {
-        if (flowerData == null)
+        if (flowerData == null || flowerImage == null)
+            return;
+
+        bool useAnimation = currentState >= FlowerState.PetitePousseApparente;
+
+        if (useAnimation)
         {
-            Debug.LogError("flowerData est NULL sur " + gameObject.name);
+            if (flowerAnimator == null)
+                flowerAnimator = flowerImage.GetComponent<Animator>();
+
+            if (flowerAnimator != null)
+            {
+                flowerAnimator.enabled = true;
+
+                if (flowerAnimator.runtimeAnimatorController == null)
+                    flowerAnimator.runtimeAnimatorController = flowerData.animatorController;
+
+                flowerAnimator.SetInteger("Grow", GetGrowValue(currentState));
+            }
+
             return;
         }
 
-        if (flowerImage == null)
-        {
-            Debug.LogError("flowerImage est NULL sur " + gameObject.name);
-            return;
-        }
+        if (flowerAnimator != null)
+            flowerAnimator.enabled = false;
 
         Sprite sprite = flowerData.GetSpriteForState(currentState);
 
-        if (sprite == null)
+        if (sprite != null)
+            flowerImage.sprite = sprite;
+    }
+    
+    private int GetGrowValue(FlowerState state)
+    {
+        switch (state)
         {
-            Debug.LogError("Aucun sprite trouvé pour l'état : " + currentState + " sur " + flowerData.flowerName);
-            return;
-        }
+            case FlowerState.PetitePousseApparente:
+                return 0;
 
-        flowerImage.sprite = sprite;
-        Debug.Log("Sprite mis à jour : " + currentState + " pour " + flowerData.flowerName);
+            case FlowerState.PoussePlusLongue:
+                return 1;
+
+            case FlowerState.PlanteAvecFeuillesMortes:
+                return 2;
+
+            case FlowerState.PlanteSansFeuillesMortes:
+                return 3;
+
+            case FlowerState.FleurAvecPanneauSolaire:
+                return 6;
+
+            case FlowerState.FleurAvecCoccinelle:
+                return 7;
+
+            default:
+                return 0;
+        }
     }
     
     public void OnPointerClick(PointerEventData eventData)

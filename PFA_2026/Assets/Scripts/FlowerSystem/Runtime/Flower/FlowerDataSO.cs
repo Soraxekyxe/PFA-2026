@@ -13,6 +13,10 @@ public class FlowerDataSO : ScriptableObject
 
     [Header("Icone du tour")]
     public Sprite turnIcon;
+    
+    [Header("Animation")]
+    public RuntimeAnimatorController animatorController;
+    
     // Liste qui associe chaque état à un sprite
 
     public Sprite GetSpriteForState(FlowerState state)
