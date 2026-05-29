@@ -41,7 +41,9 @@ public class PauseMenu : MonoBehaviour
         if (SoundManagerY.Instance != null)
         {
             SoundManagerY.Instance.PlaySFX("bop");
-            SoundManagerY.Instance.PlayMusic("gamebackground");
+
+            SoundManagerY.Instance.StopMusic();
+            SoundManagerY.Instance.PlayMusic("GameBackground");
         }
 
         pauseMenuUI.SetActive(false);
@@ -53,20 +55,16 @@ public class PauseMenu : MonoBehaviour
 
     public void Pause()
     {
-        Debug.Log("PAUSE appelée");
-
         if (SoundManagerY.Instance != null)
         {
-            Debug.Log("Je lance pausemenu + bop");
             SoundManagerY.Instance.PlaySFX("bop");
+
+            SoundManagerY.Instance.StopMusic();
             SoundManagerY.Instance.PlayMusic("pausemenu");
-        }
-        else
-        {
-            Debug.LogWarning("SoundManagerY.Instance est NULL");
         }
 
         pauseMenuUI.SetActive(true);
+
         Time.timeScale = 0f;
         isPaused = true;
     }
@@ -79,7 +77,6 @@ public class PauseMenu : MonoBehaviour
         }
 
         actionToConfirm = ActionType.Quit;
-
         confirmMenuUI.SetActive(true);
     }
 
@@ -91,7 +88,6 @@ public class PauseMenu : MonoBehaviour
         }
 
         actionToConfirm = ActionType.MainMenu;
-
         confirmMenuUI.SetActive(true);
     }
 
@@ -107,7 +103,6 @@ public class PauseMenu : MonoBehaviour
         if (actionToConfirm == ActionType.Quit)
         {
             Application.Quit();
-
             Debug.Log("Quit Game");
         }
         else if (actionToConfirm == ActionType.MainMenu)
@@ -129,7 +124,6 @@ public class PauseMenu : MonoBehaviour
     private void CloseConfirmMenu()
     {
         confirmMenuUI.SetActive(false);
-
         actionToConfirm = ActionType.None;
     }
 }
