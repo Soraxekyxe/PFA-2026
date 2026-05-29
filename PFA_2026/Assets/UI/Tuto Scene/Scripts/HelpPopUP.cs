@@ -8,7 +8,7 @@ public class HelpPopup : MonoBehaviour
 
     public void ToggleHelp()
     {
-        
+        SoundManagerY.Instance.PlaySFX("Bop6");
         isOpen = !isOpen;
         helpPanel.SetActive(isOpen);
     }

@@ -87,6 +87,7 @@ namespace Tuto.UI
 
         public void ScrollToNext()
         {
+            SoundManagerY.Instance.PlaySFX("Bop7");
             ClearCurrentIndex();
             _currentIndex = (_currentIndex + 1) % _imagesForEntries.Count;
             ScrollTo(_currentIndex);
@@ -94,6 +95,7 @@ namespace Tuto.UI
 
         public void ScrollToPrevious()
         {
+            SoundManagerY.Instance.PlaySFX("Bop7");
             ClearCurrentIndex();
             _currentIndex = (_currentIndex - 1 + _imagesForEntries.Count) % _imagesForEntries.Count;
             ScrollTo(_currentIndex);

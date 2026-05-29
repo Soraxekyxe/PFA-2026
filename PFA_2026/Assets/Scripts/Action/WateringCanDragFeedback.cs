@@ -90,9 +90,7 @@ public class WateringCanDragFeedback : MonoBehaviour,
             targetRotationZ,
             rotationSpeed * Time.deltaTime
         );
-        // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Step7");
-        Debug.Log("son");
+        
 
         wateringCan.localRotation = Quaternion.Euler(0f, 0f, newZ);
 

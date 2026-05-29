@@ -10,6 +10,7 @@ public class MenuCarousel : MonoBehaviour
     //lance la scene
     public void LoadNumberOfPlayerScene()
     {
+        SoundManagerY.Instance.PlaySFX("Bop7");
         SceneManager.LoadScene(nameSceneNumber);
     }
 }

@@ -276,6 +276,10 @@ public class MenuInteract : MonoBehaviour
 
     public void ValidateWateringCanDrag(Flower flower)
     {
+        // Son du bouton
+        SoundManagerY.Instance.PlaySFX("Step7");
+        Debug.Log("son");
+        
         if (flower != turnManager.GetCurrentFlower())
             return;
 
