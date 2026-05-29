@@ -19,7 +19,7 @@ public class MenuManager : MonoBehaviour
     public void Play()
     {
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop1");
 
         // Charge la scène
         SceneManager.LoadScene(nomSceneJeu);
@@ -29,7 +29,7 @@ public class MenuManager : MonoBehaviour
     public void OpenRules()
     {
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop1");
 
         // Charge la scène
         SceneManager.LoadScene(nomSceneRegles);
@@ -38,7 +38,7 @@ public class MenuManager : MonoBehaviour
     public void QuitGame()
     {
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop1");
 
         Debug.Log("Quitter le jeu");
 

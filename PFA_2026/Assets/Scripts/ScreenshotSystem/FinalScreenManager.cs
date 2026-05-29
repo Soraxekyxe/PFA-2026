@@ -73,21 +73,21 @@ public class FinalScreenManager : MonoBehaviour
     public void Recommencer()
     {
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop5");
         SceneManager.LoadScene(sceneGame);
     }
 
     public void RetourMenu()
     {
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop5");
         SceneManager.LoadScene(sceneMenu);
     }
 
     public void MasquerUI()
     {
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop5");
         uiHidden = true;
         finalUI.SetActive(false);
     }

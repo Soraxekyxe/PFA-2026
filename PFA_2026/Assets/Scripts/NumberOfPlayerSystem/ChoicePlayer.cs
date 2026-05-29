@@ -34,7 +34,7 @@ public class ChoicePlayer : MonoBehaviour
         }
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop2");
 
         UpdateDisplay();
     }
@@ -52,7 +52,7 @@ public class ChoicePlayer : MonoBehaviour
         }
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop2");
 
         UpdateDisplay();
     }
@@ -68,7 +68,7 @@ public class ChoicePlayer : MonoBehaviour
     {
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop2");
         
         PlayerPrefs.SetInt("NombreJoueurs", nombreJoueurs);
         SceneManager.LoadScene(nomSceneJeu);

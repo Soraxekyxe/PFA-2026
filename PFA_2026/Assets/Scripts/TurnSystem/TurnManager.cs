@@ -78,6 +78,7 @@ public class TurnManager : MonoBehaviour
     /// Initialise la partie au lancement de la scène.
     void Start()
     {
+        SoundManagerY.Instance.PlayMusic("background");
         // Récupère le nombre de joueurs sauvegardé
         nombreJoueurs = PlayerPrefs.GetInt("NombreJoueurs", 1);
         
@@ -249,7 +250,7 @@ public class TurnManager : MonoBehaviour
         StartCoroutine(NextTurnRoutine());
         
         // Son du bouton
-        SoundManagerY.Instance.PlaySFX("Bop");
+        SoundManagerY.Instance.PlaySFX("Bop4");
     }
     
     IEnumerator NextTurnCooldown()
