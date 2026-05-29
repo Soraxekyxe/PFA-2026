@@ -58,7 +58,7 @@ public class FinalScreenManager : MonoBehaviour
                    "Peut-être qu’avec un peu plus de coopération, votre jardin pourrait devenir encore plus harmonieux !";
             
         }
-        
+
         else
         {
             SoundManagerY.Instance.PlayMusic("Happy Ending");
@@ -68,6 +68,8 @@ public class FinalScreenManager : MonoBehaviour
                    "Grâce à vous, aucune fleur n’a été laissée de côté.\n\n" +
                    "Un simple geste peut parfois tout changer !"; 
         }
+        
+        
     }
 
     public void Recommencer()
