@@ -12,25 +12,28 @@ namespace Tuto.UI
         [Header("Parts Setup")]
         [SerializeField] private List<CarouselEntry> entries = new List<CarouselEntry>();
 
-        [Space] 
+        [Space]
         [SerializeField] private RectTransform contentBoxHorizontal;
         [SerializeField] private Image carouselEntryPrefab;
         private List<Image> _imagesForEntries = new List<Image>();
 
-        [SerializeField] private ScrollRect scrollRect; 
+        [SerializeField] private ScrollRect scrollRect;
 
         [Space]
-        [SerializeField] private Transform indicatorParent; 
+        [SerializeField] private Transform indicatorParent;
         [SerializeField] private CarouselIndicator indicatorPrefab;
         private List<CarouselIndicator> _indicators = new List<CarouselIndicator>();
-        
+
         [Header("Animation Setup")]
-        [SerializeField, Range(0.25f, 1f)] private float duration = 0.5f;
+        [SerializeField, Range(0.25f, 1f)]
+        private float duration = 0.5f;
+
         [SerializeField] private AnimationCurve easeCurve;
-        
+
         [Header("Auto Scroll Setup")]
         [SerializeField] private bool autoScroll = false;
         [SerializeField] private float autoScrollInterval = 5f;
+
         private float _autoScrollTimer;
 
         [Header("Info Setup")]
@@ -45,7 +48,7 @@ namespace Tuto.UI
             scrollRect = GetComponentInChildren<ScrollRect>();
             textBoxController = GetComponentInChildren<CarouselTextBox>();
         }
-        
+
         private void Start()
         {
             foreach (var entry in entries)
@@ -62,21 +65,35 @@ namespace Tuto.UI
             _currentIndex = 0;
             scrollRect.horizontalNormalizedPosition = 0f;
 
-            _indicators[0].Activate(0.1f);
+            // Initialisation correcte de tous les indicateurs
+            RefreshIndicatorsInstant();
+
             _autoScrollTimer = autoScrollInterval;
 
             var headline = entries[0].Headline;
             var description = entries[0].Description;
 
             textBoxController.SetTextWithoutFade(headline, description);
+
             callToAction.onClick.RemoveAllListeners();
             callToAction.onClick.AddListener(entries[0].Interact);
+        }
+
+        private void RefreshIndicatorsInstant()
+        {
+            for (int i = 0; i < _indicators.Count; i++)
+            {
+                if (i == _currentIndex)
+                    _indicators[i].Activate(0f);
+                else
+                    _indicators[i].Deactivate(0f);
+            }
         }
 
         private void ClearCurrentIndex()
         {
             _indicators[_currentIndex].Deactivate(duration);
-            callToAction.onClick.RemoveAllListeners(); 
+            callToAction.onClick.RemoveAllListeners();
         }
 
         private void ScrollToSpecificIndex(int index)
@@ -88,16 +105,22 @@ namespace Tuto.UI
         public void ScrollToNext()
         {
             SoundManagerY.Instance.PlaySFX("Bop7");
+
             ClearCurrentIndex();
+
             _currentIndex = (_currentIndex + 1) % _imagesForEntries.Count;
+
             ScrollTo(_currentIndex);
         }
 
         public void ScrollToPrevious()
         {
             SoundManagerY.Instance.PlaySFX("Bop7");
+
             ClearCurrentIndex();
+
             _currentIndex = (_currentIndex - 1 + _imagesForEntries.Count) % _imagesForEntries.Count;
+
             ScrollTo(_currentIndex);
         }
 
@@ -106,20 +129,23 @@ namespace Tuto.UI
             _currentIndex = index;
             _autoScrollTimer = autoScrollInterval;
 
-            float targetHorizontalPosition = (float)_currentIndex / (_imagesForEntries.Count - 1);
-            
+            float targetHorizontalPosition =
+                (float)_currentIndex / (_imagesForEntries.Count - 1);
+
             if (_scrollCoroutine != null)
                 StopCoroutine(_scrollCoroutine);
 
-            _scrollCoroutine = StartCoroutine(LerpToPos(targetHorizontalPosition));
-            
+            _scrollCoroutine =
+                StartCoroutine(LerpToPos(targetHorizontalPosition));
+
             var headline = entries[_currentIndex].Headline;
             var description = entries[_currentIndex].Description;
-            
+
             textBoxController.SetText(headline, description, duration);
-            
+
             _indicators[_currentIndex].Activate(duration);
-            callToAction.onClick.AddListener(entries[_currentIndex].Interact); 
+
+            callToAction.onClick.AddListener(entries[_currentIndex].Interact);
         }
 
         private IEnumerator LerpToPos(float targetHorizontalPosition)
@@ -131,11 +157,14 @@ namespace Tuto.UI
             {
                 while (elapsedTime <= duration)
                 {
-                    float easeValue = easeCurve.Evaluate(elapsedTime / duration);
-                    float newPosition = Mathf.Lerp(initialPos, targetHorizontalPosition, easeValue);
-                    
+                    float easeValue =
+                        easeCurve.Evaluate(elapsedTime / duration);
+
+                    float newPosition =
+                        Mathf.Lerp(initialPos, targetHorizontalPosition, easeValue);
+
                     scrollRect.horizontalNormalizedPosition = newPosition;
-                    
+
                     elapsedTime += Time.deltaTime;
                     yield return null;
                 }

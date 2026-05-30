@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a15ca1d1bd3fcc94e9d91db718e0ac8a, type: 3}
-  m_Name: Entry1
+  m_Name: 3
   m_EditorClassIdentifier: Assembly-CSharp::Tuto.UI.CarouselEntry
-  <EntryGraphic>k__BackingField: {fileID: -6943342715952737927, guid: 36eb37dcb6a181e44aaacdc6d018623f, type: 3}
+  <EntryGraphic>k__BackingField: {fileID: -6470460504253458178, guid: ea7505260f7fe544ea17330d0580e3e4, type: 3}
   <Headline>k__BackingField: 
   <Description>k__BackingField: 
   levelNameToload: 
