@@ -12,9 +12,7 @@ public enum FlowerState
     PetitePousseApparente,
     PoussePlusLongue,
     PlanteAvecFeuillesMortes,
-    PlanteSansFeuillesMortes,
     PlanteAvecBourgeon,
-    FleurFinie,
-    FleurAvecCoccinelle,
-    FleurAvecPanneauSolaire
+    FleurAvecPanneauSolaire,
+    FleurAvecCoccinelle
 }

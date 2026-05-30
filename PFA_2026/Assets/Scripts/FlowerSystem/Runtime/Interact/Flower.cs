@@ -27,6 +27,11 @@ public class Flower : MonoBehaviour, IPointerClickHandler
     private int progressIndex = 0;
     
     public Animator flowerAnimator;
+    
+    private Vector3 originalScale;
+    
+    private Vector2 originalSize;
+    
 
     private enum StepType
     {
@@ -36,6 +41,12 @@ public class Flower : MonoBehaviour, IPointerClickHandler
     
     private void Awake()
     {
+        if (flowerImage != null)
+        {
+            originalScale = flowerImage.rectTransform.localScale;
+            originalSize = flowerImage.rectTransform.sizeDelta;
+        }
+
         if (actionAvailableIcon != null)
         {
             iconBaseScale = actionAvailableIcon.transform.localScale;
@@ -170,9 +181,9 @@ public class Flower : MonoBehaviour, IPointerClickHandler
 
         // Début du jour 6
         new FlowerStep(StepType.WaitNextDay, FlowerActionType.Water, 6, FlowerState.PlanteAvecFeuillesMortes),
-
+        
         // Jour 6
-        new FlowerStep(StepType.Action, FlowerActionType.RemoveDeadLeaves, 6, FlowerState.PlanteSansFeuillesMortes),
+        new FlowerStep(StepType.Action, FlowerActionType.RemoveDeadLeaves, 6, FlowerState.PlanteAvecBourgeon),
         new FlowerStep(StepType.Action, FlowerActionType.AddReflectivePanel, 6, FlowerState.FleurAvecPanneauSolaire),
 
         // Jour 7
@@ -278,6 +289,10 @@ public class Flower : MonoBehaviour, IPointerClickHandler
 
         if (useAnimation)
         {
+            // Taille plus grande pour les animations
+            flowerImage.rectTransform.sizeDelta =
+                originalSize * flowerData.animationSizeMultiplier;
+
             if (flowerAnimator == null)
                 flowerAnimator = flowerImage.GetComponent<Animator>();
 
@@ -285,14 +300,17 @@ public class Flower : MonoBehaviour, IPointerClickHandler
             {
                 flowerAnimator.enabled = true;
 
-                if (flowerAnimator.runtimeAnimatorController == null)
-                    flowerAnimator.runtimeAnimatorController = flowerData.animatorController;
+                flowerAnimator.runtimeAnimatorController =
+                    flowerData.animatorController;
 
                 flowerAnimator.SetInteger("Grow", GetGrowValue(currentState));
             }
 
             return;
         }
+
+        // Taille normale pour les sprites
+        flowerImage.rectTransform.sizeDelta = originalSize;
 
         if (flowerAnimator != null)
             flowerAnimator.enabled = false;
@@ -316,7 +334,7 @@ public class Flower : MonoBehaviour, IPointerClickHandler
             case FlowerState.PlanteAvecFeuillesMortes:
                 return 2;
 
-            case FlowerState.PlanteSansFeuillesMortes:
+            case FlowerState.PlanteAvecBourgeon:
                 return 3;
 
             case FlowerState.FleurAvecPanneauSolaire:

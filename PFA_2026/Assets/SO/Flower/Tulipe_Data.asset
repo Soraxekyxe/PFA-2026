@@ -41,9 +41,6 @@ MonoBehaviour:
     sprite: {fileID: -4534751488015109566, guid: ce346b48a263a574d8aaa49dd5984b96, type: 3}
   - state: 12
     sprite: {fileID: -6164018797961862705, guid: 000c8aaf686779d4591f2134ad0789fb, type: 3}
-  - state: 13
-    sprite: {fileID: 4107054803784323356, guid: 9f142a641cfb6a44f9df44ddc89e6c1b, type: 3}
-  - state: 14
-    sprite: {fileID: -1315587262164277528, guid: 55177ac071d304647ba6d29427589ee4, type: 3}
   turnIcon: {fileID: 4727135180296798984, guid: 39fa6a78150bd984e9c3d59f73e5711c, type: 3}
   animatorController: {fileID: 9100000, guid: 1bddbb91cfc99884cba93493393c8b2c, type: 2}
+  animationSizeMultiplier: 1.5

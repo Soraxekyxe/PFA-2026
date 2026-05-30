@@ -42,7 +42,7 @@ MonoBehaviour:
   trampledSoilVisual: {fileID: 3271725788977182322, guid: 1365b141f7f529541ba2fab2be618911, type: 3}
   rakedSoilVisual: {fileID: -5512983313411282392, guid: 00d2db0db14947b43b54666345b85d6b, type: 3}
   dugSoilVisual: {fileID: 8705562321151481407, guid: 3975e0e45e05f3b4d83109344d7eea14, type: 3}
-  missingFertilizerVisual: {fileID: -1352246446861443988, guid: 364e574ccb8eeb34eb7a796aebd98b7a, type: 3}
+  missingFertilizerVisual: {fileID: 8705562321151481407, guid: 3975e0e45e05f3b4d83109344d7eea14, type: 3}
   soilWithFertilizerVisual: {fileID: 903814370496890636, guid: f51284e185f350e469b0a3b0de6ace94, type: 3}
   missingSeedVisual: {fileID: 3477504557856178224, guid: 204cf82ea12865949a60a23f8f32e0e6, type: 3}
   soilWithSeedVisual: {fileID: -6688331777263397249, guid: 5cab2692e703c32409de776adecc6c05, type: 3}

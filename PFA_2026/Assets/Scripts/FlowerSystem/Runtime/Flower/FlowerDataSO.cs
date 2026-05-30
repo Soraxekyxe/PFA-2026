@@ -16,7 +16,9 @@ public class FlowerDataSO : ScriptableObject
     
     [Header("Animation")]
     public RuntimeAnimatorController animatorController;
-    
+
+    [Range(1f, 3f)]
+    public float animationSizeMultiplier = 1.5f;
     // Liste qui associe chaque état à un sprite
 
     public Sprite GetSpriteForState(FlowerState state)
