@@ -34,9 +34,11 @@ MonoBehaviour:
   deadLeaf: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
   bud: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
   flower: {fileID: -4039255311939179425, guid: dc512675b58f6434e95e8d46e0c6f0a1, type: 3}
-  FlowerGrow: 7
+  FlowerGrow: 1
   MaxHealth: 100
-  CurrentHealth: 100
+  CurrentHealth: 0
+  harassmentAnimatorController: {fileID: 9100000, guid: cfbc02acdbb58d7458051864fdea05ba, type: 2}
+  harassmentAnimationSizeMultiplier: 3
   currentState: 0
   currentFlowerHeatlyState: 6
   trampledSoilVisual: {fileID: 3271725788977182322, guid: 1365b141f7f529541ba2fab2be618911, type: 3}
@@ -49,7 +51,7 @@ MonoBehaviour:
   coveredSoilVisual: {fileID: 1290591263600583184, guid: e68e62706e152de49a97a038782395b4, type: 3}
   missingWaterVisual: {fileID: 1290591263600583184, guid: e68e62706e152de49a97a038782395b4, type: 3}
   wateredSoilVisual: {fileID: -5614065320660814865, guid: 1350da4248148a740ba344a207e57e12, type: 3}
-  featherFlowerVisual: {fileID: 6617520706313436259, guid: 426cdb26e7371394fa42a448a1a36bf6, type: 3}
+  featherFlowerVisual: {fileID: 21300000, guid: 8a96055e3d474cd4d94fcedbe27e9fea, type: 3}
   flowerWithDeadLeavesVisual: {fileID: 21300000, guid: 6673697924add6a4294d4ebd39e6cb5a, type: 3}
   flowerWithoutDeadLeavesVisual: {fileID: -7259777609259090230, guid: 4e87a0633e39ff041b0a0d4aba0c1e8b, type: 3}
   shadowFlowerVisual: {fileID: 1079049830552016589, guid: 893077978d4a4494b8c2bacb202ca06c, type: 3}

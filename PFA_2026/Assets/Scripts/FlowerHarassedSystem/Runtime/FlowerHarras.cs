@@ -6,17 +6,17 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
 {
     [Header("Sprite")]
     private Image flowerSprite;
-    [SerializeField] GameObject feather;
-    [SerializeField] GameObject petal;
+    [SerializeField] private GameObject feather;
+    [SerializeField] private GameObject petal;
 
     [Header("UI")]
     [SerializeField] private GameObject UIHealth;
 
     [Header("System")]
-    [SerializeField] HarassementState harrassmentState;
+    [SerializeField] private HarassementState harrassmentState;
     [SerializeField] private UIMenuInteract uiMenuInteract;
 
-    bool IsHealth = false;
+    private bool IsHealth = false;
 
     [Header("Indicateur action disponible")]
     [SerializeField] private GameObject actionAvailableIcon;
@@ -25,6 +25,15 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     [SerializeField] private float iconMinScale = 0.85f;
     [SerializeField] private float iconMaxScale = 1.15f;
 
+    [Header("Animation nouveau système")]
+    [SerializeField] private Animator harassmentAnimator;
+    
+    [Header("Animation lendemain engrais")]
+    [SerializeField] private FixedImageIntro fertilizerNextDayIntro;
+    
+    
+
+    private Vector2 originalSize;
     private Vector3 iconBaseScale;
 
     void Awake()
@@ -32,17 +41,45 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         if (flowerSprite == null)
             flowerSprite = GetComponent<Image>();
 
+        if (flowerSprite != null)
+            originalSize = flowerSprite.rectTransform.sizeDelta;
+
+        if (harassmentAnimator == null)
+            harassmentAnimator = GetComponent<Animator>();
+
+        if (harassmentAnimator != null)
+            harassmentAnimator.enabled = false;
+
         if (actionAvailableIcon != null)
         {
             iconBaseScale = actionAvailableIcon.transform.localScale;
             actionAvailableIcon.SetActive(false);
         }
+        
     }
-
+    
+    void Start()
+    {
+        UpdateHarassmentVisual(harrassmentState.currentHarassmentVisualState);
+    }
+    
     void Update()
     {
         UpdateActionAvailableIcon();
         AnimateActionAvailableIcon();
+    }
+    
+    public void PlayFertilizerNextDayIntro()
+    {
+        Debug.Log("Animation lendemain engrais demandée");
+
+        if (fertilizerNextDayIntro == null)
+        {
+            Debug.LogError("fertilizerNextDayIntro n'est pas assigné !");
+            return;
+        }
+
+        fertilizerNextDayIntro.PlayOnce();
     }
 
     void UpdateActionAvailableIcon()
@@ -83,7 +120,8 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
         flowerSprite.color = Color.white;
         IsHealth = false;
 
-        if (harrassmentState.currentState == HarassementState.State.Feather && harrassmentState.CurrentHealth == 0)
+        if (harrassmentState.currentState == HarassementState.State.Feather &&
+            harrassmentState.CurrentHealth == 0)
         {
             feather.SetActive(true);
             petal.SetActive(true);
@@ -131,11 +169,89 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     public void UpdateHarassmentVisual(HarassementState.HarassmentVisualState state)
     {
         harrassmentState.currentHarassmentVisualState = state;
-        flowerSprite.sprite = harrassmentState.GetHarassmentVisualSprite(state);
+        Debug.Log("Etat visuel fleur isolée : " + state);
+
         flowerSprite.color = Color.white;
+        flowerSprite.enabled = true;
+        flowerSprite.raycastTarget = true;
         IsHealth = false;
+
+        bool useAnimation =
+            state >= HarassementState.HarassmentVisualState.FlowerWithDeadLeaves;
+
+        if (!useAnimation)
+        {
+            if (harassmentAnimator != null)
+            {
+                harassmentAnimator.enabled = false;
+                harassmentAnimator.runtimeAnimatorController = null;
+            }
+
+            flowerSprite.rectTransform.sizeDelta = originalSize;
+
+            Sprite sprite = harrassmentState.GetHarassmentVisualSprite(state);
+
+            if (sprite == null)
+            {
+                Debug.LogError("Sprite manquant pour l'état : " + state);
+                return;
+            }
+            
+
+            flowerSprite.sprite = sprite;
+            return;
+        }
+
+        Sprite fallbackSprite = harrassmentState.GetHarassmentVisualSprite(state);
+        if (fallbackSprite != null)
+            flowerSprite.sprite = fallbackSprite;
+
+        if (harrassmentState.harassmentAnimatorController == null)
+            return;
+
+        flowerSprite.rectTransform.sizeDelta =
+            originalSize * harrassmentState.harassmentAnimationSizeMultiplier;
+
+        if (harassmentAnimator == null)
+            harassmentAnimator = GetComponent<Animator>();
+
+        if (harassmentAnimator != null)
+        {
+            harassmentAnimator.runtimeAnimatorController =
+                harrassmentState.harassmentAnimatorController;
+
+            harassmentAnimator.enabled = true;
+            harassmentAnimator.SetInteger("Grow", GetHarassmentGrowValue(state));
+        }
     }
-    
+
+    private int GetHarassmentGrowValue(HarassementState.HarassmentVisualState state)
+    {
+        switch (state)
+        {
+            case HarassementState.HarassmentVisualState.FlowerWithDeadLeaves:
+                return 0;
+            case HarassementState.HarassmentVisualState.FlowerWithoutDeadLeaves:
+                return 1;
+            case HarassementState.HarassmentVisualState.ShadowFlower:
+                return 2;
+            case HarassementState.HarassmentVisualState.FlowerWithoutShadow:
+                return 3;
+            case HarassementState.HarassmentVisualState.FlowerWithReflectivePanel:
+                return 4;
+            case HarassementState.HarassmentVisualState.EatenPetals:
+                return 5;
+            case HarassementState.HarassmentVisualState.NeedMagic:
+                return 6;
+            case HarassementState.HarassmentVisualState.FullyGrownFlower:
+                return 7;
+            case HarassementState.HarassmentVisualState.FlowerWithLadybug:
+                return 8;
+            default:
+                return 0;
+        }
+    }
+
     public HarassementState.HarassmentVisualState CurrentVisualState
     {
         get { return harrassmentState.currentHarassmentVisualState; }

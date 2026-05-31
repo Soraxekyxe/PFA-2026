@@ -28,6 +28,12 @@ public class HarassementState : ScriptableObject
     [Header("Vie")]
     public int MaxHealth = 100;
     public int CurrentHealth;
+    
+    [Header("Animation nouveau système fleur isolée")]
+    public RuntimeAnimatorController harassmentAnimatorController;
+
+    [Range(1f, 3f)]
+    public float harassmentAnimationSizeMultiplier = 1.5f;
 
     public enum State
     {

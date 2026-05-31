@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 957702d4784d376499bd2d33b96f62cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9001906032205400533
+    second: Anim_Corb_GratteTerre_SpriteSheet_0
+  - first:
+      213: -7504953597465545287
+    second: Anim_Corb_GratteTerre_SpriteSheet_1
+  - first:
+      213: 6403932238890362340
+    second: Anim_Corb_GratteTerre_SpriteSheet_2
+  - first:
+      213: 5430650916928364247
+    second: Anim_Corb_GratteTerre_SpriteSheet_3
+  - first:
+      213: -357561090375162027
+    second: Anim_Corb_GratteTerre_SpriteSheet_4
+  - first:
+      213: -6181397610512829523
+    second: Anim_Corb_GratteTerre_SpriteSheet_5
+  - first:
+      213: 5990584041684418858
+    second: Anim_Corb_GratteTerre_SpriteSheet_6
+  - first:
+      213: 387737572040144937
+    second: Anim_Corb_GratteTerre_SpriteSheet_7
+  - first:
+      213: 7829332681801884840
+    second: Anim_Corb_GratteTerre_SpriteSheet_8
+  - first:
+      213: -3895088897307566203
+    second: Anim_Corb_GratteTerre_SpriteSheet_9
+  - first:
+      213: -8473133633472419173
+    second: Anim_Corb_GratteTerre_SpriteSheet_10
+  - first:
+      213: 4456130505681317098
+    second: Anim_Corb_GratteTerre_SpriteSheet_11
+  - first:
+      213: -1429015017316669495
+    second: Anim_Corb_GratteTerre_SpriteSheet_12
+  - first:
+      213: -8977041265988663822
+    second: Anim_Corb_GratteTerre_SpriteSheet_13
+  - first:
+      213: 2731526321987511525
+    second: Anim_Corb_GratteTerre_SpriteSheet_14
+  - first:
+      213: -7847702697768394804
+    second: Anim_Corb_GratteTerre_SpriteSheet_15
+  - first:
+      213: -801531035851165251
+    second: Anim_Corb_GratteTerre_SpriteSheet_16
+  - first:
+      213: -4826932958623175357
+    second: Anim_Corb_GratteTerre_SpriteSheet_17
+  - first:
+      213: 2420388944305119103
+    second: Anim_Corb_GratteTerre_SpriteSheet_18
+  - first:
+      213: 6366716519143895809
+    second: Anim_Corb_GratteTerre_SpriteSheet_19
+  - first:
+      213: -2011584932145470847
+    second: Anim_Corb_GratteTerre_SpriteSheet_20
+  - first:
+      213: 3649202902797059540
+    second: Anim_Corb_GratteTerre_SpriteSheet_21
+  - first:
+      213: 1906536626645483752
+    second: Anim_Corb_GratteTerre_SpriteSheet_22
+  - first:
+      213: 1320058188565255222
+    second: Anim_Corb_GratteTerre_SpriteSheet_23
+  - first:
+      213: -1082982218204685841
+    second: Anim_Corb_GratteTerre_SpriteSheet_24
+  - first:
+      213: -5876697944554467717
+    second: Anim_Corb_GratteTerre_SpriteSheet_25
+  - first:
+      213: 8195141550814548289
+    second: Anim_Corb_GratteTerre_SpriteSheet_26
+  - first:
+      213: 8132805413003608588
+    second: Anim_Corb_GratteTerre_SpriteSheet_27
+  - first:
+      213: -8489496680091576896
+    second: Anim_Corb_GratteTerre_SpriteSheet_28
+  - first:
+      213: -5058386804362262659
+    second: Anim_Corb_GratteTerre_SpriteSheet_29
+  - first:
+      213: -2926161896863162710
+    second: Anim_Corb_GratteTerre_SpriteSheet_30
+  - first:
+      213: -5938723892652618879
+    second: Anim_Corb_GratteTerre_SpriteSheet_31
+  - first:
+      213: 179815788820312916
+    second: Anim_Corb_GratteTerre_SpriteSheet_32
+  - first:
+      213: -6109887971540839952
+    second: Anim_Corb_GratteTerre_SpriteSheet_33
+  - first:
+      213: -2965183964501569081
+    second: Anim_Corb_GratteTerre_SpriteSheet_34
+  - first:
+      213: 6632862259521633726
+    second: Anim_Corb_GratteTerre_SpriteSheet_35
+  - first:
+      213: -3627604275126032225
+    second: Anim_Corb_GratteTerre_SpriteSheet_36
+  - first:
+      213: 2913616993002321321
+    second: Anim_Corb_GratteTerre_SpriteSheet_37
+  - first:
+      213: 5108694099292178248
+    second: Anim_Corb_GratteTerre_SpriteSheet_38
+  - first:
+      213: 2790891982243556299
+    second: Anim_Corb_GratteTerre_SpriteSheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2673f8682ec21380800000000000000
+      internalID: -9001906032205400533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b64f477c09d790800000000000000
+      internalID: -7504953597465545287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e56bb811765fd850800000000000000
+      internalID: 6403932238890362340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1aa27c3c8d5b40800000000000000
+      internalID: 5430650916928364247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557efae2510b90bf0800000000000000
+      internalID: -357561090375162027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da33fe9af93473aa0800000000000000
+      internalID: -6181397610512829523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2149b94274d22350800000000000000
+      internalID: 5990584041684418858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92876877445816500800000000000000
+      internalID: 387737572040144937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4682fa79067ac60800000000000000
+      internalID: 7829332681801884840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1a63f84dd1f9c0800000000000000
+      internalID: -3895088897307566203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a267a5ad1696a80800000000000000
+      internalID: -8473133633472419173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecaae7d51b57dd30800000000000000
+      internalID: 4456130505681317098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7242ab96e1b2ce0800000000000000
+      internalID: -1429015017316669495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f509bee7842b6380800000000000000
+      internalID: -8977041265988663822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e1b4b7b458e520800000000000000
+      internalID: 2731526321987511525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd3aca9fb571390800000000000000
+      internalID: -7847702697768394804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1f3a305c360e4f0800000000000000
+      internalID: -801531035851165251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34de3ae5c0a430db0800000000000000
+      internalID: -4826932958623175357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fd69bcbe2f69120800000000000000
+      internalID: 2420388944305119103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103fe2d11fe1b5850800000000000000
+      internalID: 6366716519143895809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182e0fb792a6514e0800000000000000
+      internalID: -2011584932145470847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50b8ea4b294a230800000000000000
+      internalID: 3649202902797059540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0c97ee5f0657a10800000000000000
+      internalID: 1906536626645483752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6341744bde9c15210800000000000000
+      internalID: 1320058188565255222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe958d1196978f0f0800000000000000
+      internalID: -1082982218204685841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e00920b56c17ea0800000000000000
+      internalID: -5876697944554467717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141585c12ddfab170800000000000000
+      internalID: 8195141550814548289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0244750f678dd070800000000000000
+      internalID: 8132805413003608588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5984dafbf3f2a80800000000000000
+      internalID: -8489496680091576896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c67d70000dc9b0800000000000000
+      internalID: -5058386804362262659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae103e124f2467d0800000000000000
+      internalID: -2926161896863162710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc057951a659da0800000000000000
+      internalID: -5938723892652618879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45334a9d185de7200800000000000000
+      internalID: 179815788820312916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f150eee241553ba0800000000000000
+      internalID: -6109887971540839952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1133ef4ec89d6d0800000000000000
+      internalID: -2965183964501569081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdb1e62519ac0c50800000000000000
+      internalID: 6632862259521633726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ac63b12928adc0800000000000000
+      internalID: -3627604275126032225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5f177d73f3f6820800000000000000
+      internalID: 2913616993002321321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c17e573ab5e640800000000000000
+      internalID: 5108694099292178248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_GratteTerre_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbec18987d3bb620800000000000000
+      internalID: 2790891982243556299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b604c626c8c74949a3a1512fde7ca96
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Corb_GratteTerre_SpriteSheet_0: -9001906032205400533
+      Anim_Corb_GratteTerre_SpriteSheet_1: -7504953597465545287
+      Anim_Corb_GratteTerre_SpriteSheet_10: -8473133633472419173
+      Anim_Corb_GratteTerre_SpriteSheet_11: 4456130505681317098
+      Anim_Corb_GratteTerre_SpriteSheet_12: -1429015017316669495
+      Anim_Corb_GratteTerre_SpriteSheet_13: -8977041265988663822
+      Anim_Corb_GratteTerre_SpriteSheet_14: 2731526321987511525
+      Anim_Corb_GratteTerre_SpriteSheet_15: -7847702697768394804
+      Anim_Corb_GratteTerre_SpriteSheet_16: -801531035851165251
+      Anim_Corb_GratteTerre_SpriteSheet_17: -4826932958623175357
+      Anim_Corb_GratteTerre_SpriteSheet_18: 2420388944305119103
+      Anim_Corb_GratteTerre_SpriteSheet_19: 6366716519143895809
+      Anim_Corb_GratteTerre_SpriteSheet_2: 6403932238890362340
+      Anim_Corb_GratteTerre_SpriteSheet_20: -2011584932145470847
+      Anim_Corb_GratteTerre_SpriteSheet_21: 3649202902797059540
+      Anim_Corb_GratteTerre_SpriteSheet_22: 1906536626645483752
+      Anim_Corb_GratteTerre_SpriteSheet_23: 1320058188565255222
+      Anim_Corb_GratteTerre_SpriteSheet_24: -1082982218204685841
+      Anim_Corb_GratteTerre_SpriteSheet_25: -5876697944554467717
+      Anim_Corb_GratteTerre_SpriteSheet_26: 8195141550814548289
+      Anim_Corb_GratteTerre_SpriteSheet_27: 8132805413003608588
+      Anim_Corb_GratteTerre_SpriteSheet_28: -8489496680091576896
+      Anim_Corb_GratteTerre_SpriteSheet_29: -5058386804362262659
+      Anim_Corb_GratteTerre_SpriteSheet_3: 5430650916928364247
+      Anim_Corb_GratteTerre_SpriteSheet_30: -2926161896863162710
+      Anim_Corb_GratteTerre_SpriteSheet_31: -5938723892652618879
+      Anim_Corb_GratteTerre_SpriteSheet_32: 179815788820312916
+      Anim_Corb_GratteTerre_SpriteSheet_33: -6109887971540839952
+      Anim_Corb_GratteTerre_SpriteSheet_34: -2965183964501569081
+      Anim_Corb_GratteTerre_SpriteSheet_35: 6632862259521633726
+      Anim_Corb_GratteTerre_SpriteSheet_36: -3627604275126032225
+      Anim_Corb_GratteTerre_SpriteSheet_37: 2913616993002321321
+      Anim_Corb_GratteTerre_SpriteSheet_38: 5108694099292178248
+      Anim_Corb_GratteTerre_SpriteSheet_39: 2790891982243556299
+      Anim_Corb_GratteTerre_SpriteSheet_4: -357561090375162027
+      Anim_Corb_GratteTerre_SpriteSheet_5: -6181397610512829523
+      Anim_Corb_GratteTerre_SpriteSheet_6: 5990584041684418858
+      Anim_Corb_GratteTerre_SpriteSheet_7: 387737572040144937
+      Anim_Corb_GratteTerre_SpriteSheet_8: 7829332681801884840
+      Anim_Corb_GratteTerre_SpriteSheet_9: -3895088897307566203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

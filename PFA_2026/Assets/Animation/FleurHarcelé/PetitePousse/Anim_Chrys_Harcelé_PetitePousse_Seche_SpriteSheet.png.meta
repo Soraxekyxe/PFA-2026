@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: c18ee995c0c83994c8fed6ef65e93331
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7037771540903888010
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_0"
+  - first:
+      213: 8203972496788455143
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_1"
+  - first:
+      213: 1778581904853063343
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_2"
+  - first:
+      213: 6533669704521436451
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_3"
+  - first:
+      213: 3613322127290024342
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_4"
+  - first:
+      213: -2188398419887690225
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_5"
+  - first:
+      213: -4231161161885501329
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_6"
+  - first:
+      213: 4581692822694210734
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_7"
+  - first:
+      213: 4104026292136856344
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_8"
+  - first:
+      213: 8608592526284837197
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_9"
+  - first:
+      213: 3062275358804362184
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_10"
+  - first:
+      213: -7327166773188325571
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_11"
+  - first:
+      213: 2920492063529641593
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_12"
+  - first:
+      213: 4934490494760240375
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_13"
+  - first:
+      213: 7736997363604388997
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_14"
+  - first:
+      213: -3812654687974798823
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_15"
+  - first:
+      213: -4066512082781235025
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_16"
+  - first:
+      213: 995238056716539779
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_17"
+  - first:
+      213: 1210437170244939216
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_18"
+  - first:
+      213: 1663209621278898564
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_19"
+  - first:
+      213: -8286090360935976500
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_20"
+  - first:
+      213: 3968666952122722125
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_21"
+  - first:
+      213: 2145483397744387778
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_22"
+  - first:
+      213: -965257372323459613
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_23"
+  - first:
+      213: 5745800474492115912
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_24"
+  - first:
+      213: 3869898711139147644
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_25"
+  - first:
+      213: 128752493622028510
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_26"
+  - first:
+      213: -1362456377554562053
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_27"
+  - first:
+      213: 8968685943126252301
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_28"
+  - first:
+      213: -2691142617500933554
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_29"
+  - first:
+      213: -8298787809914090585
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_30"
+  - first:
+      213: -8030495497679179800
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_31"
+  - first:
+      213: -6474670416184305406
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_32"
+  - first:
+      213: -5786713293261266641
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_33"
+  - first:
+      213: 58576741026887457
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_34"
+  - first:
+      213: 7319107816237322182
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_35"
+  - first:
+      213: -773094117430733791
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_36"
+  - first:
+      213: 5872023223702014779
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_37"
+  - first:
+      213: -7130055922604649187
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_38"
+  - first:
+      213: 1628819837642937898
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_39"
+  - first:
+      213: 6807696295712594859
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_40"
+  - first:
+      213: -3977666494715739221
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_41"
+  - first:
+      213: 646468169660452701
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_42"
+  - first:
+      213: -1740612997891862801
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_43"
+  - first:
+      213: 7860668460450897453
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_44"
+  - first:
+      213: -4213580143403959641
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_45"
+  - first:
+      213: -182455812230498882
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_46"
+  - first:
+      213: -4659461848860600772
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_47"
+  - first:
+      213: -1645965313530291123
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_48"
+  - first:
+      213: -3132350133332004538
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_49"
+  - first:
+      213: -6413706087355324459
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_50"
+  - first:
+      213: -1674193305797878547
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_51"
+  - first:
+      213: -1892993884547676690
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_52"
+  - first:
+      213: -8410060098344581049
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_53"
+  - first:
+      213: -155300746529315956
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_54"
+  - first:
+      213: 846669045237671524
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_55"
+  - first:
+      213: 8186723509404039029
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_56"
+  - first:
+      213: -7053991371927991869
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_57"
+  - first:
+      213: -1373640209445940874
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_58"
+  - first:
+      213: 1498861370860749850
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_59"
+  - first:
+      213: -7938812471126938699
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_60"
+  - first:
+      213: -5443034925412822270
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_61"
+  - first:
+      213: 4621841894657990714
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_62"
+  - first:
+      213: 8138881303731685558
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_63"
+  - first:
+      213: -4738493046540503548
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_64"
+  - first:
+      213: 2203029437826635956
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_65"
+  - first:
+      213: -3464079379207175482
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_66"
+  - first:
+      213: 8777209287314443406
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_67"
+  - first:
+      213: 7193995456219656208
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_68"
+  - first:
+      213: -1453899332806440903
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_69"
+  - first:
+      213: 1277964951580421336
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_70"
+  - first:
+      213: 5065094853408065943
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_71"
+  - first:
+      213: -7588358650561821034
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_72"
+  - first:
+      213: 41476525203163478
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_73"
+  - first:
+      213: -5484905338950885977
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_74"
+  - first:
+      213: -3260103068672406012
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_75"
+  - first:
+      213: 8958920011683549575
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_76"
+  - first:
+      213: -423435823796190049
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_77"
+  - first:
+      213: 4692578917472554192
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_78"
+  - first:
+      213: 4199293600725339855
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_79"
+  - first:
+      213: 8210933382973878432
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_80"
+  - first:
+      213: -6727496883335544384
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_81"
+  - first:
+      213: -8305627295727540395
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_82"
+  - first:
+      213: -1962681642461048046
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_83"
+  - first:
+      213: 4329154890635838187
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_84"
+  - first:
+      213: 5926710347015723377
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_85"
+  - first:
+      213: -5395953959248000987
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_86"
+  - first:
+      213: 3442427887740348604
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_87"
+  - first:
+      213: -2981545578732407286
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_88"
+  - first:
+      213: 3399752452417325948
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_89"
+  - first:
+      213: 4570708940670552862
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_90"
+  - first:
+      213: 4919337223664065876
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_91"
+  - first:
+      213: -1183105375467969586
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_92"
+  - first:
+      213: 5410647392865592255
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_93"
+  - first:
+      213: -2909767340372167585
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_94"
+  - first:
+      213: 7943162513909419917
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_95"
+  - first:
+      213: 4610657910361722342
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_96"
+  - first:
+      213: -2624019156631229853
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_97"
+  - first:
+      213: 8854032168364436603
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_98"
+  - first:
+      213: -2283101483807617461
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_99"
+  - first:
+      213: -6550504978328104988
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_100"
+  - first:
+      213: 1103222152659789153
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_101"
+  - first:
+      213: -6579602446410570237
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_102"
+  - first:
+      213: -3383377387513714163
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_103"
+  - first:
+      213: -6675273692887162968
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_104"
+  - first:
+      213: 8448668433891725079
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_105"
+  - first:
+      213: 248561460365899745
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_106"
+  - first:
+      213: 7042689463597433978
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_107"
+  - first:
+      213: 3636634251168780969
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_108"
+  - first:
+      213: 880049229924781195
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_109"
+  - first:
+      213: 3697298845967514535
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_110"
+  - first:
+      213: -2056460183603445794
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_111"
+  - first:
+      213: -2821791767158852920
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_112"
+  - first:
+      213: 8054737014218625987
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_113"
+  - first:
+      213: 6519427790692351878
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_114"
+  - first:
+      213: -4453305549779770086
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_115"
+  - first:
+      213: -1185472248516408661
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_116"
+  - first:
+      213: -6846953046637897618
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_117"
+  - first:
+      213: 4682189798600987519
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_118"
+  - first:
+      213: 4427924024356305220
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_119"
+  - first:
+      213: 3596604114664331553
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_120"
+  - first:
+      213: 5824864533628037990
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_121"
+  - first:
+      213: -5975757647807698007
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_122"
+  - first:
+      213: 1580081141043585625
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_123"
+  - first:
+      213: 2804939970460680245
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_124"
+  - first:
+      213: 1844758969438518356
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_125"
+  - first:
+      213: 277592573722914857
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_126"
+  - first:
+      213: 3045590482975650503
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_127"
+  - first:
+      213: -801069405229270002
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_128"
+  - first:
+      213: -3167082839191025055
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_129"
+  - first:
+      213: -8996565213281082075
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_130"
+  - first:
+      213: 4381202655076709744
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_131"
+  - first:
+      213: 3749421226648124025
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_132"
+  - first:
+      213: 2367389967945391439
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_133"
+  - first:
+      213: -1628288368390719576
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_134"
+  - first:
+      213: -5106247999136283928
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_135"
+  - first:
+      213: 8245112451855648333
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_136"
+  - first:
+      213: 6721328971150749227
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_137"
+  - first:
+      213: -536267544566942975
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_138"
+  - first:
+      213: -5047790043788846100
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_139"
+  - first:
+      213: -9150266797263346856
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_140"
+  - first:
+      213: -5755359749423300348
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_141"
+  - first:
+      213: -7312920822234053015
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_142"
+  - first:
+      213: 338704209121075953
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_143"
+  - first:
+      213: 7594021447849467837
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_144"
+  - first:
+      213: -8402892028718648863
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_145"
+  - first:
+      213: 7143897505116611301
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_146"
+  - first:
+      213: 2007712970318158758
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_147"
+  - first:
+      213: 3503086923952451389
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_148"
+  - first:
+      213: 8789588183368724419
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_149"
+  - first:
+      213: 8327498670447615539
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_150"
+  - first:
+      213: 321356054461028410
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_151"
+  - first:
+      213: 4739116451159889220
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_152"
+  - first:
+      213: 5112384521328222741
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_153"
+  - first:
+      213: -5327011325614665439
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_154"
+  - first:
+      213: 5313596569619112155
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_155"
+  - first:
+      213: -1829181233806980805
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_156"
+  - first:
+      213: -1842565782694942384
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_157"
+  - first:
+      213: 5509510482311746547
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_158"
+  - first:
+      213: 6001355134754994891
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_159"
+  - first:
+      213: 3276384963552385152
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_160"
+  - first:
+      213: -8108379134569207617
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_161"
+  - first:
+      213: -5899051633327370047
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_162"
+  - first:
+      213: -7939120227132609892
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_163"
+  - first:
+      213: -2656878435326159532
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_164"
+  - first:
+      213: -7557601594482321251
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_165"
+  - first:
+      213: -7455450182682637576
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_166"
+  - first:
+      213: 1187162567249037703
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_167"
+  - first:
+      213: 8240579303483455929
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_168"
+  - first:
+      213: -5637850211755300080
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_169"
+  - first:
+      213: 3224947759852988588
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_170"
+  - first:
+      213: -646863221958788722
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_171"
+  - first:
+      213: -3039659145711915561
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_172"
+  - first:
+      213: -1430081144765496191
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_173"
+  - first:
+      213: 3482335528072753423
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_174"
+  - first:
+      213: -4239893784525805246
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_175"
+  - first:
+      213: -1156136071906350533
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_176"
+  - first:
+      213: 5462420817553347474
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_177"
+  - first:
+      213: -3939777782205157370
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_178"
+  - first:
+      213: -6980275991577522018
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_179"
+  - first:
+      213: -8328094269658474527
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_180"
+  - first:
+      213: 1573919240059674487
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_181"
+  - first:
+      213: -4952335365507344970
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_182"
+  - first:
+      213: -5612325058476067402
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_183"
+  - first:
+      213: 3193618275071829353
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_184"
+  - first:
+      213: -5360069161242102309
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_185"
+  - first:
+      213: -2446548896307224143
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_186"
+  - first:
+      213: -2480937058173049858
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_187"
+  - first:
+      213: -5606886773080042624
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_188"
+  - first:
+      213: 5457418839087929832
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_189"
+  - first:
+      213: 2655462000666943738
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_190"
+  - first:
+      213: -8468607558861147808
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_191"
+  - first:
+      213: -5500818798243455940
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_192"
+  - first:
+      213: 6989403304408274589
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_193"
+  - first:
+      213: -3069805298103989910
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_194"
+  - first:
+      213: -2657339665549841241
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_195"
+  - first:
+      213: -2618902767933107028
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_196"
+  - first:
+      213: 1522078595463298526
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_197"
+  - first:
+      213: 8587424746156010743
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_198"
+  - first:
+      213: -6628701210487918231
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_199"
+  - first:
+      213: -9164357659327572516
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_200"
+  - first:
+      213: -3946755295394775994
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_201"
+  - first:
+      213: 6272240398696376014
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_202"
+  - first:
+      213: 4252836631282377989
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_203"
+  - first:
+      213: 6186114980650257630
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_204"
+  - first:
+      213: 877278132032521715
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_205"
+  - first:
+      213: -8416953975088483740
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_206"
+  - first:
+      213: 2391465873410942639
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_207"
+  - first:
+      213: -2900798763595237699
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_208"
+  - first:
+      213: 3364303834628605255
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_209"
+  - first:
+      213: -4965577623691356295
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_210"
+  - first:
+      213: -9116574296010636246
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_211"
+  - first:
+      213: 7801591454489307616
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_212"
+  - first:
+      213: -6468232026822555510
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_213"
+  - first:
+      213: 4276884649930860532
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_214"
+  - first:
+      213: 7407226220656482312
+    second: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_215"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840ee1cdef2ba160800000000000000
+      internalID: 7037771540903888010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_1"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee7622f48d5ad170800000000000000
+      internalID: 8203972496788455143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_2"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa654b2b1dacea810800000000000000
+      internalID: 1778581904853063343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_3"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4bb9baf14caa50800000000000000
+      internalID: 6533669704521436451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_4"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914e20a459152230800000000000000
+      internalID: 3613322127290024342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_5"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e61935b3f31a1e0800000000000000
+      internalID: -2188398419887690225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_6"
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68b2664755e745c0800000000000000
+      internalID: -4231161161885501329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac25aee851759f30800000000000000
+      internalID: 4581692822694210734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_8"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4eab2b2e64f830800000000000000
+      internalID: 4104026292136856344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_9"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d415a49da4dd77770800000000000000
+      internalID: 8608592526284837197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_10"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c347f5d6336f7a20800000000000000
+      internalID: 3062275358804362184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_11"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f801a04aca05a90800000000000000
+      internalID: -7327166773188325571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_12"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9762800fe0ca78820800000000000000
+      internalID: 2920492063529641593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_13"
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c9bff5f4da7440800000000000000
+      internalID: 4934490494760240375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf5cd1c165f5b60800000000000000
+      internalID: 7736997363604388997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_15"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ac808f2cab61bc0800000000000000
+      internalID: -3812654687974798823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_16"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa89df65ec8d097c0800000000000000
+      internalID: -4066512082781235025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_17"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3871a855dbbcfcd00800000000000000
+      internalID: 995238056716539779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_18"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde06371365cc010800000000000000
+      internalID: 1210437170244939216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_19"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893757a658e41710800000000000000
+      internalID: 1663209621278898564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_20"
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17f93e7b4e10d80800000000000000
+      internalID: -8286090360935976500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476b19e099831730800000000000000
+      internalID: 3968666952122722125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_22"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66d0278c946cd10800000000000000
+      internalID: 2145483397744387778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_23"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed45d5b887ba92f0800000000000000
+      internalID: -965257372323459613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_24"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb9f58c61f2dbf40800000000000000
+      internalID: 5745800474492115912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_25"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fd03acf54a4b530800000000000000
+      internalID: 3869898711139147644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_26"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed86946f5bb69c100800000000000000
+      internalID: 128752493622028510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_27"
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf315e9a425971de0800000000000000
+      internalID: -1362456377554562053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b541ed85c277c70800000000000000
+      internalID: 8968685943126252301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_29"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4221f33c0427aad0800000000000000
+      internalID: -2691142617500933554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_30"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab8abba478c4dc80800000000000000
+      internalID: -8298787809914090585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_31"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef657a64e2fd8090800000000000000
+      internalID: -8030495497679179800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_32"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2099a9d8f895526a0800000000000000
+      internalID: -6474670416184305406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_33"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21a12a4be671bfa0800000000000000
+      internalID: -5786713293261266641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_34"
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f1015c3b10d000800000000000000
+      internalID: 58576741026887457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4c93d7c1b29560800000000000000
+      internalID: 7319107816237322182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_36"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124d8980ffa6545f0800000000000000
+      internalID: -773094117430733791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_37"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4a99b20e9d7150800000000000000
+      internalID: 5872023223702014779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_38"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15da704ae3fc0d90800000000000000
+      internalID: -7130055922604649187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_39"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2611d1330bba9610800000000000000
+      internalID: 1628819837642937898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f8cb815cd7ddca4ba132262b940d9da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_0": 7037771540903888010
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_1": 8203972496788455143
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_10": 3062275358804362184
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_11": -7327166773188325571
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_12": 2920492063529641593
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_13": 4934490494760240375
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_14": 7736997363604388997
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_15": -3812654687974798823
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_16": -4066512082781235025
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_17": 995238056716539779
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_18": 1210437170244939216
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_19": 1663209621278898564
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_2": 1778581904853063343
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_20": -8286090360935976500
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_21": 3968666952122722125
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_22": 2145483397744387778
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_23": -965257372323459613
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_24": 5745800474492115912
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_25": 3869898711139147644
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_26": 128752493622028510
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_27": -1362456377554562053
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_28": 8968685943126252301
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_29": -2691142617500933554
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_3": 6533669704521436451
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_30": -8298787809914090585
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_31": -8030495497679179800
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_32": -6474670416184305406
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_33": -5786713293261266641
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_34": 58576741026887457
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_35": 7319107816237322182
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_36": -773094117430733791
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_37": 5872023223702014779
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_38": -7130055922604649187
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_39": 1628819837642937898
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_4": 3613322127290024342
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_5": -2188398419887690225
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_6": -4231161161885501329
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_7": 4581692822694210734
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_8": 4104026292136856344
+      "Anim_Chrys_Harcel\xE9_PetitePousse_Seche_SpriteSheet_9": 8608592526284837197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

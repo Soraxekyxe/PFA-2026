@@ -1,0 +1,1162 @@
+fileFormatVersion: 2
+guid: a86832a19bf98a24cb85f9ffd6805f98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7038140834079919460
+    second: Anim_Corb_BoitArrosoir_spritesheet_0
+  - first:
+      213: 5494995298002131495
+    second: Anim_Corb_BoitArrosoir_spritesheet_1
+  - first:
+      213: -612894542023934047
+    second: Anim_Corb_BoitArrosoir_spritesheet_2
+  - first:
+      213: -1291827241200397845
+    second: Anim_Corb_BoitArrosoir_spritesheet_3
+  - first:
+      213: 2936026424358978642
+    second: Anim_Corb_BoitArrosoir_spritesheet_4
+  - first:
+      213: -2446909750893358287
+    second: Anim_Corb_BoitArrosoir_spritesheet_5
+  - first:
+      213: 152768410105707582
+    second: Anim_Corb_BoitArrosoir_spritesheet_6
+  - first:
+      213: 4904052816324498567
+    second: Anim_Corb_BoitArrosoir_spritesheet_7
+  - first:
+      213: -6475608536113313068
+    second: Anim_Corb_BoitArrosoir_spritesheet_8
+  - first:
+      213: -4243107567332005825
+    second: Anim_Corb_BoitArrosoir_spritesheet_9
+  - first:
+      213: 4340483433114950503
+    second: Anim_Corb_BoitArrosoir_spritesheet_10
+  - first:
+      213: 4962747419089879510
+    second: Anim_Corb_BoitArrosoir_spritesheet_11
+  - first:
+      213: -138512292684587016
+    second: Anim_Corb_BoitArrosoir_spritesheet_12
+  - first:
+      213: 9030776462451346396
+    second: Anim_Corb_BoitArrosoir_spritesheet_13
+  - first:
+      213: -744076949727271813
+    second: Anim_Corb_BoitArrosoir_spritesheet_14
+  - first:
+      213: 3105612001721299662
+    second: Anim_Corb_BoitArrosoir_spritesheet_15
+  - first:
+      213: -8364219995722485144
+    second: Anim_Corb_BoitArrosoir_spritesheet_16
+  - first:
+      213: -7677389040769895951
+    second: Anim_Corb_BoitArrosoir_spritesheet_17
+  - first:
+      213: 622186869491997215
+    second: Anim_Corb_BoitArrosoir_spritesheet_18
+  - first:
+      213: 5245859285652735088
+    second: Anim_Corb_BoitArrosoir_spritesheet_19
+  - first:
+      213: -4897655119207534741
+    second: Anim_Corb_BoitArrosoir_spritesheet_20
+  - first:
+      213: 5816173159990454029
+    second: Anim_Corb_BoitArrosoir_spritesheet_21
+  - first:
+      213: 7861618336821317075
+    second: Anim_Corb_BoitArrosoir_spritesheet_22
+  - first:
+      213: -3128967819682358481
+    second: Anim_Corb_BoitArrosoir_spritesheet_23
+  - first:
+      213: -1755866535133047936
+    second: Anim_Corb_BoitArrosoir_spritesheet_24
+  - first:
+      213: 6507391820098229144
+    second: Anim_Corb_BoitArrosoir_spritesheet_25
+  - first:
+      213: 653075634166861028
+    second: Anim_Corb_BoitArrosoir_spritesheet_26
+  - first:
+      213: -2715205256689862750
+    second: Anim_Corb_BoitArrosoir_spritesheet_27
+  - first:
+      213: -7124068070151370590
+    second: Anim_Corb_BoitArrosoir_spritesheet_28
+  - first:
+      213: 7204965796737813975
+    second: Anim_Corb_BoitArrosoir_spritesheet_29
+  - first:
+      213: 6842310989855460607
+    second: Anim_Corb_BoitArrosoir_spritesheet_30
+  - first:
+      213: -5468893336845141588
+    second: Anim_Corb_BoitArrosoir_spritesheet_31
+  - first:
+      213: 3789347403418074483
+    second: Anim_Corb_BoitArrosoir_spritesheet_32
+  - first:
+      213: -5069662352383054624
+    second: Anim_Corb_BoitArrosoir_spritesheet_33
+  - first:
+      213: -4525440999560516198
+    second: Anim_Corb_BoitArrosoir_spritesheet_34
+  - first:
+      213: -4108127678067986786
+    second: Anim_Corb_BoitArrosoir_spritesheet_35
+  - first:
+      213: 6859712738817143190
+    second: Anim_Corb_BoitArrosoir_spritesheet_36
+  - first:
+      213: 2340241284511724517
+    second: Anim_Corb_BoitArrosoir_spritesheet_37
+  - first:
+      213: 1767621296836392733
+    second: Anim_Corb_BoitArrosoir_spritesheet_38
+  - first:
+      213: 6543073401033657127
+    second: Anim_Corb_BoitArrosoir_spritesheet_39
+  - first:
+      213: -8628366547357853838
+    second: Anim_Corb_BoitArrosoir_spritesheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92be797330835e90800000000000000
+      internalID: -7038140834079919460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72adbdb1c15224c40800000000000000
+      internalID: 5494995298002131495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af33e949af8e77f0800000000000000
+      internalID: -612894542023934047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d311f7f1821ee0800000000000000
+      internalID: -1291827241200397845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254c31b2a7cdeb820800000000000000
+      internalID: 2936026424358978642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133df8cbb84da0ed0800000000000000
+      internalID: -2446909750893358287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c70414f0ebe1200800000000000000
+      internalID: 152768410105707582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78496ccbd02be0440800000000000000
+      internalID: 4904052816324498567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8a7c78540226a0800000000000000
+      internalID: -6475608536113313068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38676106247d15c0800000000000000
+      internalID: -4243107567332005825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd8408fae7c3c30800000000000000
+      internalID: 4340483433114950503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c6d0eb783fd440800000000000000
+      internalID: 4962747419089879510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff928dbdc7e31ef0800000000000000
+      internalID: -138512292684587016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb0f527853c35d70800000000000000
+      internalID: 9030776462451346396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7423fdd4f18ca5f0800000000000000
+      internalID: -744076949727271813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b9cc49a9591b20800000000000000
+      internalID: 3105612001721299662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862fdbbba325ceb80800000000000000
+      internalID: -8364219995722485144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1fe6e085f647590800000000000000
+      internalID: -7677389040769895951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9bfb49a372a800800000000000000
+      internalID: 622186869491997215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074040ff9390dc840800000000000000
+      internalID: 5245859285652735088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fe2433e98080cb0800000000000000
+      internalID: -4897655119207534741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0764617ca237b050800000000000000
+      internalID: 5816173159990454029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd8ee589341a1d60800000000000000
+      internalID: 7861618336821317075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b5432985ca394d0800000000000000
+      internalID: -3128967819682358481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083166470b8e1a7e0800000000000000
+      internalID: -1755866535133047936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893dc3bf166ee4a50800000000000000
+      internalID: 6507391820098229144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8af144d0301900800000000000000
+      internalID: 653075634166861028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a73abe6437a15ad0800000000000000
+      internalID: -2715205256689862750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8cceac5d9322d90800000000000000
+      internalID: -7124068070151370590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd8565f73e2df360800000000000000
+      internalID: 7204965796737813975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc0619d795c4fe50800000000000000
+      internalID: 6842310989855460607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca938de4c769a14b0800000000000000
+      internalID: -5468893336845141588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7847f267769430800000000000000
+      internalID: 3789347403418074483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec690363f0f4a9b0800000000000000
+      internalID: -5069662352383054624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de43143676231c0800000000000000
+      internalID: -4525440999560516198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eaec084affcf6c0800000000000000
+      internalID: -4108127678067986786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fa624468923f50800000000000000
+      internalID: 6859712738817143190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e376049c053a7020800000000000000
+      internalID: 2340241284511724517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173957443ad78810800000000000000
+      internalID: 1767621296836392733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_BoitArrosoir_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b0bef679aadca50800000000000000
+      internalID: 6543073401033657127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 55d5087e9d40e944f80e2a5ae660d188
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Corb_BoitArrosoir_spritesheet_0: -7038140834079919460
+      Anim_Corb_BoitArrosoir_spritesheet_1: 5494995298002131495
+      Anim_Corb_BoitArrosoir_spritesheet_10: 4340483433114950503
+      Anim_Corb_BoitArrosoir_spritesheet_11: 4962747419089879510
+      Anim_Corb_BoitArrosoir_spritesheet_12: -138512292684587016
+      Anim_Corb_BoitArrosoir_spritesheet_13: 9030776462451346396
+      Anim_Corb_BoitArrosoir_spritesheet_14: -744076949727271813
+      Anim_Corb_BoitArrosoir_spritesheet_15: 3105612001721299662
+      Anim_Corb_BoitArrosoir_spritesheet_16: -8364219995722485144
+      Anim_Corb_BoitArrosoir_spritesheet_17: -7677389040769895951
+      Anim_Corb_BoitArrosoir_spritesheet_18: 622186869491997215
+      Anim_Corb_BoitArrosoir_spritesheet_19: 5245859285652735088
+      Anim_Corb_BoitArrosoir_spritesheet_2: -612894542023934047
+      Anim_Corb_BoitArrosoir_spritesheet_20: -4897655119207534741
+      Anim_Corb_BoitArrosoir_spritesheet_21: 5816173159990454029
+      Anim_Corb_BoitArrosoir_spritesheet_22: 7861618336821317075
+      Anim_Corb_BoitArrosoir_spritesheet_23: -3128967819682358481
+      Anim_Corb_BoitArrosoir_spritesheet_24: -1755866535133047936
+      Anim_Corb_BoitArrosoir_spritesheet_25: 6507391820098229144
+      Anim_Corb_BoitArrosoir_spritesheet_26: 653075634166861028
+      Anim_Corb_BoitArrosoir_spritesheet_27: -2715205256689862750
+      Anim_Corb_BoitArrosoir_spritesheet_28: -7124068070151370590
+      Anim_Corb_BoitArrosoir_spritesheet_29: 7204965796737813975
+      Anim_Corb_BoitArrosoir_spritesheet_3: -1291827241200397845
+      Anim_Corb_BoitArrosoir_spritesheet_30: 6842310989855460607
+      Anim_Corb_BoitArrosoir_spritesheet_31: -5468893336845141588
+      Anim_Corb_BoitArrosoir_spritesheet_32: 3789347403418074483
+      Anim_Corb_BoitArrosoir_spritesheet_33: -5069662352383054624
+      Anim_Corb_BoitArrosoir_spritesheet_34: -4525440999560516198
+      Anim_Corb_BoitArrosoir_spritesheet_35: -4108127678067986786
+      Anim_Corb_BoitArrosoir_spritesheet_36: 6859712738817143190
+      Anim_Corb_BoitArrosoir_spritesheet_37: 2340241284511724517
+      Anim_Corb_BoitArrosoir_spritesheet_38: 1767621296836392733
+      Anim_Corb_BoitArrosoir_spritesheet_39: 6543073401033657127
+      Anim_Corb_BoitArrosoir_spritesheet_4: 2936026424358978642
+      Anim_Corb_BoitArrosoir_spritesheet_5: -2446909750893358287
+      Anim_Corb_BoitArrosoir_spritesheet_6: 152768410105707582
+      Anim_Corb_BoitArrosoir_spritesheet_7: 4904052816324498567
+      Anim_Corb_BoitArrosoir_spritesheet_8: -6475608536113313068
+      Anim_Corb_BoitArrosoir_spritesheet_9: -4243107567332005825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -137,6 +137,12 @@ public class TurnManager : MonoBehaviour
         // Met à jour l’affichage du jour
         textJour.text = "Jour " + jourActuel + "/7";
         
+        if (jourActuel == 3 && flowerHarras != null)
+        {
+            Debug.Log("Début jour 3 : lancement animation engrais");
+            flowerHarras.PlayFertilizerNextDayIntro();
+        }
+        
         if (uiMenuInteract != null && uiMenuInteract.harassmentFlowerHelp != null)
             uiMenuInteract.harassmentFlowerHelp.OnNewRealDay(jourActuel);
         

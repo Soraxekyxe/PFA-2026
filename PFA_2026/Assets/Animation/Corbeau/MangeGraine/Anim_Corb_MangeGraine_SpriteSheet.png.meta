@@ -1,0 +1,1165 @@
+fileFormatVersion: 2
+guid: a22659617c94af14099870b8ea82c9b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4901024440485412548
+    second: Anim_Corb_MangeGraine_SpriteSheet_0
+  - first:
+      213: -7020671644041220513
+    second: Anim_Corb_MangeGraine_SpriteSheet_1
+  - first:
+      213: 3066742227088803027
+    second: Anim_Corb_MangeGraine_SpriteSheet_2
+  - first:
+      213: -825233363959532402
+    second: Anim_Corb_MangeGraine_SpriteSheet_3
+  - first:
+      213: 2955014301301000612
+    second: Anim_Corb_MangeGraine_SpriteSheet_4
+  - first:
+      213: 4630279447317482348
+    second: Anim_Corb_MangeGraine_SpriteSheet_5
+  - first:
+      213: 3616794249888830043
+    second: Anim_Corb_MangeGraine_SpriteSheet_6
+  - first:
+      213: -2033386220694270355
+    second: Anim_Corb_MangeGraine_SpriteSheet_7
+  - first:
+      213: 3458172668328575396
+    second: Anim_Corb_MangeGraine_SpriteSheet_8
+  - first:
+      213: 8459211146207322556
+    second: Anim_Corb_MangeGraine_SpriteSheet_9
+  - first:
+      213: -3180829920559989577
+    second: Anim_Corb_MangeGraine_SpriteSheet_10
+  - first:
+      213: -1037657996194907919
+    second: Anim_Corb_MangeGraine_SpriteSheet_11
+  - first:
+      213: -6239004861532740479
+    second: Anim_Corb_MangeGraine_SpriteSheet_12
+  - first:
+      213: 4591308283174431156
+    second: Anim_Corb_MangeGraine_SpriteSheet_13
+  - first:
+      213: 6246885104697538303
+    second: Anim_Corb_MangeGraine_SpriteSheet_14
+  - first:
+      213: 439248921599077369
+    second: Anim_Corb_MangeGraine_SpriteSheet_15
+  - first:
+      213: -2270268673401963364
+    second: Anim_Corb_MangeGraine_SpriteSheet_16
+  - first:
+      213: -4169712649972509215
+    second: Anim_Corb_MangeGraine_SpriteSheet_17
+  - first:
+      213: 5285277511502365500
+    second: Anim_Corb_MangeGraine_SpriteSheet_18
+  - first:
+      213: -5531184669950481404
+    second: Anim_Corb_MangeGraine_SpriteSheet_19
+  - first:
+      213: -2254837495706680280
+    second: Anim_Corb_MangeGraine_SpriteSheet_20
+  - first:
+      213: -131754491420948016
+    second: Anim_Corb_MangeGraine_SpriteSheet_21
+  - first:
+      213: -4123344942707213626
+    second: Anim_Corb_MangeGraine_SpriteSheet_22
+  - first:
+      213: -7439053296141858843
+    second: Anim_Corb_MangeGraine_SpriteSheet_23
+  - first:
+      213: 3930270877905686459
+    second: Anim_Corb_MangeGraine_SpriteSheet_24
+  - first:
+      213: 8321311027433383216
+    second: Anim_Corb_MangeGraine_SpriteSheet_25
+  - first:
+      213: 854668492245665695
+    second: Anim_Corb_MangeGraine_SpriteSheet_26
+  - first:
+      213: -8101770342053575766
+    second: Anim_Corb_MangeGraine_SpriteSheet_27
+  - first:
+      213: 2568503123152368551
+    second: Anim_Corb_MangeGraine_SpriteSheet_28
+  - first:
+      213: -5212218891322234811
+    second: Anim_Corb_MangeGraine_SpriteSheet_29
+  - first:
+      213: -8280712195499947900
+    second: Anim_Corb_MangeGraine_SpriteSheet_30
+  - first:
+      213: -5748776298795432471
+    second: Anim_Corb_MangeGraine_SpriteSheet_31
+  - first:
+      213: -8201625749853295394
+    second: Anim_Corb_MangeGraine_SpriteSheet_32
+  - first:
+      213: -5434520861931015861
+    second: Anim_Corb_MangeGraine_SpriteSheet_33
+  - first:
+      213: -6485515896579594711
+    second: Anim_Corb_MangeGraine_SpriteSheet_34
+  - first:
+      213: -8387153005816487482
+    second: Anim_Corb_MangeGraine_SpriteSheet_35
+  - first:
+      213: 4728464211388964805
+    second: Anim_Corb_MangeGraine_SpriteSheet_36
+  - first:
+      213: 3791010270180776991
+    second: Anim_Corb_MangeGraine_SpriteSheet_37
+  - first:
+      213: -3259971293826610920
+    second: Anim_Corb_MangeGraine_SpriteSheet_38
+  - first:
+      213: -1718272390858382102
+    second: Anim_Corb_MangeGraine_SpriteSheet_39
+  - first:
+      213: -8874518713101849974
+    second: Anim_Corb_MangeGraine_SpriteSheet_40
+  - first:
+      213: -7702806818800837997
+    second: Anim_Corb_MangeGraine_SpriteSheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310c55fc301cfbb0800000000000000
+      internalID: -4901024440485412548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee34c3650919e90800000000000000
+      internalID: -7020671644041220513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d48157aec14f8a20800000000000000
+      internalID: 3066742227088803027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e843464b0ae2c84f0800000000000000
+      internalID: -825233363959532402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ce37c9d1520920800000000000000
+      internalID: 2955014301301000612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b862400ae024040800000000000000
+      internalID: 4630279447317482348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b529c4a253f613230800000000000000
+      internalID: 3616794249888830043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e08507106f7c3e0800000000000000
+      internalID: -2033386220694270355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a180bb38b5edff20800000000000000
+      internalID: 3458172668328575396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb166b9f7b7256570800000000000000
+      internalID: 8459211146207322556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc761e3a0c6bd3d0800000000000000
+      internalID: -3180829920559989577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8757adc8f7991f0800000000000000
+      internalID: -1037657996194907919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184e764522a9a69a0800000000000000
+      internalID: -6239004861532740479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9abe8ce8a97bf30800000000000000
+      internalID: 4591308283174431156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6fc22c7e461b650800000000000000
+      internalID: 6246885104697538303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbe2e32196881600800000000000000
+      internalID: 439248921599077369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cbd218ba26e70e0800000000000000
+      internalID: -2270268673401963364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59feadf643226c0800000000000000
+      internalID: -4169712649972509215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c338574e4e3195940800000000000000
+      internalID: 5285277511502365500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce38029d84d33b0800000000000000
+      internalID: -5531184669950481404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8240c2a8e3535b0e0800000000000000
+      internalID: -2254837495706680280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9ca45fcf9eb2ef0800000000000000
+      internalID: -131754491420948016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca788bfe9fe6c6c0800000000000000
+      internalID: -4123344942707213626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e70442e07c23c890800000000000000
+      internalID: -7439053296141858843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf81ac3a802b8630800000000000000
+      internalID: 3930270877905686459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03525bf8a4c3b7370800000000000000
+      internalID: 8321311027433383216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97850927746cdb00800000000000000
+      internalID: 854668492245665695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30a168ccab09f80800000000000000
+      internalID: -8101770342053575766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a37af36bf725a320800000000000000
+      internalID: 2568503123152368551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548682ba88a7aa7b0800000000000000
+      internalID: -5212218891322234811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4880bfb9120051d80800000000000000
+      internalID: -8280712195499947900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50d112a6e3830b0800000000000000
+      internalID: -5748776298795432471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc2c47a5d8fd2e80800000000000000
+      internalID: -8201625749853295394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f624c114b494b0800000000000000
+      internalID: -5434520861931015861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926693f57a1def5a0800000000000000
+      internalID: -6485515896579594711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1657b37c8da9b80800000000000000
+      internalID: -8387153005816487482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf9cf4d521ee9140800000000000000
+      internalID: 4728464211388964805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9bfd41cf5c9430800000000000000
+      internalID: 3791010270180776991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198e7d516142c2d0800000000000000
+      internalID: -3259971293826610920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Corb_MangeGraine_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae466834d587728e0800000000000000
+      internalID: -1718272390858382102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0cac6934a5bebe143b5593638777ef93
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Anim_Corb_MangeGraine_SpriteSheet_0: -4901024440485412548
+      Anim_Corb_MangeGraine_SpriteSheet_1: -7020671644041220513
+      Anim_Corb_MangeGraine_SpriteSheet_10: -3180829920559989577
+      Anim_Corb_MangeGraine_SpriteSheet_11: -1037657996194907919
+      Anim_Corb_MangeGraine_SpriteSheet_12: -6239004861532740479
+      Anim_Corb_MangeGraine_SpriteSheet_13: 4591308283174431156
+      Anim_Corb_MangeGraine_SpriteSheet_14: 6246885104697538303
+      Anim_Corb_MangeGraine_SpriteSheet_15: 439248921599077369
+      Anim_Corb_MangeGraine_SpriteSheet_16: -2270268673401963364
+      Anim_Corb_MangeGraine_SpriteSheet_17: -4169712649972509215
+      Anim_Corb_MangeGraine_SpriteSheet_18: 5285277511502365500
+      Anim_Corb_MangeGraine_SpriteSheet_19: -5531184669950481404
+      Anim_Corb_MangeGraine_SpriteSheet_2: 3066742227088803027
+      Anim_Corb_MangeGraine_SpriteSheet_20: -2254837495706680280
+      Anim_Corb_MangeGraine_SpriteSheet_21: -131754491420948016
+      Anim_Corb_MangeGraine_SpriteSheet_22: -4123344942707213626
+      Anim_Corb_MangeGraine_SpriteSheet_23: -7439053296141858843
+      Anim_Corb_MangeGraine_SpriteSheet_24: 3930270877905686459
+      Anim_Corb_MangeGraine_SpriteSheet_25: 8321311027433383216
+      Anim_Corb_MangeGraine_SpriteSheet_26: 854668492245665695
+      Anim_Corb_MangeGraine_SpriteSheet_27: -8101770342053575766
+      Anim_Corb_MangeGraine_SpriteSheet_28: 2568503123152368551
+      Anim_Corb_MangeGraine_SpriteSheet_29: -5212218891322234811
+      Anim_Corb_MangeGraine_SpriteSheet_3: -825233363959532402
+      Anim_Corb_MangeGraine_SpriteSheet_30: -8280712195499947900
+      Anim_Corb_MangeGraine_SpriteSheet_31: -5748776298795432471
+      Anim_Corb_MangeGraine_SpriteSheet_32: -8201625749853295394
+      Anim_Corb_MangeGraine_SpriteSheet_33: -5434520861931015861
+      Anim_Corb_MangeGraine_SpriteSheet_34: -6485515896579594711
+      Anim_Corb_MangeGraine_SpriteSheet_35: -8387153005816487482
+      Anim_Corb_MangeGraine_SpriteSheet_36: 4728464211388964805
+      Anim_Corb_MangeGraine_SpriteSheet_37: 3791010270180776991
+      Anim_Corb_MangeGraine_SpriteSheet_38: -3259971293826610920
+      Anim_Corb_MangeGraine_SpriteSheet_39: -1718272390858382102
+      Anim_Corb_MangeGraine_SpriteSheet_4: 2955014301301000612
+      Anim_Corb_MangeGraine_SpriteSheet_5: 4630279447317482348
+      Anim_Corb_MangeGraine_SpriteSheet_6: 3616794249888830043
+      Anim_Corb_MangeGraine_SpriteSheet_7: -2033386220694270355
+      Anim_Corb_MangeGraine_SpriteSheet_8: 3458172668328575396
+      Anim_Corb_MangeGraine_SpriteSheet_9: 8459211146207322556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

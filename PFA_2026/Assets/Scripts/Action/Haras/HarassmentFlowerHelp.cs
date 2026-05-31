@@ -9,6 +9,8 @@ public class HarassmentFlowerHelp : MonoBehaviour
     private int lastRealDay = 1;
     
     private bool hasDoneAtLeastOneAction = false;
+    
+    private bool fertilizerIntroPlayed = false;
 
     private struct HelpStep
     {
@@ -49,11 +51,7 @@ public class HarassmentFlowerHelp : MonoBehaviour
         new HelpStep(HarassmentHelpActionType.AddMagicPowder, 7, HarassementState.HarassmentVisualState.FullyGrownFlower),
         new HelpStep(HarassmentHelpActionType.AddLadybugs, 7, HarassementState.HarassmentVisualState.FlowerWithLadybug)
     };
-
-//    private void Start()
-//    {
-//        UpdateVisualAtStartOfDay();
-//    }
+    
 
     public bool IsFinished()
     {
@@ -103,6 +101,14 @@ public class HarassmentFlowerHelp : MonoBehaviour
 
     public void OnNewRealDay(int currentDay)
     {
+        Debug.Log("OnNewRealDay appelé : jour " + currentDay);
+        
+        if (currentDay == 3 && !fertilizerIntroPlayed)
+        {
+            fertilizerIntroPlayed = true;
+            flowerHarras.PlayFertilizerNextDayIntro();
+        }
+        
         if (currentDay == lastRealDay)
             return;
 
@@ -114,6 +120,11 @@ public class HarassmentFlowerHelp : MonoBehaviour
         playableHelpDay = steps[progressIndex].unlockDay;
 
         UpdateVisualAtStartOfDay();
+
+        if (currentDay == 3 && flowerHarras != null)
+        {
+            flowerHarras.PlayFertilizerNextDayIntro();
+        }
     }
 
     public void UpdateVisualAtStartOfDay()

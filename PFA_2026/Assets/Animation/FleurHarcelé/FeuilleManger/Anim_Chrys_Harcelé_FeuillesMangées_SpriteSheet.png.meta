@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 25fe0a98cd7dea8488dd09bb91fa6862
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1704131359629737183
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_0"
+  - first:
+      213: 3705419440938237085
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_1"
+  - first:
+      213: 9196822682605305140
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_2"
+  - first:
+      213: -5833540445864408170
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_3"
+  - first:
+      213: 6764712038499044888
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_4"
+  - first:
+      213: 8111781324820423072
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_5"
+  - first:
+      213: 906007795661902887
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_6"
+  - first:
+      213: -5874719255874928230
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_7"
+  - first:
+      213: -3912638353235318487
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_8"
+  - first:
+      213: 8066052669338338515
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_9"
+  - first:
+      213: -47556404609601998
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_10"
+  - first:
+      213: 104689166783358426
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_11"
+  - first:
+      213: 2168223608718919373
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_12"
+  - first:
+      213: 529535536503668876
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_13"
+  - first:
+      213: -4323070374272286031
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_14"
+  - first:
+      213: -8061812539706485159
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_15"
+  - first:
+      213: 2028575519951110850
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_16"
+  - first:
+      213: 7543966718664793122
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_17"
+  - first:
+      213: -7284809102280255639
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_18"
+  - first:
+      213: -3781932355490776000
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_19"
+  - first:
+      213: -2277567646029172856
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_20"
+  - first:
+      213: -7835413375524907529
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_21"
+  - first:
+      213: 5607289255524731067
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_22"
+  - first:
+      213: -4102620623537391138
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_23"
+  - first:
+      213: 5701002926828674651
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_24"
+  - first:
+      213: 8820442792502609624
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_25"
+  - first:
+      213: -9161732066566235114
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_26"
+  - first:
+      213: -1652123951267193548
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_27"
+  - first:
+      213: 6804224712908937816
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_28"
+  - first:
+      213: -756431716804161963
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_29"
+  - first:
+      213: 7007862567290512633
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_30"
+  - first:
+      213: -307689827759907267
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_31"
+  - first:
+      213: 5241770281169565370
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_32"
+  - first:
+      213: -1205975216783797475
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_33"
+  - first:
+      213: -8750122022612441294
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_34"
+  - first:
+      213: 9139486504352465112
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_35"
+  - first:
+      213: 4063058617742698530
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_36"
+  - first:
+      213: 5319373236752012064
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_37"
+  - first:
+      213: -2059587093082477982
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_38"
+  - first:
+      213: 3403874995735291696
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_39"
+  - first:
+      213: -5782211528184905793
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_40"
+  - first:
+      213: 4723842590511027955
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_41"
+  - first:
+      213: -8421367996113135101
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_42"
+  - first:
+      213: 389765734151562316
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_43"
+  - first:
+      213: -5587994883621064542
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_44"
+  - first:
+      213: 6754036122323611342
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_45"
+  - first:
+      213: -5897944441708586121
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_46"
+  - first:
+      213: -881621925507757425
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_47"
+  - first:
+      213: -8503676805981491989
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_48"
+  - first:
+      213: 1062830933942190039
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_49"
+  - first:
+      213: -1534630416655006275
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_50"
+  - first:
+      213: -993659650350042266
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_51"
+  - first:
+      213: 5622597607128867351
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_52"
+  - first:
+      213: -2816494610009788291
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_53"
+  - first:
+      213: -1924750448206613981
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_54"
+  - first:
+      213: -5884444004567055334
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_55"
+  - first:
+      213: -727761148549434711
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_56"
+  - first:
+      213: 1981832017428379368
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_57"
+  - first:
+      213: 3630449816399150222
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_58"
+  - first:
+      213: -7925222807235996017
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_59"
+  - first:
+      213: -4212244198596487319
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_60"
+  - first:
+      213: 5590337637895709261
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_61"
+  - first:
+      213: -8060212602074475137
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_62"
+  - first:
+      213: 507695155506044600
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_63"
+  - first:
+      213: -2871120682170382317
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_64"
+  - first:
+      213: -8878911700892486185
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_65"
+  - first:
+      213: 6052849326110761510
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_66"
+  - first:
+      213: -4193165712547897931
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_67"
+  - first:
+      213: -2126233652078175609
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_68"
+  - first:
+      213: -4110315332816592424
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_69"
+  - first:
+      213: -183548178917214863
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_70"
+  - first:
+      213: -995871833784219064
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_71"
+  - first:
+      213: -2390866928670742490
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_72"
+  - first:
+      213: 2000529829385532078
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_73"
+  - first:
+      213: -7702275748113317660
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_74"
+  - first:
+      213: -4575307686217031201
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_75"
+  - first:
+      213: -8021841854014127729
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_76"
+  - first:
+      213: -6670164227872198051
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_77"
+  - first:
+      213: -7591438034052323779
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_78"
+  - first:
+      213: -4095282331454513915
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_79"
+  - first:
+      213: -3425573482306147377
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_80"
+  - first:
+      213: 3943642336659623959
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_81"
+  - first:
+      213: -5444452013494360418
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_82"
+  - first:
+      213: 6718495320610176869
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_83"
+  - first:
+      213: 5439273297866438612
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_84"
+  - first:
+      213: 4868161891709966288
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_85"
+  - first:
+      213: 6983417521355372941
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_86"
+  - first:
+      213: 6425029905750445379
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_87"
+  - first:
+      213: 7352630050597165146
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_88"
+  - first:
+      213: -7817928364753449184
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_89"
+  - first:
+      213: 8090128779025266271
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_90"
+  - first:
+      213: -6937253706801080877
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_91"
+  - first:
+      213: 2034122581768953819
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_92"
+  - first:
+      213: 6289526420505501342
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_93"
+  - first:
+      213: -128052655708474651
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_94"
+  - first:
+      213: 5376995918425286148
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_95"
+  - first:
+      213: -7851007731900269818
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_96"
+  - first:
+      213: -632311958275263742
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_97"
+  - first:
+      213: 103620461300833881
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_98"
+  - first:
+      213: -6921212142964689494
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_99"
+  - first:
+      213: -1989477598671454543
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_100"
+  - first:
+      213: -9077332199230630349
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_101"
+  - first:
+      213: -3270483501537215035
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_102"
+  - first:
+      213: 6244796197407909830
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_103"
+  - first:
+      213: 7200602835411542000
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_104"
+  - first:
+      213: -5115340491975611112
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_105"
+  - first:
+      213: 5877538914118675802
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_106"
+  - first:
+      213: -4090068212812814701
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_107"
+  - first:
+      213: 3147646092806290497
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_108"
+  - first:
+      213: -6596452660151146398
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_109"
+  - first:
+      213: 5564080294269558745
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_110"
+  - first:
+      213: 6429479307823122269
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_111"
+  - first:
+      213: -8104876324174975350
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_112"
+  - first:
+      213: 3336789257048543286
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_113"
+  - first:
+      213: -5183542752178325180
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_114"
+  - first:
+      213: 398356565455943695
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_115"
+  - first:
+      213: 1475735929776156250
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_116"
+  - first:
+      213: 3044875744141962999
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_117"
+  - first:
+      213: 785694308168979128
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_118"
+  - first:
+      213: 7716237876539417009
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_119"
+  - first:
+      213: -937326505631693565
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_120"
+  - first:
+      213: -1116623726570394091
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_121"
+  - first:
+      213: 6471873495881041616
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_122"
+  - first:
+      213: -1294595902882594752
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_123"
+  - first:
+      213: 7727603107179300532
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_124"
+  - first:
+      213: -4823320319105860799
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_125"
+  - first:
+      213: 8847704794599989287
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_126"
+  - first:
+      213: 2689391464525691041
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_127"
+  - first:
+      213: -3642380225074284894
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_128"
+  - first:
+      213: -5208387250522893230
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_129"
+  - first:
+      213: 9064024524757666788
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_130"
+  - first:
+      213: 4652647731477940725
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_131"
+  - first:
+      213: 2254063487258094298
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_132"
+  - first:
+      213: -970245850132079457
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_133"
+  - first:
+      213: 6305279053773557765
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_134"
+  - first:
+      213: -1150373788152830855
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_135"
+  - first:
+      213: 5976153672697101252
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_136"
+  - first:
+      213: -931555330365670471
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_137"
+  - first:
+      213: -7711364588729397616
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_138"
+  - first:
+      213: -3402783616611536749
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_139"
+  - first:
+      213: 657064496988456901
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_140"
+  - first:
+      213: -248022115956457323
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_141"
+  - first:
+      213: -1657781394532489366
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_142"
+  - first:
+      213: -1910905332504596160
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_143"
+  - first:
+      213: 3291693260944681878
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_144"
+  - first:
+      213: -5451903542442894609
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_145"
+  - first:
+      213: 3458329323779076028
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_146"
+  - first:
+      213: 7077372392268728581
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_147"
+  - first:
+      213: -4498817485306863431
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_148"
+  - first:
+      213: -2064540875297685495
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_149"
+  - first:
+      213: -7908183882390059062
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_150"
+  - first:
+      213: 5554634297073201670
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_151"
+  - first:
+      213: 4647407110082088681
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_152"
+  - first:
+      213: -5417102563170320236
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_153"
+  - first:
+      213: -7259872448067247658
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_154"
+  - first:
+      213: -8613099169780260448
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_155"
+  - first:
+      213: 601016717525129089
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_156"
+  - first:
+      213: -6495576913846728624
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_157"
+  - first:
+      213: 4607439273344529576
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_158"
+  - first:
+      213: 4346493171716581117
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_159"
+  - first:
+      213: -8360332876634099814
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_160"
+  - first:
+      213: -7665941403489581818
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_161"
+  - first:
+      213: -276315304284482773
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_162"
+  - first:
+      213: 206442908230510206
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_163"
+  - first:
+      213: -6834137036906224208
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_164"
+  - first:
+      213: 7979606492676659253
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_165"
+  - first:
+      213: 8471584938916806006
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_166"
+  - first:
+      213: 5076793502105583797
+    second: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_167"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7555517a46a710800000000000000
+      internalID: 1704131359629737183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_1"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c33f0795b4c6330800000000000000
+      internalID: 3705419440938237085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_2"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43db1f2c08da1af70800000000000000
+      internalID: 9196822682605305140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_3"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bc0653fd91b0fa0800000000000000
+      internalID: -5833540445864408170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_4"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4b8e02c511ed50800000000000000
+      internalID: 6764712038499044888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_5"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 6487
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1a1990326d29070800000000000000
+      internalID: 8111781324820423072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72499283a49c29c00800000000000000
+      internalID: 906007795661902887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_7"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918d6e56fdc87ea0800000000000000
+      internalID: -5874719255874928230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_8"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e6d4d52483b9c0800000000000000
+      internalID: -3912638353235318487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_9"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4c08fba2060ff60800000000000000
+      internalID: 8066052669338338515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_10"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2374b3bb075ff0800000000000000
+      internalID: -47556404609601998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_11"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 5406
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad524f51e3ee37100800000000000000
+      internalID: 104689166783358426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc68e4762e3171e10800000000000000
+      internalID: 2168223608718919373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_13"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804f3dc3c9495700800000000000000
+      internalID: 529535536503668876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_14"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b24c72366e5104c0800000000000000
+      internalID: -4323070374272286031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_15"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956510d5530be1090800000000000000
+      internalID: -8061812539706485159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_16"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24db200b2f62c10800000000000000
+      internalID: 2028575519951110850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_17"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 4325
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c526fc2cd81b860800000000000000
+      internalID: 7543966718664793122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679d02d7b827ea90800000000000000
+      internalID: -7284809102280255639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_19"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c7a6a6f80e38bc0800000000000000
+      internalID: -3781932355490776000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_20"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f22820b447460e0800000000000000
+      internalID: -2277567646029172856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_21"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f55e7b7c05034390800000000000000
+      internalID: -7835413375524907529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_22"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb88a648ed711dd40800000000000000
+      internalID: 5607289255524731067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_23"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 3244
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9bcdd87409017c0800000000000000
+      internalID: -4102620623537391138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed51de4f70e1f40800000000000000
+      internalID: 5701002926828674651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_25"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c5c0bcf1886a70800000000000000
+      internalID: 8820442792502609624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_26"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c9305f93dfad080800000000000000
+      internalID: -9161732066566235114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_27"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dddc7050a7219e0800000000000000
+      internalID: -1652123951267193548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_28"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a1fd873567d6e50800000000000000
+      internalID: 6804224712908937816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_29"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 2163
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8c0f7c5d9085f0800000000000000
+      internalID: -756431716804161963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ab1e20ede04160800000000000000
+      internalID: 7007862567290512633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_31"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9e5b5bbddabbf0800000000000000
+      internalID: -307689827759907267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_32"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6bf437c428eb840800000000000000
+      internalID: 5241770281169565370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_33"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135dab0ee3834fe0800000000000000
+      internalID: -1205975216783797475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_34"
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ecdc6162519680800000000000000
+      internalID: -8750122022612441294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_35"
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 1082
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0c7697d8af5de70800000000000000
+      internalID: 9139486504352465112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228a42c2942e26830800000000000000
+      internalID: 4063058617742698530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_37"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d25c86c532d940800000000000000
+      internalID: 5319373236752012064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_38"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae6d47370ea63e0800000000000000
+      internalID: -2059587093082477982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_39"
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1
+        width: 1081
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e2ac264efc3f20800000000000000
+      internalID: 3403874995735291696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b98a38d11c5fe245b8f8c037f8e786a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":1081.0,"y":1081.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_0": 1704131359629737183
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_1": 3705419440938237085
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_10": -47556404609601998
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_11": 104689166783358426
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_12": 2168223608718919373
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_13": 529535536503668876
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_14": -4323070374272286031
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_15": -8061812539706485159
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_16": 2028575519951110850
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_17": 7543966718664793122
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_18": -7284809102280255639
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_19": -3781932355490776000
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_2": 9196822682605305140
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_20": -2277567646029172856
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_21": -7835413375524907529
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_22": 5607289255524731067
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_23": -4102620623537391138
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_24": 5701002926828674651
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_25": 8820442792502609624
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_26": -9161732066566235114
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_27": -1652123951267193548
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_28": 6804224712908937816
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_29": -756431716804161963
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_3": -5833540445864408170
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_30": 7007862567290512633
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_31": -307689827759907267
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_32": 5241770281169565370
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_33": -1205975216783797475
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_34": -8750122022612441294
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_35": 9139486504352465112
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_36": 4063058617742698530
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_37": 5319373236752012064
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_38": -2059587093082477982
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_39": 3403874995735291696
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_4": 6764712038499044888
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_5": 8111781324820423072
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_6": 906007795661902887
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_7": -5874719255874928230
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_8": -3912638353235318487
+      "Anim_Chrys_Harcel\xE9_FeuillesMang\xE9es_SpriteSheet_9": 8066052669338338515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
