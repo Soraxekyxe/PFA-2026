@@ -14,6 +14,18 @@ public class HarassmentFlowerHelp : MonoBehaviour
     private bool hasDoneAtLeastOneAction = false;
     
     private bool fertilizerIntroPlayed = false;
+    
+    private bool coverSoilDone = false;
+    private int coverSoilDay = -1;
+    private bool coverSoilIntroPlayed = false;
+    
+    private bool waterDone = false;
+    private int waterDay = -1;
+    private bool waterIntroPlayed = false;
+    
+    private bool reflectivePanelsDone = false;
+    private int reflectivePanelsDay = -1;
+    private bool reflectivePanelsIntroPlayed = false;
 
     private struct HelpStep
     {
@@ -100,10 +112,28 @@ public class HarassmentFlowerHelp : MonoBehaviour
             fertilizerDone = true;
             fertilizerDay = currentDay;
         }
+        
+        if (actionType == HarassmentHelpActionType.CoverSoil)
+        {
+            coverSoilDone = true;
+            coverSoilDay = currentDay;
+        }
+        
+        if (actionType == HarassmentHelpActionType.Water)
+        {
+            waterDone = true;
+            waterDay = currentDay;
+        }
 
         if (flowerHarras != null)
             flowerHarras.UpdateHarassmentVisual(step.resultState);
         hasDoneAtLeastOneAction = true;
+        
+        if (actionType == HarassmentHelpActionType.AddReflectivePanels)
+        {
+            reflectivePanelsDone = true;
+            reflectivePanelsDay = currentDay;
+        }
 
         return true;
     }
@@ -121,6 +151,36 @@ public class HarassmentFlowerHelp : MonoBehaviour
 
             if (flowerHarras != null)
                 flowerHarras.PlayFertilizerNextDayIntro();
+        }
+        
+        if (coverSoilDone &&
+            currentDay == coverSoilDay + 1 &&
+            !coverSoilIntroPlayed)
+        {
+            coverSoilIntroPlayed = true;
+
+            if (flowerHarras != null)
+                flowerHarras.PlayCoverSoilNextDayIntro();
+        }
+        
+        if (waterDone &&
+            currentDay == waterDay + 1 &&
+            !waterIntroPlayed)
+        {
+            waterIntroPlayed = true;
+
+            if (flowerHarras != null)
+                flowerHarras.PlayWaterNextDayIntro();
+        }
+        
+        if (reflectivePanelsDone &&
+            currentDay == reflectivePanelsDay + 1 &&
+            !reflectivePanelsIntroPlayed)
+        {
+            reflectivePanelsIntroPlayed = true;
+
+            if (flowerHarras != null)
+                flowerHarras.PlayReflectivePanelsNextDayIntro();
         }
 
         if (currentDay == lastRealDay)

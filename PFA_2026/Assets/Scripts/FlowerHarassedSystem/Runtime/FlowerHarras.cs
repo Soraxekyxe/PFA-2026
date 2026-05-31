@@ -31,6 +31,17 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
     [Header("Animation lendemain engrais")]
     [SerializeField] private FixedImageIntro fertilizerNextDayIntro;
     
+    [Header("Animation lendemain terre recouverte")]
+    [SerializeField] private DoubleImageIntro coverSoilNextDayIntro;
+    
+    [Header("Animation lendemain eau")]
+    [SerializeField] private SingleFlyIntro waterNextDayIntro;
+    
+    [SerializeField] private ShadowFlowerAnimation shadowFlowerAnimation;
+    
+    [Header("Animation lendemain panneaux réfléchissants")]
+    [SerializeField] private FixedThenFlyIntro reflectivePanelsNextDayIntro;
+    
     
 
     private Vector2 originalSize;
@@ -56,6 +67,44 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
             actionAvailableIcon.SetActive(false);
         }
         
+        if (shadowFlowerAnimation != null)
+            shadowFlowerAnimation.gameObject.SetActive(false);
+        
+    }
+    
+    public void PlayCoverSoilNextDayIntro()
+    {
+        if (coverSoilNextDayIntro == null)
+        {
+            Debug.LogError("coverSoilNextDayIntro n'est pas assigné !");
+            return;
+        }
+
+        coverSoilNextDayIntro.PlayOnce();
+    }
+    
+    public void PlayReflectivePanelsNextDayIntro()
+    {
+        if (reflectivePanelsNextDayIntro == null)
+        {
+            Debug.LogError("reflectivePanelsNextDayIntro n'est pas assigné !");
+            return;
+        }
+
+        reflectivePanelsNextDayIntro.PlayOnce();
+    }
+    
+    public void PlayWaterNextDayIntro()
+    {
+        Debug.Log("Animation lendemain Water demandée");
+
+        if (waterNextDayIntro == null)
+        {
+            Debug.LogError("waterNextDayIntro n'est pas assigné !");
+            return;
+        }
+
+        waterNextDayIntro.PlayOnce();
     }
     
     void Start()
@@ -222,6 +271,13 @@ public class FlowerHarras : MonoBehaviour, IPointerDownHandler
 
             harassmentAnimator.enabled = true;
             harassmentAnimator.SetInteger("Grow", GetHarassmentGrowValue(state));
+        }
+        
+        if (shadowFlowerAnimation != null)
+        {
+            shadowFlowerAnimation.gameObject.SetActive(
+                state == HarassementState.HarassmentVisualState.ShadowFlower
+            );
         }
     }
 
