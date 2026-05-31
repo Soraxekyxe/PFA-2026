@@ -18,6 +18,9 @@ public class FixedImageIntro : MonoBehaviour
 
     [Header("Mouvement départ")]
     [SerializeField] private Vector2 flyOffset = new Vector2(800f, 500f);
+    
+    [Header("Taille")]
+    [SerializeField] private Vector2 imageSize = new Vector2(250f, 250f);
 
     private Image image;
     private RectTransform rectTransform;
@@ -38,6 +41,8 @@ public class FixedImageIntro : MonoBehaviour
         Debug.Log("FixedImageIntro PlayOnce appelé sur : " + gameObject.name);
 
         hasPlayed = true;
+
+        gameObject.SetActive(true); // IMPORTANT : avant StartCoroutine
 
         StopAllCoroutines();
         StartCoroutine(PlayRoutine());
@@ -60,7 +65,7 @@ public class FixedImageIntro : MonoBehaviour
 
         rectTransform.anchoredPosition = startPosition;
         rectTransform.localScale = Vector3.one;
-        rectTransform.sizeDelta = new Vector2(250f, 250f);
+        rectTransform.sizeDelta = imageSize;
 
         if (idleSprite != null)
             image.sprite = idleSprite;

@@ -137,12 +137,6 @@ public class TurnManager : MonoBehaviour
         // Met à jour l’affichage du jour
         textJour.text = "Jour " + jourActuel + "/7";
         
-        if (jourActuel == 3 && flowerHarras != null)
-        {
-            Debug.Log("Début jour 3 : lancement animation engrais");
-            flowerHarras.PlayFertilizerNextDayIntro();
-        }
-        
         if (uiMenuInteract != null && uiMenuInteract.harassmentFlowerHelp != null)
             uiMenuInteract.harassmentFlowerHelp.OnNewRealDay(jourActuel);
         
@@ -313,14 +307,15 @@ public class TurnManager : MonoBehaviour
     /// <returns>La fleur actuelle, ou null si aucune fleur n’est trouvée.</returns>
     public Flower GetCurrentFlower()
     {
-        // Vérifie que l’ordre du jour est valide
         if (ordreDuJour == null || ordreDuJour.Count == 0)
             return null;
 
-        // Récupère l’index du joueur actuel
+        if (indexTourDansLeJour < 0 ||
+            indexTourDansLeJour >= ordreDuJour.Count)
+            return null;
+
         int joueurIndex = ordreDuJour[indexTourDansLeJour];
 
-        // Vérifie que l’index est valide
         if (joueurIndex < 0 || joueurIndex >= flowerSlots.Length)
             return null;
 

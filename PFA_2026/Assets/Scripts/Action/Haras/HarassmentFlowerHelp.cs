@@ -3,6 +3,9 @@ using UnityEngine;
 public class HarassmentFlowerHelp : MonoBehaviour
 {
     [SerializeField] private FlowerHarras flowerHarras;
+    
+    private bool fertilizerDone = false;
+    private int fertilizerDay = -1;
 
     private int progressIndex = 0;
     private int playableHelpDay = 1;
@@ -91,6 +94,12 @@ public class HarassmentFlowerHelp : MonoBehaviour
         HelpStep step = steps[progressIndex];
 
         progressIndex++;
+        
+        if (actionType == HarassmentHelpActionType.AddFertilizer)
+        {
+            fertilizerDone = true;
+            fertilizerDay = currentDay;
+        }
 
         if (flowerHarras != null)
             flowerHarras.UpdateHarassmentVisual(step.resultState);
@@ -102,13 +111,18 @@ public class HarassmentFlowerHelp : MonoBehaviour
     public void OnNewRealDay(int currentDay)
     {
         Debug.Log("OnNewRealDay appelé : jour " + currentDay);
-        
-        if (currentDay == 3 && !fertilizerIntroPlayed)
+
+        // lendemain de l'engrais
+        if (fertilizerDone &&
+            currentDay == fertilizerDay + 1 &&
+            !fertilizerIntroPlayed)
         {
             fertilizerIntroPlayed = true;
-            flowerHarras.PlayFertilizerNextDayIntro();
+
+            if (flowerHarras != null)
+                flowerHarras.PlayFertilizerNextDayIntro();
         }
-        
+
         if (currentDay == lastRealDay)
             return;
 
@@ -120,11 +134,7 @@ public class HarassmentFlowerHelp : MonoBehaviour
         playableHelpDay = steps[progressIndex].unlockDay;
 
         UpdateVisualAtStartOfDay();
-
-        if (currentDay == 3 && flowerHarras != null)
-        {
-            flowerHarras.PlayFertilizerNextDayIntro();
-        }
+        
     }
 
     public void UpdateVisualAtStartOfDay()
