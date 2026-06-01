@@ -43,4 +43,4 @@ MonoBehaviour:
     sprite: {fileID: -6164018797961862705, guid: 000c8aaf686779d4591f2134ad0789fb, type: 3}
   turnIcon: {fileID: 4727135180296798984, guid: 39fa6a78150bd984e9c3d59f73e5711c, type: 3}
   animatorController: {fileID: 9100000, guid: 1bddbb91cfc99884cba93493393c8b2c, type: 2}
-  animationSizeMultiplier: 1.5
+  animationSizeMultiplier: 1.75
