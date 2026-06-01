@@ -44,6 +44,7 @@ public class FixedThenFlyIntro : MonoBehaviour
 
     private IEnumerator PlayRoutine()
     {
+        SoundManagerY.Instance.PlaySFX("CrowEating");
         transform.SetAsLastSibling();
 
         image.gameObject.SetActive(true);

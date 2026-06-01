@@ -33,6 +33,7 @@ public class CrowFixedIntro : MonoBehaviour
     private void Start()
     {
         StartCoroutine(PlayCrowIntro());
+        SoundManagerY.Instance.PlaySFX("CrowchewingFlower");
     }
 
     private IEnumerator PlayCrowIntro()

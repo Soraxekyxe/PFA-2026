@@ -48,6 +48,7 @@ public class DoubleImageIntro : MonoBehaviour
 
     private IEnumerator PlayRoutine()
     {
+        SoundManagerY.Instance.PlaySFX("CrowQUIBOIT");
         transform.SetAsLastSibling();
 
         firstImage.gameObject.SetActive(true);
@@ -73,7 +74,7 @@ public class DoubleImageIntro : MonoBehaviour
         firstImage.sprite = firstFlySprite;
         secondImage.sprite = secondFlySprite;
 
-// l'image 1 disparaît au moment du départ
+        // l'image 1 disparaît au moment du départ
         firstImage.gameObject.SetActive(false);
 
         Vector2 secondFlyStart = secondImage.rectTransform.anchoredPosition;

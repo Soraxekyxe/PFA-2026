@@ -50,6 +50,7 @@ public class FixedImageIntro : MonoBehaviour
 
     private IEnumerator PlayRoutine()
     {
+        SoundManagerY.Instance.PlaySFX("CrowEating");
         gameObject.SetActive(true);
         transform.SetAsLastSibling();
 

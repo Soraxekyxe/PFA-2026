@@ -38,6 +38,7 @@ public class SingleFlyIntro : MonoBehaviour
 
     private IEnumerator PlayRoutine()
     {
+        SoundManagerY.Instance.PlaySFX("CrowFlying");
         transform.SetAsLastSibling();
 
         image.gameObject.SetActive(true);
