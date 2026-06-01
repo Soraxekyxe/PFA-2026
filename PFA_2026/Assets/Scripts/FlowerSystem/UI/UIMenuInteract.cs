@@ -112,12 +112,12 @@ public class UIMenuInteract : MonoBehaviour
     /// selon le nombre de joueurs
     public void ActionPointPerPlayer()
     {
-        if (gameDataManager.numberOfPlayers == 1) maxActionPoint = 5;
-        else if (gameDataManager.numberOfPlayers == 2) maxActionPoint = 7;
+        if (gameDataManager.numberOfPlayers == 1) maxActionPoint = 3;
+        else if (gameDataManager.numberOfPlayers == 2) maxActionPoint = 6;
         else if (gameDataManager.numberOfPlayers == 3) maxActionPoint = 9;
         else if (gameDataManager.numberOfPlayers == 4) maxActionPoint = 12;
         else if (gameDataManager.numberOfPlayers == 5) maxActionPoint = 15;
-        else if (gameDataManager.numberOfPlayers == 6) maxActionPoint = 17;
+        else if (gameDataManager.numberOfPlayers == 6) maxActionPoint = 18;
         else maxActionPoint = 5;
 
         UpdateActionPoint();
